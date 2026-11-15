@@ -9,6 +9,7 @@ const { TsconfigPathsPlugin } = require("tsconfig-paths-webpack-plugin");
 const configurator = require("./config/config");
 const manifest = require("./webpack/manifest");
 const AngularCheckPlugin = require("./webpack/angular-check");
+const bytewardBranding = require("./webpack/byteward-branding");
 
 module.exports.getEnv = function getEnv(params) {
   const ENV = params.env || (process.env.ENV = process.env.NODE_ENV);
@@ -206,7 +207,12 @@ module.exports.buildConfig = function buildConfig(params) {
           transform: manifest.transform(browser),
         },
         { from: path.resolve(__dirname, "src/managed_schema.json"), to: "managed_schema.json" },
-        { from: path.resolve(__dirname, "src/_locales"), to: "_locales" },
+        {
+          from: path.resolve(__dirname, "src/_locales"),
+          to: "_locales",
+          // Byteward: brand the messages at build time, leaving the sources as upstream has them.
+          transform: bytewardBranding.transformLocaleFile,
+        },
         // For beta builds (CHANNEL=beta), *_beta.png variants overwrite their default
         // siblings so the manifest/action/runtime icon paths resolve to beta icons
         // without any manifest or code changes. Non-beta builds filter *_beta.png

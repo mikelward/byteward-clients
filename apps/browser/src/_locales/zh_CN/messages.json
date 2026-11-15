@@ -1,20 +1,20 @@
 {
   "appName": {
-    "message": "Byteward"
+    "message": "Bitwarden"
   },
   "appLogoLabel": {
-    "message": "Byteward Logo"
+    "message": "Bitwarden Logo"
   },
   "extName": {
-    "message": "Byteward Password Manager",
+    "message": "Bitwarden Password Manager",
     "description": "Extension name, MUST be less than 40 characters (Safari restriction)"
   },
   "extNameBeta": {
-    "message": "Byteward Password Manager Beta",
+    "message": "Bitwarden Password Manager Beta",
     "description": "Extension name for the beta channel, MUST be less than 40 characters (Safari restriction)"
   },
   "extDesc": {
-    "message": "无论是在家中、工作中还是在旅途中，Byteward 都可以轻松地保护您的所有密码、通行密钥和敏感信息。",
+    "message": "无论是在家中、工作中还是在旅途中，Bitwarden 都可以轻松地保护您的所有密码、通行密钥和敏感信息。",
     "description": "Extension description, MUST be less than 112 characters (Safari restriction)"
   },
   "loginOrCreateNewAccount": {
@@ -336,7 +336,7 @@
     "message": "前往浏览器扩展商店吗？"
   },
   "continueToBrowserExtensionStoreDesc": {
-    "message": "帮助他人了解 Byteward 是否适合他们。立即访问浏览器扩展商店并留下评分。"
+    "message": "帮助他人了解 Bitwarden 是否适合他们。立即访问浏览器扩展商店并留下评分。"
   },
   "changeMasterPasswordOnWebConfirmation": {
     "message": "您可以在 Bitwarden 网页 App 上更改您的主密码。"
@@ -356,7 +356,7 @@
     "message": "注销"
   },
   "aboutBitwarden": {
-    "message": "关于 Byteward"
+    "message": "关于 Bitwarden"
   },
   "about": {
     "message": "关于"
@@ -1081,10 +1081,10 @@
     "message": "无缝两步验证"
   },
   "totpHelper": {
-    "message": "Byteward 可以存储并填充两步验证码。复制并粘贴密钥到此字段中。"
+    "message": "Bitwarden 可以存储并填充两步验证码。复制并粘贴密钥到此字段中。"
   },
   "totpHelperWithCapture": {
-    "message": "Byteward 可以存储并填充两步验证码。选择相机图标来拍摄此网站的验证器二维码，或复制并粘贴密钥到此字段中。"
+    "message": "Bitwarden 可以存储并填充两步验证码。选择相机图标来拍摄此网站的验证器二维码，或复制并粘贴密钥到此字段中。"
   },
   "learnMoreAboutAuthenticators": {
     "message": "进一步了解验证器"
@@ -1333,7 +1333,7 @@
     "message": "跳转到设置"
   },
   "notificationAddDesc": {
-    "message": "希望 Byteward 为您保存这个密码吗？"
+    "message": "希望 Bitwarden 为您保存这个密码吗？"
   },
   "notificationAddSave": {
     "message": "保存"
@@ -1369,11 +1369,11 @@
     }
   },
   "notificationLoginSaveConfirmation": {
-    "message": "已保存到 Byteward。",
+    "message": "已保存到 Bitwarden。",
     "description": "Shown to user after item is saved."
   },
   "notificationLoginUpdatedConfirmation": {
-    "message": "已在 Byteward 中更新。",
+    "message": "已在 Bitwarden 中更新。",
     "description": "Shown to user after item is updated."
   },
   "selectItemAriaLabel": {
@@ -1471,13 +1471,13 @@
     "message": "询问保存新的通行密钥或使用存储在密码库中的通行密钥登录。适用于所有已登录的账户。"
   },
   "notificationChangeDesc": {
-    "message": "要在 Byteward 中更新此密码吗？"
+    "message": "要在 Bitwarden 中更新此密码吗？"
   },
   "notificationChangeSave": {
     "message": "更新"
   },
   "notificationUnlockDesc": {
-    "message": "解锁 Byteward 密码库以完成自动填充请求。"
+    "message": "解锁 Bitwarden 密码库以完成自动填充请求。"
   },
   "notificationUnlock": {
     "message": "解锁​​​​"
@@ -1786,7 +1786,7 @@
     "message": "此密码将用于导出和导入此文件"
   },
   "accountRestrictedOptionDescription": {
-    "message": "使用衍生自您账户用户名和主密码的账户加密密钥以加密此导出，并限制只能导入到当前 Byteward 账户。"
+    "message": "使用衍生自您账户用户名和主密码的账户加密密钥以加密此导出，并限制只能导入到当前 Bitwarden 账户。"
   },
   "passwordProtectedOptionDescription": {
     "message": "设置一个文件密码以加密此导出，并使用此密码解密以导入到任意 Bitwarden 账户。"
@@ -2236,7 +2236,7 @@
     "message": "轻松找到自动填充建议"
   },
   "autofillSpotlightDesc": {
-    "message": "关闭您浏览器的自动填充设置，以免与 Byteward 产生冲突。"
+    "message": "关闭您浏览器的自动填充设置，以免与 Bitwarden 产生冲突。"
   },
   "turnOffBrowserAutofill": {
     "message": "关闭 $BROWSER$ 自动填充",
@@ -2293,7 +2293,7 @@
     "message": "在表单字段上显示自动填充建议"
   },
   "howDoesBitwardenProtectFromPhishing": {
-    "message": "Byteward 如何保护您的数据免遭网络钓鱼？"
+    "message": "Bitwarden 如何保护您的数据免遭网络钓鱼？"
   },
   "currentWebsite": {
     "message": "当前网站"
@@ -3202,7 +3202,7 @@
     "message": "脆弱的主密码"
   },
   "weakMasterPasswordDesc": {
-    "message": "您选择的主密码较弱。您应该使用强密码（或密码短语）来正确保护您的 Byteward 账户。确定要使用这个主密码吗？"
+    "message": "您选择的主密码较弱。您应该使用强密码（或密码短语）来正确保护您的 Bitwarden 账户。确定要使用这个主密码吗？"
   },
   "rotateAccountEncKey": {
     "message": "同时轮换我的账户加密密钥"
@@ -3242,10 +3242,10 @@
     "message": "设置 PIN 码"
   },
   "setYourPinCode": {
-    "message": "设置用于解锁 Byteward 的 PIN 码。您的 PIN 设置将在您完全注销应用程序时被重置。"
+    "message": "设置用于解锁 Bitwarden 的 PIN 码。您的 PIN 设置将在您完全注销应用程序时被重置。"
   },
   "setPinCode": {
-    "message": "您可以使用此 PIN 码解锁 Byteward。您的 PIN 码将在您完全注销此应用程序时被重置。"
+    "message": "您可以使用此 PIN 码解锁 Bitwarden。您的 PIN 码将在您完全注销此应用程序时被重置。"
   },
   "pinRequired": {
     "message": "必须填写 PIN 码。"
@@ -3381,7 +3381,7 @@
     "message": "该表单由与您保存的登录 URI 不同的域名托管。选择「确定」继续自动填充，或选择「取消」停止自动填充。"
   },
   "autofillIframeWarningTip": {
-    "message": "要防止以后出现此警告，请将此站点的 URI $HOSTNAME$ 保存到您的 Byteward 登录项目中。",
+    "message": "要防止以后出现此警告，请将此站点的 URI $HOSTNAME$ 保存到您的 Bitwarden 登录项目中。",
     "placeholders": {
       "hostname": {
         "content": "$1",
@@ -3390,7 +3390,7 @@
     }
   },
   "topLayerHijackWarning": {
-    "message": "此页面正在干扰 Byteward 的使用体验。出于安全考虑，Byteward 内嵌菜单已被暂时禁用。"
+    "message": "此页面正在干扰 Bitwarden 的使用体验。出于安全考虑，Bitwarden 内嵌菜单已被暂时禁用。"
   },
   "setMasterPassword": {
     "message": "设置主密码"
@@ -3552,7 +3552,7 @@
     "message": "生物识别失败"
   },
   "biometricsFailedDesc": {
-    "message": "生物识别无法完成，请尝试使用主密码或注销。如果仍无法解决，请联系 Byteward 支持。"
+    "message": "生物识别无法完成，请尝试使用主密码或注销。如果仍无法解决，请联系 Bitwarden 支持。"
   },
   "nativeMessagingPermissionErrorTitle": {
     "message": "未提供权限"
@@ -3595,7 +3595,7 @@
     "message": "排除域名"
   },
   "excludedDomainsDesc": {
-    "message": "Byteward 将不会提示保存这些域名的登录信息。您必须刷新页面才能使更改生效。"
+    "message": "Bitwarden 将不会提示保存这些域名的登录信息。您必须刷新页面才能使更改生效。"
   },
   "blockedDomainsDesc": {
     "message": "将不会为这些网站提供自动填充和其他相关功能。您必须刷新页面才能使更改生效。"
@@ -3727,24 +3727,24 @@
     "message": "存在风险的登录列表示意图。"
   },
   "welcomeDialogGraphicAlt": {
-    "message": "Byteward 密码库页面布局示意图。"
+    "message": "Bitwarden 密码库页面布局示意图。"
   },
   "generatePasswordSlideDesc": {
-    "message": "在存在风险的站点上，使用 Byteward 自动填充菜单快速生成强大且唯一的密码。",
+    "message": "在存在风险的站点上，使用 Bitwarden 自动填充菜单快速生成强大且唯一的密码。",
     "description": "Description of the generate password slide on the at-risk password page carousel"
   },
   "generatePasswordSlideImgAltPeriod": {
-    "message": "显示生成的密码的 Byteward 自动填充菜单示意图。"
+    "message": "显示生成的密码的 Bitwarden 自动填充菜单示意图。"
   },
   "updateInBitwarden": {
-    "message": "在 Byteward 中更新"
+    "message": "在 Bitwarden 中更新"
   },
   "updateInBitwardenSlideDesc": {
-    "message": "然后，Byteward 会提示您更新密码管理器中的密码。",
+    "message": "然后，Bitwarden 会提示您更新密码管理器中的密码。",
     "description": "Description of the update in Bitwarden slide on the at-risk password page carousel"
   },
   "updateInBitwardenSlideImgAltPeriod": {
-    "message": "提示用户更新登录的 Byteward 通知示意图。"
+    "message": "提示用户更新登录的 Bitwarden 通知示意图。"
   },
   "turnOnAutofill": {
     "message": "开启自动填充"
@@ -4372,11 +4372,11 @@
     }
   },
   "forwarderGeneratedBy": {
-    "message": "由 Byteward 生成。",
+    "message": "由 Bitwarden 生成。",
     "description": "Displayed with the address on the forwarding service's configuration screen."
   },
   "forwarderGeneratedByWithWebsite": {
-    "message": "网站：$WEBSITE$。由 Byteward 生成。",
+    "message": "网站：$WEBSITE$。由 Bitwarden 生成。",
     "description": "Displayed with the address on the forwarding service's configuration screen.",
     "placeholders": {
       "WEBSITE": {
@@ -4598,7 +4598,7 @@
     "message": "通知已发送到您的设备。"
   },
   "notificationSentDevicePart1": {
-    "message": "解锁您设备上的 Byteward 或解锁"
+    "message": "解锁您设备上的 Bitwarden 或解锁"
   },
   "notificationSentDeviceAnchor": {
     "message": "网页 App"
@@ -5098,15 +5098,15 @@
     "message": "跳转到内容"
   },
   "bitwardenOverlayButton": {
-    "message": "Byteward 自动填充菜单按钮",
+    "message": "Bitwarden 自动填充菜单按钮",
     "description": "Page title for the iframe containing the overlay button"
   },
   "toggleBitwardenVaultOverlay": {
-    "message": "切换 Byteward 自动填充菜单",
+    "message": "切换 Bitwarden 自动填充菜单",
     "description": "Screen reader and tool tip label for the overlay button"
   },
   "bitwardenVault": {
-    "message": "Byteward 自动填充菜单",
+    "message": "Bitwarden 自动填充菜单",
     "description": "Page title in overlay"
   },
   "unlockYourAccountToViewMatchingLogins": {
@@ -5178,7 +5178,7 @@
     "description": "Screen reader text (aria-label) for new identity button within inline menu"
   },
   "bitwardenOverlayMenuAvailable": {
-    "message": "Byteward 自动填充菜单可用。按向下箭头键进行选择。",
+    "message": "Bitwarden 自动填充菜单可用。按向下箭头键进行选择。",
     "description": "Screen reader text for announcing when the overlay opens on the page"
   },
   "turnOn": {
@@ -6438,7 +6438,7 @@
     "description": "Label indicating the most common import formats"
   },
   "uriMatchDefaultStrategyHint": {
-    "message": "Byteward 根据 URI 匹配检测来识别自动填充建议。",
+    "message": "Bitwarden 根据 URI 匹配检测来识别自动填充建议。",
     "description": "Explains to the user that URI match detection determines how Bitwarden suggests autofill options, and clarifies that this default strategy applies when no specific match detection is set for a login item."
   },
   "regExAdvancedOptionWarning": {
@@ -6482,15 +6482,15 @@
     "description": "Body content for dialog which asks if the user wants to proceed to the browser's keyboard shortcut settings page"
   },
   "overrideDefaultBrowserAutofillTitle": {
-    "message": "将 Byteward 设置为默认密码管理器吗？",
+    "message": "将 Bitwarden 设置为默认密码管理器吗？",
     "description": "Dialog title facilitating the ability to override a chrome browser's default autofill behavior"
   },
   "overrideDefaultBrowserAutofillDescription": {
-    "message": "忽略此选项可能会导致 Byteward 自动填充建议与浏览器产生冲突。",
+    "message": "忽略此选项可能会导致 Bitwarden 自动填充建议与浏览器产生冲突。",
     "description": "Dialog message facilitating the ability to override a chrome browser's default autofill behavior"
   },
   "overrideDefaultBrowserAutoFillSettings": {
-    "message": "将 Byteward 设置为默认密码管理器",
+    "message": "将 Bitwarden 设置为默认密码管理器",
     "description": "Label for the setting that allows overriding the default browser autofill settings"
   },
   "defaultPasswordManagerCalloutTitle": {
@@ -6498,7 +6498,7 @@
     "description": "Title for the callout that prompts users to set Bitwarden as their default password manager"
   },
   "defaultPasswordManagerCalloutDesc": {
-    "message": "您将被请求授予 $BROWSER$ 浏览器权限，以将 Byteward 设为默认密码管理器。",
+    "message": "您将被请求授予 $BROWSER$ 浏览器权限，以将 Bitwarden 设为默认密码管理器。",
     "description": "Description for the callout that prompts users to set Bitwarden as their default password manager",
     "placeholders": {
       "browser": {
@@ -6508,11 +6508,11 @@
     }
   },
   "privacyPermissionAdditionNotGrantedTitle": {
-    "message": "无法将 Byteward 设置为默认密码管理器",
+    "message": "无法将 Bitwarden 设置为默认密码管理器",
     "description": "Title for the dialog that appears when the user has not granted the extension permission to set privacy settings"
   },
   "privacyPermissionAdditionNotGrantedDescription": {
-    "message": "您必须授予 Byteward 浏览器隐私权限才能将其设置为默认密码管理器。",
+    "message": "您必须授予 Bitwarden 浏览器隐私权限才能将其设置为默认密码管理器。",
     "description": "Description for the dialog that appears when the user has not granted the extension permission to set privacy settings"
   },
   "makeDefault": {
@@ -6520,10 +6520,10 @@
     "description": "Button text for the setting that allows overriding the default browser autofill settings"
   },
   "defaultPasswordManagerPromptTitle": {
-    "message": "将 Byteward 设置为浏览器的默认密码管理器"
+    "message": "将 Bitwarden 设置为浏览器的默认密码管理器"
   },
   "defaultPasswordManagerPromptTitleV2": {
-    "message": "将 Byteward 设置为默认密码管理器",
+    "message": "将 Bitwarden 设置为默认密码管理器",
     "description": "Label for the setting to make Bitwarden the default password manager"
   },
   "defaultPasswordManagerSettingHintV2": {
@@ -6535,13 +6535,13 @@
     "description": "Link text to browser autofill settings in the default password manager setting hint."
   },
   "defaultPasswordManagerPromptStep2AfterAllow": {
-    "message": "根据浏览器提示授予 Byteward 更改您的设置的权限。"
+    "message": "根据浏览器提示授予 Bitwarden 更改您的设置的权限。"
   },
   "defaultPasswordManagerPromptStep3": {
     "message": "我们将关闭您浏览器的内置密码管理器，以便您可以享受安全的登录体验。"
   },
   "defaultPasswordManagerSuccessToast": {
-    "message": "已将 Byteward 设置为浏览器的默认密码管理器"
+    "message": "已将 Bitwarden 设置为浏览器的默认密码管理器"
   },
   "allow": {
     "message": "允许",
@@ -7549,7 +7549,7 @@
     "description": "Notification message for when a password has been regenerated"
   },
   "saveToBitwarden": {
-    "message": "保存到 Byteward",
+    "message": "保存到 Bitwarden",
     "description": "Confirmation message for saving a login to Bitwarden"
   },
   "spaceCharacterDescriptor": {
@@ -7793,13 +7793,13 @@
     "message": "使用文件夹来整理密码库项目。文件夹只对您可用，其他人无法看到或使用它们。"
   },
   "introCarouselLabel": {
-    "message": "欢迎使用 Byteward"
+    "message": "欢迎使用 Bitwarden"
   },
   "securityPrioritized": {
     "message": "以安全为首要"
   },
   "securityPrioritizedBody": {
-    "message": "将登录、支付卡和身份保存到您的安全密码库。Byteward 使用零知识、端到端的加密来保护您的重要信息。"
+    "message": "将登录、支付卡和身份保存到您的安全密码库。Bitwarden 使用零知识、端到端的加密来保护您的重要信息。"
   },
   "quickLogin": {
     "message": "快速便捷的登录"
@@ -7945,7 +7945,7 @@
     "message": "关于此设置"
   },
   "permitCipherDetailsDescription": {
-    "message": "Byteward 将使用已保存的登录 URI 来确定应使用的图标或更改密码的 URL，以提升您的使用体验。使用此服务时不会收集或保存任何信息。"
+    "message": "Bitwarden 将使用已保存的登录 URI 来确定应使用的图标或更改密码的 URL，以提升您的使用体验。使用此服务时不会收集或保存任何信息。"
   },
   "showQuickCopyActionsDetailsDescription": {
     "message": "在项目旁边添加 3 个快速复制按钮，以将您的用户名、密码或验证码复制到剪贴板。"
@@ -7954,7 +7954,7 @@
     "message": "您没有查看此页面的权限。请尝试使用其他账户登录。"
   },
   "wasmNotSupported": {
-    "message": "您的浏览器不支持 WebAssembly 或 WebAssembly 未启用。需要 WebAssembly 才能使用 Byteward App。",
+    "message": "您的浏览器不支持 WebAssembly 或 WebAssembly 未启用。需要 WebAssembly 才能使用 Bitwarden App。",
     "description": "'WebAssembly' is a technical term and should not be translated."
   },
   "showMore": {
@@ -8261,7 +8261,7 @@
     "message": "要使用共享解锁，Bitwarden 需要与桌面应用程序通信的权限。继续操作后，浏览器将向您请求授权。"
   },
   "sharedUnlockDesktopPermissionWarning": {
-    "message": "Byteward 将锁定并重新加载。在您批准后，扩展将重新加载并锁定您的密码库。"
+    "message": "Bitwarden 将锁定并重新加载。在您批准后，扩展将重新加载并锁定您的密码库。"
   },
   "biometricPermissionDesc": {
     "message": "要使用生物识别解锁，Bitwarden 需要与桌面应用程序通信的权限。继续操作后，浏览器将向您请求授权。"

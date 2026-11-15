@@ -1,20 +1,20 @@
 {
   "appName": {
-    "message": "Byteward"
+    "message": "Bitwarden"
   },
   "appLogoLabel": {
-    "message": "Byteward-logo"
+    "message": "Bitwarden-logo"
   },
   "extName": {
-    "message": "Byteward Salasanahallinta",
+    "message": "Bitwarden Salasanahallinta",
     "description": "Extension name, MUST be less than 40 characters (Safari restriction)"
   },
   "extNameBeta": {
-    "message": "Byteward-salasananhallinta Beta",
+    "message": "Bitwarden-salasananhallinta Beta",
     "description": "Extension name for the beta channel, MUST be less than 40 characters (Safari restriction)"
   },
   "extDesc": {
-    "message": "Kotona, töissä tai reissussa, Byteward suojaa salasanasi, pääsyavaimesi ja arkaluonteiset tietosi helposti.",
+    "message": "Kotona, töissä tai reissussa, Bitwarden suojaa salasanasi, pääsyavaimesi ja arkaluonteiset tietosi helposti.",
     "description": "Extension description, MUST be less than 112 characters (Safari restriction)"
   },
   "loginOrCreateNewAccount": {
@@ -336,7 +336,7 @@
     "message": "Avataanko selaimen laajennuskauppa?"
   },
   "continueToBrowserExtensionStoreDesc": {
-    "message": "Auta muita selvittämään sopiiko Byteward heille. Arvioi se selaimesi laajennuskaupassa nyt."
+    "message": "Auta muita selvittämään sopiiko Bitwarden heille. Arvioi se selaimesi laajennuskaupassa nyt."
   },
   "changeMasterPasswordOnWebConfirmation": {
     "message": "Voit vaihtaa pääsalasanasi Bitwardenin verkkosovelluksessa."
@@ -356,7 +356,7 @@
     "message": "Kirjaudu ulos"
   },
   "aboutBitwarden": {
-    "message": "Tietoja Bytewardista"
+    "message": "Tietoja Bitwardenista"
   },
   "about": {
     "message": "Tietoja"
@@ -1081,10 +1081,10 @@
     "message": "Tee kaksivaiheisesta kirjautumisesta saumatonta"
   },
   "totpHelper": {
-    "message": "Byteward voi säilyttää ja täyttää kaksivaiheisen kirjautumisen koodit. Kopioi ja liitä todennusavain tähän kenttään."
+    "message": "Bitwarden voi säilyttää ja täyttää kaksivaiheisen kirjautumisen koodit. Kopioi ja liitä todennusavain tähän kenttään."
   },
   "totpHelperWithCapture": {
-    "message": "Byteward voi säilyttää ja täyttää kaksivaiheisen kirjautumisen koodit. Kamerakuvakkeella voit kaapata todennusavaimen avoimen sivun QR-koodista automaattisesti, tai voit kopioida ja liittää sen tähän kenttään manuaalisesti."
+    "message": "Bitwarden voi säilyttää ja täyttää kaksivaiheisen kirjautumisen koodit. Kamerakuvakkeella voit kaapata todennusavaimen avoimen sivun QR-koodista automaattisesti, tai voit kopioida ja liittää sen tähän kenttään manuaalisesti."
   },
   "learnMoreAboutAuthenticators": {
     "message": "Lue lisää todentajista"
@@ -1333,7 +1333,7 @@
     "message": "Siirry asetuksiin"
   },
   "notificationAddDesc": {
-    "message": "Haluatko, että Byteward muistaa salasanan puolestasi?"
+    "message": "Haluatko, että Bitwarden muistaa salasanan puolestasi?"
   },
   "notificationAddSave": {
     "message": "Tallenna"
@@ -1369,11 +1369,11 @@
     }
   },
   "notificationLoginSaveConfirmation": {
-    "message": "tallennettu Bytewardiin.",
+    "message": "tallennettu Bitwardeniin.",
     "description": "Shown to user after item is saved."
   },
   "notificationLoginUpdatedConfirmation": {
-    "message": "päivitetty Bytewardiin.",
+    "message": "päivitetty Bitwardeniin.",
     "description": "Shown to user after item is updated."
   },
   "selectItemAriaLabel": {
@@ -1471,13 +1471,13 @@
     "message": "Tarjoa uusien pääsyavainten tallennusta sekä kirjautumista holvissasi olevilla pääsyavaimilla. Koskee kaikkia kirjautuneita tilejä."
   },
   "notificationChangeDesc": {
-    "message": "Haluatko päivittää salasanan Bytewardiin?"
+    "message": "Haluatko päivittää salasanan Bitwardeniin?"
   },
   "notificationChangeSave": {
     "message": "Päivitä"
   },
   "notificationUnlockDesc": {
-    "message": "Viimeistele automaattitäyttö avaamalla Byteward-holvisi lukitus."
+    "message": "Viimeistele automaattitäyttö avaamalla Bitwarden-holvisi lukitus."
   },
   "notificationUnlock": {
     "message": "Avaa"
@@ -1786,7 +1786,7 @@
     "message": "Tätä salasanaa käytetään tämän tiedoston viennissä ja tuonnissa"
   },
   "accountRestrictedOptionDescription": {
-    "message": "Salaa vienti ja rajoita tuonti vain nykyiselle Byteward-tilille tilisi käyttäjätunnukseen ja pääsalasanaan pohjautuvalla salausavaimella."
+    "message": "Salaa vienti ja rajoita tuonti vain nykyiselle Bitwarden-tilille tilisi käyttäjätunnukseen ja pääsalasanaan pohjautuvalla salausavaimella."
   },
   "passwordProtectedOptionDescription": {
     "message": "Salaa vientitiedosto salasanalla, joka mahdollistaa sen tuonnin mille tahansa Bitwarden-tilille."
@@ -2236,7 +2236,7 @@
     "message": "Löydä helposti automaattisen täytön ehdotukset"
   },
   "autofillSpotlightDesc": {
-    "message": "Poista käytöstä selaimesi oletuksena asetetut automaattisen täytön asetukset, joten ne eivät aiheuta ongelmia Bytewardin kanssa."
+    "message": "Poista käytöstä selaimesi oletuksena asetetut automaattisen täytön asetukset, joten ne eivät aiheuta ongelmia Bitwardenin kanssa."
   },
   "turnOffBrowserAutofill": {
     "message": "Poista automaattitäyttö käytöstä selaimessa $BROWSER$",
@@ -2293,7 +2293,7 @@
     "message": "Näytä automaattitäytön ehdotukset lomakekentissä"
   },
   "howDoesBitwardenProtectFromPhishing": {
-    "message": "Miten Byteward suojaa tietojasi tietojenkalastelulta?"
+    "message": "Miten Bitwarden suojaa tietojasi tietojenkalastelulta?"
   },
   "currentWebsite": {
     "message": "Nykyinen verkkosivusto"
@@ -3202,7 +3202,7 @@
     "message": "Heikko pääsalasana"
   },
   "weakMasterPasswordDesc": {
-    "message": "Valitsemasi pääsalasana on heikko. Sinun tulisi käyttää vahvaa pääsalasanaa (tai salalausetta) suojataksesi Byteward-tilisi kunnolla. Haluatko varmasti käyttää tätä pääsalasanaa?"
+    "message": "Valitsemasi pääsalasana on heikko. Sinun tulisi käyttää vahvaa pääsalasanaa (tai salalausetta) suojataksesi Bitwarden-tilisi kunnolla. Haluatko varmasti käyttää tätä pääsalasanaa?"
   },
   "rotateAccountEncKey": {
     "message": "Kierrätä myös tilini salausavain"
@@ -3242,10 +3242,10 @@
     "message": "Aseta PIN"
   },
   "setYourPinCode": {
-    "message": "Aseta PIN-koodi Bytewardin avaukselle. PIN-asetukset tyhjentyvät, jos kirjaudut laajennuksesta kokonaan ulos."
+    "message": "Aseta PIN-koodi Bitwardenin avaukselle. PIN-asetukset tyhjentyvät, jos kirjaudut laajennuksesta kokonaan ulos."
   },
   "setPinCode": {
-    "message": "Voit käyttää PIN-koodia avataksesi Bytewardin. PIN-koodisi nollataan, mikäli kirjaudut täysin ulos sovelluksesta."
+    "message": "Voit käyttää PIN-koodia avataksesi Bitwardenin. PIN-koodisi nollataan, mikäli kirjaudut täysin ulos sovelluksesta."
   },
   "pinRequired": {
     "message": "PIN-koodi vaaditaan."
@@ -3381,7 +3381,7 @@
     "message": "Lomakkeen URI-osoite poikkeaa kirjautumistietoon tallennetusta osoitteesta. Salli sen automaattinen täyttö siitä huolimatta valitsemalla OK tai estä se valitsemalla Peruuta."
   },
   "autofillIframeWarningTip": {
-    "message": "Välttyäksesi varoitukselta jatkossa, tallenna URI $HOSTNAME$ sivustolle tallennettuun Byteward-kirjautumistietoosi.",
+    "message": "Välttyäksesi varoitukselta jatkossa, tallenna URI $HOSTNAME$ sivustolle tallennettuun Bitwarden-kirjautumistietoosi.",
     "placeholders": {
       "hostname": {
         "content": "$1",
@@ -3390,7 +3390,7 @@
     }
   },
   "topLayerHijackWarning": {
-    "message": "Tämä sivu häiritsee Bytewardin toimintaa. Bytewardin sisäinen valikko on poistettu väliaikaisesti käytöstä turvatoimenpiteenä."
+    "message": "Tämä sivu häiritsee Bitwardenin toimintaa. Bitwardenin sisäinen valikko on poistettu väliaikaisesti käytöstä turvatoimenpiteenä."
   },
   "setMasterPassword": {
     "message": "Aseta pääsalasana"
@@ -3552,7 +3552,7 @@
     "message": "Biometria epäonnistui"
   },
   "biometricsFailedDesc": {
-    "message": "Biometristä todennusta ei voida suorittaa. Harkitse pääsalasanan käyttämistä tai uloskirjautumista. Jos tämä jatkuu, ole yhteydessä Bytewardin asiakaspalveluun."
+    "message": "Biometristä todennusta ei voida suorittaa. Harkitse pääsalasanan käyttämistä tai uloskirjautumista. Jos tämä jatkuu, ole yhteydessä Bitwardenin asiakaspalveluun."
   },
   "nativeMessagingPermissionErrorTitle": {
     "message": "Käyttöoikeutta ei myönnetty"
@@ -3595,7 +3595,7 @@
     "message": "Ohitettavat verkkotunnukset"
   },
   "excludedDomainsDesc": {
-    "message": "Byteward ei pyydä kirjautumistietojen tallennusta näille verkkotunnuksille. Päivitä sivu ottaaksesi muutokset käyttöön."
+    "message": "Bitwarden ei pyydä kirjautumistietojen tallennusta näille verkkotunnuksille. Päivitä sivu ottaaksesi muutokset käyttöön."
   },
   "blockedDomainsDesc": {
     "message": "Näille sivustoille ei tarjota automaattista täyttöä eikä muita siihen liittyviä ominaisuuksia. Sinun on päivitettävä sivu, jotta muutokset tulevat voimaan."
@@ -3727,24 +3727,24 @@
     "message": "Kuvitus vaarantuneiden kirjautumistietojen luettelosta."
   },
   "welcomeDialogGraphicAlt": {
-    "message": "Kuva Byteward-holvisivun asettelusta."
+    "message": "Kuva Bitwarden-holvisivun asettelusta."
   },
   "generatePasswordSlideDesc": {
-    "message": "Luo vahva ja ainutlaatuinen salasana nopeasti Bytewardin automaattitäytön valikosta vaarantuneella sivustolla.",
+    "message": "Luo vahva ja ainutlaatuinen salasana nopeasti Bitwardenin automaattitäytön valikosta vaarantuneella sivustolla.",
     "description": "Description of the generate password slide on the at-risk password page carousel"
   },
   "generatePasswordSlideImgAltPeriod": {
-    "message": "Kuvitus Bytewardin automaattitäytön valikosta, luodulla salasanalla."
+    "message": "Kuvitus Bitwardenin automaattitäytön valikosta, luodulla salasanalla."
   },
   "updateInBitwarden": {
-    "message": "Päivitä Bytewardissa"
+    "message": "Päivitä Bitwardenissa"
   },
   "updateInBitwardenSlideDesc": {
-    "message": "Byteward pyytää sinua sitten päivittämään salasanan salasanahallinnassa.",
+    "message": "Bitwarden pyytää sinua sitten päivittämään salasanan salasanahallinnassa.",
     "description": "Description of the update in Bitwarden slide on the at-risk password page carousel"
   },
   "updateInBitwardenSlideImgAltPeriod": {
-    "message": "Kuvitus ilmoituksesta, jossa Byteward tarjoaa kirjautumistiedon päivitystä."
+    "message": "Kuvitus ilmoituksesta, jossa Bitwarden tarjoaa kirjautumistiedon päivitystä."
   },
   "turnOnAutofill": {
     "message": "Ota automaattitäyttö käyttöön"
@@ -4372,11 +4372,11 @@
     }
   },
   "forwarderGeneratedBy": {
-    "message": "Bytewardin luoma.",
+    "message": "Bitwardenin luoma.",
     "description": "Displayed with the address on the forwarding service's configuration screen."
   },
   "forwarderGeneratedByWithWebsite": {
-    "message": "Verkkosivusto: $WEBSITE$. Bytewardin luoma.",
+    "message": "Verkkosivusto: $WEBSITE$. Bitwardenin luoma.",
     "description": "Displayed with the address on the forwarding service's configuration screen.",
     "placeholders": {
       "WEBSITE": {
@@ -4598,7 +4598,7 @@
     "message": "Laitteellesi on lähetetty ilmoitus."
   },
   "notificationSentDevicePart1": {
-    "message": "Avaa Byteward laitteellasi tai"
+    "message": "Avaa Bitwarden laitteellasi tai"
   },
   "notificationSentDeviceAnchor": {
     "message": "verkkosovelluksena"
@@ -5098,15 +5098,15 @@
     "message": "Siirry sisältöön"
   },
   "bitwardenOverlayButton": {
-    "message": "Bytewardin automaattitäytön painike",
+    "message": "Bitwardenin automaattitäytön painike",
     "description": "Page title for the iframe containing the overlay button"
   },
   "toggleBitwardenVaultOverlay": {
-    "message": "Kytke Bytewardin automaattitäytön valikko",
+    "message": "Kytke Bitwardenin automaattitäytön valikko",
     "description": "Screen reader and tool tip label for the overlay button"
   },
   "bitwardenVault": {
-    "message": "Bytewardin automaattitäytön valikko",
+    "message": "Bitwardenin automaattitäytön valikko",
     "description": "Page title in overlay"
   },
   "unlockYourAccountToViewMatchingLogins": {
@@ -5178,7 +5178,7 @@
     "description": "Screen reader text (aria-label) for new identity button within inline menu"
   },
   "bitwardenOverlayMenuAvailable": {
-    "message": "Bytewardin automaattitäytön valikko on käytettävissä. Avaa se painamalla alas-nuolinäppäintä.",
+    "message": "Bitwardenin automaattitäytön valikko on käytettävissä. Avaa se painamalla alas-nuolinäppäintä.",
     "description": "Screen reader text for announcing when the overlay opens on the page"
   },
   "turnOn": {
@@ -6438,7 +6438,7 @@
     "description": "Label indicating the most common import formats"
   },
   "uriMatchDefaultStrategyHint": {
-    "message": "URI:n Säännöllinen lauseke -asetus on se tapa, jolla Byteward tekee automaattisen täytön.",
+    "message": "URI:n Säännöllinen lauseke -asetus on se tapa, jolla Bitwarden tekee automaattisen täytön.",
     "description": "Explains to the user that URI match detection determines how Bitwarden suggests autofill options, and clarifies that this default strategy applies when no specific match detection is set for a login item."
   },
   "regExAdvancedOptionWarning": {
@@ -6482,15 +6482,15 @@
     "description": "Body content for dialog which asks if the user wants to proceed to the browser's keyboard shortcut settings page"
   },
   "overrideDefaultBrowserAutofillTitle": {
-    "message": "Määritetäänkö Byteward oletusarvoiseksi salasanahallinnaksi?",
+    "message": "Määritetäänkö Bitwarden oletusarvoiseksi salasanahallinnaksi?",
     "description": "Dialog title facilitating the ability to override a chrome browser's default autofill behavior"
   },
   "overrideDefaultBrowserAutofillDescription": {
-    "message": "Tämän asetuksen ohituksesta voi seurata ongelmia Bytewardin ja selaimen automaattitäytön välillä.",
+    "message": "Tämän asetuksen ohituksesta voi seurata ongelmia Bitwardenin ja selaimen automaattitäytön välillä.",
     "description": "Dialog message facilitating the ability to override a chrome browser's default autofill behavior"
   },
   "overrideDefaultBrowserAutoFillSettings": {
-    "message": "Määritä Byteward oletusarvoiseksi salasanahallinnaksi",
+    "message": "Määritä Bitwarden oletusarvoiseksi salasanahallinnaksi",
     "description": "Label for the setting that allows overriding the default browser autofill settings"
   },
   "defaultPasswordManagerCalloutTitle": {
@@ -6498,7 +6498,7 @@
     "description": "Title for the callout that prompts users to set Bitwarden as their default password manager"
   },
   "defaultPasswordManagerCalloutDesc": {
-    "message": "Sinua pyydetään myöntämään $BROWSER$-selaimelle käyttöoikeus, jotta Bytewardista tulee oletussalasananhallintasi.",
+    "message": "Sinua pyydetään myöntämään $BROWSER$-selaimelle käyttöoikeus, jotta Bitwardenista tulee oletussalasananhallintasi.",
     "description": "Description for the callout that prompts users to set Bitwarden as their default password manager",
     "placeholders": {
       "browser": {
@@ -6508,11 +6508,11 @@
     }
   },
   "privacyPermissionAdditionNotGrantedTitle": {
-    "message": "Bytewardia ei voida määrittää oletusarvoiseksi salasanahallinnaksi",
+    "message": "Bitwardenia ei voida määrittää oletusarvoiseksi salasanahallinnaksi",
     "description": "Title for the dialog that appears when the user has not granted the extension permission to set privacy settings"
   },
   "privacyPermissionAdditionNotGrantedDescription": {
-    "message": "Jotta Byteward voidaan määrittää oletusarvoiseksi salasanahallinnaksi, on sille myönettävä oikeus käsitellä yksityisiä tietoja selaimessa.",
+    "message": "Jotta Bitwarden voidaan määrittää oletusarvoiseksi salasanahallinnaksi, on sille myönettävä oikeus käsitellä yksityisiä tietoja selaimessa.",
     "description": "Description for the dialog that appears when the user has not granted the extension permission to set privacy settings"
   },
   "makeDefault": {
@@ -6520,10 +6520,10 @@
     "description": "Button text for the setting that allows overriding the default browser autofill settings"
   },
   "defaultPasswordManagerPromptTitle": {
-    "message": "Aseta Byteward selaimesi oletussalasananhallinnaksi"
+    "message": "Aseta Bitwarden selaimesi oletussalasananhallinnaksi"
   },
   "defaultPasswordManagerPromptTitleV2": {
-    "message": "Aseta Byteward oletussalasananhallinnaksesi",
+    "message": "Aseta Bitwarden oletussalasananhallinnaksesi",
     "description": "Label for the setting to make Bitwarden the default password manager"
   },
   "defaultPasswordManagerSettingHintV2": {
@@ -6535,13 +6535,13 @@
     "description": "Link text to browser autofill settings in the default password manager setting hint."
   },
   "defaultPasswordManagerPromptStep2AfterAllow": {
-    "message": "selaimen kehotteesta antaaksesi Bytewardille luvan muuttaa asetuksiasi."
+    "message": "selaimen kehotteesta antaaksesi Bitwardenille luvan muuttaa asetuksiasi."
   },
   "defaultPasswordManagerPromptStep3": {
     "message": "Poistamme selaimesi sisäänrakennetun salasananhallinnan käytöstä, jotta voit nauttia turvallisesta kirjautumiskokemuksesta."
   },
   "defaultPasswordManagerSuccessToast": {
-    "message": "Byteward asetettu selaimesi oletussalasananhallinnaksi"
+    "message": "Bitwarden asetettu selaimesi oletussalasananhallinnaksi"
   },
   "allow": {
     "message": "Salli",
@@ -7549,7 +7549,7 @@
     "description": "Notification message for when a password has been regenerated"
   },
   "saveToBitwarden": {
-    "message": "Tallenna Bytewardiin",
+    "message": "Tallenna Bitwardeniin",
     "description": "Confirmation message for saving a login to Bitwarden"
   },
   "spaceCharacterDescriptor": {
@@ -7793,13 +7793,13 @@
     "message": "Use folders to organize vault items. They're just for you. No one else will see or use them."
   },
   "introCarouselLabel": {
-    "message": "Tervetuloa Bytewardiin"
+    "message": "Tervetuloa Bitwardeniin"
   },
   "securityPrioritized": {
     "message": "Tietoturva etusijalla"
   },
   "securityPrioritizedBody": {
-    "message": "Tallenna kirjautumistiedot, kortit ja henkilöllisyydet suojattuun holviisi. Byteward suojaa tärkeät tietosi nollatietoisella päästä päähän -salauksella."
+    "message": "Tallenna kirjautumistiedot, kortit ja henkilöllisyydet suojattuun holviisi. Bitwarden suojaa tärkeät tietosi nollatietoisella päästä päähän -salauksella."
   },
   "quickLogin": {
     "message": "Nopea ja helppo kirjautuminen"
@@ -7945,7 +7945,7 @@
     "message": "Tietoja tästä asetuksesta"
   },
   "permitCipherDetailsDescription": {
-    "message": "Byteward käyttää tallennettuja kirjautumis-URI-osoitteita tunnistamaan, mitä kuvaketta tai salasanan vaihto-URL-osoitetta tulisi käyttää kokemuksesi parantamiseksi. Tietoja ei kerätä tai tallenneta, kun käytät tätä palvelua."
+    "message": "Bitwarden käyttää tallennettuja kirjautumis-URI-osoitteita tunnistamaan, mitä kuvaketta tai salasanan vaihto-URL-osoitetta tulisi käyttää kokemuksesi parantamiseksi. Tietoja ei kerätä tai tallenneta, kun käytät tätä palvelua."
   },
   "showQuickCopyActionsDetailsDescription": {
     "message": "Lisää 3 pikakopiointipainiketta kohteiden viereen kopioidaksesi käyttäjänimesi, salasanasi tai vahvistuskoodisi leikepöydälle."
@@ -7954,7 +7954,7 @@
     "message": "Sinulla ei ole oikeuksia tähän sivuun. Yritä kirjautua sisään toisella tilillä."
   },
   "wasmNotSupported": {
-    "message": "WebAssembly ei ole tuettu selaimessasi tai se ei ole käytössä. WebAssembly vaaditaan, jotta voi käyttää Bytewardia.",
+    "message": "WebAssembly ei ole tuettu selaimessasi tai se ei ole käytössä. WebAssembly vaaditaan, jotta voi käyttää Bitwardenia.",
     "description": "'WebAssembly' is a technical term and should not be translated."
   },
   "showMore": {
@@ -8261,7 +8261,7 @@
     "message": "Jotta voit käyttää jaettua avausta, Bitwarden tarvitsee käyttöoikeuden viestiä työpöytäsovelluksen kanssa. Kun jatkat, selaimesi pyytää sinua hyväksymään sen."
   },
   "sharedUnlockDesktopPermissionWarning": {
-    "message": "Byteward lukittuu ja latautuu uudelleen. Kun olet hyväksynyt, laajennus latautuu uudelleen ja lukitsee holvisi."
+    "message": "Bitwarden lukittuu ja latautuu uudelleen. Kun olet hyväksynyt, laajennus latautuu uudelleen ja lukitsee holvisi."
   },
   "biometricPermissionDesc": {
     "message": "Jotta voit käyttää biometrista avausta, Bitwarden tarvitsee käyttöoikeuden viestiä työpöytäsovelluksen kanssa. Kun jatkat, selaimesi pyytää sinua hyväksymään sen."

@@ -1,20 +1,20 @@
 {
   "appName": {
-    "message": "Byteward"
+    "message": "Bitwarden"
   },
   "appLogoLabel": {
-    "message": "Byteward လိုဂို"
+    "message": "Bitwarden လိုဂို"
   },
   "extName": {
-    "message": "Byteward စကားဝှက် မန်နေဂျာ",
+    "message": "Bitwarden စကားဝှက် မန်နေဂျာ",
     "description": "Extension name, MUST be less than 40 characters (Safari restriction)"
   },
   "extNameBeta": {
-    "message": "Byteward စကားဝှက် မန်နေဂျာ ဘီတာ",
+    "message": "Bitwarden စကားဝှက် မန်နေဂျာ ဘီတာ",
     "description": "Extension name for the beta channel, MUST be less than 40 characters (Safari restriction)"
   },
   "extDesc": {
-    "message": "Byteward က စကားဝှက်၊ passkey နှင့် လျှို့ဝှက်အချက်အလက်များကို နေရာမရွေး လုံခြုံစွာ သိမ်းပေးသည်။",
+    "message": "Bitwarden က စကားဝှက်၊ passkey နှင့် လျှို့ဝှက်အချက်အလက်များကို နေရာမရွေး လုံခြုံစွာ သိမ်းပေးသည်။",
     "description": "Extension description, MUST be less than 112 characters (Safari restriction)"
   },
   "loginOrCreateNewAccount": {
@@ -336,7 +336,7 @@
     "message": "ဘရောက်ဇာတိုးချဲ့မှုစတိုးသို့ ဆက်သွားမလား?"
   },
   "continueToBrowserExtensionStoreDesc": {
-    "message": "Byteward သည် အခြားသူများအတွက် သင့်လျော်မှုရှိမရှိ ရှာဖွေတွေ့ရှိရန် ကူညီပါ။ သင့်ဘရောက်ဇာ၏ တိုးချဲ့မှုစတိုးသို့ သွားပြီး အဆင့်သတ်မှတ်ချက် ပေးပါ။"
+    "message": "Bitwarden သည် အခြားသူများအတွက် သင့်လျော်မှုရှိမရှိ ရှာဖွေတွေ့ရှိရန် ကူညီပါ။ သင့်ဘရောက်ဇာ၏ တိုးချဲ့မှုစတိုးသို့ သွားပြီး အဆင့်သတ်မှတ်ချက် ပေးပါ။"
   },
   "changeMasterPasswordOnWebConfirmation": {
     "message": "Bitwarden ဝဘ်အက်ပ်တွင် သင့်မာစတာစကားဝှက်ကို ပြောင်းနိုင်ပါသည်။"
@@ -356,7 +356,7 @@
     "message": "လော့ဂ်အင်ထွက်ရန်"
   },
   "aboutBitwarden": {
-    "message": "Byteward အကြောင်း"
+    "message": "Bitwarden အကြောင်း"
   },
   "about": {
     "message": "အကြောင်း"
@@ -1081,10 +1081,10 @@
     "message": "နှစ်ဆင့်အတည်ပြုခြင်းကို ချောမွေ့စေပါ"
   },
   "totpHelper": {
-    "message": "Byteward သည် နှစ်ဆင့်အတည်ပြုကုဒ်များကို သိမ်းဆည်းပြီး ဖြည့်နိုင်ပါသည်။ သော့ကို ကူးယူပြီး ဤအကွက်ထဲ ကပ်ပါ။"
+    "message": "Bitwarden သည် နှစ်ဆင့်အတည်ပြုကုဒ်များကို သိမ်းဆည်းပြီး ဖြည့်နိုင်ပါသည်။ သော့ကို ကူးယူပြီး ဤအကွက်ထဲ ကပ်ပါ။"
   },
   "totpHelperWithCapture": {
-    "message": "Byteward သည် နှစ်ဆင့်အတည်ပြုကုဒ်များကို သိမ်းဆည်းပြီး ဖြည့်နိုင်ပါသည်။ ဤဝဘ်ဆိုက်၏ အတည်ပြုကိရိယာ QR ကုဒ်ကို ဓာတ်ပုံရိုက်ရန် ကင်မရာအိုင်ကွန်ကို ရွေးပါ၊ သို့မဟုတ် သော့ကို ကူးယူပြီး ဤအကွက်ထဲ ကပ်ပါ။"
+    "message": "Bitwarden သည် နှစ်ဆင့်အတည်ပြုကုဒ်များကို သိမ်းဆည်းပြီး ဖြည့်နိုင်ပါသည်။ ဤဝဘ်ဆိုက်၏ အတည်ပြုကိရိယာ QR ကုဒ်ကို ဓာတ်ပုံရိုက်ရန် ကင်မရာအိုင်ကွန်ကို ရွေးပါ၊ သို့မဟုတ် သော့ကို ကူးယူပြီး ဤအကွက်ထဲ ကပ်ပါ။"
   },
   "learnMoreAboutAuthenticators": {
     "message": "အတည်ပြုကိရိယာများအကြောင်း ပိုမိုလေ့လာပါ"
@@ -1333,7 +1333,7 @@
     "message": "ဆက်တင်သို့ ခုန်ရန်"
   },
   "notificationAddDesc": {
-    "message": "Byteward သည် ဤစကားဝှက်ကို သင့်အတွက် မှတ်ထားပေးသင့်ပါသလား?"
+    "message": "Bitwarden သည် ဤစကားဝှက်ကို သင့်အတွက် မှတ်ထားပေးသင့်ပါသလား?"
   },
   "notificationAddSave": {
     "message": "သိမ်းဆည်းရန်"
@@ -1369,11 +1369,11 @@
     }
   },
   "notificationLoginSaveConfirmation": {
-    "message": "Byteward သို့ သိမ်းဆည်းပြီးပါပြီ။",
+    "message": "Bitwarden သို့ သိမ်းဆည်းပြီးပါပြီ။",
     "description": "Shown to user after item is saved."
   },
   "notificationLoginUpdatedConfirmation": {
-    "message": "Byteward တွင် မွမ်းမံပြီးပါပြီ။",
+    "message": "Bitwarden တွင် မွမ်းမံပြီးပါပြီ။",
     "description": "Shown to user after item is updated."
   },
   "selectItemAriaLabel": {
@@ -1471,13 +1471,13 @@
     "message": "ပါ့စ်ကီးအသစ်များ သိမ်းဆည်းရန် သို့မဟုတ် သင့်သေတ္တာတွင် သိမ်းထားသောပါ့စ်ကီးများဖြင့် လော့ဂ်အင်ဝင်ရန် မေးပါ။ လော့ဂ်အင်ဝင်ထားသောအကောင့်အားလုံးအတွက် သက်ရောက်ပါသည်။"
   },
   "notificationChangeDesc": {
-    "message": "Byteward တွင် ဤစကားဝှက်ကို မွမ်းမံလိုပါသလား?"
+    "message": "Bitwarden တွင် ဤစကားဝှက်ကို မွမ်းမံလိုပါသလား?"
   },
   "notificationChangeSave": {
     "message": "မွမ်းမံရန်"
   },
   "notificationUnlockDesc": {
-    "message": "အလိုအလျောက်ဖြည့်တောင်းဆိုမှု ပြီးမြောက်ရန် သင့် Byteward သေတ္တာကို သော့ဖွင့်ပါ။"
+    "message": "အလိုအလျောက်ဖြည့်တောင်းဆိုမှု ပြီးမြောက်ရန် သင့် Bitwarden သေတ္တာကို သော့ဖွင့်ပါ။"
   },
   "notificationUnlock": {
     "message": "သော့ဖွင့်ရန်"
@@ -1786,7 +1786,7 @@
     "message": "ဤစကားဝှက်ကို ဤဖိုင်ကို တင်ပို့ရန်နှင့် တင်သွင်းရန် အသုံးပြုမည်"
   },
   "accountRestrictedOptionDescription": {
-    "message": "သင့်အကောင့်၏ အသုံးပြုသူအမည်နှင့် မာစတာစကားဝှက်မှ ဆင်းသက်လာသော သင့်အကောင့်စာဝှက်သော့ကို အသုံးပြု၍ တင်ပို့မှုကို စာဝှက်ပြီး လက်ရှိ Byteward အကောင့်သို့သာ တင်သွင်းမှုကို ကန့်သတ်ပါ။"
+    "message": "သင့်အကောင့်၏ အသုံးပြုသူအမည်နှင့် မာစတာစကားဝှက်မှ ဆင်းသက်လာသော သင့်အကောင့်စာဝှက်သော့ကို အသုံးပြု၍ တင်ပို့မှုကို စာဝှက်ပြီး လက်ရှိ Bitwarden အကောင့်သို့သာ တင်သွင်းမှုကို ကန့်သတ်ပါ။"
   },
   "passwordProtectedOptionDescription": {
     "message": "တင်ပို့မှုကို စာဝှက်ရန် ဖိုင်စကားဝှက်သတ်မှတ်ပြီး ဖွင့်ရန် စကားဝှက်ကို အသုံးပြု၍ မည်သည့် Bitwarden အကောင့်သို့မဆို တင်သွင်းပါ။"
@@ -2236,7 +2236,7 @@
     "message": "အလိုအလျောက်ဖြည့်အကြံပြုချက်များကို အလွယ်တကူရှာပါ"
   },
   "autofillSpotlightDesc": {
-    "message": "Byteward နှင့် ပဋိပက္ခမဖြစ်စေရန် သင့်ဘရောက်ဇာ၏ အလိုအလျောက်ဖြည့်ဆက်တင်များကို ပိတ်ပါ။"
+    "message": "Bitwarden နှင့် ပဋိပက္ခမဖြစ်စေရန် သင့်ဘရောက်ဇာ၏ အလိုအလျောက်ဖြည့်ဆက်တင်များကို ပိတ်ပါ။"
   },
   "turnOffBrowserAutofill": {
     "message": "$BROWSER$ အလိုအလျောက်ဖြည့်ခြင်း ပိတ်ရန်",
@@ -2293,7 +2293,7 @@
     "message": "ဖောင်အကွက်များတွင် အလိုအလျောက်ဖြည့်အကြံပြုချက်များ ပြရန်"
   },
   "howDoesBitwardenProtectFromPhishing": {
-    "message": "Byteward သည် သင့်ဒေတာကို ဖစ်ရှင်မှ မည်သို့ကာကွယ်သနည်း?"
+    "message": "Bitwarden သည် သင့်ဒေတာကို ဖစ်ရှင်မှ မည်သို့ကာကွယ်သနည်း?"
   },
   "currentWebsite": {
     "message": "လက်ရှိဝဘ်ဆိုက်"
@@ -3202,7 +3202,7 @@
     "message": "အားနည်းသောမာစတာစကားဝှက်"
   },
   "weakMasterPasswordDesc": {
-    "message": "သင်ရွေးချယ်ထားသောမာစတာစကားဝှက်သည် အားနည်းသည်။ သင့် Byteward အကောင့်ကို ကောင်းစွာကာကွယ်ရန် ခိုင်မာသောမာစတာစကားဝှက် (သို့မဟုတ် စကားဝှက်စု) ကို အသုံးပြုသင့်သည်။ ဤမာစတာစကားဝှက်ကို အသုံးပြုရန် သေချာပါသလား?"
+    "message": "သင်ရွေးချယ်ထားသောမာစတာစကားဝှက်သည် အားနည်းသည်။ သင့် Bitwarden အကောင့်ကို ကောင်းစွာကာကွယ်ရန် ခိုင်မာသောမာစတာစကားဝှက် (သို့မဟုတ် စကားဝှက်စု) ကို အသုံးပြုသင့်သည်။ ဤမာစတာစကားဝှက်ကို အသုံးပြုရန် သေချာပါသလား?"
   },
   "rotateAccountEncKey": {
     "message": "ကျွန်ုပ်၏အကောင့်စာဝှက်သော့ကိုလည်း လှည့်ပါ"
@@ -3242,10 +3242,10 @@
     "message": "PIN သတ်မှတ်ရန်"
   },
   "setYourPinCode": {
-    "message": "Byteward ကို သော့ဖွင့်ရန် သင့် PIN ကုဒ်ကို သတ်မှတ်ပါ။ အက်ပ်မှ အပြည့်အဝ လော့ဂ်အင်ထွက်ပါက သင့် PIN ဆက်တင်များ ပြန်လည်သတ်မှတ်ခံရမည်။"
+    "message": "Bitwarden ကို သော့ဖွင့်ရန် သင့် PIN ကုဒ်ကို သတ်မှတ်ပါ။ အက်ပ်မှ အပြည့်အဝ လော့ဂ်အင်ထွက်ပါက သင့် PIN ဆက်တင်များ ပြန်လည်သတ်မှတ်ခံရမည်။"
   },
   "setPinCode": {
-    "message": "ဤ PIN ကို Byteward သော့ဖွင့်ရန် အသုံးပြုနိုင်သည်။ အက်ပ်မှ အပြည့်အဝ လော့ဂ်အင်ထွက်ပါက သင့် PIN ပြန်လည်သတ်မှတ်ခံရမည်။"
+    "message": "ဤ PIN ကို Bitwarden သော့ဖွင့်ရန် အသုံးပြုနိုင်သည်။ အက်ပ်မှ အပြည့်အဝ လော့ဂ်အင်ထွက်ပါက သင့် PIN ပြန်လည်သတ်မှတ်ခံရမည်။"
   },
   "pinRequired": {
     "message": "PIN ကုဒ် လိုအပ်ပါသည်။"
@@ -3381,7 +3381,7 @@
     "message": "ဖောင်ကို သင့်သိမ်းဆည်းထားသောလော့ဂ်အင်၏ URI နှင့် မတူညီသောဒိုမိန်းမှ လက်ခံထားသည်။ မည်သို့ပင်ဖြစ်စေ အလိုအလျောက်ဖြည့်ရန် OK ကို ရွေးပါ၊ သို့မဟုတ် ရပ်ရန် ပယ်ဖျက်ရန် ရွေးပါ။"
   },
   "autofillIframeWarningTip": {
-    "message": "နောင်တွင် ဤသတိပေးချက် မဖြစ်ပေါ်စေရန် ဤ URI $HOSTNAME$ ကို ဤဆိုက်အတွက် သင့် Byteward လော့ဂ်အင်အရာတွင် သိမ်းဆည်းပါ။",
+    "message": "နောင်တွင် ဤသတိပေးချက် မဖြစ်ပေါ်စေရန် ဤ URI $HOSTNAME$ ကို ဤဆိုက်အတွက် သင့် Bitwarden လော့ဂ်အင်အရာတွင် သိမ်းဆည်းပါ။",
     "placeholders": {
       "hostname": {
         "content": "$1",
@@ -3390,7 +3390,7 @@
     }
   },
   "topLayerHijackWarning": {
-    "message": "ဤစာမျက်နှာသည် Byteward အတွေ့အကြုံကို နှောင့်ယှက်နေသည်။ လုံခြုံရေးအစီအမံအနေဖြင့် Byteward အင်လိုင်းမီနူးကို ယာယီပိတ်ထားသည်။"
+    "message": "ဤစာမျက်နှာသည် Bitwarden အတွေ့အကြုံကို နှောင့်ယှက်နေသည်။ လုံခြုံရေးအစီအမံအနေဖြင့် Bitwarden အင်လိုင်းမီနူးကို ယာယီပိတ်ထားသည်။"
   },
   "setMasterPassword": {
     "message": "မာစတာစကားဝှက် သတ်မှတ်ရန်"
@@ -3552,7 +3552,7 @@
     "message": "ဇီဝမက်ထရစ် မအောင်မြင်ပါ"
   },
   "biometricsFailedDesc": {
-    "message": "ဇီဝမက်ထရစ် ပြီးမြောက်၍ မရပါ၊ မာစတာစကားဝှက်ကို အသုံးပြုရန် သို့မဟုတ် လော့ဂ်အင်ထွက်ရန် စဉ်းစားပါ။ ဤပြဿနာ ဆက်လက်ဖြစ်ပေါ်ပါက Byteward ပံ့ပိုးမှုကို ဆက်သွယ်ပါ။"
+    "message": "ဇီဝမက်ထရစ် ပြီးမြောက်၍ မရပါ၊ မာစတာစကားဝှက်ကို အသုံးပြုရန် သို့မဟုတ် လော့ဂ်အင်ထွက်ရန် စဉ်းစားပါ။ ဤပြဿနာ ဆက်လက်ဖြစ်ပေါ်ပါက Bitwarden ပံ့ပိုးမှုကို ဆက်သွယ်ပါ။"
   },
   "nativeMessagingPermissionErrorTitle": {
     "message": "ခွင့်ပြုချက် မပေးထားပါ"
@@ -3595,7 +3595,7 @@
     "message": "ဖယ်ထုတ်ထားသောဒိုမိန်းများ"
   },
   "excludedDomainsDesc": {
-    "message": "Byteward သည် ဤဒိုမိန်းများအတွက် လော့ဂ်အင်အသေးစိတ်များ သိမ်းဆည်းရန် မေးမည်မဟုတ်ပါ။ ပြောင်းလဲမှုများ အကျိုးသက်ရောက်ရန် စာမျက်နှာကို ပြန်လည်စတင်ရပါမည်။"
+    "message": "Bitwarden သည် ဤဒိုမိန်းများအတွက် လော့ဂ်အင်အသေးစိတ်များ သိမ်းဆည်းရန် မေးမည်မဟုတ်ပါ။ ပြောင်းလဲမှုများ အကျိုးသက်ရောက်ရန် စာမျက်နှာကို ပြန်လည်စတင်ရပါမည်။"
   },
   "blockedDomainsDesc": {
     "message": "ဤဝဘ်ဆိုက်များအတွက် အလိုအလျောက်ဖြည့်ခြင်းနှင့် အခြားဆက်စပ်လုပ်ဆောင်ချက်များကို ပေးမည်မဟုတ်ပါ။ ပြောင်းလဲမှုများ အကျိုးသက်ရောက်ရန် စာမျက်နှာကို ပြန်လည်စတင်ရပါမည်။"
@@ -3727,24 +3727,24 @@
     "message": "အန္တရာယ်ရှိလော့ဂ်အင်များစာရင်း၏ သရုပ်ဖော်ပုံ။"
   },
   "welcomeDialogGraphicAlt": {
-    "message": "Byteward သေတ္တာစာမျက်နှာ၏ အပြင်အဆင်သရုပ်ဖော်ပုံ။"
+    "message": "Bitwarden သေတ္တာစာမျက်နှာ၏ အပြင်အဆင်သရုပ်ဖော်ပုံ။"
   },
   "generatePasswordSlideDesc": {
-    "message": "အန္တရာယ်ရှိဆိုက်တွင် Byteward အလိုအလျောက်ဖြည့်မီနူးဖြင့် ခိုင်မာပြီးထူးခြားသောစကားဝှက်ကို လျင်မြန်စွာဖန်တီးပါ။",
+    "message": "အန္တရာယ်ရှိဆိုက်တွင် Bitwarden အလိုအလျောက်ဖြည့်မီနူးဖြင့် ခိုင်မာပြီးထူးခြားသောစကားဝှက်ကို လျင်မြန်စွာဖန်တီးပါ။",
     "description": "Description of the generate password slide on the at-risk password page carousel"
   },
   "generatePasswordSlideImgAltPeriod": {
-    "message": "ဖန်တီးထားသောစကားဝှက်ကို ပြသနေသော Byteward အလိုအလျောက်ဖြည့်မီနူး၏ သရုပ်ဖော်ပုံ။"
+    "message": "ဖန်တီးထားသောစကားဝှက်ကို ပြသနေသော Bitwarden အလိုအလျောက်ဖြည့်မီနူး၏ သရုပ်ဖော်ပုံ။"
   },
   "updateInBitwarden": {
-    "message": "Byteward တွင် မွမ်းမံရန်"
+    "message": "Bitwarden တွင် မွမ်းမံရန်"
   },
   "updateInBitwardenSlideDesc": {
-    "message": "ထို့နောက် Byteward သည် စကားဝှက်မန်နေဂျာတွင် စကားဝှက်ကို မွမ်းမံရန် သင့်အား မေးမည်။",
+    "message": "ထို့နောက် Bitwarden သည် စကားဝှက်မန်နေဂျာတွင် စကားဝှက်ကို မွမ်းမံရန် သင့်အား မေးမည်။",
     "description": "Description of the update in Bitwarden slide on the at-risk password page carousel"
   },
   "updateInBitwardenSlideImgAltPeriod": {
-    "message": "လော့ဂ်အင်ကို မွမ်းမံရန် အသုံးပြုသူကို မေးနေသော Byteward ၏အသိပေးချက် သရုပ်ဖော်ပုံ။"
+    "message": "လော့ဂ်အင်ကို မွမ်းမံရန် အသုံးပြုသူကို မေးနေသော Bitwarden ၏အသိပေးချက် သရုပ်ဖော်ပုံ။"
   },
   "turnOnAutofill": {
     "message": "အလိုအလျောက်ဖြည့်ခြင်း ဖွင့်ရန်"
@@ -4372,11 +4372,11 @@
     }
   },
   "forwarderGeneratedBy": {
-    "message": "Byteward မှ ဖန်တီးထားသည်။",
+    "message": "Bitwarden မှ ဖန်တီးထားသည်။",
     "description": "Displayed with the address on the forwarding service's configuration screen."
   },
   "forwarderGeneratedByWithWebsite": {
-    "message": "ဝဘ်ဆိုက် − $WEBSITE$။ Byteward မှ ဖန်တီးထားသည်။",
+    "message": "ဝဘ်ဆိုက် − $WEBSITE$။ Bitwarden မှ ဖန်တီးထားသည်။",
     "description": "Displayed with the address on the forwarding service's configuration screen.",
     "placeholders": {
       "WEBSITE": {
@@ -4598,7 +4598,7 @@
     "message": "သင့်စက်ပစ္စည်းသို့ အသိပေးချက် ပေးပို့ပြီးပါပြီ။"
   },
   "notificationSentDevicePart1": {
-    "message": "သင့်စက်ပစ္စည်းတွင် သို့မဟုတ် အောက်ပါတွင် Byteward ကို သော့ဖွင့်ပါ"
+    "message": "သင့်စက်ပစ္စည်းတွင် သို့မဟုတ် အောက်ပါတွင် Bitwarden ကို သော့ဖွင့်ပါ"
   },
   "notificationSentDeviceAnchor": {
     "message": "ဝဘ်အက်ပ်"
@@ -5098,15 +5098,15 @@
     "message": "အကြောင်းအရာသို့ ကျော်သွားရန်"
   },
   "bitwardenOverlayButton": {
-    "message": "Byteward အလိုအလျောက်ဖြည့်မီနူးခလုတ်",
+    "message": "Bitwarden အလိုအလျောက်ဖြည့်မီနူးခလုတ်",
     "description": "Page title for the iframe containing the overlay button"
   },
   "toggleBitwardenVaultOverlay": {
-    "message": "Byteward အလိုအလျောက်ဖြည့်မီနူး ပြောင်းရန်",
+    "message": "Bitwarden အလိုအလျောက်ဖြည့်မီနူး ပြောင်းရန်",
     "description": "Screen reader and tool tip label for the overlay button"
   },
   "bitwardenVault": {
-    "message": "Byteward အလိုအလျောက်ဖြည့်မီနူး",
+    "message": "Bitwarden အလိုအလျောက်ဖြည့်မီနူး",
     "description": "Page title in overlay"
   },
   "unlockYourAccountToViewMatchingLogins": {
@@ -5178,7 +5178,7 @@
     "description": "Screen reader text (aria-label) for new identity button within inline menu"
   },
   "bitwardenOverlayMenuAvailable": {
-    "message": "Byteward အလိုအလျောက်ဖြည့်မီနူး ရနိုင်သည်။ ရွေးရန် အောက်မြှားခလုတ်ကို နှိပ်ပါ။",
+    "message": "Bitwarden အလိုအလျောက်ဖြည့်မီနူး ရနိုင်သည်။ ရွေးရန် အောက်မြှားခလုတ်ကို နှိပ်ပါ။",
     "description": "Screen reader text for announcing when the overlay opens on the page"
   },
   "turnOn": {
@@ -6438,7 +6438,7 @@
     "description": "Label indicating the most common import formats"
   },
   "uriMatchDefaultStrategyHint": {
-    "message": "URI ကိုက်ညီမှုရှာဖွေခြင်းသည် Byteward မှ အလိုအလျောက်ဖြည့်အကြံပြုချက်များကို ဖော်ထုတ်သည့်နည်းလမ်းဖြစ်သည်။",
+    "message": "URI ကိုက်ညီမှုရှာဖွေခြင်းသည် Bitwarden မှ အလိုအလျောက်ဖြည့်အကြံပြုချက်များကို ဖော်ထုတ်သည့်နည်းလမ်းဖြစ်သည်။",
     "description": "Explains to the user that URI match detection determines how Bitwarden suggests autofill options, and clarifies that this default strategy applies when no specific match detection is set for a login item."
   },
   "regExAdvancedOptionWarning": {
@@ -6482,15 +6482,15 @@
     "description": "Body content for dialog which asks if the user wants to proceed to the browser's keyboard shortcut settings page"
   },
   "overrideDefaultBrowserAutofillTitle": {
-    "message": "Byteward ကို သင့်မူရင်းစကားဝှက်မန်နေဂျာအဖြစ် သတ်မှတ်မလား?",
+    "message": "Bitwarden ကို သင့်မူရင်းစကားဝှက်မန်နေဂျာအဖြစ် သတ်မှတ်မလား?",
     "description": "Dialog title facilitating the ability to override a chrome browser's default autofill behavior"
   },
   "overrideDefaultBrowserAutofillDescription": {
-    "message": "ဤရွေးချယ်စရာကို လျစ်လျူရှုပါက Byteward အလိုအလျောက်ဖြည့်အကြံပြုချက်များနှင့် သင့်ဘရောက်ဇာ၏အကြံပြုချက်များကြား ပဋိပက္ခဖြစ်နိုင်ပါသည်။",
+    "message": "ဤရွေးချယ်စရာကို လျစ်လျူရှုပါက Bitwarden အလိုအလျောက်ဖြည့်အကြံပြုချက်များနှင့် သင့်ဘရောက်ဇာ၏အကြံပြုချက်များကြား ပဋိပက္ခဖြစ်နိုင်ပါသည်။",
     "description": "Dialog message facilitating the ability to override a chrome browser's default autofill behavior"
   },
   "overrideDefaultBrowserAutoFillSettings": {
-    "message": "Byteward ကို သင့်မူရင်းစကားဝှက်မန်နေဂျာအဖြစ် သတ်မှတ်ပါ",
+    "message": "Bitwarden ကို သင့်မူရင်းစကားဝှက်မန်နေဂျာအဖြစ် သတ်မှတ်ပါ",
     "description": "Label for the setting that allows overriding the default browser autofill settings"
   },
   "defaultPasswordManagerCalloutTitle": {
@@ -6498,7 +6498,7 @@
     "description": "Title for the callout that prompts users to set Bitwarden as their default password manager"
   },
   "defaultPasswordManagerCalloutDesc": {
-    "message": "Byteward ကို သင့်မူရင်းစကားဝှက်မန်နေဂျာအဖြစ် သတ်မှတ်ရန် $BROWSER$ ဘရောက်ဇာခွင့်ပြုချက် ပေးရန် သင့်အား မေးမည်။",
+    "message": "Bitwarden ကို သင့်မူရင်းစကားဝှက်မန်နေဂျာအဖြစ် သတ်မှတ်ရန် $BROWSER$ ဘရောက်ဇာခွင့်ပြုချက် ပေးရန် သင့်အား မေးမည်။",
     "description": "Description for the callout that prompts users to set Bitwarden as their default password manager",
     "placeholders": {
       "browser": {
@@ -6508,11 +6508,11 @@
     }
   },
   "privacyPermissionAdditionNotGrantedTitle": {
-    "message": "Byteward ကို မူရင်းစကားဝှက်မန်နေဂျာအဖြစ် သတ်မှတ်၍ မရပါ",
+    "message": "Bitwarden ကို မူရင်းစကားဝှက်မန်နေဂျာအဖြစ် သတ်မှတ်၍ မရပါ",
     "description": "Title for the dialog that appears when the user has not granted the extension permission to set privacy settings"
   },
   "privacyPermissionAdditionNotGrantedDescription": {
-    "message": "Byteward ကို မူရင်းစကားဝှက်မန်နေဂျာအဖြစ် သတ်မှတ်ရန် ဘရောက်ဇာကိုယ်ရေးကိုယ်တာခွင့်ပြုချက်များကို Byteward အား ပေးရပါမည်။",
+    "message": "Bitwarden ကို မူရင်းစကားဝှက်မန်နေဂျာအဖြစ် သတ်မှတ်ရန် ဘရောက်ဇာကိုယ်ရေးကိုယ်တာခွင့်ပြုချက်များကို Bitwarden အား ပေးရပါမည်။",
     "description": "Description for the dialog that appears when the user has not granted the extension permission to set privacy settings"
   },
   "makeDefault": {
@@ -6520,10 +6520,10 @@
     "description": "Button text for the setting that allows overriding the default browser autofill settings"
   },
   "defaultPasswordManagerPromptTitle": {
-    "message": "Byteward ကို သင့်ဘရောက်ဇာ၏ မူရင်းစကားဝှက်မန်နေဂျာအဖြစ် သတ်မှတ်ပါ"
+    "message": "Bitwarden ကို သင့်ဘရောက်ဇာ၏ မူရင်းစကားဝှက်မန်နေဂျာအဖြစ် သတ်မှတ်ပါ"
   },
   "defaultPasswordManagerPromptTitleV2": {
-    "message": "Byteward ကို သင့်မူရင်းစကားဝှက်မန်နေဂျာအဖြစ် သတ်မှတ်ပါ",
+    "message": "Bitwarden ကို သင့်မူရင်းစကားဝှက်မန်နေဂျာအဖြစ် သတ်မှတ်ပါ",
     "description": "Label for the setting to make Bitwarden the default password manager"
   },
   "defaultPasswordManagerSettingHintV2": {
@@ -6535,13 +6535,13 @@
     "description": "Link text to browser autofill settings in the default password manager setting hint."
   },
   "defaultPasswordManagerPromptStep2AfterAllow": {
-    "message": "သင့်ဆက်တင်များကို ပြောင်းလဲရန် Byteward အား ခွင့်ပြုချက်ပေးရန် ဘရောက်ဇာမေးခွန်းမှ"
+    "message": "သင့်ဆက်တင်များကို ပြောင်းလဲရန် Bitwarden အား ခွင့်ပြုချက်ပေးရန် ဘရောက်ဇာမေးခွန်းမှ"
   },
   "defaultPasswordManagerPromptStep3": {
     "message": "သင့်ဘရောက်ဇာ၏ built-in စကားဝှက်မန်နေဂျာကို ကျွန်ုပ်တို့ပိတ်မည်၊ သို့မှသာ လုံခြုံသောလော့ဂ်အင်အတွေ့အကြုံကို ခံစားနိုင်မည်။"
   },
   "defaultPasswordManagerSuccessToast": {
-    "message": "Byteward ကို သင့်မူရင်းဘရောက်ဇာစကားဝှက်မန်နေဂျာအဖြစ် သတ်မှတ်ပြီးပါပြီ"
+    "message": "Bitwarden ကို သင့်မူရင်းဘရောက်ဇာစကားဝှက်မန်နေဂျာအဖြစ် သတ်မှတ်ပြီးပါပြီ"
   },
   "allow": {
     "message": "ခွင့်ပြုရန်",
@@ -7549,7 +7549,7 @@
     "description": "Notification message for when a password has been regenerated"
   },
   "saveToBitwarden": {
-    "message": "Byteward သို့ သိမ်းဆည်းရန်",
+    "message": "Bitwarden သို့ သိမ်းဆည်းရန်",
     "description": "Confirmation message for saving a login to Bitwarden"
   },
   "spaceCharacterDescriptor": {
@@ -7793,13 +7793,13 @@
     "message": "Use folders to organize vault items. They're just for you. No one else will see or use them."
   },
   "introCarouselLabel": {
-    "message": "Byteward မှ ကြိုဆိုပါသည်"
+    "message": "Bitwarden မှ ကြိုဆိုပါသည်"
   },
   "securityPrioritized": {
     "message": "လုံခြုံရေးကို ဦးစားပေးထားသည်"
   },
   "securityPrioritizedBody": {
-    "message": "လော့ဂ်အင်များ၊ ကတ်များနှင့် အထောက်အထားများကို သင့်လုံခြုံသောသေတ္တာတွင် သိမ်းဆည်းပါ။ Byteward သည် သင့်အတွက် အရေးကြီးသောအရာများကို ကာကွယ်ရန် zero-knowledge၊ အဆုံးမှအဆုံး စာဝှက်ခြင်းကို အသုံးပြုသည်။"
+    "message": "လော့ဂ်အင်များ၊ ကတ်များနှင့် အထောက်အထားများကို သင့်လုံခြုံသောသေတ္တာတွင် သိမ်းဆည်းပါ။ Bitwarden သည် သင့်အတွက် အရေးကြီးသောအရာများကို ကာကွယ်ရန် zero-knowledge၊ အဆုံးမှအဆုံး စာဝှက်ခြင်းကို အသုံးပြုသည်။"
   },
   "quickLogin": {
     "message": "လျင်မြန်လွယ်ကူသောလော့ဂ်အင်ဝင်ခြင်း"
@@ -7945,7 +7945,7 @@
     "message": "ဤဆက်တင်အကြောင်း"
   },
   "permitCipherDetailsDescription": {
-    "message": "Byteward သည် သင့်အတွေ့အကြုံကို တိုးတက်စေရန် မည်သည့်အိုင်ကွန် သို့မဟုတ် စကားဝှက်ပြောင်းရန် URL ကို အသုံးပြုသင့်သည်ကို ဖော်ထုတ်ရန် သိမ်းဆည်းထားသောလော့ဂ်အင် URI များကို အသုံးပြုမည်။ ဤဝန်ဆောင်မှုကို အသုံးပြုသောအခါ မည်သည့်အချက်အလက်မျှ စုဆောင်းခြင်း သို့မဟုတ် သိမ်းဆည်းခြင်း မပြုပါ။"
+    "message": "Bitwarden သည် သင့်အတွေ့အကြုံကို တိုးတက်စေရန် မည်သည့်အိုင်ကွန် သို့မဟုတ် စကားဝှက်ပြောင်းရန် URL ကို အသုံးပြုသင့်သည်ကို ဖော်ထုတ်ရန် သိမ်းဆည်းထားသောလော့ဂ်အင် URI များကို အသုံးပြုမည်။ ဤဝန်ဆောင်မှုကို အသုံးပြုသောအခါ မည်သည့်အချက်အလက်မျှ စုဆောင်းခြင်း သို့မဟုတ် သိမ်းဆည်းခြင်း မပြုပါ။"
   },
   "showQuickCopyActionsDetailsDescription": {
     "message": "သင့်အသုံးပြုသူအမည်၊ စကားဝှက် သို့မဟုတ် အတည်ပြုကုဒ်ကို ကလစ်ဘုတ်သို့ကူးယူရန် အရာများဘေးတွင် လျင်မြန်သောကူးယူခလုတ် ၃ ခု ထည့်ပါ။"
@@ -7954,7 +7954,7 @@
     "message": "ဤစာမျက်နှာကို ကြည့်ရှုရန် သင့်တွင် ခွင့်ပြုချက်မရှိပါ။ အခြားအကောင့်ဖြင့် လော့ဂ်အင်ဝင်ရန် ကြိုးစားပါ။"
   },
   "wasmNotSupported": {
-    "message": "WebAssembly ကို သင့်ဘရောက်ဇာတွင် မပံ့ပိုးပါ သို့မဟုတ် ဖွင့်မထားပါ။ Byteward အက်ပ်ကို အသုံးပြုရန် WebAssembly လိုအပ်သည်။",
+    "message": "WebAssembly ကို သင့်ဘရောက်ဇာတွင် မပံ့ပိုးပါ သို့မဟုတ် ဖွင့်မထားပါ။ Bitwarden အက်ပ်ကို အသုံးပြုရန် WebAssembly လိုအပ်သည်။",
     "description": "'WebAssembly' is a technical term and should not be translated."
   },
   "showMore": {
@@ -8261,7 +8261,7 @@
     "message": "မျှဝေထားသောသော့ဖွင့်ခြင်းကို အသုံးပြုရန် Bitwarden သည် ဒက်စ်တော့အက်ပ်နှင့် ဆက်သွယ်ရန် ခွင့်ပြုချက် လိုအပ်သည်။ သင်ဆက်လုပ်သောအခါ သင့်ဘရောက်ဇာက အတည်ပြုရန် မေးမည်။"
   },
   "sharedUnlockDesktopPermissionWarning": {
-    "message": "Byteward သည် သော့ခတ်ပြီး ပြန်လည်စတင်မည်။ သင်အတည်ပြုပြီးနောက် တိုးချဲ့မှု ပြန်လည်စတင်မည်ဖြစ်ပြီး သင့်သေတ္တာကို သော့ခတ်မည်။"
+    "message": "Bitwarden သည် သော့ခတ်ပြီး ပြန်လည်စတင်မည်။ သင်အတည်ပြုပြီးနောက် တိုးချဲ့မှု ပြန်လည်စတင်မည်ဖြစ်ပြီး သင့်သေတ္တာကို သော့ခတ်မည်။"
   },
   "biometricPermissionDesc": {
     "message": "ဇီဝမက်ထရစ်သော့ဖွင့်ခြင်းကို အသုံးပြုရန် Bitwarden သည် ဒက်စ်တော့အက်ပ်နှင့် ဆက်သွယ်ရန် ခွင့်ပြုချက် လိုအပ်သည်။ သင်ဆက်လုပ်သောအခါ သင့်ဘရောက်ဇာက အတည်ပြုရန် မေးမည်။"

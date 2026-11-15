@@ -1,20 +1,20 @@
 {
   "appName": {
-    "message": "Byteward"
+    "message": "Bitwarden"
   },
   "appLogoLabel": {
-    "message": "Byteward loqosu"
+    "message": "Bitwarden loqosu"
   },
   "extName": {
-    "message": "Byteward Parol Meneceri",
+    "message": "Bitwarden Parol Meneceri",
     "description": "Extension name, MUST be less than 40 characters (Safari restriction)"
   },
   "extNameBeta": {
-    "message": "Byteward Parol Meneceri Beta",
+    "message": "Bitwarden Parol Meneceri Beta",
     "description": "Extension name for the beta channel, MUST be less than 40 characters (Safari restriction)"
   },
   "extDesc": {
-    "message": "Byteward evdə və ya işdə olarkən bütün parol, keçid açarı və həssas məlumatlarınızı asanlıqla qoruyur",
+    "message": "Bitwarden evdə və ya işdə olarkən bütün parol, keçid açarı və həssas məlumatlarınızı asanlıqla qoruyur",
     "description": "Extension description, MUST be less than 112 characters (Safari restriction)"
   },
   "loginOrCreateNewAccount": {
@@ -336,7 +336,7 @@
     "message": "Brauzer uzantısını mağazasına gedirsiniz?"
   },
   "continueToBrowserExtensionStoreDesc": {
-    "message": "Başqalarının Byteward-in onlar üçün uyğun olub-olmadığını öyrənməkdə kömək edin. Brauzerin uzantı mağazasını ziyarət edin və qiymətləndirin."
+    "message": "Başqalarının Bitwarden-in onlar üçün uyğun olub-olmadığını öyrənməkdə kömək edin. Brauzerin uzantı mağazasını ziyarət edin və qiymətləndirin."
   },
   "changeMasterPasswordOnWebConfirmation": {
     "message": "Ana parolunuzu Bitwarden veb tətbiqində dəyişdirə bilərsiniz."
@@ -356,7 +356,7 @@
     "message": "Çıxış"
   },
   "aboutBitwarden": {
-    "message": "Byteward haqqında"
+    "message": "Bitwarden haqqında"
   },
   "about": {
     "message": "Haqqında"
@@ -1081,10 +1081,10 @@
     "message": "2 addımlı doğrulama problemsiz edin"
   },
   "totpHelper": {
-    "message": "Byteward, 2 addımlı doğrulama kodlarını saxlaya və doldura bilər. Açarı kopyalayıb bu xanaya yapışdırın."
+    "message": "Bitwarden, 2 addımlı doğrulama kodlarını saxlaya və doldura bilər. Açarı kopyalayıb bu xanaya yapışdırın."
   },
   "totpHelperWithCapture": {
-    "message": "Byteward, 2 addımlı doğrulama kodlarını saxlaya və doldura bilər. Bu veb sayt kimlik doğrulayıcı QR kodunun ekran şəklini çəkmək üçün kamera ikonunu seçin, ya da açarı kopyalayıb bu xanaya yapışdırın."
+    "message": "Bitwarden, 2 addımlı doğrulama kodlarını saxlaya və doldura bilər. Bu veb sayt kimlik doğrulayıcı QR kodunun ekran şəklini çəkmək üçün kamera ikonunu seçin, ya da açarı kopyalayıb bu xanaya yapışdırın."
   },
   "learnMoreAboutAuthenticators": {
     "message": "Kimlik doğrulayıcılar haqqında daha ətraflı"
@@ -1333,7 +1333,7 @@
     "message": "Ayarlara get"
   },
   "notificationAddDesc": {
-    "message": "Byteward sizin üçün bu parolu xatırlasın?"
+    "message": "Bitwarden sizin üçün bu parolu xatırlasın?"
   },
   "notificationAddSave": {
     "message": "Saxla"
@@ -1369,11 +1369,11 @@
     }
   },
   "notificationLoginSaveConfirmation": {
-    "message": "\"Byteward\"də saxlanıldı.",
+    "message": "\"Bitwarden\"də saxlanıldı.",
     "description": "Shown to user after item is saved."
   },
   "notificationLoginUpdatedConfirmation": {
-    "message": "\"Byteward\"də güncəlləndi.",
+    "message": "\"Bitwarden\"də güncəlləndi.",
     "description": "Shown to user after item is updated."
   },
   "selectItemAriaLabel": {
@@ -1471,13 +1471,13 @@
     "message": "Yeni keçid açarlarını saxlamağı və ya seyfinizdə saxlanılan keçid açarları ilə giriş etmək soruşulsun. Giriş etmiş bütün hesablara aiddir."
   },
   "notificationChangeDesc": {
-    "message": "Bu parolu \"Byteward\"də güncəlləmək istəyirsiniz?"
+    "message": "Bu parolu \"Bitwarden\"də güncəlləmək istəyirsiniz?"
   },
   "notificationChangeSave": {
     "message": "Güncəllə"
   },
   "notificationUnlockDesc": {
-    "message": "Avto-doldurma tələblərini tamamlamaq üçün Byteward seyfinizin kilidini açın."
+    "message": "Avto-doldurma tələblərini tamamlamaq üçün Bitwarden seyfinizin kilidini açın."
   },
   "notificationUnlock": {
     "message": "Kilidi aç"
@@ -1786,7 +1786,7 @@
     "message": "Bu parol, bu faylı daxilə və xaricə köçürmək üçün istifadə olunacaq"
   },
   "accountRestrictedOptionDescription": {
-    "message": "Xaricə köçürməni şifrələmək və daxilə köçürməni yalnız mövcud Byteward hesabı ilə məhdudlaşdırmaq üçün hesabınızın istifadəçi adı və Ana Parolundan əldə edilən hesab şifrələmə açarınızı istifadə edin."
+    "message": "Xaricə köçürməni şifrələmək və daxilə köçürməni yalnız mövcud Bitwarden hesabı ilə məhdudlaşdırmaq üçün hesabınızın istifadəçi adı və Ana Parolundan əldə edilən hesab şifrələmə açarınızı istifadə edin."
   },
   "passwordProtectedOptionDescription": {
     "message": "Xaricə köçürməni şifrələmək üçün bir fayl parolu təyin edin və şifrəni açma parolunu istifadə edərək bunu istənilən Bitwarden hesabına köçürün."
@@ -2236,7 +2236,7 @@
     "message": "Avto-doldurma təkliflərini asanlıqla tap"
   },
   "autofillSpotlightDesc": {
-    "message": "Byteward ilə ziddiyyət yaranmaması üçün brauzerinizin avto-doldurma ayarlarını söndürün."
+    "message": "Bitwarden ilə ziddiyyət yaranmaması üçün brauzerinizin avto-doldurma ayarlarını söndürün."
   },
   "turnOffBrowserAutofill": {
     "message": "$BROWSER$ avto-doldurma ayarını söndür",
@@ -2293,7 +2293,7 @@
     "message": "Avto-doldurma təkliflərini form xanalarında göstər"
   },
   "howDoesBitwardenProtectFromPhishing": {
-    "message": "Byteward verilərinizi fişinqdən necə qoruyur?"
+    "message": "Bitwarden verilərinizi fişinqdən necə qoruyur?"
   },
   "currentWebsite": {
     "message": "Hazırkı veb sayt"
@@ -3202,7 +3202,7 @@
     "message": "Zəif ana parol"
   },
   "weakMasterPasswordDesc": {
-    "message": "Seçdiyiniz ana parol zəifdir. Byteward hesabınızı daha yaxşı qorumaq üçün güclü bir ana parol (və ya uzun ifadə) istifadə etməlisiniz. Bu ana parol istifadə etmək istədiyinizə əminsiniz?"
+    "message": "Seçdiyiniz ana parol zəifdir. Bitwarden hesabınızı daha yaxşı qorumaq üçün güclü bir ana parol (və ya uzun ifadə) istifadə etməlisiniz. Bu ana parol istifadə etmək istədiyinizə əminsiniz?"
   },
   "rotateAccountEncKey": {
     "message": "Həmçinin hesabımın şifrələmə açarını da döndər"
@@ -3242,10 +3242,10 @@
     "message": "PIN təyin et"
   },
   "setYourPinCode": {
-    "message": "Byteward-in kilidini açmaq üçün PIN kodunuzu ayarlayın. Tətbiqdən tam çıxış etdikdə PIN ayarlarınız sıfırlanacaq."
+    "message": "Bitwarden-in kilidini açmaq üçün PIN kodunuzu ayarlayın. Tətbiqdən tam çıxış etdikdə PIN ayarlarınız sıfırlanacaq."
   },
   "setPinCode": {
-    "message": "Byteward-in kilidini açmaq üçün bu PIN-i istifadə edə bilərsiniz. Tətbiqdən tam çıxış etsəniz, PIN-iniz sıfırlanacaq."
+    "message": "Bitwarden-in kilidini açmaq üçün bu PIN-i istifadə edə bilərsiniz. Tətbiqdən tam çıxış etsəniz, PIN-iniz sıfırlanacaq."
   },
   "pinRequired": {
     "message": "PIN kod lazımdır."
@@ -3381,7 +3381,7 @@
     "message": "Form sahibliyi, saxlanılmış girişinizin URI-sindən fərqli bir domen tərəfindən edilir. Yenə də avto-doldurmaq üçün \"Oldu\"ya, dayandırmaq üçün \"İmtina\"ya basın."
   },
   "autofillIframeWarningTip": {
-    "message": "Gələcəkdə bu xəbərdarlığı önləmək üçün, $HOSTNAME$ URI-nı bu sayt üçün Byteward giriş elementinizdə saxlayın.",
+    "message": "Gələcəkdə bu xəbərdarlığı önləmək üçün, $HOSTNAME$ URI-nı bu sayt üçün Bitwarden giriş elementinizdə saxlayın.",
     "placeholders": {
       "hostname": {
         "content": "$1",
@@ -3390,7 +3390,7 @@
     }
   },
   "topLayerHijackWarning": {
-    "message": "Bu səhifə Byteward təcrübəsinə müdaxilə edir. Byteward daxili menyusu, təhlükəsizlik tədbiri olaraq müvəqqəti sıradan çıxarılıb."
+    "message": "Bu səhifə Bitwarden təcrübəsinə müdaxilə edir. Bitwarden daxili menyusu, təhlükəsizlik tədbiri olaraq müvəqqəti sıradan çıxarılıb."
   },
   "setMasterPassword": {
     "message": "Ana parolu ayarla"
@@ -3552,7 +3552,7 @@
     "message": "Biometrik uğursuzdur"
   },
   "biometricsFailedDesc": {
-    "message": "Biometriklər tamamlana bilmir, ana parol istifadə etməyi düşünün və ya çıxış edin. Bu problem davam edərsə, lütfən Byteward dəstəyi ilə əlaqə saxlayın."
+    "message": "Biometriklər tamamlana bilmir, ana parol istifadə etməyi düşünün və ya çıxış edin. Bu problem davam edərsə, lütfən Bitwarden dəstəyi ilə əlaqə saxlayın."
   },
   "nativeMessagingPermissionErrorTitle": {
     "message": "İzin verilməyib"
@@ -3595,7 +3595,7 @@
     "message": "İstisna edilən domenlər"
   },
   "excludedDomainsDesc": {
-    "message": "Byteward, bu domenlər üçün giriş ayrıntılarını saxlamağı soruşmayacaq. Dəyişikliklərin qüvvəyə minməsi üçün səhifəni təzələməlisiniz."
+    "message": "Bitwarden, bu domenlər üçün giriş ayrıntılarını saxlamağı soruşmayacaq. Dəyişikliklərin qüvvəyə minməsi üçün səhifəni təzələməlisiniz."
   },
   "blockedDomainsDesc": {
     "message": "Bu veb saytlar üçün avto-doldurma və digər əlaqəli özəlliklər təklif olunmayacaq. Dəyişikliklərin qüvvəyə minməsi üçün səhifəni təzələməlisiniz."
@@ -3727,24 +3727,24 @@
     "message": "Risk altındakı girişlərin olduğu siyahının təsviri."
   },
   "welcomeDialogGraphicAlt": {
-    "message": "Byteward seyf səhifəsinin düzümünün illüstrasiyası."
+    "message": "Bitwarden seyf səhifəsinin düzümünün illüstrasiyası."
   },
   "generatePasswordSlideDesc": {
-    "message": "Risk altında olan saytda Byteward avto-doldurma menyusu ilə güclü, unikal parolları cəld yaradın.",
+    "message": "Risk altında olan saytda Bitwarden avto-doldurma menyusu ilə güclü, unikal parolları cəld yaradın.",
     "description": "Description of the generate password slide on the at-risk password page carousel"
   },
   "generatePasswordSlideImgAltPeriod": {
-    "message": "Yaradılan parolları göstərən Byteward avto-doldurma menyusunun təsviri."
+    "message": "Yaradılan parolları göstərən Bitwarden avto-doldurma menyusunun təsviri."
   },
   "updateInBitwarden": {
-    "message": "Byteward-də güncəllə"
+    "message": "Bitwarden-də güncəllə"
   },
   "updateInBitwardenSlideDesc": {
-    "message": "Byteward, daha sonra parol menecerində parolu güncəlləməyinizi istəyəcək.",
+    "message": "Bitwarden, daha sonra parol menecerində parolu güncəlləməyinizi istəyəcək.",
     "description": "Description of the update in Bitwarden slide on the at-risk password page carousel"
   },
   "updateInBitwardenSlideImgAltPeriod": {
-    "message": "İstifadəçidən giriş məlumatlarını güncəlləməsini istəyən Byteward bildirişinin təsviri."
+    "message": "İstifadəçidən giriş məlumatlarını güncəlləməsini istəyən Bitwarden bildirişinin təsviri."
   },
   "turnOnAutofill": {
     "message": "Avto-doldurmanı işə sal"
@@ -4372,11 +4372,11 @@
     }
   },
   "forwarderGeneratedBy": {
-    "message": "Byteward tərəfindən yaradılıb.",
+    "message": "Bitwarden tərəfindən yaradılıb.",
     "description": "Displayed with the address on the forwarding service's configuration screen."
   },
   "forwarderGeneratedByWithWebsite": {
-    "message": "Veb sayt: $WEBSITE$. Byteward tərəfindən yaradılıb.",
+    "message": "Veb sayt: $WEBSITE$. Bitwarden tərəfindən yaradılıb.",
     "description": "Displayed with the address on the forwarding service's configuration screen.",
     "placeholders": {
       "WEBSITE": {
@@ -4598,7 +4598,7 @@
     "message": "Cihazınıza bir bildiriş göndərildi."
   },
   "notificationSentDevicePart1": {
-    "message": "Cihazınızda Byteward kilidini açın, ya da "
+    "message": "Cihazınızda Bitwarden kilidini açın, ya da "
   },
   "notificationSentDeviceAnchor": {
     "message": "veb tətbiqinizdə"
@@ -5098,15 +5098,15 @@
     "message": "Məzmunu ötür"
   },
   "bitwardenOverlayButton": {
-    "message": "Byteward avto-doldurma menyu düyməsi",
+    "message": "Bitwarden avto-doldurma menyu düyməsi",
     "description": "Page title for the iframe containing the overlay button"
   },
   "toggleBitwardenVaultOverlay": {
-    "message": "Byteward avto-doldurma menyusunu aç/bağla",
+    "message": "Bitwarden avto-doldurma menyusunu aç/bağla",
     "description": "Screen reader and tool tip label for the overlay button"
   },
   "bitwardenVault": {
-    "message": "Byteward avto-doldurma menyusu",
+    "message": "Bitwarden avto-doldurma menyusu",
     "description": "Page title in overlay"
   },
   "unlockYourAccountToViewMatchingLogins": {
@@ -5178,7 +5178,7 @@
     "description": "Screen reader text (aria-label) for new identity button within inline menu"
   },
   "bitwardenOverlayMenuAvailable": {
-    "message": "Byteward avto-doldurma menyusu mövcuddur. Seçmək üçün aşağı ox düyməsinə basın.",
+    "message": "Bitwarden avto-doldurma menyusu mövcuddur. Seçmək üçün aşağı ox düyməsinə basın.",
     "description": "Screen reader text for announcing when the overlay opens on the page"
   },
   "turnOn": {
@@ -6438,7 +6438,7 @@
     "description": "Label indicating the most common import formats"
   },
   "uriMatchDefaultStrategyHint": {
-    "message": "URI uyuşma aşkarlaması, Byteward-in avto-doldurma təkliflərini necə müəyyən etdiyini göstərir.",
+    "message": "URI uyuşma aşkarlaması, Bitwarden-in avto-doldurma təkliflərini necə müəyyən etdiyini göstərir.",
     "description": "Explains to the user that URI match detection determines how Bitwarden suggests autofill options, and clarifies that this default strategy applies when no specific match detection is set for a login item."
   },
   "regExAdvancedOptionWarning": {
@@ -6482,15 +6482,15 @@
     "description": "Body content for dialog which asks if the user wants to proceed to the browser's keyboard shortcut settings page"
   },
   "overrideDefaultBrowserAutofillTitle": {
-    "message": "Byteward ilkin parol meneceriniz olaraq təyin edilsin?",
+    "message": "Bitwarden ilkin parol meneceriniz olaraq təyin edilsin?",
     "description": "Dialog title facilitating the ability to override a chrome browser's default autofill behavior"
   },
   "overrideDefaultBrowserAutofillDescription": {
-    "message": "Bu seçənəyin yox sayılması, \"Byteward\"in və brauzerinizin avto-doldurma menyuları arasında ziddiyyətlərə səbəb ola bilər.",
+    "message": "Bu seçənəyin yox sayılması, \"Bitwarden\"in və brauzerinizin avto-doldurma menyuları arasında ziddiyyətlərə səbəb ola bilər.",
     "description": "Dialog message facilitating the ability to override a chrome browser's default autofill behavior"
   },
   "overrideDefaultBrowserAutoFillSettings": {
-    "message": "\"Byteward\"i ilkin parol meneceriniz olaraq təyin edin",
+    "message": "\"Bitwarden\"i ilkin parol meneceriniz olaraq təyin edin",
     "description": "Label for the setting that allows overriding the default browser autofill settings"
   },
   "defaultPasswordManagerCalloutTitle": {
@@ -6498,7 +6498,7 @@
     "description": "Title for the callout that prompts users to set Bitwarden as their default password manager"
   },
   "defaultPasswordManagerCalloutDesc": {
-    "message": "Byteward-i ilkin parol meneceriniz etmək üçün $BROWSER$ brauzer iznini verməyiniz istənəcək.",
+    "message": "Bitwarden-i ilkin parol meneceriniz etmək üçün $BROWSER$ brauzer iznini verməyiniz istənəcək.",
     "description": "Description for the callout that prompts users to set Bitwarden as their default password manager",
     "placeholders": {
       "browser": {
@@ -6508,11 +6508,11 @@
     }
   },
   "privacyPermissionAdditionNotGrantedTitle": {
-    "message": "Byteward ilkin parol meneceri olaraq ayarlana bilmir",
+    "message": "Bitwarden ilkin parol meneceri olaraq ayarlana bilmir",
     "description": "Title for the dialog that appears when the user has not granted the extension permission to set privacy settings"
   },
   "privacyPermissionAdditionNotGrantedDescription": {
-    "message": "Byteward-i ilkin parol meneceri olaraq ayarlamaq üçün ona brauzer məxfilik icazələrini verməlisiniz.",
+    "message": "Bitwarden-i ilkin parol meneceri olaraq ayarlamaq üçün ona brauzer məxfilik icazələrini verməlisiniz.",
     "description": "Description for the dialog that appears when the user has not granted the extension permission to set privacy settings"
   },
   "makeDefault": {
@@ -6520,10 +6520,10 @@
     "description": "Button text for the setting that allows overriding the default browser autofill settings"
   },
   "defaultPasswordManagerPromptTitle": {
-    "message": "\"Byteward\"i brauzerinizin ilkin parol meneceriniz olaraq təyin edin"
+    "message": "\"Bitwarden\"i brauzerinizin ilkin parol meneceriniz olaraq təyin edin"
   },
   "defaultPasswordManagerPromptTitleV2": {
-    "message": "\"Byteward\"i ilkin parol meneceriniz olaraq təyin edin",
+    "message": "\"Bitwarden\"i ilkin parol meneceriniz olaraq təyin edin",
     "description": "Label for the setting to make Bitwarden the default password manager"
   },
   "defaultPasswordManagerSettingHintV2": {
@@ -6535,13 +6535,13 @@
     "description": "Link text to browser autofill settings in the default password manager setting hint."
   },
   "defaultPasswordManagerPromptStep2AfterAllow": {
-    "message": "brauzerinizdən Byteward-ə ayarlarınızı dəyişdirmə iznini vermək üçün sorğu gələcək."
+    "message": "brauzerinizdən Bitwarden-ə ayarlarınızı dəyişdirmə iznini vermək üçün sorğu gələcək."
   },
   "defaultPasswordManagerPromptStep3": {
     "message": "Güvənli giriş təcrübəsindən zövq ala bilməyiniz üçün brauzerinizin daxili parol menecerini söndürəcəyik."
   },
   "defaultPasswordManagerSuccessToast": {
-    "message": "\"Byteward\"i ilkin parol meneceriniz olaraq təyin edildi"
+    "message": "\"Bitwarden\"i ilkin parol meneceriniz olaraq təyin edildi"
   },
   "allow": {
     "message": "İcazə ver",
@@ -7549,7 +7549,7 @@
     "description": "Notification message for when a password has been regenerated"
   },
   "saveToBitwarden": {
-    "message": "\"Byteward\"də saxla",
+    "message": "\"Bitwarden\"də saxla",
     "description": "Confirmation message for saving a login to Bitwarden"
   },
   "spaceCharacterDescriptor": {
@@ -7793,13 +7793,13 @@
     "message": "Seyf elementlərini düzənləmək üçün qovluqları istifadə edin. Bunlar sadəcə sizin üçündür. Başqa heç kəs onları görə və ya istifadə edə bilməz."
   },
   "introCarouselLabel": {
-    "message": "Byteward-ə xoş gəlmisiniz"
+    "message": "Bitwarden-ə xoş gəlmisiniz"
   },
   "securityPrioritized": {
     "message": "Təhlükəsizlik, prioritetdir"
   },
   "securityPrioritizedBody": {
-    "message": "Girişləri, kart və kimlik məlumatlarınızı güvənli seyfinizdə saxlayın. Byteward, sizin üçün mühüm olanları qorumaq üçün zero-knowledge və ucdan-uca şifrələmə istifadə edir."
+    "message": "Girişləri, kart və kimlik məlumatlarınızı güvənli seyfinizdə saxlayın. Bitwarden, sizin üçün mühüm olanları qorumaq üçün zero-knowledge və ucdan-uca şifrələmə istifadə edir."
   },
   "quickLogin": {
     "message": "Cəld və asan giriş"
@@ -7945,7 +7945,7 @@
     "message": "Bu ayar barədə"
   },
   "permitCipherDetailsDescription": {
-    "message": "Byteward, təcrübənizi təkmilləşdirmək üçün hansı ikonun və ya parol dəyişdirmə URL-sinin istifadə olunmalı olduğunu müəyyənləşdirmək məqsədilə saxlanılmış giriş URL-lərini istifadə edəcək. Bu xidməti istifadə etdiyiniz zaman heç bir məlumat yığılmır və ya saxlanılmır."
+    "message": "Bitwarden, təcrübənizi təkmilləşdirmək üçün hansı ikonun və ya parol dəyişdirmə URL-sinin istifadə olunmalı olduğunu müəyyənləşdirmək məqsədilə saxlanılmış giriş URL-lərini istifadə edəcək. Bu xidməti istifadə etdiyiniz zaman heç bir məlumat yığılmır və ya saxlanılmır."
   },
   "showQuickCopyActionsDetailsDescription": {
     "message": "İstifadəçi adınızı, parolunuzu və ya doğrulama kodunuzu lövhəyə kopyalamaq üçün elementlərin yanına 3 cəld kopyalama düyməsi əlavə edin."
@@ -7954,7 +7954,7 @@
     "message": "Bu səhifəyə baxmaq üçün izniniz yoxdur. Fərqli hesabla giriş etməyə çalışın."
   },
   "wasmNotSupported": {
-    "message": "WebAssembly brauzerinizdə dəstəklənmir və ya fəal deyil. WebAssembly, Byteward tətbiqini istifadə etmək üçün tələb olunur.",
+    "message": "WebAssembly brauzerinizdə dəstəklənmir və ya fəal deyil. WebAssembly, Bitwarden tətbiqini istifadə etmək üçün tələb olunur.",
     "description": "'WebAssembly' is a technical term and should not be translated."
   },
   "showMore": {
@@ -8261,7 +8261,7 @@
     "message": "Paylaşılan kilid açmanı istifadə etmək üçün Bitwarden-in masaüstü tətbiqi ilə əlaqə qurma izninə ehtiyacı var. Davam etdiyiniz zaman, brauzeriniz sizdən bunu təsdiqləməyinizi istəyəcək."
   },
   "sharedUnlockDesktopPermissionWarning": {
-    "message": "Byteward kilidlənib yenidən yüklənəcək. Siz təsdiqlədikdən sonra uzantı yenidən yüklənir və seyfiniz kilidlənir."
+    "message": "Bitwarden kilidlənib yenidən yüklənəcək. Siz təsdiqlədikdən sonra uzantı yenidən yüklənir və seyfiniz kilidlənir."
   },
   "biometricPermissionDesc": {
     "message": "Biometrik kilid açmanı istifadə etmək üçün Bitwarden-in masaüstü tətbiqi ilə əlaqə qurma izninə ehtiyacı var. Davam etdiyiniz zaman, brauzeriniz sizdən bunu təsdiqləməyinizi istəyəcək."

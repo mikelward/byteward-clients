@@ -1,20 +1,20 @@
 {
   "appName": {
-    "message": "Byteward"
+    "message": "Bitwarden"
   },
   "appLogoLabel": {
-    "message": "Logo Byteward"
+    "message": "Logo Bitwarden"
   },
   "extName": {
-    "message": "Pengelola Sandi Byteward",
+    "message": "Pengelola Sandi Bitwarden",
     "description": "Extension name, MUST be less than 40 characters (Safari restriction)"
   },
   "extNameBeta": {
-    "message": "Byteward Password Manager Beta",
+    "message": "Bitwarden Password Manager Beta",
     "description": "Extension name for the beta channel, MUST be less than 40 characters (Safari restriction)"
   },
   "extDesc": {
-    "message": "Byteward memudahkan Anda menyimpan kata sandi, kata kunci, dan informasi sensitif dimanapun Anda berada",
+    "message": "Bitwarden memudahkan Anda menyimpan kata sandi, kata kunci, dan informasi sensitif dimanapun Anda berada",
     "description": "Extension description, MUST be less than 112 characters (Safari restriction)"
   },
   "loginOrCreateNewAccount": {
@@ -336,7 +336,7 @@
     "message": "Lanjut ke pasar ekstensi peramban?"
   },
   "continueToBrowserExtensionStoreDesc": {
-    "message": "Bantu orang lain menemukan apakah Byteward sesuai untuk mereka. Kunjungi toko ekstensi peramban Anda dan tinggalkan sebuah ulasan sekarang."
+    "message": "Bantu orang lain menemukan apakah Bitwarden sesuai untuk mereka. Kunjungi toko ekstensi peramban Anda dan tinggalkan sebuah ulasan sekarang."
   },
   "changeMasterPasswordOnWebConfirmation": {
     "message": "Anda dapat merubah sandi utama di aplikasi Bitwarden web."
@@ -356,7 +356,7 @@
     "message": "Keluar"
   },
   "aboutBitwarden": {
-    "message": "Tentang Byteward"
+    "message": "Tentang Bitwarden"
   },
   "about": {
     "message": "Tentang"
@@ -1081,10 +1081,10 @@
     "message": "Buat verifikasi dua-langkah lancar"
   },
   "totpHelper": {
-    "message": "Byteward dapat menyimpan dan mengisikan kode verifikasi dua-langkah. Salin dan tempel kunci ke kolom ini."
+    "message": "Bitwarden dapat menyimpan dan mengisikan kode verifikasi dua-langkah. Salin dan tempel kunci ke kolom ini."
   },
   "totpHelperWithCapture": {
-    "message": "Byteward dapat menyimpan dan mengisikan kode verifikasi dua-langkah. Pilih ikon kamera untuk mengambil tangkapan layar dari kode QR otentikasi dari situs web ini, atau salin dan tempel kunci ke kolom ini."
+    "message": "Bitwarden dapat menyimpan dan mengisikan kode verifikasi dua-langkah. Pilih ikon kamera untuk mengambil tangkapan layar dari kode QR otentikasi dari situs web ini, atau salin dan tempel kunci ke kolom ini."
   },
   "learnMoreAboutAuthenticators": {
     "message": "Pelajari lebih lanjut tentang pengotentikasi"
@@ -1333,7 +1333,7 @@
     "message": "Lompat ke pengaturan"
   },
   "notificationAddDesc": {
-    "message": "Haruskah Byteward mengingat sandi ini untuk Anda?"
+    "message": "Haruskah Bitwarden mengingat sandi ini untuk Anda?"
   },
   "notificationAddSave": {
     "message": "Iya, Simpan Sekarang"
@@ -1369,11 +1369,11 @@
     }
   },
   "notificationLoginSaveConfirmation": {
-    "message": "telah disimpan ke Byteward.",
+    "message": "telah disimpan ke Bitwarden.",
     "description": "Shown to user after item is saved."
   },
   "notificationLoginUpdatedConfirmation": {
-    "message": "telah diperbarui di Byteward.",
+    "message": "telah diperbarui di Bitwarden.",
     "description": "Shown to user after item is updated."
   },
   "selectItemAriaLabel": {
@@ -1471,13 +1471,13 @@
     "message": "Tanyakan untuk menyimpan kunci sandi baru atau masuk dengan kunci sandi yang tersimpan di brankas Anda. Diterapkan ke semua akun yang telah masuk."
   },
   "notificationChangeDesc": {
-    "message": "Apakah Anda ingin memperbarui kata sandi ini di Byteward?"
+    "message": "Apakah Anda ingin memperbarui kata sandi ini di Bitwarden?"
   },
   "notificationChangeSave": {
     "message": "Iya, Perbarui Sekarang"
   },
   "notificationUnlockDesc": {
-    "message": "Buka brankan Byteward Anda untuk melengkapi permintaan isi otomatis."
+    "message": "Buka brankan Bitwarden Anda untuk melengkapi permintaan isi otomatis."
   },
   "notificationUnlock": {
     "message": "Buka"
@@ -1786,7 +1786,7 @@
     "message": "Kata sandi ini akan digunakan untuk mengekspor dan mengimpor berkas ini"
   },
   "accountRestrictedOptionDescription": {
-    "message": "Gunakan kunci enkripsi akun Anda, diturunkan dari nama pengguna akun Anda dan kata sandi utama, untuk mengenkripsi ekspor dan membatasi impor menjadi hanya akun Byteward saat ini."
+    "message": "Gunakan kunci enkripsi akun Anda, diturunkan dari nama pengguna akun Anda dan kata sandi utama, untuk mengenkripsi ekspor dan membatasi impor menjadi hanya akun Bitwarden saat ini."
   },
   "passwordProtectedOptionDescription": {
     "message": "Atur kata sandi berkas untuk mengenkripsi ekspor dan mengimpornya ke sebarang akun Bitwarden menggunakan kata sandi untuk dekripsi."
@@ -2236,7 +2236,7 @@
     "message": "Temukan saran isi otomatis dengan mudah"
   },
   "autofillSpotlightDesc": {
-    "message": "Matikan pengaturan isi otomatis peramban Anda, sehingga tidak bertentangan dengan Byteward."
+    "message": "Matikan pengaturan isi otomatis peramban Anda, sehingga tidak bertentangan dengan Bitwarden."
   },
   "turnOffBrowserAutofill": {
     "message": "Matikan isi otomatis $BROWSER$",
@@ -2293,7 +2293,7 @@
     "message": "Tampilkan saran isi otomatis pada kolom formulir"
   },
   "howDoesBitwardenProtectFromPhishing": {
-    "message": "Bagaimana Byteward melindungi data Anda dari phishing?"
+    "message": "Bagaimana Bitwarden melindungi data Anda dari phishing?"
   },
   "currentWebsite": {
     "message": "Situs web saat ini"
@@ -3202,7 +3202,7 @@
     "message": "Kata Sandi Utama Lemah"
   },
   "weakMasterPasswordDesc": {
-    "message": "Kata sandi utama yang Anda pilih itu lemah. Anda harus menggunakan kata sandi yang kuat (atau frasa sandi) untuk melindungi akun Byteward Anda. Apakah Anda yakin ingin menggunakan kata sandi ini?"
+    "message": "Kata sandi utama yang Anda pilih itu lemah. Anda harus menggunakan kata sandi yang kuat (atau frasa sandi) untuk melindungi akun Bitwarden Anda. Apakah Anda yakin ingin menggunakan kata sandi ini?"
   },
   "rotateAccountEncKey": {
     "message": "Juga putar kunci enkripsi akun saya"
@@ -3242,10 +3242,10 @@
     "message": "Atur PIN"
   },
   "setYourPinCode": {
-    "message": "Setel kode PIN Anda untuk membuka kunci Byteward. Pengaturan PIN Anda akan diatur ulang jika Anda pernah keluar sepenuhnya dari aplikasi."
+    "message": "Setel kode PIN Anda untuk membuka kunci Bitwarden. Pengaturan PIN Anda akan diatur ulang jika Anda pernah keluar sepenuhnya dari aplikasi."
   },
   "setPinCode": {
-    "message": "Anda dapat menggunakan PIN ini untuk membuka Byteward. PIN Anda akan diatur ulang jika Anda keluar dari semua sesi aplikasi."
+    "message": "Anda dapat menggunakan PIN ini untuk membuka Bitwarden. PIN Anda akan diatur ulang jika Anda keluar dari semua sesi aplikasi."
   },
   "pinRequired": {
     "message": "Membutuhkan kode PIN."
@@ -3381,7 +3381,7 @@
     "message": "Formulir dihosting oleh domain yang berbeda dari URI login yang telah Anda simpan. Pilih OK untuk tetap mengisi otomatis, atau Batalkan untuk menghentikan."
   },
   "autofillIframeWarningTip": {
-    "message": "Untuk mencegah peringatan ini di masa depan, simpan URI ini, $HOSTNAME$, ke benda login Byteward untuk situs ini.",
+    "message": "Untuk mencegah peringatan ini di masa depan, simpan URI ini, $HOSTNAME$, ke benda login Bitwarden untuk situs ini.",
     "placeholders": {
       "hostname": {
         "content": "$1",
@@ -3390,7 +3390,7 @@
     }
   },
   "topLayerHijackWarning": {
-    "message": "Halaman ini mengganggu pengalaman Byteward. Menu inline Byteward telah dinonaktifkan sementara sebagai tindakan pengamanan."
+    "message": "Halaman ini mengganggu pengalaman Bitwarden. Menu inline Bitwarden telah dinonaktifkan sementara sebagai tindakan pengamanan."
   },
   "setMasterPassword": {
     "message": "Atur Kata Sandi Utama"
@@ -3552,7 +3552,7 @@
     "message": "Biometrik gagal"
   },
   "biometricsFailedDesc": {
-    "message": "Biometrik tidak dapat diselesaikan, pertimbangkan untuk menggunakan sebuah kata sandi utama atau keluar. Jika hal ini tetap berlangsung, mohon hubungi dukungan Byteward."
+    "message": "Biometrik tidak dapat diselesaikan, pertimbangkan untuk menggunakan sebuah kata sandi utama atau keluar. Jika hal ini tetap berlangsung, mohon hubungi dukungan Bitwarden."
   },
   "nativeMessagingPermissionErrorTitle": {
     "message": "Izin tidak diberikan"
@@ -3595,7 +3595,7 @@
     "message": "Domain yang Dikecualikan"
   },
   "excludedDomainsDesc": {
-    "message": "Byteward tidak akan meminta untuk menyimpan detail login untuk domain ini. Anda harus menyegarkan halaman agar perubahan diterapkan."
+    "message": "Bitwarden tidak akan meminta untuk menyimpan detail login untuk domain ini. Anda harus menyegarkan halaman agar perubahan diterapkan."
   },
   "blockedDomainsDesc": {
     "message": "Isi otomatis dan fitur terkait lain tidak akan ditawarkan bagi situs-situs web ini. Anda mesti menyegarkan halaman agar perubahan berdampak."
@@ -3727,24 +3727,24 @@
     "message": "Gambaran daftar info masuk yang berpotensi bahaya."
   },
   "welcomeDialogGraphicAlt": {
-    "message": "Ilustrasi tata letak halaman vault Byteward."
+    "message": "Ilustrasi tata letak halaman vault Bitwarden."
   },
   "generatePasswordSlideDesc": {
-    "message": "Hasilkan kata sandi yang kuat dan unik dengan cepat dengan menu isi otomatis Byteward pada situs yang berpotensi bahaya.",
+    "message": "Hasilkan kata sandi yang kuat dan unik dengan cepat dengan menu isi otomatis Bitwarden pada situs yang berpotensi bahaya.",
     "description": "Description of the generate password slide on the at-risk password page carousel"
   },
   "generatePasswordSlideImgAltPeriod": {
-    "message": "Gambaran dari menu isi otomatis Byteward yang menampilkan kata sandi yang dihasilkan."
+    "message": "Gambaran dari menu isi otomatis Bitwarden yang menampilkan kata sandi yang dihasilkan."
   },
   "updateInBitwarden": {
-    "message": "Perbarui di Byteward"
+    "message": "Perbarui di Bitwarden"
   },
   "updateInBitwardenSlideDesc": {
-    "message": "Byteward akan meminta Anda untuk memperbarui kata sandi di pengelola sandi.",
+    "message": "Bitwarden akan meminta Anda untuk memperbarui kata sandi di pengelola sandi.",
     "description": "Description of the update in Bitwarden slide on the at-risk password page carousel"
   },
   "updateInBitwardenSlideImgAltPeriod": {
-    "message": "Gambaran dari pemberitahuan Byteward yang meminta pengguna untuk memperbarui info masuk."
+    "message": "Gambaran dari pemberitahuan Bitwarden yang meminta pengguna untuk memperbarui info masuk."
   },
   "turnOnAutofill": {
     "message": "Nyalakan isi otomatis"
@@ -4372,11 +4372,11 @@
     }
   },
   "forwarderGeneratedBy": {
-    "message": "Dibuat oleh Byteward.",
+    "message": "Dibuat oleh Bitwarden.",
     "description": "Displayed with the address on the forwarding service's configuration screen."
   },
   "forwarderGeneratedByWithWebsite": {
-    "message": "Situs web: $WEBSITE$. Dibuat oleh Byteward.",
+    "message": "Situs web: $WEBSITE$. Dibuat oleh Bitwarden.",
     "description": "Displayed with the address on the forwarding service's configuration screen.",
     "placeholders": {
       "WEBSITE": {
@@ -4598,7 +4598,7 @@
     "message": "Sebuah pemberitahuan dikirim ke perangkat Anda."
   },
   "notificationSentDevicePart1": {
-    "message": "Buka kunci Byteward pada perangkat Anda atau pada"
+    "message": "Buka kunci Bitwarden pada perangkat Anda atau pada"
   },
   "notificationSentDeviceAnchor": {
     "message": "aplikasi web"
@@ -5098,15 +5098,15 @@
     "message": "Loncat ke konten"
   },
   "bitwardenOverlayButton": {
-    "message": "Tombol menu isi otomatis Byteward",
+    "message": "Tombol menu isi otomatis Bitwarden",
     "description": "Page title for the iframe containing the overlay button"
   },
   "toggleBitwardenVaultOverlay": {
-    "message": "Saklar menu isi otomatis Byteward",
+    "message": "Saklar menu isi otomatis Bitwarden",
     "description": "Screen reader and tool tip label for the overlay button"
   },
   "bitwardenVault": {
-    "message": "Menu isi otomatis Byteward",
+    "message": "Menu isi otomatis Bitwarden",
     "description": "Page title in overlay"
   },
   "unlockYourAccountToViewMatchingLogins": {
@@ -5178,7 +5178,7 @@
     "description": "Screen reader text (aria-label) for new identity button within inline menu"
   },
   "bitwardenOverlayMenuAvailable": {
-    "message": "Menu isi otomatis Byteward tersedia. Tekan tombol panah ke bawah untuk memilih.",
+    "message": "Menu isi otomatis Bitwarden tersedia. Tekan tombol panah ke bawah untuk memilih.",
     "description": "Screen reader text for announcing when the overlay opens on the page"
   },
   "turnOn": {
@@ -6438,7 +6438,7 @@
     "description": "Label indicating the most common import formats"
   },
   "uriMatchDefaultStrategyHint": {
-    "message": "Byteward mengenali saran isi otomatis menggunakan deteksi kecocokan URI.",
+    "message": "Bitwarden mengenali saran isi otomatis menggunakan deteksi kecocokan URI.",
     "description": "Explains to the user that URI match detection determines how Bitwarden suggests autofill options, and clarifies that this default strategy applies when no specific match detection is set for a login item."
   },
   "regExAdvancedOptionWarning": {
@@ -6482,15 +6482,15 @@
     "description": "Body content for dialog which asks if the user wants to proceed to the browser's keyboard shortcut settings page"
   },
   "overrideDefaultBrowserAutofillTitle": {
-    "message": "Jadikan Byteward sebagai pengelola kata sandi bawaan Anda?",
+    "message": "Jadikan Bitwarden sebagai pengelola kata sandi bawaan Anda?",
     "description": "Dialog title facilitating the ability to override a chrome browser's default autofill behavior"
   },
   "overrideDefaultBrowserAutofillDescription": {
-    "message": "Mengabaikan pilihan ini dapat mengakibatkan perseteruan antara saran isi otomatis Byteward dengan peramban Anda.",
+    "message": "Mengabaikan pilihan ini dapat mengakibatkan perseteruan antara saran isi otomatis Bitwarden dengan peramban Anda.",
     "description": "Dialog message facilitating the ability to override a chrome browser's default autofill behavior"
   },
   "overrideDefaultBrowserAutoFillSettings": {
-    "message": "Jadikan Byteward sebagai pengelola kata sandi bawaan Anda",
+    "message": "Jadikan Bitwarden sebagai pengelola kata sandi bawaan Anda",
     "description": "Label for the setting that allows overriding the default browser autofill settings"
   },
   "defaultPasswordManagerCalloutTitle": {
@@ -6498,7 +6498,7 @@
     "description": "Title for the callout that prompts users to set Bitwarden as their default password manager"
   },
   "defaultPasswordManagerCalloutDesc": {
-    "message": "Anda akan diminta memberikan izin browser $BROWSER$ untuk menjadikan Byteward sebagai manajer kata sandi default Anda.",
+    "message": "Anda akan diminta memberikan izin browser $BROWSER$ untuk menjadikan Bitwarden sebagai manajer kata sandi default Anda.",
     "description": "Description for the callout that prompts users to set Bitwarden as their default password manager",
     "placeholders": {
       "browser": {
@@ -6508,11 +6508,11 @@
     }
   },
   "privacyPermissionAdditionNotGrantedTitle": {
-    "message": "Tidak dapat mengatur Byteward sebagai pengelola kata sandi bawaan",
+    "message": "Tidak dapat mengatur Bitwarden sebagai pengelola kata sandi bawaan",
     "description": "Title for the dialog that appears when the user has not granted the extension permission to set privacy settings"
   },
   "privacyPermissionAdditionNotGrantedDescription": {
-    "message": "Anda harus mengizinkan perizinan privasi peramban kepada Byteward untuk mengaturnya sebagai pengelola kata sandi bawaan.",
+    "message": "Anda harus mengizinkan perizinan privasi peramban kepada Bitwarden untuk mengaturnya sebagai pengelola kata sandi bawaan.",
     "description": "Description for the dialog that appears when the user has not granted the extension permission to set privacy settings"
   },
   "makeDefault": {
@@ -6520,10 +6520,10 @@
     "description": "Button text for the setting that allows overriding the default browser autofill settings"
   },
   "defaultPasswordManagerPromptTitle": {
-    "message": "Jadikan Byteward sebagai manajer kata sandi default browser Anda"
+    "message": "Jadikan Bitwarden sebagai manajer kata sandi default browser Anda"
   },
   "defaultPasswordManagerPromptTitleV2": {
-    "message": "Jadikan Byteward sebagai manajer kata sandi default Anda",
+    "message": "Jadikan Bitwarden sebagai manajer kata sandi default Anda",
     "description": "Label for the setting to make Bitwarden the default password manager"
   },
   "defaultPasswordManagerSettingHintV2": {
@@ -6535,13 +6535,13 @@
     "description": "Link text to browser autofill settings in the default password manager setting hint."
   },
   "defaultPasswordManagerPromptStep2AfterAllow": {
-    "message": "dari prompt browser untuk memberi Byteward izin mengubah pengaturan Anda."
+    "message": "dari prompt browser untuk memberi Bitwarden izin mengubah pengaturan Anda."
   },
   "defaultPasswordManagerPromptStep3": {
     "message": "Kami akan menonaktifkan manajer kata sandi bawaan browser Anda sehingga Anda dapat menikmati pengalaman login yang aman."
   },
   "defaultPasswordManagerSuccessToast": {
-    "message": "Byteward kini menjadi manajer kata sandi default browser Anda"
+    "message": "Bitwarden kini menjadi manajer kata sandi default browser Anda"
   },
   "allow": {
     "message": "Izinkan",
@@ -7549,7 +7549,7 @@
     "description": "Notification message for when a password has been regenerated"
   },
   "saveToBitwarden": {
-    "message": "Simpan ke Byteward",
+    "message": "Simpan ke Bitwarden",
     "description": "Confirmation message for saving a login to Bitwarden"
   },
   "spaceCharacterDescriptor": {
@@ -7793,13 +7793,13 @@
     "message": "Use folders to organize vault items. They're just for you. No one else will see or use them."
   },
   "introCarouselLabel": {
-    "message": "Selamat datang ke Byteward"
+    "message": "Selamat datang ke Bitwarden"
   },
   "securityPrioritized": {
     "message": "Keamanan, diutamakan"
   },
   "securityPrioritizedBody": {
-    "message": "Simpan login, kartu, dan pengenal ke brankas aman Anda. Byteward menggunakan ketidaktahuan, enkripsi dari ujung-ke-ujung untuk melindungi apa yang penting bagi Anda."
+    "message": "Simpan login, kartu, dan pengenal ke brankas aman Anda. Bitwarden menggunakan ketidaktahuan, enkripsi dari ujung-ke-ujung untuk melindungi apa yang penting bagi Anda."
   },
   "quickLogin": {
     "message": "Masuk dengan cepat dan mudah"
@@ -7945,7 +7945,7 @@
     "message": "Tentang pengaturan ini"
   },
   "permitCipherDetailsDescription": {
-    "message": "Byteward akan menggunakan URI login tersimpan untuk mengidentifikasi ikon mana atau URL ubah kata sandi yang harus digunakan untuk meningkatkan pengalaman Anda. Tidak ada informasi yang dikumpulkan atau disimpan saat Anda menggunakan layanan ini."
+    "message": "Bitwarden akan menggunakan URI login tersimpan untuk mengidentifikasi ikon mana atau URL ubah kata sandi yang harus digunakan untuk meningkatkan pengalaman Anda. Tidak ada informasi yang dikumpulkan atau disimpan saat Anda menggunakan layanan ini."
   },
   "showQuickCopyActionsDetailsDescription": {
     "message": "Tambahkan 3 tombol salin cepat di samping item untuk menyalin nama pengguna, kata sandi, atau kode verifikasi Anda ke clipboard."
@@ -7954,7 +7954,7 @@
     "message": "Anda tidak memiliki izin untuk melihat halaman ini. Coba masuk dengan akun yang berbeda."
   },
   "wasmNotSupported": {
-    "message": "WebAssembly tidak didukung atau tidak dinyalakan oleh peramban Anda. Web Assembly diperlukan untuk menggunakan aplikasi Byteward.",
+    "message": "WebAssembly tidak didukung atau tidak dinyalakan oleh peramban Anda. Web Assembly diperlukan untuk menggunakan aplikasi Bitwarden.",
     "description": "'WebAssembly' is a technical term and should not be translated."
   },
   "showMore": {
@@ -8261,7 +8261,7 @@
     "message": "Untuk menggunakan buka kunci bersama, Bitwarden memerlukan izin untuk berkomunikasi dengan aplikasi desktop. Saat Anda melanjutkan, browser Anda akan meminta Anda menyetujuinya."
   },
   "sharedUnlockDesktopPermissionWarning": {
-    "message": "Byteward akan mengunci dan memuat ulang. Setelah Anda menyetujui, ekstensi akan memuat ulang dan mengunci vault Anda."
+    "message": "Bitwarden akan mengunci dan memuat ulang. Setelah Anda menyetujui, ekstensi akan memuat ulang dan mengunci vault Anda."
   },
   "biometricPermissionDesc": {
     "message": "Untuk menggunakan buka kunci biometrik, Bitwarden memerlukan izin untuk berkomunikasi dengan aplikasi desktop. Saat Anda melanjutkan, browser Anda akan meminta Anda menyetujuinya."

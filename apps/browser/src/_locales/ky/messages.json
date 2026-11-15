@@ -1,20 +1,20 @@
 {
   "appName": {
-    "message": "Byteward"
+    "message": "Bitwarden"
   },
   "appLogoLabel": {
-    "message": "Byteward логотиби"
+    "message": "Bitwarden логотиби"
   },
   "extName": {
-    "message": "Byteward Купуясөз башкаруучусу",
+    "message": "Bitwarden Купуясөз башкаруучусу",
     "description": "Extension name, MUST be less than 40 characters (Safari restriction)"
   },
   "extNameBeta": {
-    "message": "Byteward Password Manager Beta",
+    "message": "Bitwarden Password Manager Beta",
     "description": "Extension name for the beta channel, MUST be less than 40 characters (Safari restriction)"
   },
   "extDesc": {
-    "message": "Үйдө, жумушта, жолдо - Byteward дайыма купуясөздөрүңүздү, passkey'лериңизди, жашыруун маалыматыңызды коргойт",
+    "message": "Үйдө, жумушта, жолдо - Bitwarden дайыма купуясөздөрүңүздү, passkey'лериңизди, жашыруун маалыматыңызды коргойт",
     "description": "Extension description, MUST be less than 112 characters (Safari restriction)"
   },
   "loginOrCreateNewAccount": {
@@ -336,7 +336,7 @@
     "message": "Браузер кеңейтмелери дүкөнүндө улантылсынбы?"
   },
   "continueToBrowserExtensionStoreDesc": {
-    "message": "Башкаларга Byteward аларга ылайыктуубу же жокпу билүүгө жардам бериңиз. Браузериңиздин кеңейтүүлөр дүкөнүнө кирип, азыр баа бериңиз."
+    "message": "Башкаларга Bitwarden аларга ылайыктуубу же жокпу билүүгө жардам бериңиз. Браузериңиздин кеңейтүүлөр дүкөнүнө кирип, азыр баа бериңиз."
   },
   "changeMasterPasswordOnWebConfirmation": {
     "message": "Башкы сырсөзүңүздү Bitwarden веб колдонмосунда өзгөртө аласыз."
@@ -356,10 +356,10 @@
     "message": "Чыгуу"
   },
   "aboutBitwarden": {
-    "message": "Byteward жөнүндө"
+    "message": "Bitwarden жөнүндө"
   },
   "about": {
-    "message": "Byteward жөнүндө"
+    "message": "Bitwarden жөнүндө"
   },
   "moreFromBitwarden": {
     "message": "Bitwarden'ден кененирээк"
@@ -1081,10 +1081,10 @@
     "message": "Эки баскычтуу текшерүүнү үзгүлтүксүз кылыңыз"
   },
   "totpHelper": {
-    "message": "Byteward эки баскычтуу текшерүү коддорун сактай жана толтура алат. Ачкычты бул талаага көчүрүп чаптаңыз."
+    "message": "Bitwarden эки баскычтуу текшерүү коддорун сактай жана толтура алат. Ачкычты бул талаага көчүрүп чаптаңыз."
   },
   "totpHelperWithCapture": {
-    "message": "Byteward эки баскычтуу текшерүү коддорун сактай жана толтура алат. Бул веб сайттын аутентификатор QR кодун сүрөткө тартуу үчүн камера сүрөтчөсүн тандаңыз же ачкычты бул талаага көчүрүп чаптаңыз."
+    "message": "Bitwarden эки баскычтуу текшерүү коддорун сактай жана толтура алат. Бул веб сайттын аутентификатор QR кодун сүрөткө тартуу үчүн камера сүрөтчөсүн тандаңыз же ачкычты бул талаага көчүрүп чаптаңыз."
   },
   "learnMoreAboutAuthenticators": {
     "message": "Аутентификаторлор тууралуу кененирээк билиңиз"
@@ -1333,7 +1333,7 @@
     "message": "Орнотууларга өтүү"
   },
   "notificationAddDesc": {
-    "message": "Byteward бул сырсөздү сиз үчүн эстеп калсынбы?"
+    "message": "Bitwarden бул сырсөздү сиз үчүн эстеп калсынбы?"
   },
   "notificationAddSave": {
     "message": "Сактоо"
@@ -1369,7 +1369,7 @@
     }
   },
   "notificationLoginSaveConfirmation": {
-    "message": "Byteward'ге сакталды.",
+    "message": "Bitwarden'ге сакталды.",
     "description": "Shown to user after item is saved."
   },
   "notificationLoginUpdatedConfirmation": {
@@ -1471,13 +1471,13 @@
     "message": "Жаңы passkeyлерди сактоону же сактооңузда сакталган passkeyлер менен кирүүнү сураңыз. Бардык кирген аккаунттарга тиешелүү."
   },
   "notificationChangeDesc": {
-    "message": "Бул сырсөздү Bytewardде жаңыртууну каалайсызбы?"
+    "message": "Бул сырсөздү Bitwardenде жаңыртууну каалайсызбы?"
   },
   "notificationChangeSave": {
     "message": "Жаңыртуу"
   },
   "notificationUnlockDesc": {
-    "message": "Автотолтуруу сурамын аткаруу үчүн Byteward сактооңузду ачыңыз."
+    "message": "Автотолтуруу сурамын аткаруу үчүн Bitwarden сактооңузду ачыңыз."
   },
   "notificationUnlock": {
     "message": "Ачуу"
@@ -1786,7 +1786,7 @@
     "message": "Бул сырсөз бул файлды экспорттоо жана импорттоо үчүн колдонулат"
   },
   "accountRestrictedOptionDescription": {
-    "message": "Аккаунтуңуздун колдонуучу атынан жана Башкы Сырсөзүнөн алынган аккаунт шифрлөө ачкычын экспортту шифрлөө жана импортту ушул Byteward аккаунтуна чектөө үчүн колдонуңуз."
+    "message": "Аккаунтуңуздун колдонуучу атынан жана Башкы Сырсөзүнөн алынган аккаунт шифрлөө ачкычын экспортту шифрлөө жана импортту ушул Bitwarden аккаунтуна чектөө үчүн колдонуңуз."
   },
   "passwordProtectedOptionDescription": {
     "message": "Экспортту шифрлөө үчүн файл сырсөзүн орнотуңуз жана чечмелөө үчүн сырсөздү колдонуп, аны каалаган Bitwarden аккаунтуна импорттоңуз."
@@ -2236,7 +2236,7 @@
     "message": "Автотолтуруу сунуштарын оңой табыңыз"
   },
   "autofillSpotlightDesc": {
-    "message": "Браузериңиздин автотолтуруу жөндөөлөрүн өчүрүңүз, алар Byteward менен кагылышпашы үчүн."
+    "message": "Браузериңиздин автотолтуруу жөндөөлөрүн өчүрүңүз, алар Bitwarden менен кагылышпашы үчүн."
   },
   "turnOffBrowserAutofill": {
     "message": "$BROWSER$ автотолтуруусун өчүрүү",
@@ -2293,7 +2293,7 @@
     "message": "Форма талааларында автотолтуруу сунуштарын көрсөтүү"
   },
   "howDoesBitwardenProtectFromPhishing": {
-    "message": "Byteward маалыматтарыңызды фишингден кантип коргойт?"
+    "message": "Bitwarden маалыматтарыңызды фишингден кантип коргойт?"
   },
   "currentWebsite": {
     "message": "Азыркы сайт"
@@ -3202,7 +3202,7 @@
     "message": "Алсыз башкы купуя сөз"
   },
   "weakMasterPasswordDesc": {
-    "message": "Сиз тандаган башкы сырсөз алсыз. Byteward аккаунтуңузду туура коргоо үчүн күчтүү башкы сырсөздү (же сырсөз сүйлөмүн) колдонуңуз. Бул башкы сырсөздү колдонууну каалайсызбы?"
+    "message": "Сиз тандаган башкы сырсөз алсыз. Bitwarden аккаунтуңузду туура коргоо үчүн күчтүү башкы сырсөздү (же сырсөз сүйлөмүн) колдонуңуз. Бул башкы сырсөздү колдонууну каалайсызбы?"
   },
   "rotateAccountEncKey": {
     "message": "Ошондой эле аккаунтумдун шифрлөө ачкычын ротациялаңыз"
@@ -3242,10 +3242,10 @@
     "message": "PIN-код орнотуу"
   },
   "setYourPinCode": {
-    "message": "Bytewardди ачуу үчүн PIN кодун орнотуңуз. Колдонмодон толук чыксаңыз, PIN жөндөөлөрүңүз баштапкы абалга келтирилет."
+    "message": "Bitwardenди ачуу үчүн PIN кодун орнотуңуз. Колдонмодон толук чыксаңыз, PIN жөндөөлөрүңүз баштапкы абалга келтирилет."
   },
   "setPinCode": {
-    "message": "Бул PINди Bytewardди ачуу үчүн колдонсоңуз болот. Колдонмодон толук чыксаңыз, PINиңиз баштапкы абалга келтирилет."
+    "message": "Бул PINди Bitwardenди ачуу үчүн колдонсоңуз болот. Колдонмодон толук чыксаңыз, PINиңиз баштапкы абалга келтирилет."
   },
   "pinRequired": {
     "message": "PIN код талап кылынат."
@@ -3381,7 +3381,7 @@
     "message": "Форма сакталган кирүүңүздүн URIинен башка доменде хосттолгон. Баары бир автотолтуруу үчүн OK баскычын тандаңыз же токтотуу үчүн Cancel баскычын тандаңыз."
   },
   "autofillIframeWarningTip": {
-    "message": "Келечекте бул эскертүүнү болтурбоо үчүн, бул URIди, $HOSTNAME$, бул сайт үчүн Byteward кирүү элементиңизге сактаңыз.",
+    "message": "Келечекте бул эскертүүнү болтурбоо үчүн, бул URIди, $HOSTNAME$, бул сайт үчүн Bitwarden кирүү элементиңизге сактаңыз.",
     "placeholders": {
       "hostname": {
         "content": "$1",
@@ -3390,7 +3390,7 @@
     }
   },
   "topLayerHijackWarning": {
-    "message": "Бул бет Byteward тажрыйбасына тоскоол болууда. Коопсуздук чарасы катары Byteward ички менюсу убактылуу өчүрүлдү."
+    "message": "Бул бет Bitwarden тажрыйбасына тоскоол болууда. Коопсуздук чарасы катары Bitwarden ички менюсу убактылуу өчүрүлдү."
   },
   "setMasterPassword": {
     "message": "Башкы сырсөздү орнотуу"
@@ -3552,7 +3552,7 @@
     "message": "Биометрия ишке ашкан жок"
   },
   "biometricsFailedDesc": {
-    "message": "Биометрия аяктай албайт, башкы сырсөздү колдонууну же чыгууну караңыз. Эгерде бул уланса, Byteward колдоо кызматына кайрылыңыз."
+    "message": "Биометрия аяктай албайт, башкы сырсөздү колдонууну же чыгууну караңыз. Эгерде бул уланса, Bitwarden колдоо кызматына кайрылыңыз."
   },
   "nativeMessagingPermissionErrorTitle": {
     "message": "Уруксат берилген эмес"
@@ -3595,7 +3595,7 @@
     "message": "Чыгарылган домендер"
   },
   "excludedDomainsDesc": {
-    "message": "Byteward бул домендер үчүн кирүү маалыматтарын сактоону сурабайт. Өзгөртүүлөр күчүнө кириши үчүн бетти жаңыртышыңыз керек."
+    "message": "Bitwarden бул домендер үчүн кирүү маалыматтарын сактоону сурабайт. Өзгөртүүлөр күчүнө кириши үчүн бетти жаңыртышыңыз керек."
   },
   "blockedDomainsDesc": {
     "message": "Бул веб сайттар үчүн автотолтуруу жана башка тиешелүү функциялар сунушталбайт. Өзгөртүүлөр күчүнө кириши үчүн бетти жаңыртышыңыз керек."
@@ -3727,24 +3727,24 @@
     "message": "Тобокелдиктеги кирүүлөрдүн тизмесинин иллюстрациясы."
   },
   "welcomeDialogGraphicAlt": {
-    "message": "Byteward сактоо бетиннүн иреттелишинин иллюстрациясы."
+    "message": "Bitwarden сактоо бетиннүн иреттелишинин иллюстрациясы."
   },
   "generatePasswordSlideDesc": {
-    "message": "Тобокелдиктеги сайтта Byteward автотолтуруу менюсу менен күчтүү, уникалдуу сырсөздү тез түзүңүз.",
+    "message": "Тобокелдиктеги сайтта Bitwarden автотолтуруу менюсу менен күчтүү, уникалдуу сырсөздү тез түзүңүз.",
     "description": "Description of the generate password slide on the at-risk password page carousel"
   },
   "generatePasswordSlideImgAltPeriod": {
-    "message": "Түзүлгөн сырсөздү көрсөткөн Byteward автотолтуруу менюсунун иллюстрациясы."
+    "message": "Түзүлгөн сырсөздү көрсөткөн Bitwarden автотолтуруу менюсунун иллюстрациясы."
   },
   "updateInBitwarden": {
-    "message": "Bytewardде жаңыртуу"
+    "message": "Bitwardenде жаңыртуу"
   },
   "updateInBitwardenSlideDesc": {
-    "message": "Андан кийин Byteward сизди сырсөз менеджериндеги сырсөздү жаңыртууга чакырат.",
+    "message": "Андан кийин Bitwarden сизди сырсөз менеджериндеги сырсөздү жаңыртууга чакырат.",
     "description": "Description of the update in Bitwarden slide on the at-risk password page carousel"
   },
   "updateInBitwardenSlideImgAltPeriod": {
-    "message": "Колдонуучуну кирүүнү жаңыртууга чакырган Byteward эскертмесинин иллюстрациясы."
+    "message": "Колдонуучуну кирүүнү жаңыртууга чакырган Bitwarden эскертмесинин иллюстрациясы."
   },
   "turnOnAutofill": {
     "message": "Автотолтурууну күйгүзүү"
@@ -4372,11 +4372,11 @@
     }
   },
   "forwarderGeneratedBy": {
-    "message": "Byteward'ден жаратылды.",
+    "message": "Bitwarden'ден жаратылды.",
     "description": "Displayed with the address on the forwarding service's configuration screen."
   },
   "forwarderGeneratedByWithWebsite": {
-    "message": "Веб сайт: $WEBSITE$. Byteward тарабынан түзүлгөн.",
+    "message": "Веб сайт: $WEBSITE$. Bitwarden тарабынан түзүлгөн.",
     "description": "Displayed with the address on the forwarding service's configuration screen.",
     "placeholders": {
       "WEBSITE": {
@@ -4598,7 +4598,7 @@
     "message": "Түзмөгүңүзгө эскертме жөнөтүлдү."
   },
   "notificationSentDevicePart1": {
-    "message": "Түзмөгүңүздө же мына жерде Bytewardди ачыңыз"
+    "message": "Түзмөгүңүздө же мына жерде Bitwardenди ачыңыз"
   },
   "notificationSentDeviceAnchor": {
     "message": "веб колдонмо"
@@ -5098,15 +5098,15 @@
     "message": "Мазмунга өтүү"
   },
   "bitwardenOverlayButton": {
-    "message": "Byteward автотолтуруу меню баскычы",
+    "message": "Bitwarden автотолтуруу меню баскычы",
     "description": "Page title for the iframe containing the overlay button"
   },
   "toggleBitwardenVaultOverlay": {
-    "message": "Byteward автотолтуруу менюсун которуу",
+    "message": "Bitwarden автотолтуруу менюсун которуу",
     "description": "Screen reader and tool tip label for the overlay button"
   },
   "bitwardenVault": {
-    "message": "Byteward автотолтуруу менюсу",
+    "message": "Bitwarden автотолтуруу менюсу",
     "description": "Page title in overlay"
   },
   "unlockYourAccountToViewMatchingLogins": {
@@ -5178,7 +5178,7 @@
     "description": "Screen reader text (aria-label) for new identity button within inline menu"
   },
   "bitwardenOverlayMenuAvailable": {
-    "message": "Byteward автотолтуруу менюсу жеткиликтүү. Тандоо үчүн ылдый багыттоо баскычын басыңыз.",
+    "message": "Bitwarden автотолтуруу менюсу жеткиликтүү. Тандоо үчүн ылдый багыттоо баскычын басыңыз.",
     "description": "Screen reader text for announcing when the overlay opens on the page"
   },
   "turnOn": {
@@ -6438,7 +6438,7 @@
     "description": "Label indicating the most common import formats"
   },
   "uriMatchDefaultStrategyHint": {
-    "message": "URI дал келүү аныктоо - Byteward автотолтуруу сунуштарын кантип аныктайт.",
+    "message": "URI дал келүү аныктоо - Bitwarden автотолтуруу сунуштарын кантип аныктайт.",
     "description": "Explains to the user that URI match detection determines how Bitwarden suggests autofill options, and clarifies that this default strategy applies when no specific match detection is set for a login item."
   },
   "regExAdvancedOptionWarning": {
@@ -6482,15 +6482,15 @@
     "description": "Body content for dialog which asks if the user wants to proceed to the browser's keyboard shortcut settings page"
   },
   "overrideDefaultBrowserAutofillTitle": {
-    "message": "Bytewardди демейки сырсөз менеджериңиз кылуу керекпи?",
+    "message": "Bitwardenди демейки сырсөз менеджериңиз кылуу керекпи?",
     "description": "Dialog title facilitating the ability to override a chrome browser's default autofill behavior"
   },
   "overrideDefaultBrowserAutofillDescription": {
-    "message": "Бул параметрди этибарга албоо Byteward автотолтуруу сунуштары менен браузериңиздин ортосунда кагылышууларды жаратышы мүмкүн.",
+    "message": "Бул параметрди этибарга албоо Bitwarden автотолтуруу сунуштары менен браузериңиздин ортосунда кагылышууларды жаратышы мүмкүн.",
     "description": "Dialog message facilitating the ability to override a chrome browser's default autofill behavior"
   },
   "overrideDefaultBrowserAutoFillSettings": {
-    "message": "Bytewardди демейки сырсөз менеджериңиз кылыңыз",
+    "message": "Bitwardenди демейки сырсөз менеджериңиз кылыңыз",
     "description": "Label for the setting that allows overriding the default browser autofill settings"
   },
   "defaultPasswordManagerCalloutTitle": {
@@ -6498,7 +6498,7 @@
     "description": "Title for the callout that prompts users to set Bitwarden as their default password manager"
   },
   "defaultPasswordManagerCalloutDesc": {
-    "message": "Bytewardди демейки сырсөз менеджериңиз кылуу үчүн $BROWSER$ браузеринен уруксат берүү суралат.",
+    "message": "Bitwardenди демейки сырсөз менеджериңиз кылуу үчүн $BROWSER$ браузеринен уруксат берүү суралат.",
     "description": "Description for the callout that prompts users to set Bitwarden as their default password manager",
     "placeholders": {
       "browser": {
@@ -6508,11 +6508,11 @@
     }
   },
   "privacyPermissionAdditionNotGrantedTitle": {
-    "message": "Bytewardди демейки сырсөз менеджери катары орнотуу мүмкүн эмес",
+    "message": "Bitwardenди демейки сырсөз менеджери катары орнотуу мүмкүн эмес",
     "description": "Title for the dialog that appears when the user has not granted the extension permission to set privacy settings"
   },
   "privacyPermissionAdditionNotGrantedDescription": {
-    "message": "Bytewardди демейки сырсөз менеджери кылып орнотуу үчүн браузер купуялык уруксаттарын Bytewardге берүүңүз керек.",
+    "message": "Bitwardenди демейки сырсөз менеджери кылып орнотуу үчүн браузер купуялык уруксаттарын Bitwardenге берүүңүз керек.",
     "description": "Description for the dialog that appears when the user has not granted the extension permission to set privacy settings"
   },
   "makeDefault": {
@@ -6520,10 +6520,10 @@
     "description": "Button text for the setting that allows overriding the default browser autofill settings"
   },
   "defaultPasswordManagerPromptTitle": {
-    "message": "Bytewardди браузериңиздин демейки сырсөз менеджери кылыңыз"
+    "message": "Bitwardenди браузериңиздин демейки сырсөз менеджери кылыңыз"
   },
   "defaultPasswordManagerPromptTitleV2": {
-    "message": "Bytewardди демейки сырсөз менеджериңиз кылыңыз",
+    "message": "Bitwardenди демейки сырсөз менеджериңиз кылыңыз",
     "description": "Label for the setting to make Bitwarden the default password manager"
   },
   "defaultPasswordManagerSettingHintV2": {
@@ -6535,13 +6535,13 @@
     "description": "Link text to browser autofill settings in the default password manager setting hint."
   },
   "defaultPasswordManagerPromptStep2AfterAllow": {
-    "message": "браузер сурамынан Bytewardге жөндөөлөрүңүздү өзгөртүү укугун берүү үчүн."
+    "message": "браузер сурамынан Bitwardenге жөндөөлөрүңүздү өзгөртүү укугун берүү үчүн."
   },
   "defaultPasswordManagerPromptStep3": {
     "message": "Коопсуз кирүү тажрыйбасынан ырахат алууңуз үчүн браузериңиздин курулган сырсөз менеджерин өчүрөбүз."
   },
   "defaultPasswordManagerSuccessToast": {
-    "message": "Bytewardди демейки браузер сырсөз менеджериңиз кылды"
+    "message": "Bitwardenди демейки браузер сырсөз менеджериңиз кылды"
   },
   "allow": {
     "message": "Уруксат берүү",
@@ -7549,7 +7549,7 @@
     "description": "Notification message for when a password has been regenerated"
   },
   "saveToBitwarden": {
-    "message": "Bytewardге сактоо",
+    "message": "Bitwardenге сактоо",
     "description": "Confirmation message for saving a login to Bitwarden"
   },
   "spaceCharacterDescriptor": {
@@ -7793,13 +7793,13 @@
     "message": "Use folders to organize vault items. They're just for you. No one else will see or use them."
   },
   "introCarouselLabel": {
-    "message": "Bytewardге кош келиңиз"
+    "message": "Bitwardenге кош келиңиз"
   },
   "securityPrioritized": {
     "message": "Коопсуздук, артыкчылыктуу"
   },
   "securityPrioritizedBody": {
-    "message": "Кирүүлөрдү, карталарды жана идентификацияларды коопсуз сактооңузга сактаңыз. Byteward сиз үчүн маанилүү нерселерди коргоо үчүн нөл-билим, учтан-учка шифрлөөнү колдонот."
+    "message": "Кирүүлөрдү, карталарды жана идентификацияларды коопсуз сактооңузга сактаңыз. Bitwarden сиз үчүн маанилүү нерселерди коргоо үчүн нөл-билим, учтан-учка шифрлөөнү колдонот."
   },
   "quickLogin": {
     "message": "Тез жана оңой кирүү"
@@ -7945,7 +7945,7 @@
     "message": "Бул жөндөө тууралуу"
   },
   "permitCipherDetailsDescription": {
-    "message": "Byteward тажрыйбаңызды жакшыртуу үчүн кайсы сүрөтчө же сырсөздү өзгөртүү URLи колдонулушу керектигин аныктоо үчүн сакталган кирүү URIлерин колдонот. Бул кызматты колдонгондо эч кандай маалымат чогултулбайт же сакталбайт."
+    "message": "Bitwarden тажрыйбаңызды жакшыртуу үчүн кайсы сүрөтчө же сырсөздү өзгөртүү URLи колдонулушу керектигин аныктоо үчүн сакталган кирүү URIлерин колдонот. Бул кызматты колдонгондо эч кандай маалымат чогултулбайт же сакталбайт."
   },
   "showQuickCopyActionsDetailsDescription": {
     "message": "Колдонуучу атыңызды, сырсөзүңүздү же текшерүү кодун clipboardке көчүрүү үчүн элементтердин жанына 3 тез көчүрүү баскычын кошуңуз."
@@ -7954,7 +7954,7 @@
     "message": "Бул бетти көрүүгө укугуңуз жок. Башка аккаунт менен кирүүгө аракет кылыңыз."
   },
   "wasmNotSupported": {
-    "message": "WebAssembly браузериңизде колдоого алынбайт же күйгүзүлгөн эмес. Byteward колдонмосун колдонуу үчүн WebAssembly талап кылынат.",
+    "message": "WebAssembly браузериңизде колдоого алынбайт же күйгүзүлгөн эмес. Bitwarden колдонмосун колдонуу үчүн WebAssembly талап кылынат.",
     "description": "'WebAssembly' is a technical term and should not be translated."
   },
   "showMore": {
@@ -8261,7 +8261,7 @@
     "message": "Бөлүшүлгөн ачууну колдонуу үчүн, Bitwarden иш такта колдонмосу менен байланышуу уруксатын талап кылат. Улантканда, браузериңиз аны ырастоону сурайт."
   },
   "sharedUnlockDesktopPermissionWarning": {
-    "message": "Byteward кулпулап, кайра жүктөйт. Сиз ырастагандан кийин, кеңейтүү кайра жүктөлөт жана сактооңузду кулпулайт."
+    "message": "Bitwarden кулпулап, кайра жүктөйт. Сиз ырастагандан кийин, кеңейтүү кайра жүктөлөт жана сактооңузду кулпулайт."
   },
   "biometricPermissionDesc": {
     "message": "Биометриялык ачууну колдонуу үчүн, Bitwarden иш такта колдонмосу менен байланышуу уруксатын талап кылат. Улантканда, браузериңиз аны ырастоону сурайт."

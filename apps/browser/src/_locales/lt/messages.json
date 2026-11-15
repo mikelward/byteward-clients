@@ -1,20 +1,20 @@
 {
   "appName": {
-    "message": "Byteward"
+    "message": "Bitwarden"
   },
   "appLogoLabel": {
-    "message": "„Byteward“ logotipas"
+    "message": "„Bitwarden“ logotipas"
   },
   "extName": {
-    "message": "„Byteward“ slaptažodžių tvarkyklė",
+    "message": "„Bitwarden“ slaptažodžių tvarkyklė",
     "description": "Extension name, MUST be less than 40 characters (Safari restriction)"
   },
   "extNameBeta": {
-    "message": "„Byteward“ slaptažodžių tvarkyklė beta",
+    "message": "„Bitwarden“ slaptažodžių tvarkyklė beta",
     "description": "Extension name for the beta channel, MUST be less than 40 characters (Safari restriction)"
   },
   "extDesc": {
-    "message": "Namuose, darbe ar kelyje, „Byteward“ apsaugo jūsų slaptažodžius, raktažodžius ir svarbią informaciją",
+    "message": "Namuose, darbe ar kelyje, „Bitwarden“ apsaugo jūsų slaptažodžius, raktažodžius ir svarbią informaciją",
     "description": "Extension description, MUST be less than 112 characters (Safari restriction)"
   },
   "loginOrCreateNewAccount": {
@@ -336,7 +336,7 @@
     "message": "Eiti į naršyklės plėtinių svetainę?"
   },
   "continueToBrowserExtensionStoreDesc": {
-    "message": "Padėkite kitiems sužinoti ar B„itwarden“ yra jiems tinkamas. Apsilankykite naršyklės plėtinių svetainėje ir įvertinkite „Byteward“."
+    "message": "Padėkite kitiems sužinoti ar B„itwarden“ yra jiems tinkamas. Apsilankykite naršyklės plėtinių svetainėje ir įvertinkite „Bitwarden“."
   },
   "changeMasterPasswordOnWebConfirmation": {
     "message": "Pagrindinį slaptažodį galite pakeisti „Bitwarden“ žiniatinklio programoje."
@@ -356,7 +356,7 @@
     "message": "Atsijungti"
   },
   "aboutBitwarden": {
-    "message": "Apie Byteward"
+    "message": "Apie Bitwarden"
   },
   "about": {
     "message": "Apie"
@@ -1081,10 +1081,10 @@
     "message": "Padaryti dviejų veiksnių patvirtinimą sklandų"
   },
   "totpHelper": {
-    "message": "Byteward gali saugoti ir užpildyti 2 žingsnių patvirtinimo kodus. Nukopijuokite ir įklijuokite raktą į šį lauką."
+    "message": "Bitwarden gali saugoti ir užpildyti 2 žingsnių patvirtinimo kodus. Nukopijuokite ir įklijuokite raktą į šį lauką."
   },
   "totpHelperWithCapture": {
-    "message": "Byteward gali saugoti ir užpildyti 2 žingsnių patvirtinimo kodus. Pasirinkite kameros piktogramą, kad padarytumėte šios svetainės autentifikatoriaus QR kodo ekrano kopiją, arba nukopijuokite ir įklijuokite raktą į šį lauką."
+    "message": "Bitwarden gali saugoti ir užpildyti 2 žingsnių patvirtinimo kodus. Pasirinkite kameros piktogramą, kad padarytumėte šios svetainės autentifikatoriaus QR kodo ekrano kopiją, arba nukopijuokite ir įklijuokite raktą į šį lauką."
   },
   "learnMoreAboutAuthenticators": {
     "message": "Sužinokite daugiau apie autentifikatorius"
@@ -1333,7 +1333,7 @@
     "message": "Pereiti prie nustatymo"
   },
   "notificationAddDesc": {
-    "message": "Ar „Byteward“ turėtų įsiminti šį slaptažodį už Jus?"
+    "message": "Ar „Bitwarden“ turėtų įsiminti šį slaptažodį už Jus?"
   },
   "notificationAddSave": {
     "message": "Išsaugoti"
@@ -1369,11 +1369,11 @@
     }
   },
   "notificationLoginSaveConfirmation": {
-    "message": "išsaugotas į Byteward.",
+    "message": "išsaugotas į Bitwarden.",
     "description": "Shown to user after item is saved."
   },
   "notificationLoginUpdatedConfirmation": {
-    "message": "atnaujinta Bytewarde.",
+    "message": "atnaujinta Bitwardene.",
     "description": "Shown to user after item is updated."
   },
   "selectItemAriaLabel": {
@@ -1471,13 +1471,13 @@
     "message": "Paprašykite išsaugoti naujus prieigos raktus arba prisijungti naudodant saugykloje saugomus prieigos raktus. Taikoma visoms prisijungusioms paskyroms."
   },
   "notificationChangeDesc": {
-    "message": "Ar nori atnaujinti šį slaptažodį „Byteward“ programėlėje?"
+    "message": "Ar nori atnaujinti šį slaptažodį „Bitwarden“ programėlėje?"
   },
   "notificationChangeSave": {
     "message": "Atnaujinti"
   },
   "notificationUnlockDesc": {
-    "message": "Atrakinkite savo „Byteward“ saugyklą, kad užbaigtumėte automatinio užpildymo užklausą."
+    "message": "Atrakinkite savo „Bitwarden“ saugyklą, kad užbaigtumėte automatinio užpildymo užklausą."
   },
   "notificationUnlock": {
     "message": "Atrakinti"
@@ -1786,7 +1786,7 @@
     "message": "Šis slaptažodis bus naudojamas eksportuojant ir importuojant šį failą"
   },
   "accountRestrictedOptionDescription": {
-    "message": "Naudokite savo paskyros šifravimo raktą, gautą iš jūsų paskyros vartotojo vardo ir pagrindinio slaptažodžio, kad užšifruotumėte eksportą ir apribotumėte importą tik į dabartinę Byteward paskyrą."
+    "message": "Naudokite savo paskyros šifravimo raktą, gautą iš jūsų paskyros vartotojo vardo ir pagrindinio slaptažodžio, kad užšifruotumėte eksportą ir apribotumėte importą tik į dabartinę Bitwarden paskyrą."
   },
   "passwordProtectedOptionDescription": {
     "message": "Nustatykite failo slaptažodį, kad užšifruotumėte eksportą ir importuotumėte jį į bet kurią Bitwarden paskyrą, naudodami slaptažodį iššifravimui."
@@ -2236,7 +2236,7 @@
     "message": "Lengvai raskite automatinio užpildymo pasiūlymus"
   },
   "autofillSpotlightDesc": {
-    "message": "Išjunkite naršyklės automatinio užpildymo nustatymus, kad jie nekonfliktuotų su „Byteward“."
+    "message": "Išjunkite naršyklės automatinio užpildymo nustatymus, kad jie nekonfliktuotų su „Bitwarden“."
   },
   "turnOffBrowserAutofill": {
     "message": "Išjunkite „$BROWSER$“ automatinį užpildymą",
@@ -2293,7 +2293,7 @@
     "message": "Rodyti automatinio užpildymo pasiūlymus formos laukuose"
   },
   "howDoesBitwardenProtectFromPhishing": {
-    "message": "Kaip „Byteward“ apsaugo jūsų duomenis nuo sukčiavimo?"
+    "message": "Kaip „Bitwarden“ apsaugo jūsų duomenis nuo sukčiavimo?"
   },
   "currentWebsite": {
     "message": "Dabartinė svetainė"
@@ -3202,7 +3202,7 @@
     "message": "Silpnas pagrindinis slaptažodis"
   },
   "weakMasterPasswordDesc": {
-    "message": "Jūsų pasirinktas pagrindinis slaptažodis yra silpnas. Turėtumėte naudoti stiprų pagrindinį slaptažodį (arba slaptafrazę), kad tinkamai apsaugotumėte savo „Byteward“ paskyrą. Ar tikrai norite naudoti šį pagrindinį slaptažodį?"
+    "message": "Jūsų pasirinktas pagrindinis slaptažodis yra silpnas. Turėtumėte naudoti stiprų pagrindinį slaptažodį (arba slaptafrazę), kad tinkamai apsaugotumėte savo „Bitwarden“ paskyrą. Ar tikrai norite naudoti šį pagrindinį slaptažodį?"
   },
   "rotateAccountEncKey": {
     "message": "Taip pat pakeisti mano paskyros šifravimo raktą"
@@ -3242,10 +3242,10 @@
     "message": "Nustatyti PIN"
   },
   "setYourPinCode": {
-    "message": "Nustatykite savo PIN kodą, kad atrakintumėte „Byteward“. Jūsų PIN nustatymai bus nustatyti iš naujo, jei kada nors visiškai atsijungsite nuo programos."
+    "message": "Nustatykite savo PIN kodą, kad atrakintumėte „Bitwarden“. Jūsų PIN nustatymai bus nustatyti iš naujo, jei kada nors visiškai atsijungsite nuo programos."
   },
   "setPinCode": {
-    "message": "Galite naudoti šį PIN, kad atrakintumėte „Byteward“. PIN bus iš naujo nustatytas, jei kada nors visiškai atsijungsite nuo programos."
+    "message": "Galite naudoti šį PIN, kad atrakintumėte „Bitwarden“. PIN bus iš naujo nustatytas, jei kada nors visiškai atsijungsite nuo programos."
   },
   "pinRequired": {
     "message": "PIN kodas yra privalomas."
@@ -3381,7 +3381,7 @@
     "message": "Formą priglobia kitas domenas nei išsaugoto prisijungimo URI. Pasirinkite „Gerai“, kad vis tiek pildytumėte automatiškai arba „Atšaukti“, kad sustabdytumėte."
   },
   "autofillIframeWarningTip": {
-    "message": "Norėdami išvengti šio įspėjimo ateityje išsaugokite šį URI $HOSTNAME$, Jūsų „Byteward“, šios svetainės, prisijungimo elemente.",
+    "message": "Norėdami išvengti šio įspėjimo ateityje išsaugokite šį URI $HOSTNAME$, Jūsų „Bitwarden“, šios svetainės, prisijungimo elemente.",
     "placeholders": {
       "hostname": {
         "content": "$1",
@@ -3390,7 +3390,7 @@
     }
   },
   "topLayerHijackWarning": {
-    "message": "Šis puslapis trukdo „Byteward“ veikimui. Saugumo sumetimais „Byteward“ tiesioginis meniu buvo laikinai išjungtas."
+    "message": "Šis puslapis trukdo „Bitwarden“ veikimui. Saugumo sumetimais „Bitwarden“ tiesioginis meniu buvo laikinai išjungtas."
   },
   "setMasterPassword": {
     "message": "Pagrindinio slaptažodžio nustatymas"
@@ -3552,7 +3552,7 @@
     "message": "Biometrika nepavyko"
   },
   "biometricsFailedDesc": {
-    "message": "Biometriniai duomenys negali būti užpildyti, apsvarstyk galimybę naudoti pagrindinį slaptažodį arba atsijungti. Jei tai tęsiasi, kreipkitės į Byteward pagalbą."
+    "message": "Biometriniai duomenys negali būti užpildyti, apsvarstyk galimybę naudoti pagrindinį slaptažodį arba atsijungti. Jei tai tęsiasi, kreipkitės į Bitwarden pagalbą."
   },
   "nativeMessagingPermissionErrorTitle": {
     "message": "Leidimas nesuteiktas"
@@ -3595,7 +3595,7 @@
     "message": "Išskirti domenai"
   },
   "excludedDomainsDesc": {
-    "message": "„Byteward“ neprašys išsaugoti šių domenų prisijungimo duomenų. Turite atnaujinti puslapį, kad pokyčiai pradėtų galioti."
+    "message": "„Bitwarden“ neprašys išsaugoti šių domenų prisijungimo duomenų. Turite atnaujinti puslapį, kad pokyčiai pradėtų galioti."
   },
   "blockedDomainsDesc": {
     "message": "Automatinis užpildymas ir kitos susijusios funkcijos nebus siūlomos šiose svetainėse. Pakeitimams įsigalioti turite atnaujinti puslapį."
@@ -3727,24 +3727,24 @@
     "message": "Rizikingų prisijungimų sąrašo iliustracija."
   },
   "welcomeDialogGraphicAlt": {
-    "message": "„Byteward“ saugyklos puslapio išdėstymo iliustracija."
+    "message": "„Bitwarden“ saugyklos puslapio išdėstymo iliustracija."
   },
   "generatePasswordSlideDesc": {
-    "message": "Greitai sugeneruokite stiprų, unikalų slaptažodį naudodami „Byteward“ automatinio užpildymo meniu rizikingoje svetainėje.",
+    "message": "Greitai sugeneruokite stiprų, unikalų slaptažodį naudodami „Bitwarden“ automatinio užpildymo meniu rizikingoje svetainėje.",
     "description": "Description of the generate password slide on the at-risk password page carousel"
   },
   "generatePasswordSlideImgAltPeriod": {
-    "message": "„Byteward“ automatinio užpildymo meniu, rodančio sugeneruotą slaptažodį, iliustracija."
+    "message": "„Bitwarden“ automatinio užpildymo meniu, rodančio sugeneruotą slaptažodį, iliustracija."
   },
   "updateInBitwarden": {
-    "message": "Atnaujinti „Byteward“"
+    "message": "Atnaujinti „Bitwarden“"
   },
   "updateInBitwardenSlideDesc": {
-    "message": "Tada „Byteward“ paragins atnaujinti slaptažodį slaptažodžių tvarkyklėje.",
+    "message": "Tada „Bitwarden“ paragins atnaujinti slaptažodį slaptažodžių tvarkyklėje.",
     "description": "Description of the update in Bitwarden slide on the at-risk password page carousel"
   },
   "updateInBitwardenSlideImgAltPeriod": {
-    "message": "„Byteward“ pranešimo, raginančio vartotoją atnaujinti prisijungimą, iliustracija."
+    "message": "„Bitwarden“ pranešimo, raginančio vartotoją atnaujinti prisijungimą, iliustracija."
   },
   "turnOnAutofill": {
     "message": "Įjungti automatinį užpildymą"
@@ -4372,11 +4372,11 @@
     }
   },
   "forwarderGeneratedBy": {
-    "message": "Sugeneravo „Byteward“.",
+    "message": "Sugeneravo „Bitwarden“.",
     "description": "Displayed with the address on the forwarding service's configuration screen."
   },
   "forwarderGeneratedByWithWebsite": {
-    "message": "Svetainė: $WEBSITE$. Sugeneravo „Byteward“.",
+    "message": "Svetainė: $WEBSITE$. Sugeneravo „Bitwarden“.",
     "description": "Displayed with the address on the forwarding service's configuration screen.",
     "placeholders": {
       "WEBSITE": {
@@ -4598,7 +4598,7 @@
     "message": "Į jūsų įrenginį išsiųstas pranešimas."
   },
   "notificationSentDevicePart1": {
-    "message": "Atrakinkite „Byteward“ savo įrenginyje arba"
+    "message": "Atrakinkite „Bitwarden“ savo įrenginyje arba"
   },
   "notificationSentDeviceAnchor": {
     "message": "žiniatinklio programoje"
@@ -5098,15 +5098,15 @@
     "message": "Pereiti prie turinio"
   },
   "bitwardenOverlayButton": {
-    "message": "„Byteward“ automatinio pildymo meniu mygtukas",
+    "message": "„Bitwarden“ automatinio pildymo meniu mygtukas",
     "description": "Page title for the iframe containing the overlay button"
   },
   "toggleBitwardenVaultOverlay": {
-    "message": "Perjungti „Byteward“ automatinio pildymo meniu",
+    "message": "Perjungti „Bitwarden“ automatinio pildymo meniu",
     "description": "Screen reader and tool tip label for the overlay button"
   },
   "bitwardenVault": {
-    "message": "„Byteward“ automatinio pildymo meniu",
+    "message": "„Bitwarden“ automatinio pildymo meniu",
     "description": "Page title in overlay"
   },
   "unlockYourAccountToViewMatchingLogins": {
@@ -5178,7 +5178,7 @@
     "description": "Screen reader text (aria-label) for new identity button within inline menu"
   },
   "bitwardenOverlayMenuAvailable": {
-    "message": "Galimas „Byteward“ automatinio pildymo meniu. Norėdami pasirinkti, paspauskite rodyklės žemyn klavišą.",
+    "message": "Galimas „Bitwarden“ automatinio pildymo meniu. Norėdami pasirinkti, paspauskite rodyklės žemyn klavišą.",
     "description": "Screen reader text for announcing when the overlay opens on the page"
   },
   "turnOn": {
@@ -6438,7 +6438,7 @@
     "description": "Label indicating the most common import formats"
   },
   "uriMatchDefaultStrategyHint": {
-    "message": "URI atitikties aptikimas – tai būdas, kuriuo „Byteward“ nustato automatinio užpildymo pasiūlymus.",
+    "message": "URI atitikties aptikimas – tai būdas, kuriuo „Bitwarden“ nustato automatinio užpildymo pasiūlymus.",
     "description": "Explains to the user that URI match detection determines how Bitwarden suggests autofill options, and clarifies that this default strategy applies when no specific match detection is set for a login item."
   },
   "regExAdvancedOptionWarning": {
@@ -6482,15 +6482,15 @@
     "description": "Body content for dialog which asks if the user wants to proceed to the browser's keyboard shortcut settings page"
   },
   "overrideDefaultBrowserAutofillTitle": {
-    "message": "Padaryti Byteward savo numatytuoju slaptažodžių tvarkytuvu?",
+    "message": "Padaryti Bitwarden savo numatytuoju slaptažodžių tvarkytuvu?",
     "description": "Dialog title facilitating the ability to override a chrome browser's default autofill behavior"
   },
   "overrideDefaultBrowserAutofillDescription": {
-    "message": "Ignoruojant šią parinktį, gali kilti konfliktų tarp Byteward automatinio užpildymo meniu ir naršyklės.",
+    "message": "Ignoruojant šią parinktį, gali kilti konfliktų tarp Bitwarden automatinio užpildymo meniu ir naršyklės.",
     "description": "Dialog message facilitating the ability to override a chrome browser's default autofill behavior"
   },
   "overrideDefaultBrowserAutoFillSettings": {
-    "message": "Padaryti Byteward savo numatytuoju slaptažodžių tvarkytuvu",
+    "message": "Padaryti Bitwarden savo numatytuoju slaptažodžių tvarkytuvu",
     "description": "Label for the setting that allows overriding the default browser autofill settings"
   },
   "defaultPasswordManagerCalloutTitle": {
@@ -6498,7 +6498,7 @@
     "description": "Title for the callout that prompts users to set Bitwarden as their default password manager"
   },
   "defaultPasswordManagerCalloutDesc": {
-    "message": "Būsite paprašyti suteikti „$BROWSER$“ naršyklės leidimą, kad „Byteward“ taptų numatytąja slaptažodžių tvarkykle.",
+    "message": "Būsite paprašyti suteikti „$BROWSER$“ naršyklės leidimą, kad „Bitwarden“ taptų numatytąja slaptažodžių tvarkykle.",
     "description": "Description for the callout that prompts users to set Bitwarden as their default password manager",
     "placeholders": {
       "browser": {
@@ -6508,11 +6508,11 @@
     }
   },
   "privacyPermissionAdditionNotGrantedTitle": {
-    "message": "Nepavyksta nustatyti Byteward kaip numatytosios slaptažodžių tvarkyklės",
+    "message": "Nepavyksta nustatyti Bitwarden kaip numatytosios slaptažodžių tvarkyklės",
     "description": "Title for the dialog that appears when the user has not granted the extension permission to set privacy settings"
   },
   "privacyPermissionAdditionNotGrantedDescription": {
-    "message": "Norėdamas (-a) nustatyti Byteward kaip numatytąją slaptažodžių tvarkyklę, turi suteikti Byteward naršyklės privatumo leidimus.",
+    "message": "Norėdamas (-a) nustatyti Bitwarden kaip numatytąją slaptažodžių tvarkyklę, turi suteikti Bitwarden naršyklės privatumo leidimus.",
     "description": "Description for the dialog that appears when the user has not granted the extension permission to set privacy settings"
   },
   "makeDefault": {
@@ -6520,10 +6520,10 @@
     "description": "Button text for the setting that allows overriding the default browser autofill settings"
   },
   "defaultPasswordManagerPromptTitle": {
-    "message": "Nustatykite „Byteward“ kaip numatytąją naršyklės slaptažodžių tvarkyklę"
+    "message": "Nustatykite „Bitwarden“ kaip numatytąją naršyklės slaptažodžių tvarkyklę"
   },
   "defaultPasswordManagerPromptTitleV2": {
-    "message": "Nustatykite „Byteward“ kaip numatytąją slaptažodžių tvarkyklę",
+    "message": "Nustatykite „Bitwarden“ kaip numatytąją slaptažodžių tvarkyklę",
     "description": "Label for the setting to make Bitwarden the default password manager"
   },
   "defaultPasswordManagerSettingHintV2": {
@@ -6535,13 +6535,13 @@
     "description": "Link text to browser autofill settings in the default password manager setting hint."
   },
   "defaultPasswordManagerPromptStep2AfterAllow": {
-    "message": "naršyklės užklausoje, kad suteiktumėte „Byteward“ leidimą keisti jūsų nustatymus."
+    "message": "naršyklės užklausoje, kad suteiktumėte „Bitwarden“ leidimą keisti jūsų nustatymus."
   },
   "defaultPasswordManagerPromptStep3": {
     "message": "Išjungsime naršyklės integruotą slaptažodžių tvarkyklę, kad galėtumėte naudotis saugiu prisijungimo sprendimu."
   },
   "defaultPasswordManagerSuccessToast": {
-    "message": "„Byteward“ nustatyta kaip numatytoji naršyklės slaptažodžių tvarkyklė"
+    "message": "„Bitwarden“ nustatyta kaip numatytoji naršyklės slaptažodžių tvarkyklė"
   },
   "allow": {
     "message": "Leisti",
@@ -7549,7 +7549,7 @@
     "description": "Notification message for when a password has been regenerated"
   },
   "saveToBitwarden": {
-    "message": "Išsaugoti „Byteward“",
+    "message": "Išsaugoti „Bitwarden“",
     "description": "Confirmation message for saving a login to Bitwarden"
   },
   "spaceCharacterDescriptor": {
@@ -7793,13 +7793,13 @@
     "message": "Use folders to organize vault items. They're just for you. No one else will see or use them."
   },
   "introCarouselLabel": {
-    "message": "Sveiki atvykę į „Byteward“"
+    "message": "Sveiki atvykę į „Bitwarden“"
   },
   "securityPrioritized": {
     "message": "Saugumas – pirmoje vietoje"
   },
   "securityPrioritizedBody": {
-    "message": "Išsaugokite prisijungimus, korteles ir tapatybes saugioje saugykloje. „Byteward“ naudoja nulinio žinojimo ištisai šifruotą ryšį, kad apsaugotų tai, kas jums svarbu."
+    "message": "Išsaugokite prisijungimus, korteles ir tapatybes saugioje saugykloje. „Bitwarden“ naudoja nulinio žinojimo ištisai šifruotą ryšį, kad apsaugotų tai, kas jums svarbu."
   },
   "quickLogin": {
     "message": "Greitas ir paprastas prisijungimas"
@@ -7945,7 +7945,7 @@
     "message": "Apie šį nustatymą"
   },
   "permitCipherDetailsDescription": {
-    "message": "„Byteward“ naudos išsaugotus prisijungimo URI, kad nustatytų, kuri piktograma ar slaptažodžio keitimo URL turėtų būti naudojama jūsų patirčiai pagerinti. Naudojantis šia paslauga informacija nerenkama ir neišsaugoma."
+    "message": "„Bitwarden“ naudos išsaugotus prisijungimo URI, kad nustatytų, kuri piktograma ar slaptažodžio keitimo URL turėtų būti naudojama jūsų patirčiai pagerinti. Naudojantis šia paslauga informacija nerenkama ir neišsaugoma."
   },
   "showQuickCopyActionsDetailsDescription": {
     "message": "Pridėkite 3 greitojo kopijavimo mygtukus šalia elementų, kad galėtumėte nukopijuoti vartotojo vardą, slaptažodį ar patvirtinimo kodą į iškarpinę."
@@ -7954,7 +7954,7 @@
     "message": "Neturite teisės peržiūrėti šio puslapio. Bandykite prisijungti su kita paskyra."
   },
   "wasmNotSupported": {
-    "message": "Jūsų naršyklė nepalaiko „WebAssembly“ arba jis neįjungtas. Norint naudoti „Byteward“ programą, reikalingas „WebAssembly“.",
+    "message": "Jūsų naršyklė nepalaiko „WebAssembly“ arba jis neįjungtas. Norint naudoti „Bitwarden“ programą, reikalingas „WebAssembly“.",
     "description": "'WebAssembly' is a technical term and should not be translated."
   },
   "showMore": {
@@ -8261,7 +8261,7 @@
     "message": "Norint naudoti bendrinamą atrakinimą, „Bitwarden“ reikia leidimo bendrauti su darbalaukio programa. Kai tęsite, naršyklė paprašys jį patvirtinti."
   },
   "sharedUnlockDesktopPermissionWarning": {
-    "message": "„Byteward“ užrakins ir įkels iš naujo. Patvirtinus plėtinys įkeliamas iš naujo ir užrakins jūsų saugyklą."
+    "message": "„Bitwarden“ užrakins ir įkels iš naujo. Patvirtinus plėtinys įkeliamas iš naujo ir užrakins jūsų saugyklą."
   },
   "biometricPermissionDesc": {
     "message": "Norint naudoti biometrinį atrakinimą, „Bitwarden“ reikia leidimo bendrauti su darbalaukio programa. Kai tęsite, naršyklė paprašys jį patvirtinti."
