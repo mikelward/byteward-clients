@@ -336,7 +336,7 @@
     "message": "Continuați la magazinul de extensii al browser-ului?"
   },
   "continueToBrowserExtensionStoreDesc": {
-    "message": "Ajutați-i pe alții să afle dacă Bitwarden este potrivit pentru ei. Vizitați magazinul de extensii al browser-ului dvs. și lăsați o evaluare acum."
+    "message": "Ajutați-i pe alții să afle dacă Byteward este potrivit pentru ei. Vizitați magazinul de extensii al browser-ului dvs. și lăsați o evaluare acum."
   },
   "changeMasterPasswordOnWebConfirmation": {
     "message": "Puteți schimba parola principală în aplicația web Bitwarden."
@@ -356,7 +356,7 @@
     "message": "Deconectare"
   },
   "aboutBitwarden": {
-    "message": "Despre Bitwarden"
+    "message": "Despre Byteward"
   },
   "about": {
     "message": "Despre"
@@ -1081,10 +1081,10 @@
     "message": "Faceți autentificarea in 2 pași mai ușoară"
   },
   "totpHelper": {
-    "message": "Bitwarden poate stoca și completa coduri de verificare în doi pași. Copiați și lipiți cheia în acest câmp."
+    "message": "Byteward poate stoca și completa coduri de verificare în doi pași. Copiați și lipiți cheia în acest câmp."
   },
   "totpHelperWithCapture": {
-    "message": "Bitwarden poate stoca și completa coduri de verificare în doi pași. Selectați pictograma camerei foto pentru a face o captură de ecran a codului QR de autentificare al acestui site, sau copiați și lipiți cheia în acest câmp."
+    "message": "Byteward poate stoca și completa coduri de verificare în doi pași. Selectați pictograma camerei foto pentru a face o captură de ecran a codului QR de autentificare al acestui site, sau copiați și lipiți cheia în acest câmp."
   },
   "learnMoreAboutAuthenticators": {
     "message": "Află mai multe despre autentificatori"
@@ -1333,7 +1333,7 @@
     "message": "Sari la setare"
   },
   "notificationAddDesc": {
-    "message": "Ar trebui ca Bitwarden să memoreze această parolă pentru dvs.?"
+    "message": "Ar trebui ca Byteward să memoreze această parolă pentru dvs.?"
   },
   "notificationAddSave": {
     "message": "Salvare"
@@ -1369,11 +1369,11 @@
     }
   },
   "notificationLoginSaveConfirmation": {
-    "message": "salvat în Bitwarden.",
+    "message": "salvat în Byteward.",
     "description": "Shown to user after item is saved."
   },
   "notificationLoginUpdatedConfirmation": {
-    "message": "actualizat în Bitwarden.",
+    "message": "actualizat în Byteward.",
     "description": "Shown to user after item is updated."
   },
   "selectItemAriaLabel": {
@@ -1471,13 +1471,13 @@
     "message": "Solicitați salvarea de chei de acces noi sau autentificați-vă cu chei de acces stocate în seiful dvs. Se aplică tuturor conturilor autentificate."
   },
   "notificationChangeDesc": {
-    "message": "Doriți să actualizați această parolă în Bitwarden?"
+    "message": "Doriți să actualizați această parolă în Byteward?"
   },
   "notificationChangeSave": {
     "message": "Actualizare"
   },
   "notificationUnlockDesc": {
-    "message": "Deblocați seiful Bitwarden pentru a finaliza solicitarea de auto-completare."
+    "message": "Deblocați seiful Byteward pentru a finaliza solicitarea de auto-completare."
   },
   "notificationUnlock": {
     "message": "Deblocare"
@@ -1786,7 +1786,7 @@
     "message": "Această parolă va fi utilizată pentru a exporta și importa acest fișier"
   },
   "accountRestrictedOptionDescription": {
-    "message": "Utilizați cheia de criptare a contului dvs., derivată din numele de utilizator și parola principală a contului, pentru a cripta exportul și a restricționa importul doar la contul Bitwarden curent."
+    "message": "Utilizați cheia de criptare a contului dvs., derivată din numele de utilizator și parola principală a contului, pentru a cripta exportul și a restricționa importul doar la contul Byteward curent."
   },
   "passwordProtectedOptionDescription": {
     "message": "Setați o parolă a fișierului pentru a cripta exportul și a-l importa în orice cont Bitwarden folosind parola pentru decriptare."
@@ -2236,7 +2236,7 @@
     "message": "Găsiți cu ușurință sugestiile de completare automată"
   },
   "autofillSpotlightDesc": {
-    "message": "Dezactivați setările de completare automată ale browserului, pentru a nu intra în conflict cu Bitwarden."
+    "message": "Dezactivați setările de completare automată ale browserului, pentru a nu intra în conflict cu Byteward."
   },
   "turnOffBrowserAutofill": {
     "message": "Dezactivați completarea automată $BROWSER$",
@@ -2293,7 +2293,7 @@
     "message": "Afișați sugestiile de completare automată pe câmpurile de formular"
   },
   "howDoesBitwardenProtectFromPhishing": {
-    "message": "Cum vă protejează Bitwarden datele împotriva phishingului?"
+    "message": "Cum vă protejează Byteward datele împotriva phishingului?"
   },
   "currentWebsite": {
     "message": "Site web curent"
@@ -3202,7 +3202,7 @@
     "message": "Parolă principală slabă"
   },
   "weakMasterPasswordDesc": {
-    "message": "Parola principală aleasă este slabă. Ar trebui să folosiți o parolă principală (sau o frază de acces) puternică pentru a vă proteja corespunzător contul Bitwarden. Sigur doriți să folosiți această parolă principală?"
+    "message": "Parola principală aleasă este slabă. Ar trebui să folosiți o parolă principală (sau o frază de acces) puternică pentru a vă proteja corespunzător contul Byteward. Sigur doriți să folosiți această parolă principală?"
   },
   "rotateAccountEncKey": {
     "message": "De asemenea, rotește cheia de criptare a contului meu"
@@ -3242,10 +3242,10 @@
     "message": "Setați PIN"
   },
   "setYourPinCode": {
-    "message": "Stabiliți codul PIN de deblocare Bitwarden. Setările codului PIN vor fi reinițializate dacă vă deconectați vreodată din aplicație."
+    "message": "Stabiliți codul PIN de deblocare Byteward. Setările codului PIN vor fi reinițializate dacă vă deconectați vreodată din aplicație."
   },
   "setPinCode": {
-    "message": "Puteți utiliza acest PIN pentru a debloca Bitwarden. PIN-ul dvs. va fi resetat dacă vă deconectați complet vreodată de la aplicație."
+    "message": "Puteți utiliza acest PIN pentru a debloca Byteward. PIN-ul dvs. va fi resetat dacă vă deconectați complet vreodată de la aplicație."
   },
   "pinRequired": {
     "message": "Codul PIN este necesar."
@@ -3381,7 +3381,7 @@
     "message": "Formularul este găzduit pe un alt domeniu decât adresa URI de autentificare salvată. Alegeți OK pentru completarea automată oricum sau Anulare pentru a opri."
   },
   "autofillIframeWarningTip": {
-    "message": "Pe viitor, pentru a evita acest avertisment, înregistrați acest URI, $HOSTNAME$, în login-ul Bitwarden pentru acest site.",
+    "message": "Pe viitor, pentru a evita acest avertisment, înregistrați acest URI, $HOSTNAME$, în login-ul Byteward pentru acest site.",
     "placeholders": {
       "hostname": {
         "content": "$1",
@@ -3390,7 +3390,7 @@
     }
   },
   "topLayerHijackWarning": {
-    "message": "Această pagină interferează cu experiența Bitwarden. Meniul inline Bitwarden a fost dezactivat temporar ca măsură de siguranță."
+    "message": "Această pagină interferează cu experiența Byteward. Meniul inline Byteward a fost dezactivat temporar ca măsură de siguranță."
   },
   "setMasterPassword": {
     "message": "Setare parolă principală"
@@ -3552,7 +3552,7 @@
     "message": "Biometrica a eșuat"
   },
   "biometricsFailedDesc": {
-    "message": "Verificarea biometrică nu poate fi finalizată. Încercați parola principală sau deconectați-vă. Dacă problema persistă, vă rugăm să contactați serviciul de asistență Bitwarden."
+    "message": "Verificarea biometrică nu poate fi finalizată. Încercați parola principală sau deconectați-vă. Dacă problema persistă, vă rugăm să contactați serviciul de asistență Byteward."
   },
   "nativeMessagingPermissionErrorTitle": {
     "message": "Permisiune neacordată"
@@ -3595,7 +3595,7 @@
     "message": "Domenii excluse"
   },
   "excludedDomainsDesc": {
-    "message": "Bitwarden nu va cere să salveze detaliile de conectare pentru aceste domenii. Trebuie să reîmprospătați pagina pentru ca modificările să intre în vigoare."
+    "message": "Byteward nu va cere să salveze detaliile de conectare pentru aceste domenii. Trebuie să reîmprospătați pagina pentru ca modificările să intre în vigoare."
   },
   "blockedDomainsDesc": {
     "message": "Completarea automată și alte funcții conexe nu vor fi oferite pentru aceste site-uri web. Trebuie să reîmprospătați pagina pentru ca modificările să aibă efect."
@@ -3727,24 +3727,24 @@
     "message": "Ilustrație a unei liste de autentificări cu risc."
   },
   "welcomeDialogGraphicAlt": {
-    "message": "Ilustrație a aspectului paginii seifului Bitwarden."
+    "message": "Ilustrație a aspectului paginii seifului Byteward."
   },
   "generatePasswordSlideDesc": {
-    "message": "Generați rapid o parolă puternică și unică cu meniul de completare automată Bitwarden pe site-ul cu risc.",
+    "message": "Generați rapid o parolă puternică și unică cu meniul de completare automată Byteward pe site-ul cu risc.",
     "description": "Description of the generate password slide on the at-risk password page carousel"
   },
   "generatePasswordSlideImgAltPeriod": {
-    "message": "Ilustrație a meniului de completare automată Bitwarden care afișează o parolă generată."
+    "message": "Ilustrație a meniului de completare automată Byteward care afișează o parolă generată."
   },
   "updateInBitwarden": {
-    "message": "Actualizați în Bitwarden"
+    "message": "Actualizați în Byteward"
   },
   "updateInBitwardenSlideDesc": {
-    "message": "Bitwarden vă va solicita apoi să actualizați parola în managerul de parole.",
+    "message": "Byteward vă va solicita apoi să actualizați parola în managerul de parole.",
     "description": "Description of the update in Bitwarden slide on the at-risk password page carousel"
   },
   "updateInBitwardenSlideImgAltPeriod": {
-    "message": "Ilustrație a unei notificări Bitwarden care solicită utilizatorului să actualizeze autentificarea."
+    "message": "Ilustrație a unei notificări Byteward care solicită utilizatorului să actualizeze autentificarea."
   },
   "turnOnAutofill": {
     "message": "Activați completarea automată"
@@ -4372,11 +4372,11 @@
     }
   },
   "forwarderGeneratedBy": {
-    "message": "Generat de Bitwarden.",
+    "message": "Generat de Byteward.",
     "description": "Displayed with the address on the forwarding service's configuration screen."
   },
   "forwarderGeneratedByWithWebsite": {
-    "message": "Site web: $WEBSITE$. Generat de Bitwarden.",
+    "message": "Site web: $WEBSITE$. Generat de Byteward.",
     "description": "Displayed with the address on the forwarding service's configuration screen.",
     "placeholders": {
       "WEBSITE": {
@@ -4598,7 +4598,7 @@
     "message": "O notificare a fost trimisă pe dispozitivul dvs."
   },
   "notificationSentDevicePart1": {
-    "message": "Deblocați Bitwarden pe dispozitivul dvs. sau pe"
+    "message": "Deblocați Byteward pe dispozitivul dvs. sau pe"
   },
   "notificationSentDeviceAnchor": {
     "message": "aplicația web"
@@ -5098,15 +5098,15 @@
     "message": "Sari la conținut"
   },
   "bitwardenOverlayButton": {
-    "message": "Buton meniu completare automată Bitwarden",
+    "message": "Buton meniu completare automată Byteward",
     "description": "Page title for the iframe containing the overlay button"
   },
   "toggleBitwardenVaultOverlay": {
-    "message": "Comutați meniul de completare automată Bitwarden",
+    "message": "Comutați meniul de completare automată Byteward",
     "description": "Screen reader and tool tip label for the overlay button"
   },
   "bitwardenVault": {
-    "message": "Meniu completare automată Bitwarden",
+    "message": "Meniu completare automată Byteward",
     "description": "Page title in overlay"
   },
   "unlockYourAccountToViewMatchingLogins": {
@@ -5178,7 +5178,7 @@
     "description": "Screen reader text (aria-label) for new identity button within inline menu"
   },
   "bitwardenOverlayMenuAvailable": {
-    "message": "Meniul de completare automată Bitwarden este disponibil. Apăsați tasta săgeată în jos pentru a selecta.",
+    "message": "Meniul de completare automată Byteward este disponibil. Apăsați tasta săgeată în jos pentru a selecta.",
     "description": "Screen reader text for announcing when the overlay opens on the page"
   },
   "turnOn": {
@@ -6438,7 +6438,7 @@
     "description": "Label indicating the most common import formats"
   },
   "uriMatchDefaultStrategyHint": {
-    "message": "Detectarea potrivirii URI este modul în care Bitwarden identifică sugestiile de completare automată.",
+    "message": "Detectarea potrivirii URI este modul în care Byteward identifică sugestiile de completare automată.",
     "description": "Explains to the user that URI match detection determines how Bitwarden suggests autofill options, and clarifies that this default strategy applies when no specific match detection is set for a login item."
   },
   "regExAdvancedOptionWarning": {
@@ -6482,15 +6482,15 @@
     "description": "Body content for dialog which asks if the user wants to proceed to the browser's keyboard shortcut settings page"
   },
   "overrideDefaultBrowserAutofillTitle": {
-    "message": "Faceți Bitwarden managerul dvs. de parole implicit?",
+    "message": "Faceți Byteward managerul dvs. de parole implicit?",
     "description": "Dialog title facilitating the ability to override a chrome browser's default autofill behavior"
   },
   "overrideDefaultBrowserAutofillDescription": {
-    "message": "Ignorarea acestei opțiuni poate cauza conflicte între sugestiile de completare automată Bitwarden și cele ale browserului.",
+    "message": "Ignorarea acestei opțiuni poate cauza conflicte între sugestiile de completare automată Byteward și cele ale browserului.",
     "description": "Dialog message facilitating the ability to override a chrome browser's default autofill behavior"
   },
   "overrideDefaultBrowserAutoFillSettings": {
-    "message": "Faceți Bitwarden managerul dvs. de parole implicit",
+    "message": "Faceți Byteward managerul dvs. de parole implicit",
     "description": "Label for the setting that allows overriding the default browser autofill settings"
   },
   "defaultPasswordManagerCalloutTitle": {
@@ -6498,7 +6498,7 @@
     "description": "Title for the callout that prompts users to set Bitwarden as their default password manager"
   },
   "defaultPasswordManagerCalloutDesc": {
-    "message": "Vi se va cere să acordați o permisiune browserului $BROWSER$ pentru a face Bitwarden managerul dvs. de parole implicit.",
+    "message": "Vi se va cere să acordați o permisiune browserului $BROWSER$ pentru a face Byteward managerul dvs. de parole implicit.",
     "description": "Description for the callout that prompts users to set Bitwarden as their default password manager",
     "placeholders": {
       "browser": {
@@ -6508,11 +6508,11 @@
     }
   },
   "privacyPermissionAdditionNotGrantedTitle": {
-    "message": "Nu se poate seta Bitwarden ca manager de parole implicit",
+    "message": "Nu se poate seta Byteward ca manager de parole implicit",
     "description": "Title for the dialog that appears when the user has not granted the extension permission to set privacy settings"
   },
   "privacyPermissionAdditionNotGrantedDescription": {
-    "message": "Trebuie să acordați permisiuni de confidențialitate browserului Bitwarden pentru a-l seta ca manager de parole implicit.",
+    "message": "Trebuie să acordați permisiuni de confidențialitate browserului Byteward pentru a-l seta ca manager de parole implicit.",
     "description": "Description for the dialog that appears when the user has not granted the extension permission to set privacy settings"
   },
   "makeDefault": {
@@ -6520,10 +6520,10 @@
     "description": "Button text for the setting that allows overriding the default browser autofill settings"
   },
   "defaultPasswordManagerPromptTitle": {
-    "message": "Faceți Bitwarden managerul de parole implicit al browserului dvs."
+    "message": "Faceți Byteward managerul de parole implicit al browserului dvs."
   },
   "defaultPasswordManagerPromptTitleV2": {
-    "message": "Faceți Bitwarden managerul dvs. de parole implicit",
+    "message": "Faceți Byteward managerul dvs. de parole implicit",
     "description": "Label for the setting to make Bitwarden the default password manager"
   },
   "defaultPasswordManagerSettingHintV2": {
@@ -6535,13 +6535,13 @@
     "description": "Link text to browser autofill settings in the default password manager setting hint."
   },
   "defaultPasswordManagerPromptStep2AfterAllow": {
-    "message": "din promptul browserului pentru a acorda Bitwarden permisiunea de a vă modifica setările."
+    "message": "din promptul browserului pentru a acorda Byteward permisiunea de a vă modifica setările."
   },
   "defaultPasswordManagerPromptStep3": {
     "message": "Vom dezactiva managerul de parole integrat al browserului pentru a vă putea bucura de o experiență de autentificare sigură."
   },
   "defaultPasswordManagerSuccessToast": {
-    "message": "Bitwarden a devenit managerul de parole implicit al browserului"
+    "message": "Byteward a devenit managerul de parole implicit al browserului"
   },
   "allow": {
     "message": "Permiteți",
@@ -7549,7 +7549,7 @@
     "description": "Notification message for when a password has been regenerated"
   },
   "saveToBitwarden": {
-    "message": "Salvați în Bitwarden",
+    "message": "Salvați în Byteward",
     "description": "Confirmation message for saving a login to Bitwarden"
   },
   "spaceCharacterDescriptor": {
@@ -7793,13 +7793,13 @@
     "message": "Use folders to organize vault items. They're just for you. No one else will see or use them."
   },
   "introCarouselLabel": {
-    "message": "Bine ați venit la Bitwarden"
+    "message": "Bine ați venit la Byteward"
   },
   "securityPrioritized": {
     "message": "Securitatea, prioritară"
   },
   "securityPrioritizedBody": {
-    "message": "Salvați autentificări, carduri și identități în seiful dvs. sigur. Bitwarden utilizează criptare end-to-end cu cunoaștere zero pentru a proteja ceea ce este important pentru dvs."
+    "message": "Salvați autentificări, carduri și identități în seiful dvs. sigur. Byteward utilizează criptare end-to-end cu cunoaștere zero pentru a proteja ceea ce este important pentru dvs."
   },
   "quickLogin": {
     "message": "Autentificare rapidă și ușoară"
@@ -7945,7 +7945,7 @@
     "message": "Despre această setare"
   },
   "permitCipherDetailsDescription": {
-    "message": "Bitwarden va folosi URI-urile de autentificare salvate pentru a identifica ce pictogramă sau URL de schimbare a parolei ar trebui utilizat pentru a vă îmbunătăți experiența. Nu se colectează sau salvează informații când utilizați acest serviciu."
+    "message": "Byteward va folosi URI-urile de autentificare salvate pentru a identifica ce pictogramă sau URL de schimbare a parolei ar trebui utilizat pentru a vă îmbunătăți experiența. Nu se colectează sau salvează informații când utilizați acest serviciu."
   },
   "showQuickCopyActionsDetailsDescription": {
     "message": "Adăugați 3 butoane de copiere rapidă lângă elemente pentru a copia numele de utilizator, parola sau codul de verificare în clipboard."
@@ -7954,7 +7954,7 @@
     "message": "Nu aveți permisiuni pentru a vizualiza această pagină. Încercați să vă autentificați cu un cont diferit."
   },
   "wasmNotSupported": {
-    "message": "WebAssembly nu este acceptat de browserul dvs. sau nu este activat. WebAssembly este necesar pentru a utiliza aplicația Bitwarden.",
+    "message": "WebAssembly nu este acceptat de browserul dvs. sau nu este activat. WebAssembly este necesar pentru a utiliza aplicația Byteward.",
     "description": "'WebAssembly' is a technical term and should not be translated."
   },
   "showMore": {
@@ -8261,7 +8261,7 @@
     "message": "Pentru a utiliza deblocarea partajată, Bitwarden are nevoie de permisiunea de a comunica cu aplicația desktop. Când continuați, browserul vă va cere să o aprobați."
   },
   "sharedUnlockDesktopPermissionWarning": {
-    "message": "Bitwarden se va bloca și reîncărca. După ce aprobați, extensia se reîncarcă și vă va bloca seiful."
+    "message": "Byteward se va bloca și reîncărca. După ce aprobați, extensia se reîncarcă și vă va bloca seiful."
   },
   "biometricPermissionDesc": {
     "message": "Pentru a utiliza deblocarea biometrică, Bitwarden are nevoie de permisiunea de a comunica cu aplicația desktop. Când continuați, browserul vă va cere să o aprobați."

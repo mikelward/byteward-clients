@@ -336,7 +336,7 @@
     "message": "Vil du fortsette til nettleserutvidelsesbutikken?"
   },
   "continueToBrowserExtensionStoreDesc": {
-    "message": "Hjelp andre med å finne ut om Bitwarden passer for dem. Besøk nettleserens utvidelsesbutikk og legg igjen en vurdering nå."
+    "message": "Hjelp andre med å finne ut om Byteward passer for dem. Besøk nettleserens utvidelsesbutikk og legg igjen en vurdering nå."
   },
   "changeMasterPasswordOnWebConfirmation": {
     "message": "Du kan endre hovedpassordet ditt i Bitwardens nettapp."
@@ -356,7 +356,7 @@
     "message": "Logg ut"
   },
   "aboutBitwarden": {
-    "message": "Om Bitwarden"
+    "message": "Om Byteward"
   },
   "about": {
     "message": "Om"
@@ -1081,10 +1081,10 @@
     "message": "Gjør 2-trinnsbekreftelse sømløs"
   },
   "totpHelper": {
-    "message": "Bitwarden kan lagre og fylle ut to-trinns bekreftelseskoder. Kopier og lim inn nøkkelen i dette feltet."
+    "message": "Byteward kan lagre og fylle ut to-trinns bekreftelseskoder. Kopier og lim inn nøkkelen i dette feltet."
   },
   "totpHelperWithCapture": {
-    "message": "Bitwarden kan lagre og fylle ut to-trinns bekreftelseskoder. Velg kameraikonet for å ta et skjermbilde av dette nettstedets autentiserings-QR-kode, eller kopier og lim inn nøkkelen i dette feltet."
+    "message": "Byteward kan lagre og fylle ut to-trinns bekreftelseskoder. Velg kameraikonet for å ta et skjermbilde av dette nettstedets autentiserings-QR-kode, eller kopier og lim inn nøkkelen i dette feltet."
   },
   "learnMoreAboutAuthenticators": {
     "message": "Lær mer om autentisering"
@@ -1333,7 +1333,7 @@
     "message": "Hopp til innstilling"
   },
   "notificationAddDesc": {
-    "message": "Skal Bitwarden huske på dette passordet for deg?"
+    "message": "Skal Byteward huske på dette passordet for deg?"
   },
   "notificationAddSave": {
     "message": "Ja, lagre nå"
@@ -1369,11 +1369,11 @@
     }
   },
   "notificationLoginSaveConfirmation": {
-    "message": "lagret i Bitwarden.",
+    "message": "lagret i Byteward.",
     "description": "Shown to user after item is saved."
   },
   "notificationLoginUpdatedConfirmation": {
-    "message": "oppdatert i Bitwarden.",
+    "message": "oppdatert i Byteward.",
     "description": "Shown to user after item is updated."
   },
   "selectItemAriaLabel": {
@@ -1471,13 +1471,13 @@
     "message": "Spør om å lagre nye passnøkler eller logg inn med passnøkler som er lagret i hvelvet ditt. Gjelder alle påloggede kontoer."
   },
   "notificationChangeDesc": {
-    "message": "Vil du oppdatere dette passordet i Bitwarden?"
+    "message": "Vil du oppdatere dette passordet i Byteward?"
   },
   "notificationChangeSave": {
     "message": "Ja, oppdater nå"
   },
   "notificationUnlockDesc": {
-    "message": "Lås opp Bitwarden-hvelvet ditt for å utføre auto-utfyllingen."
+    "message": "Lås opp Byteward-hvelvet ditt for å utføre auto-utfyllingen."
   },
   "notificationUnlock": {
     "message": "Lås opp"
@@ -1786,7 +1786,7 @@
     "message": "Dette passordet brukes for eksport og import av denne filen"
   },
   "accountRestrictedOptionDescription": {
-    "message": "Bruk kontokrypteringsnøkkelen, avledet fra ditt kontobrukernavn og hovedpassord, for å kryptere eksporten og hindre import til andre kontoer enn den aktuelle Bitwarden-kontoen."
+    "message": "Bruk kontokrypteringsnøkkelen, avledet fra ditt kontobrukernavn og hovedpassord, for å kryptere eksporten og hindre import til andre kontoer enn den aktuelle Byteward-kontoen."
   },
   "passwordProtectedOptionDescription": {
     "message": "Sett et filpassord for kryptering av eksporten. Bruk passordet for å dekryptere og importere til en hvilken som helst Bitwarden-konto."
@@ -2236,7 +2236,7 @@
     "message": "Finn autofyllforslag enkelt"
   },
   "autofillSpotlightDesc": {
-    "message": "Slå av nettleserens autofyllinnstillinger, slik at de ikke kommer i konflikt med Bitwarden."
+    "message": "Slå av nettleserens autofyllinnstillinger, slik at de ikke kommer i konflikt med Byteward."
   },
   "turnOffBrowserAutofill": {
     "message": "Skru av $BROWSER$-autoutfylling",
@@ -2293,7 +2293,7 @@
     "message": "Vis autoutfyll-forslag i tekstbokser"
   },
   "howDoesBitwardenProtectFromPhishing": {
-    "message": "Hvordan beskytter Bitwarden dataene dine mot phishing?"
+    "message": "Hvordan beskytter Byteward dataene dine mot phishing?"
   },
   "currentWebsite": {
     "message": "Nåværende nettsted"
@@ -3202,7 +3202,7 @@
     "message": "Svakt hovedpassord"
   },
   "weakMasterPasswordDesc": {
-    "message": "Hovedpassordet du har valgt er svakt. Du bør bruke et sterkt hovedpassord (eller en passordfrase) for å sikre Bitwarden-kontoen din på en forsvarlig måte. Er du sikker på at du vil bruke dette hovedpassordet?"
+    "message": "Hovedpassordet du har valgt er svakt. Du bør bruke et sterkt hovedpassord (eller en passordfrase) for å sikre Byteward-kontoen din på en forsvarlig måte. Er du sikker på at du vil bruke dette hovedpassordet?"
   },
   "rotateAccountEncKey": {
     "message": "Oppdater også krypteringsnøkkelen til kontoen min"
@@ -3242,10 +3242,10 @@
     "message": "Velg PIN"
   },
   "setYourPinCode": {
-    "message": "Angi PIN-koden din for å låse opp Bitwarden. PIN-innstillingene tilbakestilles hvis du logger deg helt ut av programmet."
+    "message": "Angi PIN-koden din for å låse opp Byteward. PIN-innstillingene tilbakestilles hvis du logger deg helt ut av programmet."
   },
   "setPinCode": {
-    "message": "Du kan bruke denne PIN-koden til å låse opp Bitwarden. PIN-koden din vil bli tilbakestilt hvis du noen gang logger helt ut av programmet."
+    "message": "Du kan bruke denne PIN-koden til å låse opp Byteward. PIN-koden din vil bli tilbakestilt hvis du noen gang logger helt ut av programmet."
   },
   "pinRequired": {
     "message": "PIN-kode er påkrevd."
@@ -3381,7 +3381,7 @@
     "message": "Skjemaet er driftet av et annet domene enn URI-en til den lagrede påloggingen din. Velg OK for å autofylle likevel, eller Avbryt for å stoppe."
   },
   "autofillIframeWarningTip": {
-    "message": "For å forhindre denne advarselen i fremtiden, lagre denne URI-en, $HOSTNAME$, i Bitwarden-påloggingselementet ditt for dette nettstedet.",
+    "message": "For å forhindre denne advarselen i fremtiden, lagre denne URI-en, $HOSTNAME$, i Byteward-påloggingselementet ditt for dette nettstedet.",
     "placeholders": {
       "hostname": {
         "content": "$1",
@@ -3390,7 +3390,7 @@
     }
   },
   "topLayerHijackWarning": {
-    "message": "Denne siden forstyrrer Bitwarden-opplevelsen. Bitwarden-menyen på siden er midlertidig deaktivert som en sikkerhetsforanstaltning."
+    "message": "Denne siden forstyrrer Byteward-opplevelsen. Byteward-menyen på siden er midlertidig deaktivert som en sikkerhetsforanstaltning."
   },
   "setMasterPassword": {
     "message": "Angi hovedpassord"
@@ -3552,7 +3552,7 @@
     "message": "Biometri mislyktes"
   },
   "biometricsFailedDesc": {
-    "message": "Biometri kan ikke fullføres, vurder å bruke et hovedpassord eller logge ut. Hvis dette vedvarer, vennligst kontakt Bitwarden-støtte."
+    "message": "Biometri kan ikke fullføres, vurder å bruke et hovedpassord eller logge ut. Hvis dette vedvarer, vennligst kontakt Byteward-støtte."
   },
   "nativeMessagingPermissionErrorTitle": {
     "message": "Tillatelse er ikke gitt"
@@ -3595,7 +3595,7 @@
     "message": "Ekskluderte domener"
   },
   "excludedDomainsDesc": {
-    "message": "Bitwarden vil ikke be om å lagre innloggingsdetaljer for disse domenene. Du må oppdatere siden for at endringene skal tre i kraft."
+    "message": "Byteward vil ikke be om å lagre innloggingsdetaljer for disse domenene. Du må oppdatere siden for at endringene skal tre i kraft."
   },
   "blockedDomainsDesc": {
     "message": "Autofyll og andre relaterte funksjoner vil ikke bli tilbudt for disse nettstedene. Du må oppdatere siden for at endringene skal tre i kraft."
@@ -3727,24 +3727,24 @@
     "message": "Illustrasjon av en liste over pålogginger som er risikoutsatte."
   },
   "welcomeDialogGraphicAlt": {
-    "message": "Illustrasjon av oppsettet til Bitwarden-hvelvsiden."
+    "message": "Illustrasjon av oppsettet til Byteward-hvelvsiden."
   },
   "generatePasswordSlideDesc": {
-    "message": "Generer raskt et sterkt, unikt passord med Bitwarden-autofyllmenyen på det risikoutsatte nettstedet.",
+    "message": "Generer raskt et sterkt, unikt passord med Byteward-autofyllmenyen på det risikoutsatte nettstedet.",
     "description": "Description of the generate password slide on the at-risk password page carousel"
   },
   "generatePasswordSlideImgAltPeriod": {
-    "message": "Illustrasjon av Bitwarden-autofyllmenyen som viser et generert passord."
+    "message": "Illustrasjon av Byteward-autofyllmenyen som viser et generert passord."
   },
   "updateInBitwarden": {
-    "message": "Oppdater i Bitwarden"
+    "message": "Oppdater i Byteward"
   },
   "updateInBitwardenSlideDesc": {
-    "message": "Bitwarden vil deretter be deg oppdatere passordet i passordbehandleren.",
+    "message": "Byteward vil deretter be deg oppdatere passordet i passordbehandleren.",
     "description": "Description of the update in Bitwarden slide on the at-risk password page carousel"
   },
   "updateInBitwardenSlideImgAltPeriod": {
-    "message": "Illustrasjon av et Bitwarden-varsel som ber brukeren oppdatere påloggingen."
+    "message": "Illustrasjon av et Byteward-varsel som ber brukeren oppdatere påloggingen."
   },
   "turnOnAutofill": {
     "message": "Skru på auto-utfylling"
@@ -4372,11 +4372,11 @@
     }
   },
   "forwarderGeneratedBy": {
-    "message": "Generert av Bitwarden.",
+    "message": "Generert av Byteward.",
     "description": "Displayed with the address on the forwarding service's configuration screen."
   },
   "forwarderGeneratedByWithWebsite": {
-    "message": "Nettsted: $WEBSITE$. Generert av Bitwarden.",
+    "message": "Nettsted: $WEBSITE$. Generert av Byteward.",
     "description": "Displayed with the address on the forwarding service's configuration screen.",
     "placeholders": {
       "WEBSITE": {
@@ -4598,7 +4598,7 @@
     "message": "Et varsel er sendt til enheten din."
   },
   "notificationSentDevicePart1": {
-    "message": "Lås opp Bitwarden på enheten din eller på"
+    "message": "Lås opp Byteward på enheten din eller på"
   },
   "notificationSentDeviceAnchor": {
     "message": "nett-app"
@@ -5098,15 +5098,15 @@
     "message": "Hopp frem til innholdet"
   },
   "bitwardenOverlayButton": {
-    "message": "Bitwardens autoutfyllingsmenyknapp",
+    "message": "Bytewards autoutfyllingsmenyknapp",
     "description": "Page title for the iframe containing the overlay button"
   },
   "toggleBitwardenVaultOverlay": {
-    "message": "Skru på/av Bitwardens auto-utfyllmeny",
+    "message": "Skru på/av Bytewards auto-utfyllmeny",
     "description": "Screen reader and tool tip label for the overlay button"
   },
   "bitwardenVault": {
-    "message": "Bitwardens autoutfyllingsmeny",
+    "message": "Bytewards autoutfyllingsmeny",
     "description": "Page title in overlay"
   },
   "unlockYourAccountToViewMatchingLogins": {
@@ -5178,7 +5178,7 @@
     "description": "Screen reader text (aria-label) for new identity button within inline menu"
   },
   "bitwardenOverlayMenuAvailable": {
-    "message": "Bitwarden-autoutfyllingsmenyen er tilgjengelig. Trykk på «Piltast ned»-knappen for å velge.",
+    "message": "Byteward-autoutfyllingsmenyen er tilgjengelig. Trykk på «Piltast ned»-knappen for å velge.",
     "description": "Screen reader text for announcing when the overlay opens on the page"
   },
   "turnOn": {
@@ -5359,7 +5359,7 @@
     "message": "Lær mer om importalternativene dine"
   },
   "importTargetHintCollection": {
-    "message": "Velg denne innstillingen hvis du vil ha de importerte innholdene flyttet til en Bitwarden-mappe"
+    "message": "Velg denne innstillingen hvis du vil ha de importerte innholdene flyttet til en Byteward-mappe"
   },
   "importTargetHintFolder": {
     "message": "Velg dette alternativet hvis du vil at innholdet i den importerte filen skal flyttes til en mappe"
@@ -6438,7 +6438,7 @@
     "description": "Label indicating the most common import formats"
   },
   "uriMatchDefaultStrategyHint": {
-    "message": "URI-samsvarsgjenkjenning er hvordan Bitwarden identifiserer autofyllforslag.",
+    "message": "URI-samsvarsgjenkjenning er hvordan Byteward identifiserer autofyllforslag.",
     "description": "Explains to the user that URI match detection determines how Bitwarden suggests autofill options, and clarifies that this default strategy applies when no specific match detection is set for a login item."
   },
   "regExAdvancedOptionWarning": {
@@ -6482,15 +6482,15 @@
     "description": "Body content for dialog which asks if the user wants to proceed to the browser's keyboard shortcut settings page"
   },
   "overrideDefaultBrowserAutofillTitle": {
-    "message": "Vil du sette Bitwarden som din standard passordbehandler?",
+    "message": "Vil du sette Byteward som din standard passordbehandler?",
     "description": "Dialog title facilitating the ability to override a chrome browser's default autofill behavior"
   },
   "overrideDefaultBrowserAutofillDescription": {
-    "message": "Å ignorere dette alternativet kan føre til konflikter mellom Bitwardens autofyllforslag og nettleserens.",
+    "message": "Å ignorere dette alternativet kan føre til konflikter mellom Bytewards autofyllforslag og nettleserens.",
     "description": "Dialog message facilitating the ability to override a chrome browser's default autofill behavior"
   },
   "overrideDefaultBrowserAutoFillSettings": {
-    "message": "Gjør Bitwarden til din standard passordbehandler",
+    "message": "Gjør Byteward til din standard passordbehandler",
     "description": "Label for the setting that allows overriding the default browser autofill settings"
   },
   "defaultPasswordManagerCalloutTitle": {
@@ -6498,7 +6498,7 @@
     "description": "Title for the callout that prompts users to set Bitwarden as their default password manager"
   },
   "defaultPasswordManagerCalloutDesc": {
-    "message": "Du vil bli bedt om å gi $BROWSER$-nettleseren tillatelse til å gjøre Bitwarden til din standard passordbehandler.",
+    "message": "Du vil bli bedt om å gi $BROWSER$-nettleseren tillatelse til å gjøre Byteward til din standard passordbehandler.",
     "description": "Description for the callout that prompts users to set Bitwarden as their default password manager",
     "placeholders": {
       "browser": {
@@ -6508,11 +6508,11 @@
     }
   },
   "privacyPermissionAdditionNotGrantedTitle": {
-    "message": "Klarte ikke å sette Bitwarden som standard passordbehandler",
+    "message": "Klarte ikke å sette Byteward som standard passordbehandler",
     "description": "Title for the dialog that appears when the user has not granted the extension permission to set privacy settings"
   },
   "privacyPermissionAdditionNotGrantedDescription": {
-    "message": "Du må gi Bitwarden nettleserpersonvernstillatelser for å sette det som standard passordbehandler.",
+    "message": "Du må gi Byteward nettleserpersonvernstillatelser for å sette det som standard passordbehandler.",
     "description": "Description for the dialog that appears when the user has not granted the extension permission to set privacy settings"
   },
   "makeDefault": {
@@ -6520,10 +6520,10 @@
     "description": "Button text for the setting that allows overriding the default browser autofill settings"
   },
   "defaultPasswordManagerPromptTitle": {
-    "message": "Gjør Bitwarden til nettleserens standard passordbehandler"
+    "message": "Gjør Byteward til nettleserens standard passordbehandler"
   },
   "defaultPasswordManagerPromptTitleV2": {
-    "message": "Gjør Bitwarden til din standard passordbehandler",
+    "message": "Gjør Byteward til din standard passordbehandler",
     "description": "Label for the setting to make Bitwarden the default password manager"
   },
   "defaultPasswordManagerSettingHintV2": {
@@ -6535,13 +6535,13 @@
     "description": "Link text to browser autofill settings in the default password manager setting hint."
   },
   "defaultPasswordManagerPromptStep2AfterAllow": {
-    "message": "fra nettleserforespørselen for å gi Bitwarden tillatelse til å endre innstillingene dine."
+    "message": "fra nettleserforespørselen for å gi Byteward tillatelse til å endre innstillingene dine."
   },
   "defaultPasswordManagerPromptStep3": {
     "message": "Vi slår av nettleserens innebygde passordbehandler slik at du kan nyte en sikker påloggingsopplevelse."
   },
   "defaultPasswordManagerSuccessToast": {
-    "message": "Gjorde Bitwarden til din standard passordbehandler i nettleseren"
+    "message": "Gjorde Byteward til din standard passordbehandler i nettleseren"
   },
   "allow": {
     "message": "Tillat",
@@ -7549,7 +7549,7 @@
     "description": "Notification message for when a password has been regenerated"
   },
   "saveToBitwarden": {
-    "message": "Lagre til Bitwarden",
+    "message": "Lagre til Byteward",
     "description": "Confirmation message for saving a login to Bitwarden"
   },
   "spaceCharacterDescriptor": {
@@ -7793,13 +7793,13 @@
     "message": "Use folders to organize vault items. They're just for you. No one else will see or use them."
   },
   "introCarouselLabel": {
-    "message": "Velkommen til Bitwarden"
+    "message": "Velkommen til Byteward"
   },
   "securityPrioritized": {
     "message": "Sikkerhet, prioritert"
   },
   "securityPrioritizedBody": {
-    "message": "Lagre pålogginger, kort og identiteter i det sikre hvelvet ditt. Bitwarden bruker nullkunnskaps-, ende-til-ende-kryptering for å beskytte det som er viktig for deg."
+    "message": "Lagre pålogginger, kort og identiteter i det sikre hvelvet ditt. Byteward bruker nullkunnskaps-, ende-til-ende-kryptering for å beskytte det som er viktig for deg."
   },
   "quickLogin": {
     "message": "Rask og enkel pålogging"
@@ -7945,7 +7945,7 @@
     "message": "Om denne innstillingen"
   },
   "permitCipherDetailsDescription": {
-    "message": "Bitwarden vil bruke lagrede påloggings-URI-er for å identifisere hvilket ikon eller URL for passordendring som skal brukes for å forbedre opplevelsen din. Ingen informasjon samles inn eller lagres når du bruker denne tjenesten."
+    "message": "Byteward vil bruke lagrede påloggings-URI-er for å identifisere hvilket ikon eller URL for passordendring som skal brukes for å forbedre opplevelsen din. Ingen informasjon samles inn eller lagres når du bruker denne tjenesten."
   },
   "showQuickCopyActionsDetailsDescription": {
     "message": "Legg til 3 hurtigkopieringsknapper ved siden av elementer for å kopiere brukernavn, passord eller bekreftelseskode til utklippstavlen."
@@ -7954,7 +7954,7 @@
     "message": "Du har ikke tillatelse til å se denne siden. Prøv å logge inn med en annen konto."
   },
   "wasmNotSupported": {
-    "message": "WebAssembly støttes ikke i nettleseren din eller er ikke aktivert. WebAssembly kreves for å bruke Bitwarden-appen.",
+    "message": "WebAssembly støttes ikke i nettleseren din eller er ikke aktivert. WebAssembly kreves for å bruke Byteward-appen.",
     "description": "'WebAssembly' is a technical term and should not be translated."
   },
   "showMore": {
@@ -8261,7 +8261,7 @@
     "message": "For å bruke delt opplåsing trenger Bitwarden tillatelse til å kommunisere med skrivebordsappen. Når du fortsetter, vil nettleseren din be deg godkjenne det."
   },
   "sharedUnlockDesktopPermissionWarning": {
-    "message": "Bitwarden vil låse og laste på nytt. Etter at du godkjenner, lastes utvidelsen på nytt og vil låse hvelvet ditt."
+    "message": "Byteward vil låse og laste på nytt. Etter at du godkjenner, lastes utvidelsen på nytt og vil låse hvelvet ditt."
   },
   "biometricPermissionDesc": {
     "message": "For å bruke biometrisk opplåsing trenger Bitwarden tillatelse til å kommunisere med skrivebordsappen. Når du fortsetter, vil nettleseren din be deg godkjenne det."

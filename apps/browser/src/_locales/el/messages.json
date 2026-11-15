@@ -336,7 +336,7 @@
     "message": "Συνεχίστε στο κατάστημα επεκτάσεων περιηγητή;"
   },
   "continueToBrowserExtensionStoreDesc": {
-    "message": "Βοηθήστε άλλους να μάθουν αν το Bitwarden είναι κατάλληλο για αυτούς. Επισκεφθείτε το κατάστημα επεκτάσεων του περιηγητή σας και αφήστε τώρα μια βαθμολογία."
+    "message": "Βοηθήστε άλλους να μάθουν αν το Byteward είναι κατάλληλο για αυτούς. Επισκεφθείτε το κατάστημα επεκτάσεων του περιηγητή σας και αφήστε τώρα μια βαθμολογία."
   },
   "changeMasterPasswordOnWebConfirmation": {
     "message": "Μπορείτε να αλλάξετε τον κύριο κωδικό πρόσβασής σας στη διαδικτυακή εφαρμογή του Bitwarden."
@@ -356,7 +356,7 @@
     "message": "Αποσύνδεση"
   },
   "aboutBitwarden": {
-    "message": "Σχετικά με το Bitwarden"
+    "message": "Σχετικά με το Byteward"
   },
   "about": {
     "message": "Πληροφορίες"
@@ -1081,10 +1081,10 @@
     "message": "Κάντε την επαλήθευση δύο βημάτων απρόσκοπτη"
   },
   "totpHelper": {
-    "message": "Το Bitwarden μπορεί να αποθηκεύσει και να συμπληρώσει τους κωδικούς επαλήθευσης 2 βημάτων. Αντιγράψτε και επικολλήστε το κλειδί σε αυτό το πεδίο."
+    "message": "Το Byteward μπορεί να αποθηκεύσει και να συμπληρώσει τους κωδικούς επαλήθευσης 2 βημάτων. Αντιγράψτε και επικολλήστε το κλειδί σε αυτό το πεδίο."
   },
   "totpHelperWithCapture": {
-    "message": "Το Bitwarden μπορεί να αποθηκεύει και να συμπληρώνει κωδικούς επαλήθευσης δύο βημάτων. Επιλέξτε το εικονίδιο κάμερας για να δημιουργήσετε ένα στιγμιότυπο του κωδικού QR ελέγχου ταυτότητας αυτού του ιστοτόπου ή αντιγράψτε και επικολλήστε το κλειδί σε αυτό το πεδίο."
+    "message": "Το Byteward μπορεί να αποθηκεύει και να συμπληρώνει κωδικούς επαλήθευσης δύο βημάτων. Επιλέξτε το εικονίδιο κάμερας για να δημιουργήσετε ένα στιγμιότυπο του κωδικού QR ελέγχου ταυτότητας αυτού του ιστοτόπου ή αντιγράψτε και επικολλήστε το κλειδί σε αυτό το πεδίο."
   },
   "learnMoreAboutAuthenticators": {
     "message": "Μάθετε περισσότερα για τις εφαρμογές ελέγχου ταυτότητας"
@@ -1333,7 +1333,7 @@
     "message": "Μετάβαση στη ρύθμιση"
   },
   "notificationAddDesc": {
-    "message": "Να απομνημονεύσει το Bitwarden αυτόν τον κωδικό πρόσβασης;"
+    "message": "Να απομνημονεύσει το Byteward αυτόν τον κωδικό πρόσβασης;"
   },
   "notificationAddSave": {
     "message": "Αποθήκευση"
@@ -1369,11 +1369,11 @@
     }
   },
   "notificationLoginSaveConfirmation": {
-    "message": "αποθηκεύτηκε στο Bitwarden.",
+    "message": "αποθηκεύτηκε στο Byteward.",
     "description": "Shown to user after item is saved."
   },
   "notificationLoginUpdatedConfirmation": {
-    "message": "ενημερώθηκε στο Bitwarden.",
+    "message": "ενημερώθηκε στο Byteward.",
     "description": "Shown to user after item is updated."
   },
   "selectItemAriaLabel": {
@@ -1471,13 +1471,13 @@
     "message": "Ρώτησε με για την αποθήκευση νέων συνθηματικών ή σύνδεση με κλειδιά πρόσβασης αποθηκευμένα στο θησαυ/κιό μου. Ισχύει για όλους τους συνδεδεμένους λογαριασμούς."
   },
   "notificationChangeDesc": {
-    "message": "Θέλετε να ενημερώσετε αυτόν τον κωδικό πρόσβασης στο Bitwarden;"
+    "message": "Θέλετε να ενημερώσετε αυτόν τον κωδικό πρόσβασης στο Byteward;"
   },
   "notificationChangeSave": {
     "message": "Ενημέρωση"
   },
   "notificationUnlockDesc": {
-    "message": "Ξεκλειδώστε τη θυρίδα σας στο Bitwarden για να ολοκληρώσετε το αίτημα αυτόματης συμπλήρωσης."
+    "message": "Ξεκλειδώστε τη θυρίδα σας στο Byteward για να ολοκληρώσετε το αίτημα αυτόματης συμπλήρωσης."
   },
   "notificationUnlock": {
     "message": "Ξεκλείδωμα"
@@ -1786,7 +1786,7 @@
     "message": "Αυτός ο κωδικός πρόσβασης θα χρησιμοποιηθεί για την εξαγωγή και εισαγωγή αυτού του αρχείου"
   },
   "accountRestrictedOptionDescription": {
-    "message": "Χρησιμοποιήστε το κλειδί κρυπτογράφησης του λογαριασμού σας, που προέρχεται από το όνομα χρήστη και τον Κύριο Κωδικό Πρόσβασης του λογαριασμού σας, για να κρυπτογραφήσετε την εξαγωγή και να περιορίσετε την εισαγωγή μόνο στον τρέχοντα λογαριασμό Bitwarden."
+    "message": "Χρησιμοποιήστε το κλειδί κρυπτογράφησης του λογαριασμού σας, που προέρχεται από το όνομα χρήστη και τον Κύριο Κωδικό Πρόσβασης του λογαριασμού σας, για να κρυπτογραφήσετε την εξαγωγή και να περιορίσετε την εισαγωγή μόνο στον τρέχοντα λογαριασμό Byteward."
   },
   "passwordProtectedOptionDescription": {
     "message": "Ορίστε έναν κωδικό πρόσβασης αρχείου για να κρυπτογραφήσετε την εξαγωγή, και να την εισάγετε σε οποιονδήποτε λογαριασμό Bitwarden χρησιμοποιώντας τον κωδικό πρόσβασης για αποκρυπτογράφηση."
@@ -2236,7 +2236,7 @@
     "message": "Εύκολη εύρεση προτάσεων αυτόματης συμπλήρωσης"
   },
   "autofillSpotlightDesc": {
-    "message": "Απενεργοποιήστε τις ρυθμίσεις αυτόματης συμπλήρωσης του προγράμματος περιήγησής σας, έτσι ώστε να μη συγκρούονται με αυτές του Bitwarden."
+    "message": "Απενεργοποιήστε τις ρυθμίσεις αυτόματης συμπλήρωσης του προγράμματος περιήγησής σας, έτσι ώστε να μη συγκρούονται με αυτές του Byteward."
   },
   "turnOffBrowserAutofill": {
     "message": "Απενεργοποίηση αυτόματης συμπλήρωσης του $BROWSER$",
@@ -2293,7 +2293,7 @@
     "message": "Εμφάνιση προτάσεων αυτόματης συμπλήρωσης σε πεδία φορμών"
   },
   "howDoesBitwardenProtectFromPhishing": {
-    "message": "Πώς προστατεύει το Bitwarden τα δεδομένα σας από phishing (ψάρεμα);"
+    "message": "Πώς προστατεύει το Byteward τα δεδομένα σας από phishing (ψάρεμα);"
   },
   "currentWebsite": {
     "message": "Τρέχων ιστότοπος"
@@ -3202,7 +3202,7 @@
     "message": "Αδύναμος κύριος κωδικός πρόσβασης"
   },
   "weakMasterPasswordDesc": {
-    "message": "Ο κύριος κωδικός πρόσβασης που έχετε επιλέξει είναι αδύναμος. Θα πρέπει να χρησιμοποιήσετε έναν ισχυρό κύριο κωδικό (ή μια φράση) πρόσβασης για την κατάλληλη προστασία του λογαριασμού σας στο Bitwarden. Θέλετε σίγουρα να χρησιμοποιήσετε αυτόν τον κύριο κωδικό πρόσβασης;"
+    "message": "Ο κύριος κωδικός πρόσβασης που έχετε επιλέξει είναι αδύναμος. Θα πρέπει να χρησιμοποιήσετε έναν ισχυρό κύριο κωδικό (ή μια φράση) πρόσβασης για την κατάλληλη προστασία του λογαριασμού σας στο Byteward. Θέλετε σίγουρα να χρησιμοποιήσετε αυτόν τον κύριο κωδικό πρόσβασης;"
   },
   "rotateAccountEncKey": {
     "message": "Να γίνει επίσης περιστροφή του κλειδιού κρυπτογράφησης του λογαριασμού μου"
@@ -3242,10 +3242,10 @@
     "message": "Ορισμός PIN"
   },
   "setYourPinCode": {
-    "message": "Ορίστε τον κωδικό PIN για το ξεκλείδωμα του Bitwarden. Εάν αποσυνδεθείτε εντελώς από την εφαρμογή, θα γίνει επαναφορά των ρυθμίσεων του PIN σας."
+    "message": "Ορίστε τον κωδικό PIN για το ξεκλείδωμα του Byteward. Εάν αποσυνδεθείτε εντελώς από την εφαρμογή, θα γίνει επαναφορά των ρυθμίσεων του PIN σας."
   },
   "setPinCode": {
-    "message": "Μπορείτε να χρησιμοποιήσετε αυτό το PIN για να ξεκλειδώσετε το Bitwarden. Το PIN σας θα επαναφερθεί αν αποσυνδεθείτε ποτέ πλήρως από την εφαρμογή."
+    "message": "Μπορείτε να χρησιμοποιήσετε αυτό το PIN για να ξεκλειδώσετε το Byteward. Το PIN σας θα επαναφερθεί αν αποσυνδεθείτε ποτέ πλήρως από την εφαρμογή."
   },
   "pinRequired": {
     "message": "Απαιτείται κωδικός PIN."
@@ -3381,7 +3381,7 @@
     "message": "Η φόρμα φιλοξενείται από διαφορετικό τομέα (domain) από το λινκ (uri) της αποθηκευμένης σύνδεσης σας (login). Επιλέξτε OK για αυτόματη συμπλήρωση, ή Ακύρωση για να σταματήσετε."
   },
   "autofillIframeWarningTip": {
-    "message": "Για να αποτρέψετε αυτή την προειδοποίηση στο μέλλον, αποθηκεύστε αυτό το URI, $HOSTNAME$, στο στοιχείο σύνδεσης Bitwarden σας για αυτόν τον ιστότοπο.",
+    "message": "Για να αποτρέψετε αυτή την προειδοποίηση στο μέλλον, αποθηκεύστε αυτό το URI, $HOSTNAME$, στο στοιχείο σύνδεσης Byteward σας για αυτόν τον ιστότοπο.",
     "placeholders": {
       "hostname": {
         "content": "$1",
@@ -3390,7 +3390,7 @@
     }
   },
   "topLayerHijackWarning": {
-    "message": "Αυτή η σελίδα παρεμβαίνει στην εμπειρία του Bitwarden. Το ενσωματωμένο μενού του Bitwarden απενεργοποιήθηκε προσωρινά ως μέτρο ασφαλείας."
+    "message": "Αυτή η σελίδα παρεμβαίνει στην εμπειρία του Byteward. Το ενσωματωμένο μενού του Byteward απενεργοποιήθηκε προσωρινά ως μέτρο ασφαλείας."
   },
   "setMasterPassword": {
     "message": "Ορισμός κύριου κωδικού πρόσβασης"
@@ -3552,7 +3552,7 @@
     "message": "Τα βιομετρικά απέτυχαν"
   },
   "biometricsFailedDesc": {
-    "message": "Δεν ήταν δυνατή η ολοκλήρωση της επαλήθευσης με βιομετρικά στοιχεία, χρησιμοποιήστε έναν κύριο κωδικό πρόσβασης ή αποσυνδεθείτε. Εάν αυτό εξακολουθεί να συμβαίνει, επικοινωνήστε με την υποστήριξη του Bitwarden."
+    "message": "Δεν ήταν δυνατή η ολοκλήρωση της επαλήθευσης με βιομετρικά στοιχεία, χρησιμοποιήστε έναν κύριο κωδικό πρόσβασης ή αποσυνδεθείτε. Εάν αυτό εξακολουθεί να συμβαίνει, επικοινωνήστε με την υποστήριξη του Byteward."
   },
   "nativeMessagingPermissionErrorTitle": {
     "message": "Δεν παραχωρήθηκε άδεια"
@@ -3595,7 +3595,7 @@
     "message": "Εξαιρούμενοι τομείς"
   },
   "excludedDomainsDesc": {
-    "message": "Το Bitwarden δεν θα σας ρωτά αν θέλετε να αποθηκεύσετε στοιχεία σύνδεσης για αυτούς τους τομείς. Πρέπει να ανανεώσετε τη σελίδα για να τεθούν σε ισχύ οι αλλαγές."
+    "message": "Το Byteward δεν θα σας ρωτά αν θέλετε να αποθηκεύσετε στοιχεία σύνδεσης για αυτούς τους τομείς. Πρέπει να ανανεώσετε τη σελίδα για να τεθούν σε ισχύ οι αλλαγές."
   },
   "blockedDomainsDesc": {
     "message": "Η αυτόματη συμπλήρωση και άλλες σχετικές λειτουργίες δεν θα προσφέρονται για αυτούς τους ιστοτόπους. Πρέπει να ανανεώσετε τη σελίδα για να τεθούν σε ισχύ οι αλλαγές."
@@ -3727,24 +3727,24 @@
     "message": "Εικονογράφηση λίστας συνδέσεων που είναι σε κίνδυνο."
   },
   "welcomeDialogGraphicAlt": {
-    "message": "Εικονογράφηση της διάταξης της σελίδας θησαυροφυλακίου του Bitwarden."
+    "message": "Εικονογράφηση της διάταξης της σελίδας θησαυροφυλακίου του Byteward."
   },
   "generatePasswordSlideDesc": {
-    "message": "Δημιουργήστε γρήγορα έναν ισχυρό, μοναδικό κωδικό πρόσβασης με το μενού αυτόματης συμπλήρωσης του Bitwarden στον ιστότοπο που είναι σε κίνδυνο.",
+    "message": "Δημιουργήστε γρήγορα έναν ισχυρό, μοναδικό κωδικό πρόσβασης με το μενού αυτόματης συμπλήρωσης του Byteward στον ιστότοπο που είναι σε κίνδυνο.",
     "description": "Description of the generate password slide on the at-risk password page carousel"
   },
   "generatePasswordSlideImgAltPeriod": {
-    "message": "Εικονογράφηση του μενού αυτόματης συμπλήρωσης του Bitwarden που εμφανίζει έναν δημιουργημένο κωδικό πρόσβασης."
+    "message": "Εικονογράφηση του μενού αυτόματης συμπλήρωσης του Byteward που εμφανίζει έναν δημιουργημένο κωδικό πρόσβασης."
   },
   "updateInBitwarden": {
-    "message": "Ενημέρωση στο Bitwarden"
+    "message": "Ενημέρωση στο Byteward"
   },
   "updateInBitwardenSlideDesc": {
-    "message": "Το Bitwarden θα σας ζητήσει στη συνέχεια να ενημερώσετε τον κωδικό πρόσβασης στον διαχειριστή κωδικών πρόσβασης.",
+    "message": "Το Byteward θα σας ζητήσει στη συνέχεια να ενημερώσετε τον κωδικό πρόσβασης στον διαχειριστή κωδικών πρόσβασης.",
     "description": "Description of the update in Bitwarden slide on the at-risk password page carousel"
   },
   "updateInBitwardenSlideImgAltPeriod": {
-    "message": "Εικονογράφηση ειδοποίησης του Bitwarden που ζητά από τον χρήστη να ενημερώσει τη σύνδεση."
+    "message": "Εικονογράφηση ειδοποίησης του Byteward που ζητά από τον χρήστη να ενημερώσει τη σύνδεση."
   },
   "turnOnAutofill": {
     "message": "Ενεργοποίηση αυτόματης συμπλήρωσης"
@@ -4372,11 +4372,11 @@
     }
   },
   "forwarderGeneratedBy": {
-    "message": "Δημιουργήθηκε από το Bitwarden.",
+    "message": "Δημιουργήθηκε από το Byteward.",
     "description": "Displayed with the address on the forwarding service's configuration screen."
   },
   "forwarderGeneratedByWithWebsite": {
-    "message": "Ιστότοπος: $WEBSITE$. Δημιουργήθηκε από το Bitwarden.",
+    "message": "Ιστότοπος: $WEBSITE$. Δημιουργήθηκε από το Byteward.",
     "description": "Displayed with the address on the forwarding service's configuration screen.",
     "placeholders": {
       "WEBSITE": {
@@ -4598,7 +4598,7 @@
     "message": "Μια ειδοποίηση έχει σταλεί στη συσκευή σας."
   },
   "notificationSentDevicePart1": {
-    "message": "Ξεκλειδώστε το Bitwarden στη συσκευή σας ή στην"
+    "message": "Ξεκλειδώστε το Byteward στη συσκευή σας ή στην"
   },
   "notificationSentDeviceAnchor": {
     "message": "εφαρμογή web"
@@ -5098,15 +5098,15 @@
     "message": "Μετάβαση στο περιεχόμενο"
   },
   "bitwardenOverlayButton": {
-    "message": "Πλήκτρο μενού αυτόματης συμπλήρωσης Bitwarden",
+    "message": "Πλήκτρο μενού αυτόματης συμπλήρωσης Byteward",
     "description": "Page title for the iframe containing the overlay button"
   },
   "toggleBitwardenVaultOverlay": {
-    "message": "Εναλλαγή ορατότητας μενού αυτόματης συμπλήρωσης Bitwarden",
+    "message": "Εναλλαγή ορατότητας μενού αυτόματης συμπλήρωσης Byteward",
     "description": "Screen reader and tool tip label for the overlay button"
   },
   "bitwardenVault": {
-    "message": "Μενού αυτόματης συμπλήρωσης Bitwarden",
+    "message": "Μενού αυτόματης συμπλήρωσης Byteward",
     "description": "Page title in overlay"
   },
   "unlockYourAccountToViewMatchingLogins": {
@@ -5178,7 +5178,7 @@
     "description": "Screen reader text (aria-label) for new identity button within inline menu"
   },
   "bitwardenOverlayMenuAvailable": {
-    "message": "Είναι διαθέσιμο το Bitwarden μενού αυτόματης συμπλήρωσης. Πατήστε το πλήκτρο κάτω βέλος για να επιλέξετε.",
+    "message": "Είναι διαθέσιμο το Byteward μενού αυτόματης συμπλήρωσης. Πατήστε το πλήκτρο κάτω βέλος για να επιλέξετε.",
     "description": "Screen reader text for announcing when the overlay opens on the page"
   },
   "turnOn": {
@@ -6438,7 +6438,7 @@
     "description": "Label indicating the most common import formats"
   },
   "uriMatchDefaultStrategyHint": {
-    "message": "Η ανίχνευση αντιστοιχίας URI είναι ο τρόπος με τον οποίο το Bitwarden προσδιορίζει τις προτάσεις αυτόματης συμπλήρωσης.",
+    "message": "Η ανίχνευση αντιστοιχίας URI είναι ο τρόπος με τον οποίο το Byteward προσδιορίζει τις προτάσεις αυτόματης συμπλήρωσης.",
     "description": "Explains to the user that URI match detection determines how Bitwarden suggests autofill options, and clarifies that this default strategy applies when no specific match detection is set for a login item."
   },
   "regExAdvancedOptionWarning": {
@@ -6482,15 +6482,15 @@
     "description": "Body content for dialog which asks if the user wants to proceed to the browser's keyboard shortcut settings page"
   },
   "overrideDefaultBrowserAutofillTitle": {
-    "message": "Να γίνει το Bitwarden ο προεπιλεγμένος διαχειριστής κωδικών πρόσβασης σας;",
+    "message": "Να γίνει το Byteward ο προεπιλεγμένος διαχειριστής κωδικών πρόσβασης σας;",
     "description": "Dialog title facilitating the ability to override a chrome browser's default autofill behavior"
   },
   "overrideDefaultBrowserAutofillDescription": {
-    "message": "Η αγνόηση αυτής της επιλογής μπορεί να προκαλέσει συγκρούσεις μεταξύ του μενού αυτόματης συμπλήρωσης Bitwarden και του περιηγητή σας.",
+    "message": "Η αγνόηση αυτής της επιλογής μπορεί να προκαλέσει συγκρούσεις μεταξύ του μενού αυτόματης συμπλήρωσης Byteward και του περιηγητή σας.",
     "description": "Dialog message facilitating the ability to override a chrome browser's default autofill behavior"
   },
   "overrideDefaultBrowserAutoFillSettings": {
-    "message": "Ορισμός του Bitwarden ως προεπιλεγμένου διαχειριστή κωδικών πρόσβασης",
+    "message": "Ορισμός του Byteward ως προεπιλεγμένου διαχειριστή κωδικών πρόσβασης",
     "description": "Label for the setting that allows overriding the default browser autofill settings"
   },
   "defaultPasswordManagerCalloutTitle": {
@@ -6498,7 +6498,7 @@
     "description": "Title for the callout that prompts users to set Bitwarden as their default password manager"
   },
   "defaultPasswordManagerCalloutDesc": {
-    "message": "Θα σας ζητηθεί να παραχωρήσετε άδεια στο πρόγραμμα περιήγησης $BROWSER$ για να ορίσετε το Bitwarden ως προεπιλεγμένο διαχειριστή κωδικών πρόσβασης.",
+    "message": "Θα σας ζητηθεί να παραχωρήσετε άδεια στο πρόγραμμα περιήγησης $BROWSER$ για να ορίσετε το Byteward ως προεπιλεγμένο διαχειριστή κωδικών πρόσβασης.",
     "description": "Description for the callout that prompts users to set Bitwarden as their default password manager",
     "placeholders": {
       "browser": {
@@ -6508,11 +6508,11 @@
     }
   },
   "privacyPermissionAdditionNotGrantedTitle": {
-    "message": "Αδυναμία ορισμού του Bitwarden ως προεπιλεγμένου διαχειριστή κωδικών πρόσβασης",
+    "message": "Αδυναμία ορισμού του Byteward ως προεπιλεγμένου διαχειριστή κωδικών πρόσβασης",
     "description": "Title for the dialog that appears when the user has not granted the extension permission to set privacy settings"
   },
   "privacyPermissionAdditionNotGrantedDescription": {
-    "message": "Πρέπει να παραχωρήσετε δικαιώματα απορρήτου περιηγητή στο Bitwarden για να το ορίσετε ως προεπιλεγμένο διαχειριστή κωδικών πρόσβασης.",
+    "message": "Πρέπει να παραχωρήσετε δικαιώματα απορρήτου περιηγητή στο Byteward για να το ορίσετε ως προεπιλεγμένο διαχειριστή κωδικών πρόσβασης.",
     "description": "Description for the dialog that appears when the user has not granted the extension permission to set privacy settings"
   },
   "makeDefault": {
@@ -6520,10 +6520,10 @@
     "description": "Button text for the setting that allows overriding the default browser autofill settings"
   },
   "defaultPasswordManagerPromptTitle": {
-    "message": "Ορίστε το Bitwarden ως τον προεπιλεγμένο διαχειριστή κωδικών πρόσβασης του προγράμματος περιήγησής σας"
+    "message": "Ορίστε το Byteward ως τον προεπιλεγμένο διαχειριστή κωδικών πρόσβασης του προγράμματος περιήγησής σας"
   },
   "defaultPasswordManagerPromptTitleV2": {
-    "message": "Ορίστε το Bitwarden ως τον προεπιλεγμένο διαχειριστή κωδικών πρόσβασής σας",
+    "message": "Ορίστε το Byteward ως τον προεπιλεγμένο διαχειριστή κωδικών πρόσβασής σας",
     "description": "Label for the setting to make Bitwarden the default password manager"
   },
   "defaultPasswordManagerSettingHintV2": {
@@ -6535,13 +6535,13 @@
     "description": "Link text to browser autofill settings in the default password manager setting hint."
   },
   "defaultPasswordManagerPromptStep2AfterAllow": {
-    "message": "από το μήνυμα του προγράμματος περιήγησης για να επιτρέψετε στο Bitwarden να αλλάζει τις ρυθμίσεις σας."
+    "message": "από το μήνυμα του προγράμματος περιήγησης για να επιτρέψετε στο Byteward να αλλάζει τις ρυθμίσεις σας."
   },
   "defaultPasswordManagerPromptStep3": {
     "message": "Θα απενεργοποιήσουμε τον ενσωματωμένο διαχειριστή κωδικών πρόσβασης του προγράμματος περιήγησής σας ώστε να απολαμβάνετε μια ασφαλή εμπειρία σύνδεσης."
   },
   "defaultPasswordManagerSuccessToast": {
-    "message": "Το Bitwarden ορίστηκε ως ο προεπιλεγμένος διαχειριστής κωδικών πρόσβασης του προγράμματος περιήγησης"
+    "message": "Το Byteward ορίστηκε ως ο προεπιλεγμένος διαχειριστής κωδικών πρόσβασης του προγράμματος περιήγησης"
   },
   "allow": {
     "message": "Να επιτρέπεται",
@@ -7549,7 +7549,7 @@
     "description": "Notification message for when a password has been regenerated"
   },
   "saveToBitwarden": {
-    "message": "Αποθήκευση στο Bitwarden",
+    "message": "Αποθήκευση στο Byteward",
     "description": "Confirmation message for saving a login to Bitwarden"
   },
   "spaceCharacterDescriptor": {
@@ -7793,13 +7793,13 @@
     "message": "Use folders to organize vault items. They're just for you. No one else will see or use them."
   },
   "introCarouselLabel": {
-    "message": "Καλώς ορίσατε στο Bitwarden"
+    "message": "Καλώς ορίσατε στο Byteward"
   },
   "securityPrioritized": {
     "message": "Με προτεραιότητα την ασφάλεια"
   },
   "securityPrioritizedBody": {
-    "message": "Αποθηκεύστε συνδέσεις, κάρτες και ταυτότητες στην ασφαλή θυρίδα σας. Το Bitwarden χρησιμοποιεί διατερματική κρυπτογράφηση μηδενικής γνώσης για να προστατεύει ό,τι είναι σημαντικό για εσάς."
+    "message": "Αποθηκεύστε συνδέσεις, κάρτες και ταυτότητες στην ασφαλή θυρίδα σας. Το Byteward χρησιμοποιεί διατερματική κρυπτογράφηση μηδενικής γνώσης για να προστατεύει ό,τι είναι σημαντικό για εσάς."
   },
   "quickLogin": {
     "message": "Εύκολη και γρήγορη σύνδεση"
@@ -7945,7 +7945,7 @@
     "message": "Σχετικά με αυτήν τη ρύθμιση"
   },
   "permitCipherDetailsDescription": {
-    "message": "Το Bitwarden θα χρησιμοποιεί τα αποθηκευμένα URI σύνδεσης για να προσδιορίζει ποιο εικονίδιο ή URL αλλαγής κωδικού πρόσβασης θα χρησιμοποιείται, προκειμένου να βελτιώσει την εμπειρία σας. Δεν συλλέγονται, ούτε αποθηκεύονται, πληροφορίες όταν χρησιμοποιείτε αυτήν την υπηρεσία."
+    "message": "Το Byteward θα χρησιμοποιεί τα αποθηκευμένα URI σύνδεσης για να προσδιορίζει ποιο εικονίδιο ή URL αλλαγής κωδικού πρόσβασης θα χρησιμοποιείται, προκειμένου να βελτιώσει την εμπειρία σας. Δεν συλλέγονται, ούτε αποθηκεύονται, πληροφορίες όταν χρησιμοποιείτε αυτήν την υπηρεσία."
   },
   "showQuickCopyActionsDetailsDescription": {
     "message": "Προσθέτει 3 κουμπιά γρήγορης αντιγραφής δίπλα στα στοιχεία για αντιγραφή του ονόματος χρήστη, του κωδικού πρόσβασης ή του κωδικού επαλήθευσης στο πρόχειρο."
@@ -7954,7 +7954,7 @@
     "message": "Δεν έχετε δικαιώματα προβολής αυτής της σελίδας. Δοκιμάστε να συνδεθείτε με διαφορετικό λογαριασμό."
   },
   "wasmNotSupported": {
-    "message": "Το WebAssembly δεν υποστηρίζεται στο πρόγραμμα περιήγησής σας ή δεν είναι ενεργοποιημένο. Απαιτείται WebAssembly για τη χρήση της εφαρμογής Bitwarden.",
+    "message": "Το WebAssembly δεν υποστηρίζεται στο πρόγραμμα περιήγησής σας ή δεν είναι ενεργοποιημένο. Απαιτείται WebAssembly για τη χρήση της εφαρμογής Byteward.",
     "description": "'WebAssembly' is a technical term and should not be translated."
   },
   "showMore": {
@@ -8261,7 +8261,7 @@
     "message": "Για να χρησιμοποιήσετε το κοινόχρηστο ξεκλείδωμα, το Bitwarden χρειάζεται άδεια επικοινωνίας με την εφαρμογή desktop. Όταν συνεχίσετε, το πρόγραμμα περιήγησής σας θα σας ζητήσει να το εγκρίνετε."
   },
   "sharedUnlockDesktopPermissionWarning": {
-    "message": "Το Bitwarden θα κλειδώσει και θα επαναφορτωθεί. Αφού εγκρίνετε, η επέκταση επαναφορτώνεται και θα κλειδώσει το θησαυροφυλάκιό σας."
+    "message": "Το Byteward θα κλειδώσει και θα επαναφορτωθεί. Αφού εγκρίνετε, η επέκταση επαναφορτώνεται και θα κλειδώσει το θησαυροφυλάκιό σας."
   },
   "biometricPermissionDesc": {
     "message": "Για να χρησιμοποιήσετε βιομετρικό ξεκλείδωμα, το Bitwarden χρειάζεται άδεια επικοινωνίας με την εφαρμογή desktop. Όταν συνεχίσετε, το πρόγραμμα περιήγησής σας θα σας ζητήσει να το εγκρίνετε."

@@ -336,7 +336,7 @@
     "message": "Tiếp tục tới cửa hàng tiện ích mở rộng của trình duyệt?"
   },
   "continueToBrowserExtensionStoreDesc": {
-    "message": "Giúp người khác tìm hiểu xem Bitwarden có phù hợp với họ không. Truy cập cửa hàng tiện ích mở rộng của trình duyệt và đánh giá ngay bây giờ."
+    "message": "Giúp người khác tìm hiểu xem Byteward có phù hợp với họ không. Truy cập cửa hàng tiện ích mở rộng của trình duyệt và đánh giá ngay bây giờ."
   },
   "changeMasterPasswordOnWebConfirmation": {
     "message": "Bạn có thể thay đổi mật khẩu chính của mình trên Bitwarden bản web."
@@ -356,7 +356,7 @@
     "message": "Đăng xuất"
   },
   "aboutBitwarden": {
-    "message": "Giới thiệu về Bitwarden"
+    "message": "Giới thiệu về Byteward"
   },
   "about": {
     "message": "Thông tin"
@@ -1081,10 +1081,10 @@
     "message": "Giúp quá trình xác minh 2 bước diễn ra liền mạch"
   },
   "totpHelper": {
-    "message": "Bitwarden có thể lưu trữ và điền mã xác thực 2 bước. Sao chép và dán khóa vào ô này."
+    "message": "Byteward có thể lưu trữ và điền mã xác thực 2 bước. Sao chép và dán khóa vào ô này."
   },
   "totpHelperWithCapture": {
-    "message": "Bitwarden có thể lưu trữ và điền mã xác minh 2 bước. Hãy chọn biểu tượng máy ảnh để quét mã QR xác thực của trang web, hoặc sao chép và dán khoá vào ô này."
+    "message": "Byteward có thể lưu trữ và điền mã xác minh 2 bước. Hãy chọn biểu tượng máy ảnh để quét mã QR xác thực của trang web, hoặc sao chép và dán khoá vào ô này."
   },
   "learnMoreAboutAuthenticators": {
     "message": "Tìm hiểu thêm về các công cụ xác thực"
@@ -1333,7 +1333,7 @@
     "message": "Chuyển đến cài đặt"
   },
   "notificationAddDesc": {
-    "message": "Bạn có cần Bitwarden nhớ giúp bạn mật khẩu này không?"
+    "message": "Bạn có cần Byteward nhớ giúp bạn mật khẩu này không?"
   },
   "notificationAddSave": {
     "message": "Lưu"
@@ -1369,11 +1369,11 @@
     }
   },
   "notificationLoginSaveConfirmation": {
-    "message": "đã lưu vào Bitwarden.",
+    "message": "đã lưu vào Byteward.",
     "description": "Shown to user after item is saved."
   },
   "notificationLoginUpdatedConfirmation": {
-    "message": "đã cập nhật trong Bitwarden.",
+    "message": "đã cập nhật trong Byteward.",
     "description": "Shown to user after item is updated."
   },
   "selectItemAriaLabel": {
@@ -1471,13 +1471,13 @@
     "message": "Yêu cầu lưu các mã khóa mới hoặc đăng nhập bằng các mã khóa đã lưu trong kho của bạn. Áp dụng cho tất cả các tài khoản đã đăng nhập."
   },
   "notificationChangeDesc": {
-    "message": "Bạn có muốn cập nhật mật khẩu này trong Bitwarden không?"
+    "message": "Bạn có muốn cập nhật mật khẩu này trong Byteward không?"
   },
   "notificationChangeSave": {
     "message": "Cập nhật"
   },
   "notificationUnlockDesc": {
-    "message": "Mở khóa kho Bitwarden của bạn để hoàn tất quá trình tự động điền."
+    "message": "Mở khóa kho Byteward của bạn để hoàn tất quá trình tự động điền."
   },
   "notificationUnlock": {
     "message": "Mở khóa"
@@ -1786,7 +1786,7 @@
     "message": "Mật khẩu này sẽ được sử dụng để xuất và nhập tập tin này"
   },
   "accountRestrictedOptionDescription": {
-    "message": "Sử dụng khóa mã hóa tài khoản của bạn, được tạo từ tên đăng nhập và mật khẩu chính của bạn để mã hóa tệp xuất và giới hạn việc nhập chỉ cho tài khoản Bitwarden hiện tại."
+    "message": "Sử dụng khóa mã hóa tài khoản của bạn, được tạo từ tên đăng nhập và mật khẩu chính của bạn để mã hóa tệp xuất và giới hạn việc nhập chỉ cho tài khoản Byteward hiện tại."
   },
   "passwordProtectedOptionDescription": {
     "message": "Thiết lập mật khẩu cho tệp để mã hóa dữ liệu xuất và nhập nó vào bất kỳ tài khoản Bitwarden nào bằng cách sử dụng mật khẩu đó để giải mã."
@@ -2236,7 +2236,7 @@
     "message": "Dễ dàng tìm các gợi ý tự động điền"
   },
   "autofillSpotlightDesc": {
-    "message": "Tắt cài đặt tự động điền của trình duyệt để tránh xung đột với Bitwarden."
+    "message": "Tắt cài đặt tự động điền của trình duyệt để tránh xung đột với Byteward."
   },
   "turnOffBrowserAutofill": {
     "message": "Tắt tính năng tự động điền của $BROWSER$",
@@ -2293,7 +2293,7 @@
     "message": "Hiển thị các gợi ý tự động điền trên các trường biểu mẫu"
   },
   "howDoesBitwardenProtectFromPhishing": {
-    "message": "Bitwarden bảo vệ dữ liệu của bạn khỏi lừa đảo như thế nào?"
+    "message": "Byteward bảo vệ dữ liệu của bạn khỏi lừa đảo như thế nào?"
   },
   "currentWebsite": {
     "message": "Trang web hiện tại"
@@ -3202,7 +3202,7 @@
     "message": "Mật khẩu chính yếu"
   },
   "weakMasterPasswordDesc": {
-    "message": "Mật khẩu chính bạn vừa chọn hơi yếu. Bạn nên chọn mật khẩu chính mạnh(hoặc một cụm mật khẩu) để bảo vệ tài khoản Bitwarden của mình một cách an toàn. Bạn có thực sự muốn dùng mật khẩu chính này không?"
+    "message": "Mật khẩu chính bạn vừa chọn hơi yếu. Bạn nên chọn mật khẩu chính mạnh(hoặc một cụm mật khẩu) để bảo vệ tài khoản Byteward của mình một cách an toàn. Bạn có thực sự muốn dùng mật khẩu chính này không?"
   },
   "rotateAccountEncKey": {
     "message": "Đồng thời thay đổi khóa mã hóa tài khoản của tôi"
@@ -3242,10 +3242,10 @@
     "message": "Thiết lập mã PIN"
   },
   "setYourPinCode": {
-    "message": "Đặt mã PIN của bạn để mở khóa Bitwarden. Cài đặt mã PIN của bạn sẽ bị xóa nếu bạn đăng xuất hoàn toàn khỏi ứng dụng."
+    "message": "Đặt mã PIN của bạn để mở khóa Byteward. Cài đặt mã PIN của bạn sẽ bị xóa nếu bạn đăng xuất hoàn toàn khỏi ứng dụng."
   },
   "setPinCode": {
-    "message": "Bạn có thể sử dụng mã PIN này để mở khóa Bitwarden. Mã PIN của bạn sẽ được đặt lại nếu bạn đăng xuất hoàn toàn khỏi ứng dụng."
+    "message": "Bạn có thể sử dụng mã PIN này để mở khóa Byteward. Mã PIN của bạn sẽ được đặt lại nếu bạn đăng xuất hoàn toàn khỏi ứng dụng."
   },
   "pinRequired": {
     "message": "Mã PIN là bắt buộc."
@@ -3381,7 +3381,7 @@
     "message": "Biểu mẫu này được lưu trữ trên một tên miền khác với đường dẫn của thông tin đăng nhập đã lưu của bạn. Chọn OK để tự động điền thông tin, hoặc Hủy bỏ để hủy."
   },
   "autofillIframeWarningTip": {
-    "message": "Để tránh cảnh báo này trong tương lai, hãy lưu đường dẫn này, $HOSTNAME$, vào mục đăng nhập Bitwarden cho trang web này.",
+    "message": "Để tránh cảnh báo này trong tương lai, hãy lưu đường dẫn này, $HOSTNAME$, vào mục đăng nhập Byteward cho trang web này.",
     "placeholders": {
       "hostname": {
         "content": "$1",
@@ -3390,7 +3390,7 @@
     }
   },
   "topLayerHijackWarning": {
-    "message": "Trang này đang làm gián đoạn trải nghiệm Bitwarden. Menu nội tuyến của Bitwarden đã tạm thời bị tắt để đảm bảo an toàn."
+    "message": "Trang này đang làm gián đoạn trải nghiệm Byteward. Menu nội tuyến của Byteward đã tạm thời bị tắt để đảm bảo an toàn."
   },
   "setMasterPassword": {
     "message": "Đặt mật khẩu chính"
@@ -3552,7 +3552,7 @@
     "message": "Xác thực sinh trắc học thất bại"
   },
   "biometricsFailedDesc": {
-    "message": "Không thể xác thực sinh trắc học, hãy cân nhắc sử dụng mật khẩu chính hoặc đăng xuất. Nếu sự cố vẫn tiếp diễn, vui lòng liên hệ bộ phận hỗ trợ của Bitwarden."
+    "message": "Không thể xác thực sinh trắc học, hãy cân nhắc sử dụng mật khẩu chính hoặc đăng xuất. Nếu sự cố vẫn tiếp diễn, vui lòng liên hệ bộ phận hỗ trợ của Byteward."
   },
   "nativeMessagingPermissionErrorTitle": {
     "message": "Chưa được cấp quyền"
@@ -3595,7 +3595,7 @@
     "message": "Tên miền đã loại trừ"
   },
   "excludedDomainsDesc": {
-    "message": "Bitwarden sẽ không yêu cầu lưu thông tin đăng nhập cho các miền này. Bạn phải làm mới trang để các thay đổi có hiệu lực."
+    "message": "Byteward sẽ không yêu cầu lưu thông tin đăng nhập cho các miền này. Bạn phải làm mới trang để các thay đổi có hiệu lực."
   },
   "blockedDomainsDesc": {
     "message": "Tự động điền và các tính năng liên quan khác sẽ không được cung cấp cho các trang web này. Bạn phải làm mới trang để các thay đổi có hiệu lực."
@@ -3727,24 +3727,24 @@
     "message": "Minh họa danh sách các tài khoản đăng nhập có rủi ro."
   },
   "welcomeDialogGraphicAlt": {
-    "message": "Hình minh họa bố cục của trang kho lưu trữ Bitwarden."
+    "message": "Hình minh họa bố cục của trang kho lưu trữ Byteward."
   },
   "generatePasswordSlideDesc": {
-    "message": "Tạo nhanh một mật khẩu mạnh, duy nhất bằng menu tự động điền của Bitwarden trên trang web có nguy cơ.",
+    "message": "Tạo nhanh một mật khẩu mạnh, duy nhất bằng menu tự động điền của Byteward trên trang web có nguy cơ.",
     "description": "Description of the generate password slide on the at-risk password page carousel"
   },
   "generatePasswordSlideImgAltPeriod": {
-    "message": "Minh họa menu tự điền mật khẩu của Bitwarden hiển thị một mật khẩu được tạo ra."
+    "message": "Minh họa menu tự điền mật khẩu của Byteward hiển thị một mật khẩu được tạo ra."
   },
   "updateInBitwarden": {
-    "message": "Cập nhật trong Bitwarden"
+    "message": "Cập nhật trong Byteward"
   },
   "updateInBitwardenSlideDesc": {
-    "message": "Bitwarden sau đó sẽ yêu cầu bạn cập nhật mật khẩu trong trình quản lý mật khẩu.",
+    "message": "Byteward sau đó sẽ yêu cầu bạn cập nhật mật khẩu trong trình quản lý mật khẩu.",
     "description": "Description of the update in Bitwarden slide on the at-risk password page carousel"
   },
   "updateInBitwardenSlideImgAltPeriod": {
-    "message": "Minh họa thông báo của Bitwarden yêu cầu người dùng cập nhật thông tin đăng nhập."
+    "message": "Minh họa thông báo của Byteward yêu cầu người dùng cập nhật thông tin đăng nhập."
   },
   "turnOnAutofill": {
     "message": "Bật tự động điền"
@@ -4372,11 +4372,11 @@
     }
   },
   "forwarderGeneratedBy": {
-    "message": "Được tạo bởi Bitwarden.",
+    "message": "Được tạo bởi Byteward.",
     "description": "Displayed with the address on the forwarding service's configuration screen."
   },
   "forwarderGeneratedByWithWebsite": {
-    "message": "Trang web: $WEBSITE$. Được tạo bởi Bitwarden.",
+    "message": "Trang web: $WEBSITE$. Được tạo bởi Byteward.",
     "description": "Displayed with the address on the forwarding service's configuration screen.",
     "placeholders": {
       "WEBSITE": {
@@ -4598,7 +4598,7 @@
     "message": "Một thông báo đã được gửi đến thiết bị của bạn."
   },
   "notificationSentDevicePart1": {
-    "message": "Mở khóa Bitwarden trên thiết bị của bạn hoặc trên"
+    "message": "Mở khóa Byteward trên thiết bị của bạn hoặc trên"
   },
   "notificationSentDeviceAnchor": {
     "message": "ứng dụng web"
@@ -5098,15 +5098,15 @@
     "message": "Bỏ qua nội dung"
   },
   "bitwardenOverlayButton": {
-    "message": "Nút menu tự động điền Bitwarden",
+    "message": "Nút menu tự động điền Byteward",
     "description": "Page title for the iframe containing the overlay button"
   },
   "toggleBitwardenVaultOverlay": {
-    "message": "Bật/tắt menu tự động điền Bitwarden",
+    "message": "Bật/tắt menu tự động điền Byteward",
     "description": "Screen reader and tool tip label for the overlay button"
   },
   "bitwardenVault": {
-    "message": "Menu tự động điền Bitwarden",
+    "message": "Menu tự động điền Byteward",
     "description": "Page title in overlay"
   },
   "unlockYourAccountToViewMatchingLogins": {
@@ -5178,7 +5178,7 @@
     "description": "Screen reader text (aria-label) for new identity button within inline menu"
   },
   "bitwardenOverlayMenuAvailable": {
-    "message": "Menu tự động điền của Bitwarden có sẵn. Nhấn phím mũi tên xuống để chọn.",
+    "message": "Menu tự động điền của Byteward có sẵn. Nhấn phím mũi tên xuống để chọn.",
     "description": "Screen reader text for announcing when the overlay opens on the page"
   },
   "turnOn": {
@@ -6438,7 +6438,7 @@
     "description": "Label indicating the most common import formats"
   },
   "uriMatchDefaultStrategyHint": {
-    "message": "Bitwarden phát hiện khớp đường dẫn (URI) để xác định các đề xuất tự động điền.",
+    "message": "Byteward phát hiện khớp đường dẫn (URI) để xác định các đề xuất tự động điền.",
     "description": "Explains to the user that URI match detection determines how Bitwarden suggests autofill options, and clarifies that this default strategy applies when no specific match detection is set for a login item."
   },
   "regExAdvancedOptionWarning": {
@@ -6482,15 +6482,15 @@
     "description": "Body content for dialog which asks if the user wants to proceed to the browser's keyboard shortcut settings page"
   },
   "overrideDefaultBrowserAutofillTitle": {
-    "message": "Đặt Bitwarden làm trình quản lý mật khẩu mặc định của bạn?",
+    "message": "Đặt Byteward làm trình quản lý mật khẩu mặc định của bạn?",
     "description": "Dialog title facilitating the ability to override a chrome browser's default autofill behavior"
   },
   "overrideDefaultBrowserAutofillDescription": {
-    "message": "Bỏ qua tùy chọn này có thể gây ra xung đột giữa các đề xuất tự động điền của Bitwarden và trình duyệt của bạn.",
+    "message": "Bỏ qua tùy chọn này có thể gây ra xung đột giữa các đề xuất tự động điền của Byteward và trình duyệt của bạn.",
     "description": "Dialog message facilitating the ability to override a chrome browser's default autofill behavior"
   },
   "overrideDefaultBrowserAutoFillSettings": {
-    "message": "Đặt Bitwarden làm trình quản lý mật khẩu mặc định của bạn",
+    "message": "Đặt Byteward làm trình quản lý mật khẩu mặc định của bạn",
     "description": "Label for the setting that allows overriding the default browser autofill settings"
   },
   "defaultPasswordManagerCalloutTitle": {
@@ -6498,7 +6498,7 @@
     "description": "Title for the callout that prompts users to set Bitwarden as their default password manager"
   },
   "defaultPasswordManagerCalloutDesc": {
-    "message": "Bạn sẽ được yêu cầu cấp quyền cho trình duyệt $BROWSER$ để đặt Bitwarden làm trình quản lý mật khẩu mặc định của bạn.",
+    "message": "Bạn sẽ được yêu cầu cấp quyền cho trình duyệt $BROWSER$ để đặt Byteward làm trình quản lý mật khẩu mặc định của bạn.",
     "description": "Description for the callout that prompts users to set Bitwarden as their default password manager",
     "placeholders": {
       "browser": {
@@ -6508,11 +6508,11 @@
     }
   },
   "privacyPermissionAdditionNotGrantedTitle": {
-    "message": "Không thể đặt Bitwarden làm trình quản lý mật khẩu mặc định",
+    "message": "Không thể đặt Byteward làm trình quản lý mật khẩu mặc định",
     "description": "Title for the dialog that appears when the user has not granted the extension permission to set privacy settings"
   },
   "privacyPermissionAdditionNotGrantedDescription": {
-    "message": "Bạn phải cấp quyền riêng tư của trình duyệt cho Bitwarden để đặt làm trình quản lý mật khẩu mặc định.",
+    "message": "Bạn phải cấp quyền riêng tư của trình duyệt cho Byteward để đặt làm trình quản lý mật khẩu mặc định.",
     "description": "Description for the dialog that appears when the user has not granted the extension permission to set privacy settings"
   },
   "makeDefault": {
@@ -6520,10 +6520,10 @@
     "description": "Button text for the setting that allows overriding the default browser autofill settings"
   },
   "defaultPasswordManagerPromptTitle": {
-    "message": "Đặt Bitwarden làm trình quản lý mật khẩu mặc định cho trình duyệt của bạn"
+    "message": "Đặt Byteward làm trình quản lý mật khẩu mặc định cho trình duyệt của bạn"
   },
   "defaultPasswordManagerPromptTitleV2": {
-    "message": "Đặt Bitwarden làm trình quản lý mật khẩu mặc định của bạn",
+    "message": "Đặt Byteward làm trình quản lý mật khẩu mặc định của bạn",
     "description": "Label for the setting to make Bitwarden the default password manager"
   },
   "defaultPasswordManagerSettingHintV2": {
@@ -6535,13 +6535,13 @@
     "description": "Link text to browser autofill settings in the default password manager setting hint."
   },
   "defaultPasswordManagerPromptStep2AfterAllow": {
-    "message": "từ lời nhắc của trình duyệt để cấp quyền cho Bitwarden thay đổi cài đặt của bạn."
+    "message": "từ lời nhắc của trình duyệt để cấp quyền cho Byteward thay đổi cài đặt của bạn."
   },
   "defaultPasswordManagerPromptStep3": {
     "message": "Chúng tôi sẽ tắt trình quản lý mật khẩu tích hợp sẵn của trình duyệt để bạn có thể tận hưởng trải nghiệm đăng nhập an toàn."
   },
   "defaultPasswordManagerSuccessToast": {
-    "message": "Đã đặt Bitwarden làm trình quản lý mật khẩu trình duyệt mặc định của bạn"
+    "message": "Đã đặt Byteward làm trình quản lý mật khẩu trình duyệt mặc định của bạn"
   },
   "allow": {
     "message": "Cho phép",
@@ -7549,7 +7549,7 @@
     "description": "Notification message for when a password has been regenerated"
   },
   "saveToBitwarden": {
-    "message": "Lưu vào Bitwarden",
+    "message": "Lưu vào Byteward",
     "description": "Confirmation message for saving a login to Bitwarden"
   },
   "spaceCharacterDescriptor": {
@@ -7793,13 +7793,13 @@
     "message": "Use folders to organize vault items. They're just for you. No one else will see or use them."
   },
   "introCarouselLabel": {
-    "message": "Chào mừng bạn đến với Bitwarden"
+    "message": "Chào mừng bạn đến với Byteward"
   },
   "securityPrioritized": {
     "message": "Bảo mật, ưu tiên hàng đầu"
   },
   "securityPrioritizedBody": {
-    "message": "Lưu trữ thông tin đăng nhập, thẻ tín dụng và thông tin cá nhân vào kho lưu trữ an toàn của bạn. Bitwarden sử dụng mã hóa đầu cuối không tiết lộ thông tin (zero-knowledge) để bảo vệ những gì quan trọng đối với bạn."
+    "message": "Lưu trữ thông tin đăng nhập, thẻ tín dụng và thông tin cá nhân vào kho lưu trữ an toàn của bạn. Byteward sử dụng mã hóa đầu cuối không tiết lộ thông tin (zero-knowledge) để bảo vệ những gì quan trọng đối với bạn."
   },
   "quickLogin": {
     "message": "Đăng nhập nhanh chóng và dễ dàng"
@@ -7945,7 +7945,7 @@
     "message": "Về cài đặt này"
   },
   "permitCipherDetailsDescription": {
-    "message": "Bitwarden sẽ sử dụng URI đăng nhập đã lưu để xác định biểu tượng hoặc URL đổi mật khẩu nào cần dùng nhằm cải thiện trải nghiệm của bạn. Không có thông tin nào được thu thập hay lưu lại khi bạn sử dụng dịch vụ này."
+    "message": "Byteward sẽ sử dụng URI đăng nhập đã lưu để xác định biểu tượng hoặc URL đổi mật khẩu nào cần dùng nhằm cải thiện trải nghiệm của bạn. Không có thông tin nào được thu thập hay lưu lại khi bạn sử dụng dịch vụ này."
   },
   "showQuickCopyActionsDetailsDescription": {
     "message": "Thêm 3 nút sao chép nhanh bên cạnh các mục để sao chép tên đăng nhập, mật khẩu hoặc mã xác minh vào bộ nhớ tạm."
@@ -7954,7 +7954,7 @@
     "message": "Bạn không có quyền truy cập vào trang này. Hãy thử đăng nhập bằng tài khoản khác."
   },
   "wasmNotSupported": {
-    "message": "WebAssembly không được hỗ trợ trên trình duyệt của bạn hoặc chưa được kích hoạt. WebAssembly là yêu cầu bắt buộc để sử dụng ứng dụng Bitwarden.",
+    "message": "WebAssembly không được hỗ trợ trên trình duyệt của bạn hoặc chưa được kích hoạt. WebAssembly là yêu cầu bắt buộc để sử dụng ứng dụng Byteward.",
     "description": "'WebAssembly' is a technical term and should not be translated."
   },
   "showMore": {
@@ -8261,7 +8261,7 @@
     "message": "Để sử dụng tính năng chia sẻ trạng thái mở khóa, Bitwarden cần có quyền giao tiếp với ứng dụng máy tính. Khi bạn tiếp tục, trình duyệt của bạn sẽ yêu cầu bạn phê duyệt việc đó."
   },
   "sharedUnlockDesktopPermissionWarning": {
-    "message": "Bitwarden sẽ khóa và tải lại. Sau khi bạn phê duyệt, tiện ích mở rộng sẽ tải lại và sẽ khóa kho lưu trữ của bạn."
+    "message": "Byteward sẽ khóa và tải lại. Sau khi bạn phê duyệt, tiện ích mở rộng sẽ tải lại và sẽ khóa kho lưu trữ của bạn."
   },
   "biometricPermissionDesc": {
     "message": "Để sử dụng tính năng mở khóa bằng sinh trắc học, Bitwarden cần có quyền giao tiếp với ứng dụng máy tính. Khi bạn tiếp tục, trình duyệt của bạn sẽ yêu cầu bạn phê duyệt việc đó."

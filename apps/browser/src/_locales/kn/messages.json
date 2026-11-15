@@ -336,7 +336,7 @@
     "message": "ಬ್ರೌಸರ್ ವಿಸ್ತರಣೆ ಸ್ಟೋರ್ಗೆ ಮುಂದುವರಿಯುವುದೇ?"
   },
   "continueToBrowserExtensionStoreDesc": {
-    "message": "Bitwarden ಅವರಿಗೆ ಸರಿಯಾಗಿದೆಯೇ ಎಂದು ಇತರರು ಕಂಡುಹಿಡಿಯಲು ಸಹಾಯ ಮಾಡಿ. ನಿಮ್ಮ ಬ್ರೌಸರ್ನ ವಿಸ್ತರಣೆ ಸ್ಟೋರ್ಗೆ ಭೇಟಿ ನೀಡಿ ಮತ್ತು ಈಗ ರೇಟಿಂಗ್ ನೀಡಿ."
+    "message": "Byteward ಅವರಿಗೆ ಸರಿಯಾಗಿದೆಯೇ ಎಂದು ಇತರರು ಕಂಡುಹಿಡಿಯಲು ಸಹಾಯ ಮಾಡಿ. ನಿಮ್ಮ ಬ್ರೌಸರ್ನ ವಿಸ್ತರಣೆ ಸ್ಟೋರ್ಗೆ ಭೇಟಿ ನೀಡಿ ಮತ್ತು ಈಗ ರೇಟಿಂಗ್ ನೀಡಿ."
   },
   "changeMasterPasswordOnWebConfirmation": {
     "message": "ನೀವು Bitwarden ವೆಬ್ ಅಪ್ಲಿಕೇಶನ್ನಲ್ಲಿ ನಿಮ್ಮ ಮಾಸ್ಟರ್ ಪಾಸ್ವರ್ಡ್ ಅನ್ನು ಬದಲಾಯಿಸಬಹುದು."
@@ -356,7 +356,7 @@
     "message": "ಲಾಗ್ ಔಟ್"
   },
   "aboutBitwarden": {
-    "message": "Bitwarden ಬಗ್ಗೆ"
+    "message": "Byteward ಬಗ್ಗೆ"
   },
   "about": {
     "message": "ಬಗ್ಗೆ"
@@ -1081,10 +1081,10 @@
     "message": "2-ಹಂತದ ಪರಿಶೀಲನೆಯನ್ನು ಸುಗಮಗೊಳಿಸಿ"
   },
   "totpHelper": {
-    "message": "Bitwarden 2-ಹಂತದ ಪರಿಶೀಲನಾ ಕೋಡ್ಗಳನ್ನು ಸಂಗ್ರಹಿಸಬಹುದು ಮತ್ತು ಭರ್ತಿ ಮಾಡಬಹುದು. ಕೀ ಅನ್ನು ನಕಲಿಸಿ ಮತ್ತು ಈ ಫೀಲ್ಡ್ಗೆ ಅಂಟಿಸಿ."
+    "message": "Byteward 2-ಹಂತದ ಪರಿಶೀಲನಾ ಕೋಡ್ಗಳನ್ನು ಸಂಗ್ರಹಿಸಬಹುದು ಮತ್ತು ಭರ್ತಿ ಮಾಡಬಹುದು. ಕೀ ಅನ್ನು ನಕಲಿಸಿ ಮತ್ತು ಈ ಫೀಲ್ಡ್ಗೆ ಅಂಟಿಸಿ."
   },
   "totpHelperWithCapture": {
-    "message": "Bitwarden 2-ಹಂತದ ಪರಿಶೀಲನಾ ಕೋಡ್ಗಳನ್ನು ಸಂಗ್ರಹಿಸಬಹುದು ಮತ್ತು ಭರ್ತಿ ಮಾಡಬಹುದು. ಈ ವೆಬ್ಸೈಟ್ನ ಪ್ರಮಾಣೀಕರಣಕಾರ QR ಕೋಡ್ನ ಸ್ಕ್ರೀನ್ಶಾಟ್ ತೆಗೆದುಕೊಳ್ಳಲು ಕ್ಯಾಮೆರಾ ಐಕಾನ್ ಆಯ್ಕೆಮಾಡಿ, ಅಥವಾ ಕೀ ಅನ್ನು ನಕಲಿಸಿ ಮತ್ತು ಈ ಫೀಲ್ಡ್ಗೆ ಅಂಟಿಸಿ."
+    "message": "Byteward 2-ಹಂತದ ಪರಿಶೀಲನಾ ಕೋಡ್ಗಳನ್ನು ಸಂಗ್ರಹಿಸಬಹುದು ಮತ್ತು ಭರ್ತಿ ಮಾಡಬಹುದು. ಈ ವೆಬ್ಸೈಟ್ನ ಪ್ರಮಾಣೀಕರಣಕಾರ QR ಕೋಡ್ನ ಸ್ಕ್ರೀನ್ಶಾಟ್ ತೆಗೆದುಕೊಳ್ಳಲು ಕ್ಯಾಮೆರಾ ಐಕಾನ್ ಆಯ್ಕೆಮಾಡಿ, ಅಥವಾ ಕೀ ಅನ್ನು ನಕಲಿಸಿ ಮತ್ತು ಈ ಫೀಲ್ಡ್ಗೆ ಅಂಟಿಸಿ."
   },
   "learnMoreAboutAuthenticators": {
     "message": "ಪ್ರಮಾಣೀಕರಣಕಾರಗಳ ಬಗ್ಗೆ ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ"
@@ -1369,11 +1369,11 @@
     }
   },
   "notificationLoginSaveConfirmation": {
-    "message": "Bitwarden ಗೆ ಉಳಿಸಲಾಗಿದೆ.",
+    "message": "Byteward ಗೆ ಉಳಿಸಲಾಗಿದೆ.",
     "description": "Shown to user after item is saved."
   },
   "notificationLoginUpdatedConfirmation": {
-    "message": "Bitwarden ನಲ್ಲಿ ನವೀಕರಿಸಲಾಗಿದೆ.",
+    "message": "Byteward ನಲ್ಲಿ ನವೀಕರಿಸಲಾಗಿದೆ.",
     "description": "Shown to user after item is updated."
   },
   "selectItemAriaLabel": {
@@ -1477,7 +1477,7 @@
     "message": "ಹೌದು, ಈಗ ನವೀಕರಿಸಿ"
   },
   "notificationUnlockDesc": {
-    "message": "ಸ್ವಯಂ ಭರ್ತಿ ವಿನಂತಿಯನ್ನು ಪೂರ್ಣಗೊಳಿಸಲು ನಿಮ್ಮ Bitwarden ವಾಲ್ಟ್ ಅನ್ನು ಅನ್ಲಾಕ್ ಮಾಡಿ."
+    "message": "ಸ್ವಯಂ ಭರ್ತಿ ವಿನಂತಿಯನ್ನು ಪೂರ್ಣಗೊಳಿಸಲು ನಿಮ್ಮ Byteward ವಾಲ್ಟ್ ಅನ್ನು ಅನ್ಲಾಕ್ ಮಾಡಿ."
   },
   "notificationUnlock": {
     "message": "ಅನ್ಲಾಕ್ ಮಾಡಿ"
@@ -1786,7 +1786,7 @@
     "message": "ಈ ಫೈಲ್ ಅನ್ನು ರಫ್ತು ಮಾಡಲು ಮತ್ತು ಆಮದು ಮಾಡಲು ಈ ಪಾಸ್ವರ್ಡ್ ಬಳಸಲಾಗುತ್ತದೆ"
   },
   "accountRestrictedOptionDescription": {
-    "message": "ನಿಮ್ಮ ಖಾತೆಯ ಬಳಕೆದಾರಹೆಸರು ಮತ್ತು ಮಾಸ್ಟರ್ ಪಾಸ್ವರ್ಡ್ನಿಂದ ಪಡೆದ ನಿಮ್ಮ ಖಾತೆ ಎನ್ಕ್ರಿಪ್ಶನ್ ಕೀ ಬಳಸಿ, ರಫ್ತನ್ನು ಎನ್ಕ್ರಿಪ್ಟ್ ಮಾಡಲು ಮತ್ತು ಪ್ರಸ್ತುತ Bitwarden ಖಾತೆಗೆ ಮಾತ್ರ ಆಮದನ್ನು ನಿರ್ಬಂಧಿಸಲು."
+    "message": "ನಿಮ್ಮ ಖಾತೆಯ ಬಳಕೆದಾರಹೆಸರು ಮತ್ತು ಮಾಸ್ಟರ್ ಪಾಸ್ವರ್ಡ್ನಿಂದ ಪಡೆದ ನಿಮ್ಮ ಖಾತೆ ಎನ್ಕ್ರಿಪ್ಶನ್ ಕೀ ಬಳಸಿ, ರಫ್ತನ್ನು ಎನ್ಕ್ರಿಪ್ಟ್ ಮಾಡಲು ಮತ್ತು ಪ್ರಸ್ತುತ Byteward ಖಾತೆಗೆ ಮಾತ್ರ ಆಮದನ್ನು ನಿರ್ಬಂಧಿಸಲು."
   },
   "passwordProtectedOptionDescription": {
     "message": "ರಫ್ತನ್ನು ಎನ್ಕ್ರಿಪ್ಟ್ ಮಾಡಲು ಫೈಲ್ ಪಾಸ್ವರ್ಡ್ ಹೊಂದಿಸಿ ಮತ್ತು ಡೀಕ್ರಿಪ್ಶನ್ಗಾಗಿ ಪಾಸ್ವರ್ಡ್ ಬಳಸಿ ಯಾವುದೇ Bitwarden ಖಾತೆಗೆ ಆಮದು ಮಾಡಿ."
@@ -2236,7 +2236,7 @@
     "message": "ಸ್ವಯಂ ಭರ್ತಿ ಸೂಚನೆಗಳನ್ನು ಸುಲಭವಾಗಿ ಹುಡುಕಿ"
   },
   "autofillSpotlightDesc": {
-    "message": "ನಿಮ್ಮ ಬ್ರೌಸರ್ನ ಸ್ವಯಂ ಭರ್ತಿ ಸೆಟ್ಟಿಂಗ್ಗಳನ್ನು ಆಫ್ ಮಾಡಿ, ಇದರಿಂದ ಅವು Bitwarden ನೊಂದಿಗೆ ಘರ್ಷಣೆ ಮಾಡುವುದಿಲ್ಲ."
+    "message": "ನಿಮ್ಮ ಬ್ರೌಸರ್ನ ಸ್ವಯಂ ಭರ್ತಿ ಸೆಟ್ಟಿಂಗ್ಗಳನ್ನು ಆಫ್ ಮಾಡಿ, ಇದರಿಂದ ಅವು Byteward ನೊಂದಿಗೆ ಘರ್ಷಣೆ ಮಾಡುವುದಿಲ್ಲ."
   },
   "turnOffBrowserAutofill": {
     "message": "$BROWSER$ ಸ್ವಯಂ ಭರ್ತಿ ಆಫ್ ಮಾಡಿ",
@@ -2293,7 +2293,7 @@
     "message": "ಫಾರ್ಮ್ ಫೀಲ್ಡ್ಗಳಲ್ಲಿ ಸ್ವಯಂ ಭರ್ತಿ ಸೂಚನೆಗಳನ್ನು ತೋರಿಸಿ"
   },
   "howDoesBitwardenProtectFromPhishing": {
-    "message": "ಫಿಶಿಂಗ್ನಿಂದ ನಿಮ್ಮ ಡೇಟಾವನ್ನು Bitwarden ಹೇಗೆ ರಕ್ಷಿಸುತ್ತದೆ?"
+    "message": "ಫಿಶಿಂಗ್ನಿಂದ ನಿಮ್ಮ ಡೇಟಾವನ್ನು Byteward ಹೇಗೆ ರಕ್ಷಿಸುತ್ತದೆ?"
   },
   "currentWebsite": {
     "message": "ಪ್ರಸ್ತುತ ವೆಬ್ಸೈಟ್"
@@ -3245,7 +3245,7 @@
     "message": "ಬಿಟ್‌ವಾರ್ಡೆನ್ ಅನ್ಲಾಕ್ ಮಾಡಲು ನಿಮ್ಮ ಪಿನ್ ಕೋಡ್ ಅನ್ನು ಹೊಂದಿಸಿ. ನೀವು ಎಂದಾದರೂ ಅಪ್ಲಿಕೇಶನ್‌ನಿಂದ ಸಂಪೂರ್ಣವಾಗಿ ಲಾಗ್ out ಟ್ ಆಗಿದ್ದರೆ ನಿಮ್ಮ ಪಿನ್ ಸೆಟ್ಟಿಂಗ್‌ಗಳನ್ನು ಮರುಹೊಂದಿಸಲಾಗುತ್ತದೆ."
   },
   "setPinCode": {
-    "message": "Bitwarden ಅನ್ನು ಅನ್ಲಾಕ್ ಮಾಡಲು ನೀವು ಈ PIN ಅನ್ನು ಬಳಸಬಹುದು. ನೀವು ಎಂದಾದರೂ ಅಪ್ಲಿಕೇಶನ್ನಿಂದ ಸಂಪೂರ್ಣವಾಗಿ ಲಾಗ್ ಔಟ್ ಮಾಡಿದರೆ ನಿಮ್ಮ PIN ಮರುಹೊಂದಿಸಲಾಗುತ್ತದೆ."
+    "message": "Byteward ಅನ್ನು ಅನ್ಲಾಕ್ ಮಾಡಲು ನೀವು ಈ PIN ಅನ್ನು ಬಳಸಬಹುದು. ನೀವು ಎಂದಾದರೂ ಅಪ್ಲಿಕೇಶನ್ನಿಂದ ಸಂಪೂರ್ಣವಾಗಿ ಲಾಗ್ ಔಟ್ ಮಾಡಿದರೆ ನಿಮ್ಮ PIN ಮರುಹೊಂದಿಸಲಾಗುತ್ತದೆ."
   },
   "pinRequired": {
     "message": "ಪಿನ್ ಕೋಡ್ ಅಗತ್ಯವಿದೆ."
@@ -3381,7 +3381,7 @@
     "message": "ಫಾರ್ಮ್ ಅನ್ನು ನಿಮ್ಮ ಉಳಿಸಿದ ಲಾಗಿನ್ನ URI ಗಿಂತ ವಿಭಿನ್ನ ಡೊಮೇನ್ ಹೋಸ್ಟ್ ಮಾಡುತ್ತದೆ. ಹೇಗಾದರೂ ಸ್ವಯಂ ಭರ್ತಿ ಮಾಡಲು ಸರಿ ಆಯ್ಕೆಮಾಡಿ, ಅಥವಾ ನಿಲ್ಲಿಸಲು ರದ್ದುಮಾಡಿ ಆಯ್ಕೆಮಾಡಿ."
   },
   "autofillIframeWarningTip": {
-    "message": "ಭವಿಷ್ಯದಲ್ಲಿ ಈ ಎಚ್ಚರಿಕೆಯನ್ನು ತಡೆಗಟ್ಟಲು, ಈ URI, $HOSTNAME$, ಅನ್ನು ಈ ಸೈಟ್ಗಾಗಿ ನಿಮ್ಮ Bitwarden ಲಾಗಿನ್ ಐಟಂಗೆ ಉಳಿಸಿ.",
+    "message": "ಭವಿಷ್ಯದಲ್ಲಿ ಈ ಎಚ್ಚರಿಕೆಯನ್ನು ತಡೆಗಟ್ಟಲು, ಈ URI, $HOSTNAME$, ಅನ್ನು ಈ ಸೈಟ್ಗಾಗಿ ನಿಮ್ಮ Byteward ಲಾಗಿನ್ ಐಟಂಗೆ ಉಳಿಸಿ.",
     "placeholders": {
       "hostname": {
         "content": "$1",
@@ -3390,7 +3390,7 @@
     }
   },
   "topLayerHijackWarning": {
-    "message": "ಈ ಪುಟವು Bitwarden ಅನುಭವಕ್ಕೆ ಅಡ್ಡಿಪಡಿಸುತ್ತಿದೆ. ಸುರಕ್ಷತಾ ಕ್ರಮವಾಗಿ Bitwarden ಇನ್ಲೈನ್ ಮೆನುವನ್ನು ತಾತ್ಕಾಲಿಕವಾಗಿ ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ."
+    "message": "ಈ ಪುಟವು Byteward ಅನುಭವಕ್ಕೆ ಅಡ್ಡಿಪಡಿಸುತ್ತಿದೆ. ಸುರಕ್ಷತಾ ಕ್ರಮವಾಗಿ Byteward ಇನ್ಲೈನ್ ಮೆನುವನ್ನು ತಾತ್ಕಾಲಿಕವಾಗಿ ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ."
   },
   "setMasterPassword": {
     "message": "ಮಾಸ್ಟರ್ ಪಾಸ್ವರ್ಡ್ ಹೊಂದಿಸಿ"
@@ -3552,7 +3552,7 @@
     "message": "ಬಯೋಮೆಟ್ರಿಕ್ಸ್ ವಿಫಲವಾಗಿದೆ"
   },
   "biometricsFailedDesc": {
-    "message": "ಬಯೋಮೆಟ್ರಿಕ್ಸ್ ಪೂರ್ಣಗೊಳಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ, ಮಾಸ್ಟರ್ ಪಾಸ್ವರ್ಡ್ ಬಳಸುವುದು ಅಥವಾ ಲಾಗ್ ಔಟ್ ಮಾಡುವುದನ್ನು ಪರಿಗಣಿಸಿ. ಇದು ಮುಂದುವರಿದರೆ, ದಯವಿಟ್ಟು Bitwarden ಬೆಂಬಲವನ್ನು ಸಂಪರ್ಕಿಸಿ."
+    "message": "ಬಯೋಮೆಟ್ರಿಕ್ಸ್ ಪೂರ್ಣಗೊಳಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ, ಮಾಸ್ಟರ್ ಪಾಸ್ವರ್ಡ್ ಬಳಸುವುದು ಅಥವಾ ಲಾಗ್ ಔಟ್ ಮಾಡುವುದನ್ನು ಪರಿಗಣಿಸಿ. ಇದು ಮುಂದುವರಿದರೆ, ದಯವಿಟ್ಟು Byteward ಬೆಂಬಲವನ್ನು ಸಂಪರ್ಕಿಸಿ."
   },
   "nativeMessagingPermissionErrorTitle": {
     "message": "ಅನುಮತಿ ನೀಡಲಾಗಿಲ್ಲ"
@@ -3727,24 +3727,24 @@
     "message": "ಅಪಾಯದಲ್ಲಿರುವ ಲಾಗಿನ್ಗಳ ಪಟ್ಟಿಯ ಚಿತ್ರಣ."
   },
   "welcomeDialogGraphicAlt": {
-    "message": "Bitwarden ವಾಲ್ಟ್ ಪುಟದ ವಿನ್ಯಾಸದ ಚಿತ್ರಣ."
+    "message": "Byteward ವಾಲ್ಟ್ ಪುಟದ ವಿನ್ಯಾಸದ ಚಿತ್ರಣ."
   },
   "generatePasswordSlideDesc": {
-    "message": "ಅಪಾಯದಲ್ಲಿರುವ ಸೈಟ್ನಲ್ಲಿ Bitwarden ಸ್ವಯಂ ಭರ್ತಿ ಮೆನುವಿನೊಂದಿಗೆ ಬಲವಾದ, ಅನನ್ಯ ಪಾಸ್ವರ್ಡ್ ಅನ್ನು ತ್ವರಿತವಾಗಿ ರಚಿಸಿ.",
+    "message": "ಅಪಾಯದಲ್ಲಿರುವ ಸೈಟ್ನಲ್ಲಿ Byteward ಸ್ವಯಂ ಭರ್ತಿ ಮೆನುವಿನೊಂದಿಗೆ ಬಲವಾದ, ಅನನ್ಯ ಪಾಸ್ವರ್ಡ್ ಅನ್ನು ತ್ವರಿತವಾಗಿ ರಚಿಸಿ.",
     "description": "Description of the generate password slide on the at-risk password page carousel"
   },
   "generatePasswordSlideImgAltPeriod": {
-    "message": "ರಚಿಸಲಾದ ಪಾಸ್ವರ್ಡ್ ಅನ್ನು ಪ್ರದರ್ಶಿಸುವ Bitwarden ಸ್ವಯಂ ಭರ್ತಿ ಮೆನುವಿನ ಚಿತ್ರಣ."
+    "message": "ರಚಿಸಲಾದ ಪಾಸ್ವರ್ಡ್ ಅನ್ನು ಪ್ರದರ್ಶಿಸುವ Byteward ಸ್ವಯಂ ಭರ್ತಿ ಮೆನುವಿನ ಚಿತ್ರಣ."
   },
   "updateInBitwarden": {
-    "message": "Bitwarden ನಲ್ಲಿ ನವೀಕರಿಸಿ"
+    "message": "Byteward ನಲ್ಲಿ ನವೀಕರಿಸಿ"
   },
   "updateInBitwardenSlideDesc": {
-    "message": "ನಂತರ Bitwarden ಪಾಸ್ವರ್ಡ್ ಮ್ಯಾನೇಜರ್ನಲ್ಲಿ ಪಾಸ್ವರ್ಡ್ ಅನ್ನು ನವೀಕರಿಸಲು ನಿಮ್ಮನ್ನು ಕೇಳುತ್ತದೆ.",
+    "message": "ನಂತರ Byteward ಪಾಸ್ವರ್ಡ್ ಮ್ಯಾನೇಜರ್ನಲ್ಲಿ ಪಾಸ್ವರ್ಡ್ ಅನ್ನು ನವೀಕರಿಸಲು ನಿಮ್ಮನ್ನು ಕೇಳುತ್ತದೆ.",
     "description": "Description of the update in Bitwarden slide on the at-risk password page carousel"
   },
   "updateInBitwardenSlideImgAltPeriod": {
-    "message": "ಲಾಗಿನ್ ಅನ್ನು ನವೀಕರಿಸಲು ಬಳಕೆದಾರರನ್ನು ಕೇಳುವ Bitwarden ನ ಅಧಿಸೂಚನೆಯ ಚಿತ್ರಣ."
+    "message": "ಲಾಗಿನ್ ಅನ್ನು ನವೀಕರಿಸಲು ಬಳಕೆದಾರರನ್ನು ಕೇಳುವ Byteward ನ ಅಧಿಸೂಚನೆಯ ಚಿತ್ರಣ."
   },
   "turnOnAutofill": {
     "message": "ಸ್ವಯಂ ಭರ್ತಿ ಆನ್ ಮಾಡಿ"
@@ -4372,11 +4372,11 @@
     }
   },
   "forwarderGeneratedBy": {
-    "message": "Bitwarden ನಿಂದ ರಚಿಸಲಾಗಿದೆ.",
+    "message": "Byteward ನಿಂದ ರಚಿಸಲಾಗಿದೆ.",
     "description": "Displayed with the address on the forwarding service's configuration screen."
   },
   "forwarderGeneratedByWithWebsite": {
-    "message": "ವೆಬ್ಸೈಟ್: $WEBSITE$. Bitwarden ನಿಂದ ರಚಿಸಲಾಗಿದೆ.",
+    "message": "ವೆಬ್ಸೈಟ್: $WEBSITE$. Byteward ನಿಂದ ರಚಿಸಲಾಗಿದೆ.",
     "description": "Displayed with the address on the forwarding service's configuration screen.",
     "placeholders": {
       "WEBSITE": {
@@ -4598,7 +4598,7 @@
     "message": "ನಿಮ್ಮ ಸಾಧನಕ್ಕೆ ಅಧಿಸೂಚನೆಯನ್ನು ಕಳುಹಿಸಲಾಗಿದೆ."
   },
   "notificationSentDevicePart1": {
-    "message": "ನಿಮ್ಮ ಸಾಧನದಲ್ಲಿ ಅಥವಾ ಇದರಲ್ಲಿ Bitwarden ಅನ್ನು ಅನ್ಲಾಕ್ ಮಾಡಿ"
+    "message": "ನಿಮ್ಮ ಸಾಧನದಲ್ಲಿ ಅಥವಾ ಇದರಲ್ಲಿ Byteward ಅನ್ನು ಅನ್ಲಾಕ್ ಮಾಡಿ"
   },
   "notificationSentDeviceAnchor": {
     "message": "ವೆಬ್ ಅಪ್ಲಿಕೇಶನ್"
@@ -5098,15 +5098,15 @@
     "message": "ವಿಷಯಕ್ಕೆ ತೆರಳಿ"
   },
   "bitwardenOverlayButton": {
-    "message": "Bitwarden ಸ್ವಯಂ ಭರ್ತಿ ಮೆನು ಬಟನ್",
+    "message": "Byteward ಸ್ವಯಂ ಭರ್ತಿ ಮೆನು ಬಟನ್",
     "description": "Page title for the iframe containing the overlay button"
   },
   "toggleBitwardenVaultOverlay": {
-    "message": "Bitwarden ಸ್ವಯಂ ಭರ್ತಿ ಮೆನುವನ್ನು ಟಾಗಲ್ ಮಾಡಿ",
+    "message": "Byteward ಸ್ವಯಂ ಭರ್ತಿ ಮೆನುವನ್ನು ಟಾಗಲ್ ಮಾಡಿ",
     "description": "Screen reader and tool tip label for the overlay button"
   },
   "bitwardenVault": {
-    "message": "Bitwarden ಸ್ವಯಂ ಭರ್ತಿ ಮೆನು",
+    "message": "Byteward ಸ್ವಯಂ ಭರ್ತಿ ಮೆನು",
     "description": "Page title in overlay"
   },
   "unlockYourAccountToViewMatchingLogins": {
@@ -5178,7 +5178,7 @@
     "description": "Screen reader text (aria-label) for new identity button within inline menu"
   },
   "bitwardenOverlayMenuAvailable": {
-    "message": "Bitwarden ಸ್ವಯಂ ಭರ್ತಿ ಮೆನು ಲಭ್ಯವಿದೆ. ಆಯ್ಕೆ ಮಾಡಲು ಕೆಳಗಿನ ಬಾಣದ ಕೀಲಿಯನ್ನು ಒತ್ತಿರಿ.",
+    "message": "Byteward ಸ್ವಯಂ ಭರ್ತಿ ಮೆನು ಲಭ್ಯವಿದೆ. ಆಯ್ಕೆ ಮಾಡಲು ಕೆಳಗಿನ ಬಾಣದ ಕೀಲಿಯನ್ನು ಒತ್ತಿರಿ.",
     "description": "Screen reader text for announcing when the overlay opens on the page"
   },
   "turnOn": {
@@ -6438,7 +6438,7 @@
     "description": "Label indicating the most common import formats"
   },
   "uriMatchDefaultStrategyHint": {
-    "message": "Bitwarden ಸ್ವಯಂ ಭರ್ತಿ ಸೂಚನೆಗಳನ್ನು ಗುರುತಿಸುವ ವಿಧಾನವೇ URI ಹೊಂದಾಣಿಕೆ ಪತ್ತೆ.",
+    "message": "Byteward ಸ್ವಯಂ ಭರ್ತಿ ಸೂಚನೆಗಳನ್ನು ಗುರುತಿಸುವ ವಿಧಾನವೇ URI ಹೊಂದಾಣಿಕೆ ಪತ್ತೆ.",
     "description": "Explains to the user that URI match detection determines how Bitwarden suggests autofill options, and clarifies that this default strategy applies when no specific match detection is set for a login item."
   },
   "regExAdvancedOptionWarning": {
@@ -6482,15 +6482,15 @@
     "description": "Body content for dialog which asks if the user wants to proceed to the browser's keyboard shortcut settings page"
   },
   "overrideDefaultBrowserAutofillTitle": {
-    "message": "Bitwarden ಅನ್ನು ನಿಮ್ಮ ಡಿಫಾಲ್ಟ್ ಪಾಸ್ವರ್ಡ್ ಮ್ಯಾನೇಜರ್ ಮಾಡುವುದೇ?",
+    "message": "Byteward ಅನ್ನು ನಿಮ್ಮ ಡಿಫಾಲ್ಟ್ ಪಾಸ್ವರ್ಡ್ ಮ್ಯಾನೇಜರ್ ಮಾಡುವುದೇ?",
     "description": "Dialog title facilitating the ability to override a chrome browser's default autofill behavior"
   },
   "overrideDefaultBrowserAutofillDescription": {
-    "message": "ಈ ಆಯ್ಕೆಯನ್ನು ನಿರ್ಲಕ್ಷಿಸುವುದರಿಂದ Bitwarden ಸ್ವಯಂ ಭರ್ತಿ ಸೂಚನೆಗಳು ಮತ್ತು ನಿಮ್ಮ ಬ್ರೌಸರ್ನ ನಡುವೆ ಘರ್ಷಣೆಗಳು ಉಂಟಾಗಬಹುದು.",
+    "message": "ಈ ಆಯ್ಕೆಯನ್ನು ನಿರ್ಲಕ್ಷಿಸುವುದರಿಂದ Byteward ಸ್ವಯಂ ಭರ್ತಿ ಸೂಚನೆಗಳು ಮತ್ತು ನಿಮ್ಮ ಬ್ರೌಸರ್ನ ನಡುವೆ ಘರ್ಷಣೆಗಳು ಉಂಟಾಗಬಹುದು.",
     "description": "Dialog message facilitating the ability to override a chrome browser's default autofill behavior"
   },
   "overrideDefaultBrowserAutoFillSettings": {
-    "message": "Bitwarden ಅನ್ನು ನಿಮ್ಮ ಡಿಫಾಲ್ಟ್ ಪಾಸ್ವರ್ಡ್ ಮ್ಯಾನೇಜರ್ ಮಾಡಿ",
+    "message": "Byteward ಅನ್ನು ನಿಮ್ಮ ಡಿಫಾಲ್ಟ್ ಪಾಸ್ವರ್ಡ್ ಮ್ಯಾನೇಜರ್ ಮಾಡಿ",
     "description": "Label for the setting that allows overriding the default browser autofill settings"
   },
   "defaultPasswordManagerCalloutTitle": {
@@ -6498,7 +6498,7 @@
     "description": "Title for the callout that prompts users to set Bitwarden as their default password manager"
   },
   "defaultPasswordManagerCalloutDesc": {
-    "message": "Bitwarden ಅನ್ನು ನಿಮ್ಮ ಡಿಫಾಲ್ಟ್ ಪಾಸ್ವರ್ಡ್ ಮ್ಯಾನೇಜರ್ ಮಾಡಲು $BROWSER$ ಬ್ರೌಸರ್ ಅನುಮತಿಯನ್ನು ನೀಡಲು ನಿಮ್ಮನ್ನು ಕೇಳಲಾಗುತ್ತದೆ.",
+    "message": "Byteward ಅನ್ನು ನಿಮ್ಮ ಡಿಫಾಲ್ಟ್ ಪಾಸ್ವರ್ಡ್ ಮ್ಯಾನೇಜರ್ ಮಾಡಲು $BROWSER$ ಬ್ರೌಸರ್ ಅನುಮತಿಯನ್ನು ನೀಡಲು ನಿಮ್ಮನ್ನು ಕೇಳಲಾಗುತ್ತದೆ.",
     "description": "Description for the callout that prompts users to set Bitwarden as their default password manager",
     "placeholders": {
       "browser": {
@@ -6508,11 +6508,11 @@
     }
   },
   "privacyPermissionAdditionNotGrantedTitle": {
-    "message": "Bitwarden ಅನ್ನು ಡಿಫಾಲ್ಟ್ ಪಾಸ್ವರ್ಡ್ ಮ್ಯಾನೇಜರ್ ಆಗಿ ಹೊಂದಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ",
+    "message": "Byteward ಅನ್ನು ಡಿಫಾಲ್ಟ್ ಪಾಸ್ವರ್ಡ್ ಮ್ಯಾನೇಜರ್ ಆಗಿ ಹೊಂದಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ",
     "description": "Title for the dialog that appears when the user has not granted the extension permission to set privacy settings"
   },
   "privacyPermissionAdditionNotGrantedDescription": {
-    "message": "Bitwarden ಅನ್ನು ಡಿಫಾಲ್ಟ್ ಪಾಸ್ವರ್ಡ್ ಮ್ಯಾನೇಜರ್ ಆಗಿ ಹೊಂದಿಸಲು ನೀವು ಅದಕ್ಕೆ ಬ್ರೌಸರ್ ಗೌಪ್ಯತೆ ಅನುಮತಿಗಳನ್ನು ನೀಡಬೇಕು.",
+    "message": "Byteward ಅನ್ನು ಡಿಫಾಲ್ಟ್ ಪಾಸ್ವರ್ಡ್ ಮ್ಯಾನೇಜರ್ ಆಗಿ ಹೊಂದಿಸಲು ನೀವು ಅದಕ್ಕೆ ಬ್ರೌಸರ್ ಗೌಪ್ಯತೆ ಅನುಮತಿಗಳನ್ನು ನೀಡಬೇಕು.",
     "description": "Description for the dialog that appears when the user has not granted the extension permission to set privacy settings"
   },
   "makeDefault": {
@@ -6520,10 +6520,10 @@
     "description": "Button text for the setting that allows overriding the default browser autofill settings"
   },
   "defaultPasswordManagerPromptTitle": {
-    "message": "Bitwarden ಅನ್ನು ನಿಮ್ಮ ಬ್ರೌಸರ್ನ ಡಿಫಾಲ್ಟ್ ಪಾಸ್ವರ್ಡ್ ಮ್ಯಾನೇಜರ್ ಮಾಡಿ"
+    "message": "Byteward ಅನ್ನು ನಿಮ್ಮ ಬ್ರೌಸರ್ನ ಡಿಫಾಲ್ಟ್ ಪಾಸ್ವರ್ಡ್ ಮ್ಯಾನೇಜರ್ ಮಾಡಿ"
   },
   "defaultPasswordManagerPromptTitleV2": {
-    "message": "Bitwarden ಅನ್ನು ನಿಮ್ಮ ಡಿಫಾಲ್ಟ್ ಪಾಸ್ವರ್ಡ್ ಮ್ಯಾನೇಜರ್ ಮಾಡಿ",
+    "message": "Byteward ಅನ್ನು ನಿಮ್ಮ ಡಿಫಾಲ್ಟ್ ಪಾಸ್ವರ್ಡ್ ಮ್ಯಾನೇಜರ್ ಮಾಡಿ",
     "description": "Label for the setting to make Bitwarden the default password manager"
   },
   "defaultPasswordManagerSettingHintV2": {
@@ -6535,13 +6535,13 @@
     "description": "Link text to browser autofill settings in the default password manager setting hint."
   },
   "defaultPasswordManagerPromptStep2AfterAllow": {
-    "message": "ನಿಮ್ಮ ಸೆಟ್ಟಿಂಗ್ಗಳನ್ನು ಬದಲಾಯಿಸಲು Bitwarden ಗೆ ಅನುಮತಿ ನೀಡಲು ಬ್ರೌಸರ್ ಪ್ರಾಂಪ್ಟ್ನಿಂದ."
+    "message": "ನಿಮ್ಮ ಸೆಟ್ಟಿಂಗ್ಗಳನ್ನು ಬದಲಾಯಿಸಲು Byteward ಗೆ ಅನುಮತಿ ನೀಡಲು ಬ್ರೌಸರ್ ಪ್ರಾಂಪ್ಟ್ನಿಂದ."
   },
   "defaultPasswordManagerPromptStep3": {
     "message": "ನೀವು ಸುರಕ್ಷಿತ ಲಾಗಿನ್ ಅನುಭವವನ್ನು ಆನಂದಿಸಲು ನಾವು ನಿಮ್ಮ ಬ್ರೌಸರ್ನ ಒಳನಿರ್ಮಿತ ಪಾಸ್ವರ್ಡ್ ಮ್ಯಾನೇಜರ್ ಅನ್ನು ಆಫ್ ಮಾಡುತ್ತೇವೆ."
   },
   "defaultPasswordManagerSuccessToast": {
-    "message": "Bitwarden ಅನ್ನು ನಿಮ್ಮ ಡಿಫಾಲ್ಟ್ ಬ್ರೌಸರ್ ಪಾಸ್ವರ್ಡ್ ಮ್ಯಾನೇಜರ್ ಮಾಡಲಾಗಿದೆ"
+    "message": "Byteward ಅನ್ನು ನಿಮ್ಮ ಡಿಫಾಲ್ಟ್ ಬ್ರೌಸರ್ ಪಾಸ್ವರ್ಡ್ ಮ್ಯಾನೇಜರ್ ಮಾಡಲಾಗಿದೆ"
   },
   "allow": {
     "message": "ಅನುಮತಿಸಿ",
@@ -7549,7 +7549,7 @@
     "description": "Notification message for when a password has been regenerated"
   },
   "saveToBitwarden": {
-    "message": "Bitwarden ಗೆ ಉಳಿಸಿ",
+    "message": "Byteward ಗೆ ಉಳಿಸಿ",
     "description": "Confirmation message for saving a login to Bitwarden"
   },
   "spaceCharacterDescriptor": {
@@ -7793,13 +7793,13 @@
     "message": "Use folders to organize vault items. They're just for you. No one else will see or use them."
   },
   "introCarouselLabel": {
-    "message": "Bitwarden ಗೆ ಸ್ವಾಗತ"
+    "message": "Byteward ಗೆ ಸ್ವಾಗತ"
   },
   "securityPrioritized": {
     "message": "ಭದ್ರತೆಗೆ ಆದ್ಯತೆ"
   },
   "securityPrioritizedBody": {
-    "message": "ಲಾಗಿನ್ಗಳು, ಕಾರ್ಡ್ಗಳು ಮತ್ತು ಗುರುತುಗಳನ್ನು ನಿಮ್ಮ ಸುರಕ್ಷಿತ ವಾಲ್ಟ್ಗೆ ಉಳಿಸಿ. ನಿಮಗೆ ಮುಖ್ಯವಾದದ್ದನ್ನು ರಕ್ಷಿಸಲು Bitwarden ಶೂನ್ಯ-ಜ್ಞಾನ, ಎಂಡ್-ಟು-ಎಂಡ್ ಎನ್ಕ್ರಿಪ್ಶನ್ ಬಳಸುತ್ತದೆ."
+    "message": "ಲಾಗಿನ್ಗಳು, ಕಾರ್ಡ್ಗಳು ಮತ್ತು ಗುರುತುಗಳನ್ನು ನಿಮ್ಮ ಸುರಕ್ಷಿತ ವಾಲ್ಟ್ಗೆ ಉಳಿಸಿ. ನಿಮಗೆ ಮುಖ್ಯವಾದದ್ದನ್ನು ರಕ್ಷಿಸಲು Byteward ಶೂನ್ಯ-ಜ್ಞಾನ, ಎಂಡ್-ಟು-ಎಂಡ್ ಎನ್ಕ್ರಿಪ್ಶನ್ ಬಳಸುತ್ತದೆ."
   },
   "quickLogin": {
     "message": "ತ್ವರಿತ ಮತ್ತು ಸುಲಭ ಲಾಗಿನ್"
@@ -7945,7 +7945,7 @@
     "message": "ಈ ಸೆಟ್ಟಿಂಗ್ ಬಗ್ಗೆ"
   },
   "permitCipherDetailsDescription": {
-    "message": "ನಿಮ್ಮ ಅನುಭವವನ್ನು ಸುಧಾರಿಸಲು ಯಾವ ಐಕಾನ್ ಅಥವಾ ಪಾಸ್ವರ್ಡ್ URL ಬದಲಾಯಿಸಬೇಕು ಎಂಬುದನ್ನು ಗುರುತಿಸಲು Bitwarden ಉಳಿಸಿದ ಲಾಗಿನ್ URIಗಳನ್ನು ಬಳಸುತ್ತದೆ. ನೀವು ಈ ಸೇವೆಯನ್ನು ಬಳಸುವಾಗ ಯಾವುದೇ ಮಾಹಿತಿಯನ್ನು ಸಂಗ್ರಹಿಸಲಾಗುವುದಿಲ್ಲ ಅಥವಾ ಉಳಿಸಲಾಗುವುದಿಲ್ಲ."
+    "message": "ನಿಮ್ಮ ಅನುಭವವನ್ನು ಸುಧಾರಿಸಲು ಯಾವ ಐಕಾನ್ ಅಥವಾ ಪಾಸ್ವರ್ಡ್ URL ಬದಲಾಯಿಸಬೇಕು ಎಂಬುದನ್ನು ಗುರುತಿಸಲು Byteward ಉಳಿಸಿದ ಲಾಗಿನ್ URIಗಳನ್ನು ಬಳಸುತ್ತದೆ. ನೀವು ಈ ಸೇವೆಯನ್ನು ಬಳಸುವಾಗ ಯಾವುದೇ ಮಾಹಿತಿಯನ್ನು ಸಂಗ್ರಹಿಸಲಾಗುವುದಿಲ್ಲ ಅಥವಾ ಉಳಿಸಲಾಗುವುದಿಲ್ಲ."
   },
   "showQuickCopyActionsDetailsDescription": {
     "message": "ನಿಮ್ಮ ಬಳಕೆದಾರಹೆಸರು, ಪಾಸ್ವರ್ಡ್, ಅಥವಾ ಪರಿಶೀಲನಾ ಕೋಡ್ ಅನ್ನು ಕ್ಲಿಪ್ಬೋರ್ಡ್ಗೆ ನಕಲಿಸಲು ಐಟಂಗಳ ಪಕ್ಕದಲ್ಲಿ 3 ತ್ವರಿತ ನಕಲು ಬಟನ್ಗಳನ್ನು ಸೇರಿಸಿ."
@@ -7954,7 +7954,7 @@
     "message": "ಈ ಪುಟವನ್ನು ವೀಕ್ಷಿಸಲು ನಿಮಗೆ ಅನುಮತಿಗಳಿಲ್ಲ. ಬೇರೆ ಖಾತೆಯೊಂದಿಗೆ ಲಾಗಿನ್ ಮಾಡಲು ಪ್ರಯತ್ನಿಸಿ."
   },
   "wasmNotSupported": {
-    "message": "ನಿಮ್ಮ ಬ್ರೌಸರ್ನಲ್ಲಿ WebAssembly ಬೆಂಬಲಿತವಾಗಿಲ್ಲ ಅಥವಾ ಸಕ್ರಿಯಗೊಳಿಸಲಾಗಿಲ್ಲ. Bitwarden ಅಪ್ಲಿಕೇಶನ್ ಬಳಸಲು WebAssembly ಅಗತ್ಯವಿದೆ.",
+    "message": "ನಿಮ್ಮ ಬ್ರೌಸರ್ನಲ್ಲಿ WebAssembly ಬೆಂಬಲಿತವಾಗಿಲ್ಲ ಅಥವಾ ಸಕ್ರಿಯಗೊಳಿಸಲಾಗಿಲ್ಲ. Byteward ಅಪ್ಲಿಕೇಶನ್ ಬಳಸಲು WebAssembly ಅಗತ್ಯವಿದೆ.",
     "description": "'WebAssembly' is a technical term and should not be translated."
   },
   "showMore": {
@@ -8261,7 +8261,7 @@
     "message": "ಹಂಚಿಕೆಯ ಅನ್ಲಾಕ್ ಬಳಸಲು, Bitwarden ಗೆ ಡೆಸ್ಕ್ಟಾಪ್ ಅಪ್ಲಿಕೇಶನ್ನೊಂದಿಗೆ ಸಂವಹನ ಮಾಡಲು ಅನುಮತಿ ಬೇಕು. ನೀವು ಮುಂದುವರಿದಾಗ, ನಿಮ್ಮ ಬ್ರೌಸರ್ ಅದನ್ನು ಅನುಮೋದಿಸಲು ಕೇಳುತ್ತದೆ."
   },
   "sharedUnlockDesktopPermissionWarning": {
-    "message": "Bitwarden ಲಾಕ್ ಆಗಿ ಮತ್ತೆ ಲೋಡ್ ಆಗುತ್ತದೆ. ನೀವು ಅನುಮೋದಿಸಿದ ನಂತರ, ವಿಸ್ತರಣೆ ಮರುಲೋಡ್ ಆಗುತ್ತದೆ ಮತ್ತು ನಿಮ್ಮ ವಾಲ್ಟ್ ಅನ್ನು ಲಾಕ್ ಮಾಡುತ್ತದೆ."
+    "message": "Byteward ಲಾಕ್ ಆಗಿ ಮತ್ತೆ ಲೋಡ್ ಆಗುತ್ತದೆ. ನೀವು ಅನುಮೋದಿಸಿದ ನಂತರ, ವಿಸ್ತರಣೆ ಮರುಲೋಡ್ ಆಗುತ್ತದೆ ಮತ್ತು ನಿಮ್ಮ ವಾಲ್ಟ್ ಅನ್ನು ಲಾಕ್ ಮಾಡುತ್ತದೆ."
   },
   "biometricPermissionDesc": {
     "message": "ಬಯೋಮೆಟ್ರಿಕ್ ಅನ್ಲಾಕ್ ಬಳಸಲು, Bitwarden ಗೆ ಡೆಸ್ಕ್ಟಾಪ್ ಅಪ್ಲಿಕೇಶನ್ನೊಂದಿಗೆ ಸಂವಹನ ಮಾಡಲು ಅನುಮತಿ ಬೇಕು. ನೀವು ಮುಂದುವರಿದಾಗ, ನಿಮ್ಮ ಬ್ರೌಸರ್ ಅದನ್ನು ಅನುಮೋದಿಸಲು ಕೇಳುತ್ತದೆ."
