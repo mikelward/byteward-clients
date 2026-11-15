@@ -336,7 +336,7 @@
     "message": "Jarraitu nabigatzailearen luzapenen dendara?"
   },
   "continueToBrowserExtensionStoreDesc": {
-    "message": "Lagundu besteei Bitwarden egokia den jakiten. Bisitatu zure nabigatzailearen luzapenen denda eta utzi balorazioa orain."
+    "message": "Lagundu besteei Byteward egokia den jakiten. Bisitatu zure nabigatzailearen luzapenen denda eta utzi balorazioa orain."
   },
   "changeMasterPasswordOnWebConfirmation": {
     "message": "Zure master pasahitza Bitwarden web aplikazioan alda dezakezu."
@@ -356,7 +356,7 @@
     "message": "Itxi saioa"
   },
   "aboutBitwarden": {
-    "message": "Bitwardeni buruz"
+    "message": "Bytewardi buruz"
   },
   "about": {
     "message": "Honi buruz"
@@ -1081,10 +1081,10 @@
     "message": "Egin 2 urratseko egiaztapena jariakorra"
   },
   "totpHelper": {
-    "message": "Bitwarden-ek 2 urratseko egiaztapen-kodeak gorde eta bete ditzake. Kopiatu eta itsatsi gakoa eremu honetan."
+    "message": "Byteward-ek 2 urratseko egiaztapen-kodeak gorde eta bete ditzake. Kopiatu eta itsatsi gakoa eremu honetan."
   },
   "totpHelperWithCapture": {
-    "message": "Bitwarden-ek 2 urratseko egiaztapen-kodeak gorde eta bete ditzake. Hautatu kamera ikonoa webgune honen autentifikatzailearen QR kodearen pantaila-argazkia egiteko, edo kopiatu eta itsatsi gakoa eremu honetan."
+    "message": "Byteward-ek 2 urratseko egiaztapen-kodeak gorde eta bete ditzake. Hautatu kamera ikonoa webgune honen autentifikatzailearen QR kodearen pantaila-argazkia egiteko, edo kopiatu eta itsatsi gakoa eremu honetan."
   },
   "learnMoreAboutAuthenticators": {
     "message": "Ikasi gehiago autentifikatzaileei buruz"
@@ -1333,7 +1333,7 @@
     "message": "Joan ezarpenera"
   },
   "notificationAddDesc": {
-    "message": "Bitwardenek pasahitz hau gogoratu beharko lizuke?"
+    "message": "Bytewardek pasahitz hau gogoratu beharko lizuke?"
   },
   "notificationAddSave": {
     "message": "Gorde"
@@ -1369,11 +1369,11 @@
     }
   },
   "notificationLoginSaveConfirmation": {
-    "message": "Bitwarden-en gordeta.",
+    "message": "Byteward-en gordeta.",
     "description": "Shown to user after item is saved."
   },
   "notificationLoginUpdatedConfirmation": {
-    "message": "Bitwarden-en eguneratuta.",
+    "message": "Byteward-en eguneratuta.",
     "description": "Shown to user after item is updated."
   },
   "selectItemAriaLabel": {
@@ -1471,13 +1471,13 @@
     "message": "Eskatu pasagako berriak gordetzea edo zure kutxan gordetako pasagakoekin saioa hastea. Saioa hasita duten kontu guztiei aplikatzen zaie."
   },
   "notificationChangeDesc": {
-    "message": "Bitwardenen pasahitz hau eguneratu nahi duzu?"
+    "message": "Bytewarden pasahitz hau eguneratu nahi duzu?"
   },
   "notificationChangeSave": {
     "message": "Eguneratu"
   },
   "notificationUnlockDesc": {
-    "message": "Desblokeatu zure Bitwarden kutxa autobetetze-eskaera osatzeko."
+    "message": "Desblokeatu zure Byteward kutxa autobetetze-eskaera osatzeko."
   },
   "notificationUnlock": {
     "message": "Desblokeatu"
@@ -1786,7 +1786,7 @@
     "message": "Pasahitz hau fitxategi hau esportatzeko eta inportatzeko erabiliko da"
   },
   "accountRestrictedOptionDescription": {
-    "message": "Erabili zure kontuaren zifratze-gakoa, zure kontuaren erabiltzaile-izenetik eta Master Pasahitzetik eratorria, esportazioa zifratzeko eta inportazioa uneko Bitwarden kontura mugatzeko."
+    "message": "Erabili zure kontuaren zifratze-gakoa, zure kontuaren erabiltzaile-izenetik eta Master Pasahitzetik eratorria, esportazioa zifratzeko eta inportazioa uneko Byteward kontura mugatzeko."
   },
   "passwordProtectedOptionDescription": {
     "message": "Ezarri fitxategiko pasahitz bat esportazioa zifratzeko eta edozein Bitwarden kontutara inportatzeko pasahitza deszifratzeko erabiliz."
@@ -2236,7 +2236,7 @@
     "message": "Aurkitu autobetetze-iradokizunak erraz"
   },
   "autofillSpotlightDesc": {
-    "message": "Itzali zure nabigatzailearen autobetetze-ezarpenak, Bitwarden-ekin gatazkan ez daitezen."
+    "message": "Itzali zure nabigatzailearen autobetetze-ezarpenak, Byteward-ekin gatazkan ez daitezen."
   },
   "turnOffBrowserAutofill": {
     "message": "Itzali $BROWSER$ autobetetzea",
@@ -2293,7 +2293,7 @@
     "message": "Erakutsi autobetetze-iradokizunak formulario-eremuetan"
   },
   "howDoesBitwardenProtectFromPhishing": {
-    "message": "Nola babesten du Bitwarden-ek zure datuak phishing-etik?"
+    "message": "Nola babesten du Byteward-ek zure datuak phishing-etik?"
   },
   "currentWebsite": {
     "message": "Uneko webgunea"
@@ -3202,7 +3202,7 @@
     "message": "Pasahitz nagusi ahula"
   },
   "weakMasterPasswordDesc": {
-    "message": "Aukeratu duzun pasahitza ahula da. Pasahitz nagusi sendo bat (edo pasaesaldi bat) erabili beharko zenuke Bitwarden kontua behar bezala babesteko. Ziur zaude pasahitz nagusi hau erabili nahi duzula?"
+    "message": "Aukeratu duzun pasahitza ahula da. Pasahitz nagusi sendo bat (edo pasaesaldi bat) erabili beharko zenuke Byteward kontua behar bezala babesteko. Ziur zaude pasahitz nagusi hau erabili nahi duzula?"
   },
   "rotateAccountEncKey": {
     "message": "Baita nire kontuaren zifratze-gakoa biratu"
@@ -3242,10 +3242,10 @@
     "message": "Ezarri PINa"
   },
   "setYourPinCode": {
-    "message": "Ezarri zure PIN kodea Bitwarden desblokeatzeko. Zure PIN-aren konfigurazioa berrezarriko da, noizbait aplikaziotik erabat saioa ixten baduzu."
+    "message": "Ezarri zure PIN kodea Byteward desblokeatzeko. Zure PIN-aren konfigurazioa berrezarriko da, noizbait aplikaziotik erabat saioa ixten baduzu."
   },
   "setPinCode": {
-    "message": "PIN hau Bitwarden desblokeatzeko erabil dezakezu. Zure PINa berrezarriko da aplikaziotik guztiz saioa amaitzen baduzu."
+    "message": "PIN hau Byteward desblokeatzeko erabil dezakezu. Zure PINa berrezarriko da aplikaziotik guztiz saioa amaitzen baduzu."
   },
   "pinRequired": {
     "message": "PIN-a beharrezkoa da."
@@ -3381,7 +3381,7 @@
     "message": "Formularioa zure gordetako saio-hasieraren URIaren domeinu ezberdin batean ostatatzen da. Aukeratu Ados autobetetzeko, edo Utzi gelditzeko."
   },
   "autofillIframeWarningTip": {
-    "message": "Etorkizunean abisu hau saihesteko, gorde URI hau, $HOSTNAME$, gune honetarako zure Bitwarden saio-hasierako elementuan.",
+    "message": "Etorkizunean abisu hau saihesteko, gorde URI hau, $HOSTNAME$, gune honetarako zure Byteward saio-hasierako elementuan.",
     "placeholders": {
       "hostname": {
         "content": "$1",
@@ -3390,7 +3390,7 @@
     }
   },
   "topLayerHijackWarning": {
-    "message": "Orri hau Bitwarden esperientziarekin interferitzen ari da. Bitwarden lineako menua aldi baterako desgaitu da segurtasun-neurri gisa."
+    "message": "Orri hau Byteward esperientziarekin interferitzen ari da. Byteward lineako menua aldi baterako desgaitu da segurtasun-neurri gisa."
   },
   "setMasterPassword": {
     "message": "Ezarri pasahitz nagusia"
@@ -3552,7 +3552,7 @@
     "message": "Biometriak huts egin du"
   },
   "biometricsFailedDesc": {
-    "message": "Biometria ezin da osatu, kontuan hartu master pasahitz bat erabiltzea edo saioa amaitzea. Honek jarraitzen badu, mesedez, jarri harremanetan Bitwarden laguntzarekin."
+    "message": "Biometria ezin da osatu, kontuan hartu master pasahitz bat erabiltzea edo saioa amaitzea. Honek jarraitzen badu, mesedez, jarri harremanetan Byteward laguntzarekin."
   },
   "nativeMessagingPermissionErrorTitle": {
     "message": "Baimena ez da eman"
@@ -3595,7 +3595,7 @@
     "message": "Kanporatutako domeinuak"
   },
   "excludedDomainsDesc": {
-    "message": "Bitwardenek ez du eskatuko domeinu horietarako saio-hasierako xehetasunak gordetzea. Orrialdea eguneratu behar duzu aldaketek eragina izan dezaten."
+    "message": "Bytewardek ez du eskatuko domeinu horietarako saio-hasierako xehetasunak gordetzea. Orrialdea eguneratu behar duzu aldaketek eragina izan dezaten."
   },
   "blockedDomainsDesc": {
     "message": "Autobetetzea eta beste erlazionatutako funtzioak ez dira webgune hauetan eskainiko. Orria freskatu behar duzu aldaketak indarrean jartzeko."
@@ -3727,24 +3727,24 @@
     "message": "Arriskuan dauden saio-hasieren zerrenda baten ilustrazioa."
   },
   "welcomeDialogGraphicAlt": {
-    "message": "Bitwarden kutxa orriaren diseinuaren ilustrazioa."
+    "message": "Byteward kutxa orriaren diseinuaren ilustrazioa."
   },
   "generatePasswordSlideDesc": {
-    "message": "Azkar sortu pasahitz sendo eta bakarra Bitwarden autobetetze-menuarekin arriskuan dagoen gunean.",
+    "message": "Azkar sortu pasahitz sendo eta bakarra Byteward autobetetze-menuarekin arriskuan dagoen gunean.",
     "description": "Description of the generate password slide on the at-risk password page carousel"
   },
   "generatePasswordSlideImgAltPeriod": {
-    "message": "Bitwarden autobetetze-menuak sortutako pasahitz bat erakusten duen ilustrazioa."
+    "message": "Byteward autobetetze-menuak sortutako pasahitz bat erakusten duen ilustrazioa."
   },
   "updateInBitwarden": {
-    "message": "Eguneratu Bitwarden-en"
+    "message": "Eguneratu Byteward-en"
   },
   "updateInBitwardenSlideDesc": {
-    "message": "Bitwarden-ek pasahitza pasahitz-kudeatzailean eguneratzeko eskatuko dizu.",
+    "message": "Byteward-ek pasahitza pasahitz-kudeatzailean eguneratzeko eskatuko dizu.",
     "description": "Description of the update in Bitwarden slide on the at-risk password page carousel"
   },
   "updateInBitwardenSlideImgAltPeriod": {
-    "message": "Bitwarden-en jakinarazpen baten ilustrazioa, erabiltzaileari saio-hasiera eguneratzeko eskatzen diona."
+    "message": "Byteward-en jakinarazpen baten ilustrazioa, erabiltzaileari saio-hasiera eguneratzeko eskatzen diona."
   },
   "turnOnAutofill": {
     "message": "Aktibatu autobetetzea"
@@ -4372,11 +4372,11 @@
     }
   },
   "forwarderGeneratedBy": {
-    "message": "Bitwarden-ek sortua.",
+    "message": "Byteward-ek sortua.",
     "description": "Displayed with the address on the forwarding service's configuration screen."
   },
   "forwarderGeneratedByWithWebsite": {
-    "message": "Webgunea: $WEBSITE$. Bitwarden-ek sortua.",
+    "message": "Webgunea: $WEBSITE$. Byteward-ek sortua.",
     "description": "Displayed with the address on the forwarding service's configuration screen.",
     "placeholders": {
       "WEBSITE": {
@@ -4598,7 +4598,7 @@
     "message": "Jakinarazpen bat bidali da zure gailura."
   },
   "notificationSentDevicePart1": {
-    "message": "Desblokeatu Bitwarden zure gailuan edo"
+    "message": "Desblokeatu Byteward zure gailuan edo"
   },
   "notificationSentDeviceAnchor": {
     "message": "web aplikazioan"
@@ -5098,15 +5098,15 @@
     "message": "Joan edukira"
   },
   "bitwardenOverlayButton": {
-    "message": "Bitwarden autobetetze-menuaren botoia",
+    "message": "Byteward autobetetze-menuaren botoia",
     "description": "Page title for the iframe containing the overlay button"
   },
   "toggleBitwardenVaultOverlay": {
-    "message": "Txandakatu Bitwarden autobetetze-menua",
+    "message": "Txandakatu Byteward autobetetze-menua",
     "description": "Screen reader and tool tip label for the overlay button"
   },
   "bitwardenVault": {
-    "message": "Bitwarden autobetetze-menua",
+    "message": "Byteward autobetetze-menua",
     "description": "Page title in overlay"
   },
   "unlockYourAccountToViewMatchingLogins": {
@@ -5178,7 +5178,7 @@
     "description": "Screen reader text (aria-label) for new identity button within inline menu"
   },
   "bitwardenOverlayMenuAvailable": {
-    "message": "Bitwarden autobetetze-menua erabilgarri. Sakatu behera gezia hautatzeko.",
+    "message": "Byteward autobetetze-menua erabilgarri. Sakatu behera gezia hautatzeko.",
     "description": "Screen reader text for announcing when the overlay opens on the page"
   },
   "turnOn": {
@@ -6438,7 +6438,7 @@
     "description": "Label indicating the most common import formats"
   },
   "uriMatchDefaultStrategyHint": {
-    "message": "URI bat etortzearen detekzioa da Bitwarden-ek autobetetze-iradokizunak nola identifikatzen dituen.",
+    "message": "URI bat etortzearen detekzioa da Byteward-ek autobetetze-iradokizunak nola identifikatzen dituen.",
     "description": "Explains to the user that URI match detection determines how Bitwarden suggests autofill options, and clarifies that this default strategy applies when no specific match detection is set for a login item."
   },
   "regExAdvancedOptionWarning": {
@@ -6482,15 +6482,15 @@
     "description": "Body content for dialog which asks if the user wants to proceed to the browser's keyboard shortcut settings page"
   },
   "overrideDefaultBrowserAutofillTitle": {
-    "message": "Egin Bitwarden zure pasahitz-kudeatzaile lehenetsia?",
+    "message": "Egin Byteward zure pasahitz-kudeatzaile lehenetsia?",
     "description": "Dialog title facilitating the ability to override a chrome browser's default autofill behavior"
   },
   "overrideDefaultBrowserAutofillDescription": {
-    "message": "Aukera hau ez ikusteak gatazkak eragin ditzake Bitwarden autobetetze-iradokizunen eta zure nabigatzailearen artean.",
+    "message": "Aukera hau ez ikusteak gatazkak eragin ditzake Byteward autobetetze-iradokizunen eta zure nabigatzailearen artean.",
     "description": "Dialog message facilitating the ability to override a chrome browser's default autofill behavior"
   },
   "overrideDefaultBrowserAutoFillSettings": {
-    "message": "Egin Bitwarden zure pasahitz-kudeatzaile lehenetsia",
+    "message": "Egin Byteward zure pasahitz-kudeatzaile lehenetsia",
     "description": "Label for the setting that allows overriding the default browser autofill settings"
   },
   "defaultPasswordManagerCalloutTitle": {
@@ -6498,7 +6498,7 @@
     "description": "Title for the callout that prompts users to set Bitwarden as their default password manager"
   },
   "defaultPasswordManagerCalloutDesc": {
-    "message": "$BROWSER$ nabigatzaileari baimena emateko eskatuko zaizu Bitwarden zure pasahitz-kudeatzaile lehenetsi gisa ezartzeko.",
+    "message": "$BROWSER$ nabigatzaileari baimena emateko eskatuko zaizu Byteward zure pasahitz-kudeatzaile lehenetsi gisa ezartzeko.",
     "description": "Description for the callout that prompts users to set Bitwarden as their default password manager",
     "placeholders": {
       "browser": {
@@ -6508,11 +6508,11 @@
     }
   },
   "privacyPermissionAdditionNotGrantedTitle": {
-    "message": "Ezin izan da Bitwarden pasahitz-kudeatzaile lehenetsi gisa ezarri",
+    "message": "Ezin izan da Byteward pasahitz-kudeatzaile lehenetsi gisa ezarri",
     "description": "Title for the dialog that appears when the user has not granted the extension permission to set privacy settings"
   },
   "privacyPermissionAdditionNotGrantedDescription": {
-    "message": "Nabigatzailearen pribatutasun-baimenak eman behar dizkiozu Bitwarden-i pasahitz-kudeatzaile lehenetsi gisa ezartzeko.",
+    "message": "Nabigatzailearen pribatutasun-baimenak eman behar dizkiozu Byteward-i pasahitz-kudeatzaile lehenetsi gisa ezartzeko.",
     "description": "Description for the dialog that appears when the user has not granted the extension permission to set privacy settings"
   },
   "makeDefault": {
@@ -6520,10 +6520,10 @@
     "description": "Button text for the setting that allows overriding the default browser autofill settings"
   },
   "defaultPasswordManagerPromptTitle": {
-    "message": "Egin Bitwarden zure nabigatzailearen pasahitz-kudeatzaile lehenetsia"
+    "message": "Egin Byteward zure nabigatzailearen pasahitz-kudeatzaile lehenetsia"
   },
   "defaultPasswordManagerPromptTitleV2": {
-    "message": "Egin Bitwarden zure pasahitz-kudeatzaile lehenetsia",
+    "message": "Egin Byteward zure pasahitz-kudeatzaile lehenetsia",
     "description": "Label for the setting to make Bitwarden the default password manager"
   },
   "defaultPasswordManagerSettingHintV2": {
@@ -6535,13 +6535,13 @@
     "description": "Link text to browser autofill settings in the default password manager setting hint."
   },
   "defaultPasswordManagerPromptStep2AfterAllow": {
-    "message": "nabigatzailearen gonbitetik Bitwarden-i zure ezarpenak aldatzeko baimena emateko."
+    "message": "nabigatzailearen gonbitetik Byteward-i zure ezarpenak aldatzeko baimena emateko."
   },
   "defaultPasswordManagerPromptStep3": {
     "message": "Zure nabigatzailearen barneko pasahitz-kudeatzailea itzaliko dugu saio-hasiera esperientzia segurua goza dezazun."
   },
   "defaultPasswordManagerSuccessToast": {
-    "message": "Bitwarden zure nabigatzailearen pasahitz-kudeatzaile lehenetsi bihurtu da"
+    "message": "Byteward zure nabigatzailearen pasahitz-kudeatzaile lehenetsi bihurtu da"
   },
   "allow": {
     "message": "Baimendu",
@@ -7549,7 +7549,7 @@
     "description": "Notification message for when a password has been regenerated"
   },
   "saveToBitwarden": {
-    "message": "Gorde Bitwarden-en",
+    "message": "Gorde Byteward-en",
     "description": "Confirmation message for saving a login to Bitwarden"
   },
   "spaceCharacterDescriptor": {
@@ -7793,13 +7793,13 @@
     "message": "Use folders to organize vault items. They're just for you. No one else will see or use them."
   },
   "introCarouselLabel": {
-    "message": "Ongi etorri Bitwarden-era"
+    "message": "Ongi etorri Byteward-era"
   },
   "securityPrioritized": {
     "message": "Segurtasuna, lehentasunez"
   },
   "securityPrioritizedBody": {
-    "message": "Gorde saio-hasierak, txartelak eta identitateak zure kutxa seguruan. Bitwarden-ek zero-ezagutza eta muturretik muturrera zifratzea erabiltzen du zuretzat garrantzitsua dena babesteko."
+    "message": "Gorde saio-hasierak, txartelak eta identitateak zure kutxa seguruan. Byteward-ek zero-ezagutza eta muturretik muturrera zifratzea erabiltzen du zuretzat garrantzitsua dena babesteko."
   },
   "quickLogin": {
     "message": "Saio-hasiera azkarra eta erraza"
@@ -7945,7 +7945,7 @@
     "message": "Ezartzen honi buruz"
   },
   "permitCipherDetailsDescription": {
-    "message": "Bitwarden-ek gordetako saio-hasierako URIak erabiliko ditu zein ikono edo pasahitza aldatzeko URL erabili behar den identifikatzeko zure esperientzia hobetzeko. Ez da informaziorik biltzen edo gordetzen zerbitzu hau erabiltzen duzunean."
+    "message": "Byteward-ek gordetako saio-hasierako URIak erabiliko ditu zein ikono edo pasahitza aldatzeko URL erabili behar den identifikatzeko zure esperientzia hobetzeko. Ez da informaziorik biltzen edo gordetzen zerbitzu hau erabiltzen duzunean."
   },
   "showQuickCopyActionsDetailsDescription": {
     "message": "Gehitu 3 kopia azkarreko botoi elementuen ondoan zure erabiltzaile-izena, pasahitza edo egiaztapen-kodea arbelean kopiatzeko."
@@ -7954,7 +7954,7 @@
     "message": "Ez duzu orri hau ikusteko baimenik. Saiatu beste kontu batekin saioa hasten."
   },
   "wasmNotSupported": {
-    "message": "WebAssembly ez da onartzen zure nabigatzailean edo ez dago gaituta. WebAssembly beharrezkoa da Bitwarden aplikazioa erabiltzeko.",
+    "message": "WebAssembly ez da onartzen zure nabigatzailean edo ez dago gaituta. WebAssembly beharrezkoa da Byteward aplikazioa erabiltzeko.",
     "description": "'WebAssembly' is a technical term and should not be translated."
   },
   "showMore": {
@@ -8261,7 +8261,7 @@
     "message": "Partekatutako desblokeoa erabiltzeko, Bitwarden-ek mahaigaineko aplikazioarekin komunikatzeko baimena behar du. Jarraitzen duzunean, zure nabigatzaileak onartzeko eskatuko dizu."
   },
   "sharedUnlockDesktopPermissionWarning": {
-    "message": "Bitwarden blokeatu eta birkargatuko da. Onartu ondoren, luzapenak birkargatu eta zure kutxa blokeatuko du."
+    "message": "Byteward blokeatu eta birkargatuko da. Onartu ondoren, luzapenak birkargatu eta zure kutxa blokeatuko du."
   },
   "biometricPermissionDesc": {
     "message": "Biometria bidezko desblokeoa erabiltzeko, Bitwarden-ek mahaigaineko aplikazioarekin komunikatzeko baimena behar du. Jarraitzen duzunean, zure nabigatzaileak onartzeko eskatuko dizu."

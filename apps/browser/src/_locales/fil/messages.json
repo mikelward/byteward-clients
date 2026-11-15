@@ -336,7 +336,7 @@
     "message": "Magpatuloy sa browser extension store?"
   },
   "continueToBrowserExtensionStoreDesc": {
-    "message": "Tulungan ang iba na malaman kung ang Bitwarden ay angkop para sa kanila. Bisitahin ang extension store ng iyong browser at mag-iwan ng rating ngayon."
+    "message": "Tulungan ang iba na malaman kung ang Byteward ay angkop para sa kanila. Bisitahin ang extension store ng iyong browser at mag-iwan ng rating ngayon."
   },
   "changeMasterPasswordOnWebConfirmation": {
     "message": "Maaari mong baguhin ang iyong master password sa Bitwarden web app."
@@ -356,7 +356,7 @@
     "message": "Mag-Log Out"
   },
   "aboutBitwarden": {
-    "message": "Tungkol sa Bitwarden"
+    "message": "Tungkol sa Byteward"
   },
   "about": {
     "message": "Tungkol"
@@ -1081,10 +1081,10 @@
     "message": "Gawing tuluy-tuloy ang 2-step verification"
   },
   "totpHelper": {
-    "message": "Maaaring mag-imbak at magpunan ang Bitwarden ng 2-step verification code. Kopyahin at i-paste ang key sa field na ito."
+    "message": "Maaaring mag-imbak at magpunan ang Byteward ng 2-step verification code. Kopyahin at i-paste ang key sa field na ito."
   },
   "totpHelperWithCapture": {
-    "message": "Maaaring mag-imbak at magpunan ang Bitwarden ng 2-step verification code. Piliin ang icon ng camera upang kumuha ng screenshot ng authenticator QR code ng website na ito, o kopyahin at i-paste ang key sa field na ito."
+    "message": "Maaaring mag-imbak at magpunan ang Byteward ng 2-step verification code. Piliin ang icon ng camera upang kumuha ng screenshot ng authenticator QR code ng website na ito, o kopyahin at i-paste ang key sa field na ito."
   },
   "learnMoreAboutAuthenticators": {
     "message": "Matuto nang higit pa tungkol sa mga authenticator"
@@ -1333,7 +1333,7 @@
     "message": "Lumaktaw sa setting"
   },
   "notificationAddDesc": {
-    "message": "Dapat bang tandaan ng Bitwarden ang password na ito para sa iyo?"
+    "message": "Dapat bang tandaan ng Byteward ang password na ito para sa iyo?"
   },
   "notificationAddSave": {
     "message": "I-save"
@@ -1369,11 +1369,11 @@
     }
   },
   "notificationLoginSaveConfirmation": {
-    "message": "nai-save sa Bitwarden.",
+    "message": "nai-save sa Byteward.",
     "description": "Shown to user after item is saved."
   },
   "notificationLoginUpdatedConfirmation": {
-    "message": "na-update sa Bitwarden.",
+    "message": "na-update sa Byteward.",
     "description": "Shown to user after item is updated."
   },
   "selectItemAriaLabel": {
@@ -1462,7 +1462,7 @@
     "message": "Tanungin ang update ng password ng isang login kapag napansin ang pagbabago sa websi."
   },
   "changedPasswordNotificationDescAlt": {
-    "message": "Hilingin na i-update ang password ng login kapag may nakitang pagbabago sa isang website. Nalalapat sa lahat ng naka-log in na account.\nI-unlock ang iyong Bitwarden vault para makumpleto ang kahilingan sa auto-fill."
+    "message": "Hilingin na i-update ang password ng login kapag may nakitang pagbabago sa isang website. Nalalapat sa lahat ng naka-log in na account.\nI-unlock ang iyong Byteward vault para makumpleto ang kahilingan sa auto-fill."
   },
   "enableUsePasskeys": {
     "message": "Magtanong upang i-save at gamitin ang mga passkey"
@@ -1471,13 +1471,13 @@
     "message": "Magtanong upang i-save ang mga bagong passkey o mag-log in gamit ang mga passkey na nakaimbak sa iyong vault. Naaangkop sa lahat ng naka-log in na account."
   },
   "notificationChangeDesc": {
-    "message": "Nais mo bang i-update ang password na ito sa Bitwarden?"
+    "message": "Nais mo bang i-update ang password na ito sa Byteward?"
   },
   "notificationChangeSave": {
     "message": "I-update"
   },
   "notificationUnlockDesc": {
-    "message": "I-unlock ang iyong Bitwarden vault para makumpleto ang kahilingan sa auto-fill."
+    "message": "I-unlock ang iyong Byteward vault para makumpleto ang kahilingan sa auto-fill."
   },
   "notificationUnlock": {
     "message": "I-unlock"
@@ -1786,7 +1786,7 @@
     "message": "Ang password na ito ay gagamitin upang i-export at i-import ang file na ito"
   },
   "accountRestrictedOptionDescription": {
-    "message": "Gamitin ang encryption key ng iyong account, na nagmula sa username at Master Password ng iyong account, upang i-encrypt ang export at limitahan ang import sa kasalukuyang Bitwarden account lamang."
+    "message": "Gamitin ang encryption key ng iyong account, na nagmula sa username at Master Password ng iyong account, upang i-encrypt ang export at limitahan ang import sa kasalukuyang Byteward account lamang."
   },
   "passwordProtectedOptionDescription": {
     "message": "Magtakda ng file password upang i-encrypt ang export at i-import ito sa anumang Bitwarden account gamit ang password para sa decryption."
@@ -2236,7 +2236,7 @@
     "message": "Madaling mahanap ang mga autofill suggestion"
   },
   "autofillSpotlightDesc": {
-    "message": "I-off ang autofill settings ng iyong browser, upang hindi sila sumalungat sa Bitwarden."
+    "message": "I-off ang autofill settings ng iyong browser, upang hindi sila sumalungat sa Byteward."
   },
   "turnOffBrowserAutofill": {
     "message": "I-off ang $BROWSER$ autofill",
@@ -2293,7 +2293,7 @@
     "message": "Ipakita ang mga autofill suggestion sa mga form field"
   },
   "howDoesBitwardenProtectFromPhishing": {
-    "message": "Paano pinoprotektahan ng Bitwarden ang iyong data mula sa phishing?"
+    "message": "Paano pinoprotektahan ng Byteward ang iyong data mula sa phishing?"
   },
   "currentWebsite": {
     "message": "Kasalukuyang website"
@@ -3202,7 +3202,7 @@
     "message": "Mahinang master password"
   },
   "weakMasterPasswordDesc": {
-    "message": "Ang master password na pinili mo ay mahina. Dapat gamitin mo ang isang makapangyarihang master password (o passphrase) para maayos na protektahan ang iyong account sa Bitwarden. Sigurado ka bang nais mong gamitin ang master password na ito?"
+    "message": "Ang master password na pinili mo ay mahina. Dapat gamitin mo ang isang makapangyarihang master password (o passphrase) para maayos na protektahan ang iyong account sa Byteward. Sigurado ka bang nais mong gamitin ang master password na ito?"
   },
   "rotateAccountEncKey": {
     "message": "I-rotate din ang encryption key ng aking account"
@@ -3242,10 +3242,10 @@
     "message": "Magtakda ng PIN"
   },
   "setYourPinCode": {
-    "message": "Itakda ang iyong PIN code para sa pag-unlock ng Bitwarden. Ang iyong mga setting ng PIN ay ma-reset kung kailanman ay lubusang lumabas ka mula sa application."
+    "message": "Itakda ang iyong PIN code para sa pag-unlock ng Byteward. Ang iyong mga setting ng PIN ay ma-reset kung kailanman ay lubusang lumabas ka mula sa application."
   },
   "setPinCode": {
-    "message": "Maaari mong gamitin ang PIN na ito upang i-unlock ang Bitwarden. Ang iyong PIN ay ire-reset kung kailanman ay ganap kang mag-log out sa application."
+    "message": "Maaari mong gamitin ang PIN na ito upang i-unlock ang Byteward. Ang iyong PIN ay ire-reset kung kailanman ay ganap kang mag-log out sa application."
   },
   "pinRequired": {
     "message": "Kinakailangan ang PIN code."
@@ -3381,7 +3381,7 @@
     "message": "Ang form ay naka-host sa ibang domain kaysa sa URI ng iyong nai-save na login. Piliin ang OK upang i-autofill pa rin, o Cancel upang ihinto."
   },
   "autofillIframeWarningTip": {
-    "message": "Upang maiwasan ang babalang ito sa hinaharap, i-save ang URI na ito, $HOSTNAME$, sa iyong Bitwarden login item para sa site na ito.",
+    "message": "Upang maiwasan ang babalang ito sa hinaharap, i-save ang URI na ito, $HOSTNAME$, sa iyong Byteward login item para sa site na ito.",
     "placeholders": {
       "hostname": {
         "content": "$1",
@@ -3390,7 +3390,7 @@
     }
   },
   "topLayerHijackWarning": {
-    "message": "Ang page na ito ay nakikialam sa karanasan ng Bitwarden. Ang Bitwarden inline menu ay pansamantalang na-disable bilang isang hakbang sa kaligtasan."
+    "message": "Ang page na ito ay nakikialam sa karanasan ng Byteward. Ang Byteward inline menu ay pansamantalang na-disable bilang isang hakbang sa kaligtasan."
   },
   "setMasterPassword": {
     "message": "Itakda ang master password"
@@ -3552,7 +3552,7 @@
     "message": "Nabigo ang biometrics"
   },
   "biometricsFailedDesc": {
-    "message": "Hindi makumpleto ang biometrics, isaalang-alang ang paggamit ng master password o pag-log out. Kung magpapatuloy ito, mangyaring makipag-ugnayan sa Bitwarden support."
+    "message": "Hindi makumpleto ang biometrics, isaalang-alang ang paggamit ng master password o pag-log out. Kung magpapatuloy ito, mangyaring makipag-ugnayan sa Byteward support."
   },
   "nativeMessagingPermissionErrorTitle": {
     "message": "Hindi ibinigay ang pahintulot"
@@ -3595,7 +3595,7 @@
     "message": "Inilayo na Domain"
   },
   "excludedDomainsDesc": {
-    "message": "Hindi tatanungin ng Bitwarden na i-save ang mga detalye ng pag-login para sa mga domain na ito. Kailangan mo nang i-refresh ang page para maipatupad ang mga pagbabago."
+    "message": "Hindi tatanungin ng Byteward na i-save ang mga detalye ng pag-login para sa mga domain na ito. Kailangan mo nang i-refresh ang page para maipatupad ang mga pagbabago."
   },
   "blockedDomainsDesc": {
     "message": "Ang autofill at iba pang kaugnay na mga feature ay hindi iaalok para sa mga website na ito. Kailangan mong i-refresh ang page upang magkabisa ang mga pagbabago."
@@ -3727,24 +3727,24 @@
     "message": "Ilustrasyon ng isang listahan ng mga login na nasa panganib."
   },
   "welcomeDialogGraphicAlt": {
-    "message": "Ilustrasyon ng layout ng Bitwarden vault page."
+    "message": "Ilustrasyon ng layout ng Byteward vault page."
   },
   "generatePasswordSlideDesc": {
-    "message": "Mabilis na bumuo ng matibay at natatanging password gamit ang Bitwarden autofill menu sa site na nasa panganib.",
+    "message": "Mabilis na bumuo ng matibay at natatanging password gamit ang Byteward autofill menu sa site na nasa panganib.",
     "description": "Description of the generate password slide on the at-risk password page carousel"
   },
   "generatePasswordSlideImgAltPeriod": {
-    "message": "Ilustrasyon ng Bitwarden autofill menu na nagpapakita ng nabuong password."
+    "message": "Ilustrasyon ng Byteward autofill menu na nagpapakita ng nabuong password."
   },
   "updateInBitwarden": {
-    "message": "I-update sa Bitwarden"
+    "message": "I-update sa Byteward"
   },
   "updateInBitwardenSlideDesc": {
-    "message": "Pagkatapos, hihilingin ng Bitwarden na i-update mo ang password sa password manager.",
+    "message": "Pagkatapos, hihilingin ng Byteward na i-update mo ang password sa password manager.",
     "description": "Description of the update in Bitwarden slide on the at-risk password page carousel"
   },
   "updateInBitwardenSlideImgAltPeriod": {
-    "message": "Ilustrasyon ng notification ng Bitwarden na humihiling sa user na i-update ang login."
+    "message": "Ilustrasyon ng notification ng Byteward na humihiling sa user na i-update ang login."
   },
   "turnOnAutofill": {
     "message": "I-on ang autofill"
@@ -4372,11 +4372,11 @@
     }
   },
   "forwarderGeneratedBy": {
-    "message": "Nabuo ng Bitwarden.",
+    "message": "Nabuo ng Byteward.",
     "description": "Displayed with the address on the forwarding service's configuration screen."
   },
   "forwarderGeneratedByWithWebsite": {
-    "message": "Website: $WEBSITE$. Nabuo ng Bitwarden.",
+    "message": "Website: $WEBSITE$. Nabuo ng Byteward.",
     "description": "Displayed with the address on the forwarding service's configuration screen.",
     "placeholders": {
       "WEBSITE": {
@@ -4598,7 +4598,7 @@
     "message": "Naipadala na ang notification sa iyong device."
   },
   "notificationSentDevicePart1": {
-    "message": "I-unlock ang Bitwarden sa iyong device o sa"
+    "message": "I-unlock ang Byteward sa iyong device o sa"
   },
   "notificationSentDeviceAnchor": {
     "message": "web app"
@@ -5098,15 +5098,15 @@
     "message": "Lumaktaw sa nilalaman"
   },
   "bitwardenOverlayButton": {
-    "message": "Button ng Bitwarden autofill menu",
+    "message": "Button ng Byteward autofill menu",
     "description": "Page title for the iframe containing the overlay button"
   },
   "toggleBitwardenVaultOverlay": {
-    "message": "I-toggle ang Bitwarden autofill menu",
+    "message": "I-toggle ang Byteward autofill menu",
     "description": "Screen reader and tool tip label for the overlay button"
   },
   "bitwardenVault": {
-    "message": "Bitwarden autofill menu",
+    "message": "Byteward autofill menu",
     "description": "Page title in overlay"
   },
   "unlockYourAccountToViewMatchingLogins": {
@@ -5178,7 +5178,7 @@
     "description": "Screen reader text (aria-label) for new identity button within inline menu"
   },
   "bitwardenOverlayMenuAvailable": {
-    "message": "Available ang Bitwarden autofill menu. Pindutin ang down arrow key upang pumili.",
+    "message": "Available ang Byteward autofill menu. Pindutin ang down arrow key upang pumili.",
     "description": "Screen reader text for announcing when the overlay opens on the page"
   },
   "turnOn": {
@@ -6438,7 +6438,7 @@
     "description": "Label indicating the most common import formats"
   },
   "uriMatchDefaultStrategyHint": {
-    "message": "Ang URI match detection ay kung paano tinutukoy ng Bitwarden ang mga autofill suggestion.",
+    "message": "Ang URI match detection ay kung paano tinutukoy ng Byteward ang mga autofill suggestion.",
     "description": "Explains to the user that URI match detection determines how Bitwarden suggests autofill options, and clarifies that this default strategy applies when no specific match detection is set for a login item."
   },
   "regExAdvancedOptionWarning": {
@@ -6482,15 +6482,15 @@
     "description": "Body content for dialog which asks if the user wants to proceed to the browser's keyboard shortcut settings page"
   },
   "overrideDefaultBrowserAutofillTitle": {
-    "message": "Gawing Bitwarden ang iyong default password manager?",
+    "message": "Gawing Byteward ang iyong default password manager?",
     "description": "Dialog title facilitating the ability to override a chrome browser's default autofill behavior"
   },
   "overrideDefaultBrowserAutofillDescription": {
-    "message": "Ang pagbalewala sa opsyon na ito ay maaaring maging sanhi ng mga salungatan sa pagitan ng Bitwarden autofill suggestion at ng iyong browser.",
+    "message": "Ang pagbalewala sa opsyon na ito ay maaaring maging sanhi ng mga salungatan sa pagitan ng Byteward autofill suggestion at ng iyong browser.",
     "description": "Dialog message facilitating the ability to override a chrome browser's default autofill behavior"
   },
   "overrideDefaultBrowserAutoFillSettings": {
-    "message": "Gawing Bitwarden ang iyong default password manager",
+    "message": "Gawing Byteward ang iyong default password manager",
     "description": "Label for the setting that allows overriding the default browser autofill settings"
   },
   "defaultPasswordManagerCalloutTitle": {
@@ -6498,7 +6498,7 @@
     "description": "Title for the callout that prompts users to set Bitwarden as their default password manager"
   },
   "defaultPasswordManagerCalloutDesc": {
-    "message": "Hihilingin sa iyo na magbigay ng pahintulot sa $BROWSER$ browser upang gawing Bitwarden ang iyong default password manager.",
+    "message": "Hihilingin sa iyo na magbigay ng pahintulot sa $BROWSER$ browser upang gawing Byteward ang iyong default password manager.",
     "description": "Description for the callout that prompts users to set Bitwarden as their default password manager",
     "placeholders": {
       "browser": {
@@ -6508,11 +6508,11 @@
     }
   },
   "privacyPermissionAdditionNotGrantedTitle": {
-    "message": "Hindi maitakda ang Bitwarden bilang default password manager",
+    "message": "Hindi maitakda ang Byteward bilang default password manager",
     "description": "Title for the dialog that appears when the user has not granted the extension permission to set privacy settings"
   },
   "privacyPermissionAdditionNotGrantedDescription": {
-    "message": "Dapat mong bigyan ang Bitwarden ng browser privacy permissions upang itakda ito bilang default password manager.",
+    "message": "Dapat mong bigyan ang Byteward ng browser privacy permissions upang itakda ito bilang default password manager.",
     "description": "Description for the dialog that appears when the user has not granted the extension permission to set privacy settings"
   },
   "makeDefault": {
@@ -6520,10 +6520,10 @@
     "description": "Button text for the setting that allows overriding the default browser autofill settings"
   },
   "defaultPasswordManagerPromptTitle": {
-    "message": "Gawing Bitwarden ang default password manager ng iyong browser"
+    "message": "Gawing Byteward ang default password manager ng iyong browser"
   },
   "defaultPasswordManagerPromptTitleV2": {
-    "message": "Gawing Bitwarden ang iyong default password manager",
+    "message": "Gawing Byteward ang iyong default password manager",
     "description": "Label for the setting to make Bitwarden the default password manager"
   },
   "defaultPasswordManagerSettingHintV2": {
@@ -6535,13 +6535,13 @@
     "description": "Link text to browser autofill settings in the default password manager setting hint."
   },
   "defaultPasswordManagerPromptStep2AfterAllow": {
-    "message": "mula sa browser prompt upang bigyan ang Bitwarden ng pahintulot na baguhin ang iyong mga setting."
+    "message": "mula sa browser prompt upang bigyan ang Byteward ng pahintulot na baguhin ang iyong mga setting."
   },
   "defaultPasswordManagerPromptStep3": {
     "message": "I-off namin ang built-in password manager ng iyong browser upang masiyahan ka sa isang secure na karanasan sa pag-log in."
   },
   "defaultPasswordManagerSuccessToast": {
-    "message": "Ginawang Bitwarden ang iyong default browser password manager"
+    "message": "Ginawang Byteward ang iyong default browser password manager"
   },
   "allow": {
     "message": "Payagan",
@@ -7549,7 +7549,7 @@
     "description": "Notification message for when a password has been regenerated"
   },
   "saveToBitwarden": {
-    "message": "I-save sa Bitwarden",
+    "message": "I-save sa Byteward",
     "description": "Confirmation message for saving a login to Bitwarden"
   },
   "spaceCharacterDescriptor": {
@@ -7793,13 +7793,13 @@
     "message": "Use folders to organize vault items. They're just for you. No one else will see or use them."
   },
   "introCarouselLabel": {
-    "message": "Maligayang pagdating sa Bitwarden"
+    "message": "Maligayang pagdating sa Byteward"
   },
   "securityPrioritized": {
     "message": "Seguridad, prayoridad"
   },
   "securityPrioritizedBody": {
-    "message": "I-save ang mga login, card, at identity sa iyong secure na vault. Gumagamit ang Bitwarden ng zero-knowledge, end-to-end encryption upang protektahan ang mahalaga sa iyo."
+    "message": "I-save ang mga login, card, at identity sa iyong secure na vault. Gumagamit ang Byteward ng zero-knowledge, end-to-end encryption upang protektahan ang mahalaga sa iyo."
   },
   "quickLogin": {
     "message": "Mabilis at madaling pag-log in"
@@ -7945,7 +7945,7 @@
     "message": "Tungkol sa setting na ito"
   },
   "permitCipherDetailsDescription": {
-    "message": "Gagamitin ng Bitwarden ang mga nai-save na login URI upang matukoy kung aling icon o change password URL ang dapat gamitin upang mapabuti ang iyong karanasan. Walang impormasyong nakokolekta o nai-save kapag ginagamit mo ang serbisyong ito."
+    "message": "Gagamitin ng Byteward ang mga nai-save na login URI upang matukoy kung aling icon o change password URL ang dapat gamitin upang mapabuti ang iyong karanasan. Walang impormasyong nakokolekta o nai-save kapag ginagamit mo ang serbisyong ito."
   },
   "showQuickCopyActionsDetailsDescription": {
     "message": "Magdagdag ng 3 quick copy button sa tabi ng mga item upang kopyahin ang iyong username, password, o verification code sa clipboard."
@@ -7954,7 +7954,7 @@
     "message": "Wala kang pahintulot na tingnan ang page na ito. Subukang mag-log in gamit ang ibang account."
   },
   "wasmNotSupported": {
-    "message": "Hindi sinusuportahan ang WebAssembly sa iyong browser o hindi ito naka-enable. Kinakailangan ang WebAssembly upang magamit ang Bitwarden app.",
+    "message": "Hindi sinusuportahan ang WebAssembly sa iyong browser o hindi ito naka-enable. Kinakailangan ang WebAssembly upang magamit ang Byteward app.",
     "description": "'WebAssembly' is a technical term and should not be translated."
   },
   "showMore": {
@@ -8261,7 +8261,7 @@
     "message": "Upang magamit ang shared unlock, kailangan ng Bitwarden ng pahintulot na makipag-ugnayan sa desktop app. Kapag nagpatuloy ka, hihilingin ng iyong browser na aprubahan mo ito."
   },
   "sharedUnlockDesktopPermissionWarning": {
-    "message": "Magla-lock at magre-reload ang Bitwarden. Pagkatapos mong aprubahan, magre-reload ang extension at ila-lock ang iyong vault."
+    "message": "Magla-lock at magre-reload ang Byteward. Pagkatapos mong aprubahan, magre-reload ang extension at ila-lock ang iyong vault."
   },
   "biometricPermissionDesc": {
     "message": "Upang magamit ang biometric unlock, kailangan ng Bitwarden ng pahintulot na makipag-ugnayan sa desktop app. Kapag nagpatuloy ka, hihilingin ng iyong browser na aprubahan mo ito."

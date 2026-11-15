@@ -336,7 +336,7 @@
     "message": "Turpināt pārlūka paplašinājumu veikalā?"
   },
   "continueToBrowserExtensionStoreDesc": {
-    "message": "Var palīdzēt citiem noskaidrot, vai Bitwarden viņiem der. To var izdarīt pārlūka lietotņu veikalā, atstājot vērtējumu."
+    "message": "Var palīdzēt citiem noskaidrot, vai Byteward viņiem der. To var izdarīt pārlūka lietotņu veikalā, atstājot vērtējumu."
   },
   "changeMasterPasswordOnWebConfirmation": {
     "message": "Savu galveno paroli var mainīt Bitwarden tīmekļa lietotnē."
@@ -356,7 +356,7 @@
     "message": "Atteikties"
   },
   "aboutBitwarden": {
-    "message": "Par Bitwarden"
+    "message": "Par Byteward"
   },
   "about": {
     "message": "Par"
@@ -1081,10 +1081,10 @@
     "message": "Padarīt divpakāpju apliecināšanu plūdenu"
   },
   "totpHelper": {
-    "message": "Bitwarden var glabāt un aizpildīt divpakāpju apliecinājuma kodus. Atslēga jāievieto starpliktuvē un jāielīmē šajā laukā."
+    "message": "Byteward var glabāt un aizpildīt divpakāpju apliecinājuma kodus. Atslēga jāievieto starpliktuvē un jāielīmē šajā laukā."
   },
   "totpHelperWithCapture": {
-    "message": "Bitwarden var glabāt un aizpildīt divpakāpju apliecinājuma kodus. Jāizvēlas kameras ikona, lai veiktu tīmekļvietnes autentificētāja kvadrātkoda ekrānuzņēmumu, vai jāievieto starpliktuvē atslēga un jāielīmē šajā laukā."
+    "message": "Byteward var glabāt un aizpildīt divpakāpju apliecinājuma kodus. Jāizvēlas kameras ikona, lai veiktu tīmekļvietnes autentificētāja kvadrātkoda ekrānuzņēmumu, vai jāievieto starpliktuvē atslēga un jāielīmē šajā laukā."
   },
   "learnMoreAboutAuthenticators": {
     "message": "Uzzināt vairāk par autentificētājiem"
@@ -1333,7 +1333,7 @@
     "message": "Pārlēkt uz iestatījumu"
   },
   "notificationAddDesc": {
-    "message": "Vai Bitwarden atcerēties šo paroli?"
+    "message": "Vai Byteward atcerēties šo paroli?"
   },
   "notificationAddSave": {
     "message": "Jā, saglabāt"
@@ -1369,11 +1369,11 @@
     }
   },
   "notificationLoginSaveConfirmation": {
-    "message": "saglabāts Bitwarden.",
+    "message": "saglabāts Byteward.",
     "description": "Shown to user after item is saved."
   },
   "notificationLoginUpdatedConfirmation": {
-    "message": "atjaunināts Bitwarden.",
+    "message": "atjaunināts Byteward.",
     "description": "Shown to user after item is updated."
   },
   "selectItemAriaLabel": {
@@ -1471,13 +1471,13 @@
     "message": "Vaicāt, vai saglabāt jaunas piekļuves atslēgas vai pieteikties ar glabātavā esošajām piekļuves atslēgām. Attiecas uz visiem kontiem, kuri ir pieteikušies."
   },
   "notificationChangeDesc": {
-    "message": "Vai atjaunināt šo paroli Bitwarden?"
+    "message": "Vai atjaunināt šo paroli Byteward?"
   },
   "notificationChangeSave": {
     "message": "Jā, atjaunināt"
   },
   "notificationUnlockDesc": {
-    "message": "Jāatslēdz Bitwarden glabātava, lai pabeigtu automātiskās aizpildes pieprasījumu."
+    "message": "Jāatslēdz Byteward glabātava, lai pabeigtu automātiskās aizpildes pieprasījumu."
   },
   "notificationUnlock": {
     "message": "Atslēgt"
@@ -1786,7 +1786,7 @@
     "message": "Šī parole tiks izmantota, lai izgūtu un ievietotu šo datni"
   },
   "accountRestrictedOptionDescription": {
-    "message": "Jāizmanto konta šifrēšanas atslēga, kas iegūta no lietotājvārda un galvenās paroles, lai šifrētu izguvi un atļautu ievietošanu tikai pašreizējā Bitwarden kontā."
+    "message": "Jāizmanto konta šifrēšanas atslēga, kas iegūta no lietotājvārda un galvenās paroles, lai šifrētu izguvi un atļautu ievietošanu tikai pašreizējā Byteward kontā."
   },
   "passwordProtectedOptionDescription": {
     "message": "Uzstādīt paroli, lai šifrētu izguvi un tad to ievietotu jebkurā Bitwarden kontā, izmantojot atšifrēšanas paroli."
@@ -2236,7 +2236,7 @@
     "message": "Viegla automātiskās aizpildes ieteikumu atrašana"
   },
   "autofillSpotlightDesc": {
-    "message": "Jāizslēdz sava pārlūka automātiskās aizpildes iestatījumi, lai tie nebūtu pretrunā ar Bitwarden."
+    "message": "Jāizslēdz sava pārlūka automātiskās aizpildes iestatījumi, lai tie nebūtu pretrunā ar Byteward."
   },
   "turnOffBrowserAutofill": {
     "message": "Izslēgt $BROWSER$ automātisko aizpildi",
@@ -2293,7 +2293,7 @@
     "message": "Rādīt automātiskās aizpildes ieteikumuis veidlapu laukos"
   },
   "howDoesBitwardenProtectFromPhishing": {
-    "message": "Kā Bitwarden aizsargā datus no pikšķerēšanas?"
+    "message": "Kā Byteward aizsargā datus no pikšķerēšanas?"
   },
   "currentWebsite": {
     "message": "Pašreizējā tīmekļvietne"
@@ -3202,7 +3202,7 @@
     "message": "Vāja galvenā parole"
   },
   "weakMasterPasswordDesc": {
-    "message": "Jūsu izvēlētā galvenā parole ir vāja. Jums vajadzētu izmantot drošu galveno paroli (vai paroles vārdkopu), lai pienācīgi aizsargātu savu Bitwarden kontu. Vai tiešām vēlaties izmantot šo galveno paroli?"
+    "message": "Jūsu izvēlētā galvenā parole ir vāja. Jums vajadzētu izmantot drošu galveno paroli (vai paroles vārdkopu), lai pienācīgi aizsargātu savu Byteward kontu. Vai tiešām vēlaties izmantot šo galveno paroli?"
   },
   "rotateAccountEncKey": {
     "message": "Arī mainīt mana konta šifrēšanas atslēgu"
@@ -3242,10 +3242,10 @@
     "message": "Iestatīt PIN"
   },
   "setYourPinCode": {
-    "message": "Iestatīt PIN kodu Bitwarden atslēgšanai. PIN iestatījumi tiks atiestatīti pēc pilnīgas izrakstīšanās no lietotnes."
+    "message": "Iestatīt PIN kodu Byteward atslēgšanai. PIN iestatījumi tiks atiestatīti pēc pilnīgas izrakstīšanās no lietotnes."
   },
   "setPinCode": {
-    "message": "Šo PIN var izmantot, lai atslēgtu Bitwarden. PIN tiks atiestatīts pēc pilnīgas atteikšanās lietotnē."
+    "message": "Šo PIN var izmantot, lai atslēgtu Byteward. PIN tiks atiestatīts pēc pilnīgas atteikšanās lietotnē."
   },
   "pinRequired": {
     "message": "Ir nepieciešams PIN kods."
@@ -3390,7 +3390,7 @@
     }
   },
   "topLayerHijackWarning": {
-    "message": "Šī lapa traucē Bitwarden darbību. Bitwarden iekļautā izvēlne ir īslaicīgi atspējot kā drošības mērs."
+    "message": "Šī lapa traucē Byteward darbību. Byteward iekļautā izvēlne ir īslaicīgi atspējot kā drošības mērs."
   },
   "setMasterPassword": {
     "message": "Uzstādīt galveno paroli"
@@ -3552,7 +3552,7 @@
     "message": "Biometrija neizdevās"
   },
   "biometricsFailedDesc": {
-    "message": "Biometriju nevar pabeigt, jāapsver galvenās paroles izmantošana vai atteikšanās. Ja tas turpinās, lūgums sazināties ar Bitwarden atbalstu."
+    "message": "Biometriju nevar pabeigt, jāapsver galvenās paroles izmantošana vai atteikšanās. Ja tas turpinās, lūgums sazināties ar Byteward atbalstu."
   },
   "nativeMessagingPermissionErrorTitle": {
     "message": "Atļauja nav piešķirta"
@@ -3595,7 +3595,7 @@
     "message": "Izņēmuma domēni"
   },
   "excludedDomainsDesc": {
-    "message": "Bitwarden nevaicās saglabāt pieteikšanās datus šiem domēniem. Ir jāpārlādē lapa, lai izmaiņas iedarbotos."
+    "message": "Byteward nevaicās saglabāt pieteikšanās datus šiem domēniem. Ir jāpārlādē lapa, lai izmaiņas iedarbotos."
   },
   "blockedDomainsDesc": {
     "message": "Automātiskā aizpilde un citas saistītās iespējas šajās tīmekļvietnēs netiks piedāvātas. Ir jāatsvaidzina lapa, lai izmaiņas iedarbotos."
@@ -3727,24 +3727,24 @@
     "message": "Riskam pakļauto pieteikšanās vienumu saraksta attēlojums."
   },
   "welcomeDialogGraphicAlt": {
-    "message": "Bitwarden glabātavas lapas izkārtojuma ilustrācija."
+    "message": "Byteward glabātavas lapas izkārtojuma ilustrācija."
   },
   "generatePasswordSlideDesc": {
     "message": "Riskam pakļauto vienumu vietnē ar automātiskās aizpildes izvēlni var ātri izveidot stipru, neatkārtojamu paroli.",
     "description": "Description of the generate password slide on the at-risk password page carousel"
   },
   "generatePasswordSlideImgAltPeriod": {
-    "message": "Bitwarden automātiskās izvēlnes attēlojums, kurā ir redzama izveidota parole."
+    "message": "Byteward automātiskās izvēlnes attēlojums, kurā ir redzama izveidota parole."
   },
   "updateInBitwarden": {
-    "message": "Atjaunināt Bitwarden"
+    "message": "Atjaunināt Byteward"
   },
   "updateInBitwardenSlideDesc": {
-    "message": "Bitwarden tad vaicās atjaunināt paroli paroļu pārvaldniekā.",
+    "message": "Byteward tad vaicās atjaunināt paroli paroļu pārvaldniekā.",
     "description": "Description of the update in Bitwarden slide on the at-risk password page carousel"
   },
   "updateInBitwardenSlideImgAltPeriod": {
-    "message": "Bitwarden paziņojuma, kas aicina lietotāju atjaunināt pieteikšanās vienumu, attēlojums."
+    "message": "Byteward paziņojuma, kas aicina lietotāju atjaunināt pieteikšanās vienumu, attēlojums."
   },
   "turnOnAutofill": {
     "message": "Ieslēgt automātisko aizpildi"
@@ -4372,11 +4372,11 @@
     }
   },
   "forwarderGeneratedBy": {
-    "message": "Izveidoja Bitwarden.",
+    "message": "Izveidoja Byteward.",
     "description": "Displayed with the address on the forwarding service's configuration screen."
   },
   "forwarderGeneratedByWithWebsite": {
-    "message": "Tīmekļvietne: $WEBSITE$. Izveidoja Bitwarden.",
+    "message": "Tīmekļvietne: $WEBSITE$. Izveidoja Byteward.",
     "description": "Displayed with the address on the forwarding service's configuration screen.",
     "placeholders": {
       "WEBSITE": {
@@ -4598,7 +4598,7 @@
     "message": "Uz ierīci ir nosūtīts paziņojums."
   },
   "notificationSentDevicePart1": {
-    "message": "Bitwarden jāatslēdz savā ierīcē vai"
+    "message": "Byteward jāatslēdz savā ierīcē vai"
   },
   "notificationSentDeviceAnchor": {
     "message": "tīmekļa lietotnē"
@@ -5098,15 +5098,15 @@
     "message": "Pāriet uz saturu"
   },
   "bitwardenOverlayButton": {
-    "message": "Bitwarden automātiskās aizpildes izvēlnes poga",
+    "message": "Byteward automātiskās aizpildes izvēlnes poga",
     "description": "Page title for the iframe containing the overlay button"
   },
   "toggleBitwardenVaultOverlay": {
-    "message": "Pārslēgt Bitwarden automātiskās aizpildes izvēlni",
+    "message": "Pārslēgt Byteward automātiskās aizpildes izvēlni",
     "description": "Screen reader and tool tip label for the overlay button"
   },
   "bitwardenVault": {
-    "message": "Bitwarden automātiskās aizpildes izvēlne",
+    "message": "Byteward automātiskās aizpildes izvēlne",
     "description": "Page title in overlay"
   },
   "unlockYourAccountToViewMatchingLogins": {
@@ -5178,7 +5178,7 @@
     "description": "Screen reader text (aria-label) for new identity button within inline menu"
   },
   "bitwardenOverlayMenuAvailable": {
-    "message": "Ir pieejama Bitwarden automātiskās aizpildes izvēlne. Jānospiež poga ar bultu uz leju, lai atlasītu.",
+    "message": "Ir pieejama Byteward automātiskās aizpildes izvēlne. Jānospiež poga ar bultu uz leju, lai atlasītu.",
     "description": "Screen reader text for announcing when the overlay opens on the page"
   },
   "turnOn": {
@@ -6438,7 +6438,7 @@
     "description": "Label indicating the most common import formats"
   },
   "uriMatchDefaultStrategyHint": {
-    "message": "URI atbilstības noteikšana ir veids, kā Bitwarden atpazīst automātiskās aizpildes ieteikumus.",
+    "message": "URI atbilstības noteikšana ir veids, kā Byteward atpazīst automātiskās aizpildes ieteikumus.",
     "description": "Explains to the user that URI match detection determines how Bitwarden suggests autofill options, and clarifies that this default strategy applies when no specific match detection is set for a login item."
   },
   "regExAdvancedOptionWarning": {
@@ -6482,15 +6482,15 @@
     "description": "Body content for dialog which asks if the user wants to proceed to the browser's keyboard shortcut settings page"
   },
   "overrideDefaultBrowserAutofillTitle": {
-    "message": "Padarīt Bitwarden par noklusējuma paroļu pārvaldnieku?",
+    "message": "Padarīt Byteward par noklusējuma paroļu pārvaldnieku?",
     "description": "Dialog title facilitating the ability to override a chrome browser's default autofill behavior"
   },
   "overrideDefaultBrowserAutofillDescription": {
-    "message": "Šīs iespējas neņemšana vērā var radīt nesaderības starp Bitwarden automātiskās aizpildes izvēlni un pārlūka.",
+    "message": "Šīs iespējas neņemšana vērā var radīt nesaderības starp Byteward automātiskās aizpildes izvēlni un pārlūka.",
     "description": "Dialog message facilitating the ability to override a chrome browser's default autofill behavior"
   },
   "overrideDefaultBrowserAutoFillSettings": {
-    "message": "Padarīt Bitwarden par noklusējuma paroļu pārvaldnieku",
+    "message": "Padarīt Byteward par noklusējuma paroļu pārvaldnieku",
     "description": "Label for the setting that allows overriding the default browser autofill settings"
   },
   "defaultPasswordManagerCalloutTitle": {
@@ -6498,7 +6498,7 @@
     "description": "Title for the callout that prompts users to set Bitwarden as their default password manager"
   },
   "defaultPasswordManagerCalloutDesc": {
-    "message": "Tiks vaicāts piešķirt pārlūkam $BROWSER$ atļauju padarīt Bitwarden par galveno paroļu pārvaldnieku.",
+    "message": "Tiks vaicāts piešķirt pārlūkam $BROWSER$ atļauju padarīt Byteward par galveno paroļu pārvaldnieku.",
     "description": "Description for the callout that prompts users to set Bitwarden as their default password manager",
     "placeholders": {
       "browser": {
@@ -6508,11 +6508,11 @@
     }
   },
   "privacyPermissionAdditionNotGrantedTitle": {
-    "message": "Nebija iespējams iestatīt Bitwarden kā noklusējuma paroļu pārvaldnieku",
+    "message": "Nebija iespējams iestatīt Byteward kā noklusējuma paroļu pārvaldnieku",
     "description": "Title for the dialog that appears when the user has not granted the extension permission to set privacy settings"
   },
   "privacyPermissionAdditionNotGrantedDescription": {
-    "message": "Ir nepieciešams Bitwarden nodrošināt pārlūka privātuma atļaujas, lai iestatītu to kā noklusējuma paroļu pārvaldnieku.",
+    "message": "Ir nepieciešams Byteward nodrošināt pārlūka privātuma atļaujas, lai iestatītu to kā noklusējuma paroļu pārvaldnieku.",
     "description": "Description for the dialog that appears when the user has not granted the extension permission to set privacy settings"
   },
   "makeDefault": {
@@ -6520,10 +6520,10 @@
     "description": "Button text for the setting that allows overriding the default browser autofill settings"
   },
   "defaultPasswordManagerPromptTitle": {
-    "message": "Padarīt Bitwarden par pārlūka noklusējuma paroļu pārvaldnieku"
+    "message": "Padarīt Byteward par pārlūka noklusējuma paroļu pārvaldnieku"
   },
   "defaultPasswordManagerPromptTitleV2": {
-    "message": "Padarīt Bitwarden par noklusējuma paroļu pārvaldnieku",
+    "message": "Padarīt Byteward par noklusējuma paroļu pārvaldnieku",
     "description": "Label for the setting to make Bitwarden the default password manager"
   },
   "defaultPasswordManagerSettingHintV2": {
@@ -6535,13 +6535,13 @@
     "description": "Link text to browser autofill settings in the default password manager setting hint."
   },
   "defaultPasswordManagerPromptStep2AfterAllow": {
-    "message": "pārlūka uzvednē, lai dotu Bitwarden atļauju mainīt iestatījumus."
+    "message": "pārlūka uzvednē, lai dotu Byteward atļauju mainīt iestatījumus."
   },
   "defaultPasswordManagerPromptStep3": {
     "message": "Mēs izslēgsim pārlūka iebūvēto paroļu pārvaldnieku, lai varētu izbaudīt drošu pieteikšanāš pieredzi."
   },
   "defaultPasswordManagerSuccessToast": {
-    "message": "Bitwarden tika padarīts par pārlūka noklusējuma paroļu pārvaldnieku"
+    "message": "Byteward tika padarīts par pārlūka noklusējuma paroļu pārvaldnieku"
   },
   "allow": {
     "message": "Atļaut",
@@ -7549,7 +7549,7 @@
     "description": "Notification message for when a password has been regenerated"
   },
   "saveToBitwarden": {
-    "message": "Saglabāt Bitwarden",
+    "message": "Saglabāt Byteward",
     "description": "Confirmation message for saving a login to Bitwarden"
   },
   "spaceCharacterDescriptor": {
@@ -7793,13 +7793,13 @@
     "message": "Use folders to organize vault items. They're just for you. No one else will see or use them."
   },
   "introCarouselLabel": {
-    "message": "Laipni lūdzam Bitwarden"
+    "message": "Laipni lūdzam Byteward"
   },
   "securityPrioritized": {
     "message": "Drošība pirmajā vietā"
   },
   "securityPrioritizedBody": {
-    "message": "Pieteikšanās vienumu, karšu un identitāšu glabāšana savā drošajā glabātavā. Bitwarden izmanto nulles zināšanu pilnīgu šifrēšanu, lai aizsargātu to, kas Tev ir svarīgs."
+    "message": "Pieteikšanās vienumu, karšu un identitāšu glabāšana savā drošajā glabātavā. Byteward izmanto nulles zināšanu pilnīgu šifrēšanu, lai aizsargātu to, kas Tev ir svarīgs."
   },
   "quickLogin": {
     "message": "Ātra un vienkārša pieteikšanās"
@@ -7945,7 +7945,7 @@
     "message": "Par šo iestatījumu"
   },
   "permitCipherDetailsDescription": {
-    "message": "Bitwarden izmantos saglabātos pieteikšanās vienuma URI, lai noteiktu, kuru ikonu vai paroles nomaiņas URL izmantot, lai uzlabotu pieredzi. Šī pakalpojuma izmantošanas laikā nekāda informācija netiek ievākta vai saglabāta."
+    "message": "Byteward izmantos saglabātos pieteikšanās vienuma URI, lai noteiktu, kuru ikonu vai paroles nomaiņas URL izmantot, lai uzlabotu pieredzi. Šī pakalpojuma izmantošanas laikā nekāda informācija netiek ievākta vai saglabāta."
   },
   "showQuickCopyActionsDetailsDescription": {
     "message": "Pievienojiet 3 ātrās kopēšanas pogas blakus vienumiem, lai kopētu lietotājvārdu, paroli vai verifikācijas kodu starpliktuvē."
@@ -7954,7 +7954,7 @@
     "message": "Nav atļaujas apskatīt šo lapu. Jāmēģina pieteikties ar citu kontu."
   },
   "wasmNotSupported": {
-    "message": "WebAssembly šajā pārlūkā netiek atbalstīts vai nav iespējots. WebAssebly ir nepieciešams, lai izmantotu Bitwarden lietotni.",
+    "message": "WebAssembly šajā pārlūkā netiek atbalstīts vai nav iespējots. WebAssebly ir nepieciešams, lai izmantotu Byteward lietotni.",
     "description": "'WebAssembly' is a technical term and should not be translated."
   },
   "showMore": {
@@ -8261,7 +8261,7 @@
     "message": "Lai izmantotu koplietoto atslēgšanu, Bitwarden ir nepieciešama atļauja sazināties ar datora lietotni. Turpinot, pārlūks lūgs to apstiprināt."
   },
   "sharedUnlockDesktopPermissionWarning": {
-    "message": "Bitwarden bloķēs un pārloadēs. Pēc apstiprināšanas paplašinājums pārloadēsies un bloķēs jūsu glabātavu."
+    "message": "Byteward bloķēs un pārloadēs. Pēc apstiprināšanas paplašinājums pārloadēsies un bloķēs jūsu glabātavu."
   },
   "biometricPermissionDesc": {
     "message": "Lai izmantotu biometrisko atslēgšanu, Bitwarden ir nepieciešama atļauja sazināties ar datora lietotni. Turpinot, pārlūks lūgs to apstiprināt."

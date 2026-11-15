@@ -336,7 +336,7 @@
     "message": "Працягнуць да крамы пашырэнняў браўзера?"
   },
   "continueToBrowserExtensionStoreDesc": {
-    "message": "Дапамажыце іншым даведацца, ці падыходзіць ім Bitwarden. Наведайце краму пашырэнняў вашага браўзера і пакіньце ацэнку зараз."
+    "message": "Дапамажыце іншым даведацца, ці падыходзіць ім Byteward. Наведайце краму пашырэнняў вашага браўзера і пакіньце ацэнку зараз."
   },
   "changeMasterPasswordOnWebConfirmation": {
     "message": "Вы можаце змяніць свой галоўны пароль у вэб-праграме Bitwarden."
@@ -356,10 +356,10 @@
     "message": "Выйсці"
   },
   "aboutBitwarden": {
-    "message": "Пра Bitwarden"
+    "message": "Пра Byteward"
   },
   "about": {
-    "message": "Пра Bitwarden"
+    "message": "Пра Byteward"
   },
   "moreFromBitwarden": {
     "message": "Больш ад Bitwarden"
@@ -1081,10 +1081,10 @@
     "message": "Зрабіце двухэтапную праверку бесперашкоднай"
   },
   "totpHelper": {
-    "message": "Bitwarden можа захоўваць і запаўняць коды двухэтапнай праверкі. Скапіруйце і ўстаўце ключ у гэта поле."
+    "message": "Byteward можа захоўваць і запаўняць коды двухэтапнай праверкі. Скапіруйце і ўстаўце ключ у гэта поле."
   },
   "totpHelperWithCapture": {
-    "message": "Bitwarden можа захоўваць і запаўняць коды двухэтапнай праверкі. Выберыце значок камеры, каб зрабіць здымак QR-кода аўтэнтыфікатара гэтага сайта, або скапіруйце і ўстаўце ключ у гэта поле."
+    "message": "Byteward можа захоўваць і запаўняць коды двухэтапнай праверкі. Выберыце значок камеры, каб зрабіць здымак QR-кода аўтэнтыфікатара гэтага сайта, або скапіруйце і ўстаўце ключ у гэта поле."
   },
   "learnMoreAboutAuthenticators": {
     "message": "Даведацца больш пра аўтэнтыфікатары"
@@ -1333,7 +1333,7 @@
     "message": "Перайсці да налады"
   },
   "notificationAddDesc": {
-    "message": "Ці павінен Bitwarden запомніць гэты пароль?"
+    "message": "Ці павінен Byteward запомніць гэты пароль?"
   },
   "notificationAddSave": {
     "message": "Захаваць"
@@ -1369,11 +1369,11 @@
     }
   },
   "notificationLoginSaveConfirmation": {
-    "message": "захавана ў Bitwarden.",
+    "message": "захавана ў Byteward.",
     "description": "Shown to user after item is saved."
   },
   "notificationLoginUpdatedConfirmation": {
-    "message": "абноўлена ў Bitwarden.",
+    "message": "абноўлена ў Byteward.",
     "description": "Shown to user after item is updated."
   },
   "selectItemAriaLabel": {
@@ -1471,13 +1471,13 @@
     "message": "Прасіць захоўваць новыя ключы доступу або ўвайсці з ключамі доступу, захаванымі ў вашым сховішчы. Прымяняецца да ўсіх увайшоўшых уліковых запісаў."
   },
   "notificationChangeDesc": {
-    "message": "Хочаце абнавіць гэты пароль у Bitwarden?"
+    "message": "Хочаце абнавіць гэты пароль у Byteward?"
   },
   "notificationChangeSave": {
     "message": "Абнавіць"
   },
   "notificationUnlockDesc": {
-    "message": "Разблакіруйце сваё сховішча Bitwarden, каб завяршыць запыт аўтазапаўнення."
+    "message": "Разблакіруйце сваё сховішча Byteward, каб завяршыць запыт аўтазапаўнення."
   },
   "notificationUnlock": {
     "message": "Разблакіраваць"
@@ -1786,7 +1786,7 @@
     "message": "Гэты пароль будзе выкарыстоўвацца для экспартавання і імпартавання гэтага файла"
   },
   "accountRestrictedOptionDescription": {
-    "message": "Выкарыстоўвайце свой ключ шыфравання, які атрыманы з імя карыстальніка і асноўнага пароля, каб зашыфраваць экспартаванне і абмежаваць імпартаванне толькі бягучага ўліковага запісу Bitwarden."
+    "message": "Выкарыстоўвайце свой ключ шыфравання, які атрыманы з імя карыстальніка і асноўнага пароля, каб зашыфраваць экспартаванне і абмежаваць імпартаванне толькі бягучага ўліковага запісу Byteward."
   },
   "passwordProtectedOptionDescription": {
     "message": "Усталюйце пароль файла, каб зашыфраваць экспарт, і імпартуйце яго ў любы ўліковы запіс Bitwarden, выкарыстоўваючы пароль для расшыфроўкі."
@@ -2236,7 +2236,7 @@
     "message": "Лёгка знаходзьце прапановы аўтазапаўнення"
   },
   "autofillSpotlightDesc": {
-    "message": "Адключыце налады аўтазапаўнення вашага браўзера, каб яны не канфліктавалі з Bitwarden."
+    "message": "Адключыце налады аўтазапаўнення вашага браўзера, каб яны не канфліктавалі з Byteward."
   },
   "turnOffBrowserAutofill": {
     "message": "Адключыць аўтазапаўненне $BROWSER$",
@@ -2293,7 +2293,7 @@
     "message": "Паказваць прапановы аўтазапаўнення на палях формы"
   },
   "howDoesBitwardenProtectFromPhishing": {
-    "message": "Як Bitwarden абараняе вашы даныя ад фішынгу?"
+    "message": "Як Byteward абараняе вашы даныя ад фішынгу?"
   },
   "currentWebsite": {
     "message": "Бягучы вэб-сайт"
@@ -3202,7 +3202,7 @@
     "message": "Ненадзейны асноўны пароль"
   },
   "weakMasterPasswordDesc": {
-    "message": "Асноўны пароль, які вы выбралі з'яўляецца ненадзейным. Для належнай абароны ўліковага запісу Bitwarden, вы павінны выкарыстоўваць надзейны асноўны пароль (або парольную фразу). Вы сапраўды хочаце выкарыстоўваць гэты асноўны пароль?"
+    "message": "Асноўны пароль, які вы выбралі з'яўляецца ненадзейным. Для належнай абароны ўліковага запісу Byteward, вы павінны выкарыстоўваць надзейны асноўны пароль (або парольную фразу). Вы сапраўды хочаце выкарыстоўваць гэты асноўны пароль?"
   },
   "rotateAccountEncKey": {
     "message": "Таксама змяніць ключ шыфравання майго ўліковага запісу"
@@ -3242,10 +3242,10 @@
     "message": "Задаць PIN"
   },
   "setYourPinCode": {
-    "message": "Прызначце PIN-код для разблакіроўкі Bitwarden. Налады PIN-кода будуць скінуты, калі вы калі-небудзь цалкам выйдзеце з праграмы."
+    "message": "Прызначце PIN-код для разблакіроўкі Byteward. Налады PIN-кода будуць скінуты, калі вы калі-небудзь цалкам выйдзеце з праграмы."
   },
   "setPinCode": {
-    "message": "Вы можаце выкарыстоўваць гэты PIN-код для разблакіроўкі Bitwarden. Ваш PIN-код будзе скінуты, калі вы калі-небудзь цалкам выйдзеце з праграмы."
+    "message": "Вы можаце выкарыстоўваць гэты PIN-код для разблакіроўкі Byteward. Ваш PIN-код будзе скінуты, калі вы калі-небудзь цалкам выйдзеце з праграмы."
   },
   "pinRequired": {
     "message": "Патрабуецца PIN-код."
@@ -3381,7 +3381,7 @@
     "message": "Форма размешчана на іншым дамене, які адрозніваецца ад URI вашага захаванага лагіна. Націсніце \"Добра\", каб усё роўна запоўніць або \"Скасаваць\" для спынення."
   },
   "autofillIframeWarningTip": {
-    "message": "Каб больш не атрымліваць гэта папярэджанне, захавайце гэты URI, $HOSTNAME$ у свае элементы ўваходу Bitwarden для гэтага сайта.",
+    "message": "Каб больш не атрымліваць гэта папярэджанне, захавайце гэты URI, $HOSTNAME$ у свае элементы ўваходу Byteward для гэтага сайта.",
     "placeholders": {
       "hostname": {
         "content": "$1",
@@ -3390,7 +3390,7 @@
     }
   },
   "topLayerHijackWarning": {
-    "message": "Гэта старонка перашкаджае працы Bitwarden. Убудаванае меню Bitwarden было часова адключана ў якасці меры бяспекі."
+    "message": "Гэта старонка перашкаджае працы Byteward. Убудаванае меню Byteward было часова адключана ў якасці меры бяспекі."
   },
   "setMasterPassword": {
     "message": "Прызначыць асноўны пароль"
@@ -3552,7 +3552,7 @@
     "message": "Біяметрыя не ўдалася"
   },
   "biometricsFailedDesc": {
-    "message": "Біяметрыя не можа быць завершана, разгледзьце выкарыстанне галоўнага пароля або выхад з сістэмы. Калі гэта працягваецца, звяжыцеся з падтрымкай Bitwarden."
+    "message": "Біяметрыя не можа быць завершана, разгледзьце выкарыстанне галоўнага пароля або выхад з сістэмы. Калі гэта працягваецца, звяжыцеся з падтрымкай Byteward."
   },
   "nativeMessagingPermissionErrorTitle": {
     "message": "Дазвол не прадастаўлены"
@@ -3727,24 +3727,24 @@
     "message": "Ілюстрацыя спісу ўваходаў, якія знаходзяцца пад пагрозай."
   },
   "welcomeDialogGraphicAlt": {
-    "message": "Ілюстрацыя макета старонкі сховішча Bitwarden."
+    "message": "Ілюстрацыя макета старонкі сховішча Byteward."
   },
   "generatePasswordSlideDesc": {
-    "message": "Хутка згенеруйце моцны, унікальны пароль з дапамогай меню аўтазапаўнення Bitwarden на сайце пад пагрозай.",
+    "message": "Хутка згенеруйце моцны, унікальны пароль з дапамогай меню аўтазапаўнення Byteward на сайце пад пагрозай.",
     "description": "Description of the generate password slide on the at-risk password page carousel"
   },
   "generatePasswordSlideImgAltPeriod": {
-    "message": "Ілюстрацыя меню аўтазапаўнення Bitwarden з паказам згенераванага пароля."
+    "message": "Ілюстрацыя меню аўтазапаўнення Byteward з паказам згенераванага пароля."
   },
   "updateInBitwarden": {
-    "message": "Абнавіць у Bitwarden"
+    "message": "Абнавіць у Byteward"
   },
   "updateInBitwardenSlideDesc": {
-    "message": "Затым Bitwarden прапануе вам абнавіць пароль у менеджэры пароляў.",
+    "message": "Затым Byteward прапануе вам абнавіць пароль у менеджэры пароляў.",
     "description": "Description of the update in Bitwarden slide on the at-risk password page carousel"
   },
   "updateInBitwardenSlideImgAltPeriod": {
-    "message": "Ілюстрацыя апавяшчэння Bitwarden, якое прапануе карыстальніку абнавіць уваход."
+    "message": "Ілюстрацыя апавяшчэння Byteward, якое прапануе карыстальніку абнавіць уваход."
   },
   "turnOnAutofill": {
     "message": "Уключыць аўтазапаўненне"
@@ -4372,11 +4372,11 @@
     }
   },
   "forwarderGeneratedBy": {
-    "message": "Сгенеравана Bitwarden.",
+    "message": "Сгенеравана Byteward.",
     "description": "Displayed with the address on the forwarding service's configuration screen."
   },
   "forwarderGeneratedByWithWebsite": {
-    "message": "Вэб-сайт: $WEBSITE$. Згенеравана Bitwarden.",
+    "message": "Вэб-сайт: $WEBSITE$. Згенеравана Byteward.",
     "description": "Displayed with the address on the forwarding service's configuration screen.",
     "placeholders": {
       "WEBSITE": {
@@ -4598,7 +4598,7 @@
     "message": "Апавяшчэнне было адпраўлена на вашу прыладу."
   },
   "notificationSentDevicePart1": {
-    "message": "Разблакіруйце Bitwarden на вашай прыладзе або ў"
+    "message": "Разблакіруйце Byteward на вашай прыладзе або ў"
   },
   "notificationSentDeviceAnchor": {
     "message": "вэб-праграме"
@@ -5098,15 +5098,15 @@
     "message": "Перайсці да змесціва"
   },
   "bitwardenOverlayButton": {
-    "message": "Кнопка меню аўтазапаўнення Bitwarden",
+    "message": "Кнопка меню аўтазапаўнення Byteward",
     "description": "Page title for the iframe containing the overlay button"
   },
   "toggleBitwardenVaultOverlay": {
-    "message": "Пераключыць меню аўтазапаўнення Bitwarden",
+    "message": "Пераключыць меню аўтазапаўнення Byteward",
     "description": "Screen reader and tool tip label for the overlay button"
   },
   "bitwardenVault": {
-    "message": "Меню аўтазапаўнення Bitwarden",
+    "message": "Меню аўтазапаўнення Byteward",
     "description": "Page title in overlay"
   },
   "unlockYourAccountToViewMatchingLogins": {
@@ -5178,7 +5178,7 @@
     "description": "Screen reader text (aria-label) for new identity button within inline menu"
   },
   "bitwardenOverlayMenuAvailable": {
-    "message": "Меню аўтазапаўнення Bitwarden даступна. Націсніце клавішу са стрэлкай уніз, каб выбраць.",
+    "message": "Меню аўтазапаўнення Byteward даступна. Націсніце клавішу са стрэлкай уніз, каб выбраць.",
     "description": "Screen reader text for announcing when the overlay opens on the page"
   },
   "turnOn": {
@@ -6438,7 +6438,7 @@
     "description": "Label indicating the most common import formats"
   },
   "uriMatchDefaultStrategyHint": {
-    "message": "Вызначэнне супастаўлення URI - гэта тое, як Bitwarden вызначае прапановы аўтазапаўнення.",
+    "message": "Вызначэнне супастаўлення URI - гэта тое, як Byteward вызначае прапановы аўтазапаўнення.",
     "description": "Explains to the user that URI match detection determines how Bitwarden suggests autofill options, and clarifies that this default strategy applies when no specific match detection is set for a login item."
   },
   "regExAdvancedOptionWarning": {
@@ -6482,15 +6482,15 @@
     "description": "Body content for dialog which asks if the user wants to proceed to the browser's keyboard shortcut settings page"
   },
   "overrideDefaultBrowserAutofillTitle": {
-    "message": "Зрабіць Bitwarden вашым менеджэрам пароляў па змаўчанні?",
+    "message": "Зрабіць Byteward вашым менеджэрам пароляў па змаўчанні?",
     "description": "Dialog title facilitating the ability to override a chrome browser's default autofill behavior"
   },
   "overrideDefaultBrowserAutofillDescription": {
-    "message": "Ігнараванне гэтай опцыі можа выклікаць канфлікты паміж прапановамі аўтазапаўнення Bitwarden і прапановамі вашага браўзера.",
+    "message": "Ігнараванне гэтай опцыі можа выклікаць канфлікты паміж прапановамі аўтазапаўнення Byteward і прапановамі вашага браўзера.",
     "description": "Dialog message facilitating the ability to override a chrome browser's default autofill behavior"
   },
   "overrideDefaultBrowserAutoFillSettings": {
-    "message": "Зрабіць Bitwarden вашым менеджэрам пароляў па змаўчанні",
+    "message": "Зрабіць Byteward вашым менеджэрам пароляў па змаўчанні",
     "description": "Label for the setting that allows overriding the default browser autofill settings"
   },
   "defaultPasswordManagerCalloutTitle": {
@@ -6498,7 +6498,7 @@
     "description": "Title for the callout that prompts users to set Bitwarden as their default password manager"
   },
   "defaultPasswordManagerCalloutDesc": {
-    "message": "Вас папросяць даць дазвол браўзеру $BROWSER$, каб зрабіць Bitwarden вашым менеджэрам пароляў па змаўчанні.",
+    "message": "Вас папросяць даць дазвол браўзеру $BROWSER$, каб зрабіць Byteward вашым менеджэрам пароляў па змаўчанні.",
     "description": "Description for the callout that prompts users to set Bitwarden as their default password manager",
     "placeholders": {
       "browser": {
@@ -6508,11 +6508,11 @@
     }
   },
   "privacyPermissionAdditionNotGrantedTitle": {
-    "message": "Не ўдалося ўсталяваць Bitwarden у якасці менеджэра пароляў па змаўчанні",
+    "message": "Не ўдалося ўсталяваць Byteward у якасці менеджэра пароляў па змаўчанні",
     "description": "Title for the dialog that appears when the user has not granted the extension permission to set privacy settings"
   },
   "privacyPermissionAdditionNotGrantedDescription": {
-    "message": "Вы павінны даць Bitwarden дазволы на прыватнасць браўзера, каб усталяваць яго ў якасці менеджэра пароляў па змаўчанні.",
+    "message": "Вы павінны даць Byteward дазволы на прыватнасць браўзера, каб усталяваць яго ў якасці менеджэра пароляў па змаўчанні.",
     "description": "Description for the dialog that appears when the user has not granted the extension permission to set privacy settings"
   },
   "makeDefault": {
@@ -6520,10 +6520,10 @@
     "description": "Button text for the setting that allows overriding the default browser autofill settings"
   },
   "defaultPasswordManagerPromptTitle": {
-    "message": "Зрабіць Bitwarden менеджэрам пароляў вашага браўзера па змаўчанні"
+    "message": "Зрабіць Byteward менеджэрам пароляў вашага браўзера па змаўчанні"
   },
   "defaultPasswordManagerPromptTitleV2": {
-    "message": "Зрабіць Bitwarden вашым менеджэрам пароляў па змаўчанні",
+    "message": "Зрабіць Byteward вашым менеджэрам пароляў па змаўчанні",
     "description": "Label for the setting to make Bitwarden the default password manager"
   },
   "defaultPasswordManagerSettingHintV2": {
@@ -6535,13 +6535,13 @@
     "description": "Link text to browser autofill settings in the default password manager setting hint."
   },
   "defaultPasswordManagerPromptStep2AfterAllow": {
-    "message": "з запыту браўзера, каб даць Bitwarden дазвол на змену вашых налад."
+    "message": "з запыту браўзера, каб даць Byteward дазвол на змену вашых налад."
   },
   "defaultPasswordManagerPromptStep3": {
     "message": "Мы адключым убудаваны менеджэр пароляў вашага браўзера, каб вы маглі атрымліваць асалоду ад бяспечным вопытам уваходу."
   },
   "defaultPasswordManagerSuccessToast": {
-    "message": "Bitwarden зроблены вашым менеджэрам пароляў браўзера па змаўчанні"
+    "message": "Byteward зроблены вашым менеджэрам пароляў браўзера па змаўчанні"
   },
   "allow": {
     "message": "Дазволіць",
@@ -7549,7 +7549,7 @@
     "description": "Notification message for when a password has been regenerated"
   },
   "saveToBitwarden": {
-    "message": "Захаваць у Bitwarden",
+    "message": "Захаваць у Byteward",
     "description": "Confirmation message for saving a login to Bitwarden"
   },
   "spaceCharacterDescriptor": {
@@ -7793,13 +7793,13 @@
     "message": "Use folders to organize vault items. They're just for you. No one else will see or use them."
   },
   "introCarouselLabel": {
-    "message": "Сардэчна запрашаем у Bitwarden"
+    "message": "Сардэчна запрашаем у Byteward"
   },
   "securityPrioritized": {
     "message": "Бяспека ў прыярытэце"
   },
   "securityPrioritizedBody": {
-    "message": "Захоўвайце ўваходы, карты і асобы ў сваім бяспечным сховішчы. Bitwarden выкарыстоўвае шыфраванне з нулявым веданнем ад канца да канца, каб абараніць тое, што важна для вас."
+    "message": "Захоўвайце ўваходы, карты і асобы ў сваім бяспечным сховішчы. Byteward выкарыстоўвае шыфраванне з нулявым веданнем ад канца да канца, каб абараніць тое, што важна для вас."
   },
   "quickLogin": {
     "message": "Хуткі і просты ўваход"
@@ -7945,7 +7945,7 @@
     "message": "Пра гэту наладу"
   },
   "permitCipherDetailsDescription": {
-    "message": "Bitwarden будзе выкарыстоўваць захаваныя URI уваходаў, каб вызначыць, які значок або URL змены пароля павінен выкарыстоўвацца для паляпшэння вашага вопыту. Ніякая інфармацыя не збіраецца і не захоўваецца, калі вы карыстаецеся гэтай паслугай."
+    "message": "Byteward будзе выкарыстоўваць захаваныя URI уваходаў, каб вызначыць, які значок або URL змены пароля павінен выкарыстоўвацца для паляпшэння вашага вопыту. Ніякая інфармацыя не збіраецца і не захоўваецца, калі вы карыстаецеся гэтай паслугай."
   },
   "showQuickCopyActionsDetailsDescription": {
     "message": "Дадайце 3 кнопкі хуткага капіравання побач з элементамі, каб капіяваць імя карыстальніка, пароль або код пацверджання ў буфер абмену."
@@ -7954,7 +7954,7 @@
     "message": "У вас няма правоў на прагляд гэтай старонкі. Паспрабуйце ўвайсці з іншага ўліковага запісу."
   },
   "wasmNotSupported": {
-    "message": "WebAssembly не падтрымліваецца вашым браўзерам або не ўключаны. WebAssembly патрабуецца для выкарыстання праграмы Bitwarden.",
+    "message": "WebAssembly не падтрымліваецца вашым браўзерам або не ўключаны. WebAssembly патрабуецца для выкарыстання праграмы Byteward.",
     "description": "'WebAssembly' is a technical term and should not be translated."
   },
   "showMore": {
@@ -8261,7 +8261,7 @@
     "message": "Каб выкарыстоўваць сумесную разблакіроўку, Bitwarden патрэбен дазвол на сувязь з праграмай для працоўнага стала. Калі вы працягнеце, ваш браўзер папросіць вас ухваліць гэта."
   },
   "sharedUnlockDesktopPermissionWarning": {
-    "message": "Bitwarden заблакіруецца і перазагрузіцца. Пасля вашага ўхвалення пашырэнне перазагрузіцца і заблакіруе ваша сховішча."
+    "message": "Byteward заблакіруецца і перазагрузіцца. Пасля вашага ўхвалення пашырэнне перазагрузіцца і заблакіруе ваша сховішча."
   },
   "biometricPermissionDesc": {
     "message": "Каб выкарыстоўваць біяметрычную разблакіроўку, Bitwarden патрэбен дазвол на сувязь з праграмай для працоўнага стала. Калі вы працягнеце, ваш браўзер папросіць вас ухваліць гэта."

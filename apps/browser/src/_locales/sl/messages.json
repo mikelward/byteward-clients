@@ -336,7 +336,7 @@
     "message": "Nadaljuj na trgovino z razširitvami brskalnika?"
   },
   "continueToBrowserExtensionStoreDesc": {
-    "message": "Pomagajte drugim ugotoviti, ali je Bitwarden primeren zanje. Obiščite trgovino z razširitvami svojega brskalnika in pustite oceno."
+    "message": "Pomagajte drugim ugotoviti, ali je Byteward primeren zanje. Obiščite trgovino z razširitvami svojega brskalnika in pustite oceno."
   },
   "changeMasterPasswordOnWebConfirmation": {
     "message": "Vaše glavno geslo lahko zamenjate v Bitwarden spletni aplikaciji."
@@ -356,7 +356,7 @@
     "message": "Odjava"
   },
   "aboutBitwarden": {
-    "message": "O Bitwardenu"
+    "message": "O Bytewardu"
   },
   "about": {
     "message": "O programu"
@@ -1081,10 +1081,10 @@
     "message": "Poskrbite za brezhibno dvostopenjsko preverjanje"
   },
   "totpHelper": {
-    "message": "Bitwarden lahko shrani in izpolni kode za dvostopenjsko preverjanje. Kopirajte in prilepite ključ v to polje."
+    "message": "Byteward lahko shrani in izpolni kode za dvostopenjsko preverjanje. Kopirajte in prilepite ključ v to polje."
   },
   "totpHelperWithCapture": {
-    "message": "Bitwarden lahko shrani in izpolni kode za dvostopenjsko preverjanje. Izberite ikono kamere, da posnamete zaslonsko sliko kode QR avtentifikatorja tega spletnega mesta, ali kopirajte in prilepite ključ v to polje."
+    "message": "Byteward lahko shrani in izpolni kode za dvostopenjsko preverjanje. Izberite ikono kamere, da posnamete zaslonsko sliko kode QR avtentifikatorja tega spletnega mesta, ali kopirajte in prilepite ključ v to polje."
   },
   "learnMoreAboutAuthenticators": {
     "message": "Več o avtentifikatorjih"
@@ -1333,7 +1333,7 @@
     "message": "Skoči na nastavitev"
   },
   "notificationAddDesc": {
-    "message": "Naj si Bitwarden zapomni to geslo?"
+    "message": "Naj si Byteward zapomni to geslo?"
   },
   "notificationAddSave": {
     "message": "Da, shrani zdaj"
@@ -1369,11 +1369,11 @@
     }
   },
   "notificationLoginSaveConfirmation": {
-    "message": "shranjeno v Bitwarden.",
+    "message": "shranjeno v Byteward.",
     "description": "Shown to user after item is saved."
   },
   "notificationLoginUpdatedConfirmation": {
-    "message": "posodobljeno v Bitwarden.",
+    "message": "posodobljeno v Byteward.",
     "description": "Shown to user after item is updated."
   },
   "selectItemAriaLabel": {
@@ -1459,7 +1459,7 @@
     "message": "Predlagaj posodobitev obstoječe prijave"
   },
   "changedPasswordNotificationDesc": {
-    "message": "Vprašaj, ali naj Bitwarden posodobi geslo prijave, kadar zazna spremembo gesla na spletni strani"
+    "message": "Vprašaj, ali naj Byteward posodobi geslo prijave, kadar zazna spremembo gesla na spletni strani"
   },
   "changedPasswordNotificationDescAlt": {
     "message": "Zahtevaj posodobitev gesla za prijavo, ko je na spletnem mestu zaznana sprememba. Velja za vse prijavljene račune."
@@ -1471,13 +1471,13 @@
     "message": "Vprašaj za shranjevanje novih ključev za dostop ali prijavo s ključi za dostop, shranjenimi v vašem trezorju. Velja za vse prijavljene račune."
   },
   "notificationChangeDesc": {
-    "message": "Želite, da Bitwarden shrani spremembo tega gesla?"
+    "message": "Želite, da Byteward shrani spremembo tega gesla?"
   },
   "notificationChangeSave": {
     "message": "Da, posodobi zdaj"
   },
   "notificationUnlockDesc": {
-    "message": "Odklenite svoj trezor Bitwarden, da dokončate zahtevo za samodejno izpolnjevanje."
+    "message": "Odklenite svoj trezor Byteward, da dokončate zahtevo za samodejno izpolnjevanje."
   },
   "notificationUnlock": {
     "message": "Odkleni"
@@ -1786,7 +1786,7 @@
     "message": "To geslo bo uporabljeno za izvoz in uvoz te datoteke"
   },
   "accountRestrictedOptionDescription": {
-    "message": "Uporabite šifrirni ključ svojega računa, izpeljan iz uporabniškega imena in glavnega gesla vašega računa, za šifriranje izvoza in omejitev uvoza samo na trenutni račun Bitwarden."
+    "message": "Uporabite šifrirni ključ svojega računa, izpeljan iz uporabniškega imena in glavnega gesla vašega računa, za šifriranje izvoza in omejitev uvoza samo na trenutni račun Byteward."
   },
   "passwordProtectedOptionDescription": {
     "message": "Nastavite geslo datoteke za šifriranje izvoza in ga uvozite v kateri koli račun Bitwarden z uporabo gesla za dešifriranje."
@@ -2236,7 +2236,7 @@
     "message": "Preprosto poiščite predloge za samodejno izpolnjevanje"
   },
   "autofillSpotlightDesc": {
-    "message": "Izklopite nastavitve samodejnega izpolnjevanja brskalnika, da ne bodo v nasprotju z Bitwardenom."
+    "message": "Izklopite nastavitve samodejnega izpolnjevanja brskalnika, da ne bodo v nasprotju z Bytewardom."
   },
   "turnOffBrowserAutofill": {
     "message": "Izklopite samodejno izpolnjevanje v $BROWSER$",
@@ -2293,7 +2293,7 @@
     "message": "Prikaži predloge za samodejno izpolnjevanje na poljih obrazca"
   },
   "howDoesBitwardenProtectFromPhishing": {
-    "message": "Kako Bitwarden ščiti vaše podatke pred ribarjenjem?"
+    "message": "Kako Byteward ščiti vaše podatke pred ribarjenjem?"
   },
   "currentWebsite": {
     "message": "Trenutno spletno mesto"
@@ -2347,7 +2347,7 @@
     "message": "Samodejno izpolni, ko se stran naloži"
   },
   "enableAutoFillOnPageLoadDesc": {
-    "message": "Če Bitwarden na strani zazna prijavni obrazec, ga samodejno izpolni takoj, ko se stran naloži."
+    "message": "Če Byteward na strani zazna prijavni obrazec, ga samodejno izpolni takoj, ko se stran naloži."
   },
   "experimentalFeature": {
     "message": "Spletne strani, ki jim ne zaupate ali v katere so vdrli, lahko zlorabijo samodejno izpolnjevanje ob naložitvi strani."
@@ -3202,7 +3202,7 @@
     "message": "Šibko glavno geslo"
   },
   "weakMasterPasswordDesc": {
-    "message": "Glavno geslo, ki ste ga izbrali, je šibko. Za primerno zaščito svojega Bitwarden računa morate uporabiti močno glavno geslo. Ste prepričani, da želite uporabiti izbrano glavno geslo?"
+    "message": "Glavno geslo, ki ste ga izbrali, je šibko. Za primerno zaščito svojega Byteward računa morate uporabiti močno glavno geslo. Ste prepričani, da želite uporabiti izbrano glavno geslo?"
   },
   "rotateAccountEncKey": {
     "message": "Zavrti tudi šifrirni ključ mojega računa"
@@ -3245,7 +3245,7 @@
     "message": "Za odklep Bitwardna si nastavite PIN-kodo. PIN-koda bo ponastavljena, če se boste popolnoma odjavili iz aplikacije."
   },
   "setPinCode": {
-    "message": "Ta PIN lahko uporabite za odklepanje Bitwardena. PIN bo ponastavljen, če se kdaj popolnoma odjavite iz aplikacije."
+    "message": "Ta PIN lahko uporabite za odklepanje Bytewarda. PIN bo ponastavljen, če se kdaj popolnoma odjavite iz aplikacije."
   },
   "pinRequired": {
     "message": "Potrebna je PIN-koda."
@@ -3381,7 +3381,7 @@
     "message": "Obrazec gostuje na drugi domeni kot URI vaše shranjene prijave. Izberite V redu za samodejno izpolnjevanje ali Prekliči za ustavitev."
   },
   "autofillIframeWarningTip": {
-    "message": "Da bi v prihodnje preprečili to opozorilo, shranite ta URI, $HOSTNAME$, v svoj element prijave Bitwarden za to spletno mesto.",
+    "message": "Da bi v prihodnje preprečili to opozorilo, shranite ta URI, $HOSTNAME$, v svoj element prijave Byteward za to spletno mesto.",
     "placeholders": {
       "hostname": {
         "content": "$1",
@@ -3390,7 +3390,7 @@
     }
   },
   "topLayerHijackWarning": {
-    "message": "Ta stran moti delovanje Bitwardena. Vgrajeni meni Bitwarden je bil začasno onemogočen kot varnostni ukrep."
+    "message": "Ta stran moti delovanje Bytewarda. Vgrajeni meni Byteward je bil začasno onemogočen kot varnostni ukrep."
   },
   "setMasterPassword": {
     "message": "Nastavi glavno geslo"
@@ -3552,7 +3552,7 @@
     "message": "Biometrija ni uspela"
   },
   "biometricsFailedDesc": {
-    "message": "Biometrije ni mogoče dokončati, razmislite o uporabi glavnega gesla ali odjavi. Če se to nadaljuje, se obrnite na podporo Bitwarden."
+    "message": "Biometrije ni mogoče dokončati, razmislite o uporabi glavnega gesla ali odjavi. Če se to nadaljuje, se obrnite na podporo Byteward."
   },
   "nativeMessagingPermissionErrorTitle": {
     "message": "Dovoljenje ni bilo odobreno"
@@ -3595,7 +3595,7 @@
     "message": "Izključene domene"
   },
   "excludedDomainsDesc": {
-    "message": "Za te domene Bitwarden ne bo predlagal shranjevanja prijavnih podatkov. Sprememba nastavitev stopi v veljavo šele, ko osvežite stran."
+    "message": "Za te domene Byteward ne bo predlagal shranjevanja prijavnih podatkov. Sprememba nastavitev stopi v veljavo šele, ko osvežite stran."
   },
   "blockedDomainsDesc": {
     "message": "Samodejno izpolnjevanje in druge povezane funkcije ne bodo na voljo za ta spletna mesta. Za uveljavitev sprememb morate osvežiti stran."
@@ -3727,24 +3727,24 @@
     "message": "Ilustracija seznama ogroženih prijav."
   },
   "welcomeDialogGraphicAlt": {
-    "message": "Ilustracija postavitve strani trezorja Bitwarden."
+    "message": "Ilustracija postavitve strani trezorja Byteward."
   },
   "generatePasswordSlideDesc": {
-    "message": "Hitro ustvarite močno, edinstveno geslo z menijem za samodejno izpolnjevanje Bitwarden na ogroženem spletnem mestu.",
+    "message": "Hitro ustvarite močno, edinstveno geslo z menijem za samodejno izpolnjevanje Byteward na ogroženem spletnem mestu.",
     "description": "Description of the generate password slide on the at-risk password page carousel"
   },
   "generatePasswordSlideImgAltPeriod": {
-    "message": "Ilustracija menija za samodejno izpolnjevanje Bitwarden, ki prikazuje ustvarjeno geslo."
+    "message": "Ilustracija menija za samodejno izpolnjevanje Byteward, ki prikazuje ustvarjeno geslo."
   },
   "updateInBitwarden": {
-    "message": "Posodobi v Bitwardenu"
+    "message": "Posodobi v Bytewardu"
   },
   "updateInBitwardenSlideDesc": {
-    "message": "Bitwarden vas bo nato pozval, da posodobite geslo v upravitelju gesel.",
+    "message": "Byteward vas bo nato pozval, da posodobite geslo v upravitelju gesel.",
     "description": "Description of the update in Bitwarden slide on the at-risk password page carousel"
   },
   "updateInBitwardenSlideImgAltPeriod": {
-    "message": "Ilustracija Bitwardenovega obvestila, ki uporabnika poziva k posodobitvi prijave."
+    "message": "Ilustracija Bytewardovega obvestila, ki uporabnika poziva k posodobitvi prijave."
   },
   "turnOnAutofill": {
     "message": "Vklopite samodejno izpolnjevanje"
@@ -4372,11 +4372,11 @@
     }
   },
   "forwarderGeneratedBy": {
-    "message": "Ustvaril Bitwarden.",
+    "message": "Ustvaril Byteward.",
     "description": "Displayed with the address on the forwarding service's configuration screen."
   },
   "forwarderGeneratedByWithWebsite": {
-    "message": "Spletno mesto: $WEBSITE$. Ustvaril Bitwarden.",
+    "message": "Spletno mesto: $WEBSITE$. Ustvaril Byteward.",
     "description": "Displayed with the address on the forwarding service's configuration screen.",
     "placeholders": {
       "WEBSITE": {
@@ -4598,7 +4598,7 @@
     "message": "Obvestilo je bilo poslano na vašo napravo."
   },
   "notificationSentDevicePart1": {
-    "message": "Odklenite Bitwarden v svoji napravi ali v"
+    "message": "Odklenite Byteward v svoji napravi ali v"
   },
   "notificationSentDeviceAnchor": {
     "message": "spletni aplikaciji"
@@ -5098,15 +5098,15 @@
     "message": "Skoči na vsebino"
   },
   "bitwardenOverlayButton": {
-    "message": "Gumb menija za samodejno izpolnjevanje Bitwarden",
+    "message": "Gumb menija za samodejno izpolnjevanje Byteward",
     "description": "Page title for the iframe containing the overlay button"
   },
   "toggleBitwardenVaultOverlay": {
-    "message": "Preklopi meni za samodejno izpolnjevanje Bitwarden",
+    "message": "Preklopi meni za samodejno izpolnjevanje Byteward",
     "description": "Screen reader and tool tip label for the overlay button"
   },
   "bitwardenVault": {
-    "message": "Meni za samodejno izpolnjevanje Bitwarden",
+    "message": "Meni za samodejno izpolnjevanje Byteward",
     "description": "Page title in overlay"
   },
   "unlockYourAccountToViewMatchingLogins": {
@@ -5178,7 +5178,7 @@
     "description": "Screen reader text (aria-label) for new identity button within inline menu"
   },
   "bitwardenOverlayMenuAvailable": {
-    "message": "Meni za samodejno izpolnjevanje Bitwarden je na voljo. Pritisnite puščico navzdol za izbiro.",
+    "message": "Meni za samodejno izpolnjevanje Byteward je na voljo. Pritisnite puščico navzdol za izbiro.",
     "description": "Screen reader text for announcing when the overlay opens on the page"
   },
   "turnOn": {
@@ -6438,7 +6438,7 @@
     "description": "Label indicating the most common import formats"
   },
   "uriMatchDefaultStrategyHint": {
-    "message": "Zaznavanje ujemanja URI je način, kako Bitwarden prepozna predloge za samodejno izpolnjevanje.",
+    "message": "Zaznavanje ujemanja URI je način, kako Byteward prepozna predloge za samodejno izpolnjevanje.",
     "description": "Explains to the user that URI match detection determines how Bitwarden suggests autofill options, and clarifies that this default strategy applies when no specific match detection is set for a login item."
   },
   "regExAdvancedOptionWarning": {
@@ -6482,15 +6482,15 @@
     "description": "Body content for dialog which asks if the user wants to proceed to the browser's keyboard shortcut settings page"
   },
   "overrideDefaultBrowserAutofillTitle": {
-    "message": "Naj bo Bitwarden vaš privzeti upravitelj gesel?",
+    "message": "Naj bo Byteward vaš privzeti upravitelj gesel?",
     "description": "Dialog title facilitating the ability to override a chrome browser's default autofill behavior"
   },
   "overrideDefaultBrowserAutofillDescription": {
-    "message": "Če to možnost prezrete, lahko pride do konfliktov med predlogi za samodejno izpolnjevanje Bitwarden in predlogi vašega brskalnika.",
+    "message": "Če to možnost prezrete, lahko pride do konfliktov med predlogi za samodejno izpolnjevanje Byteward in predlogi vašega brskalnika.",
     "description": "Dialog message facilitating the ability to override a chrome browser's default autofill behavior"
   },
   "overrideDefaultBrowserAutoFillSettings": {
-    "message": "Nastavite Bitwarden za privzeti upravitelj gesel",
+    "message": "Nastavite Byteward za privzeti upravitelj gesel",
     "description": "Label for the setting that allows overriding the default browser autofill settings"
   },
   "defaultPasswordManagerCalloutTitle": {
@@ -6498,7 +6498,7 @@
     "description": "Title for the callout that prompts users to set Bitwarden as their default password manager"
   },
   "defaultPasswordManagerCalloutDesc": {
-    "message": "Odobriti boste morali dovoljenje brskalnika $BROWSER$, da Bitwarden nastavite za privzeti upravitelj gesel.",
+    "message": "Odobriti boste morali dovoljenje brskalnika $BROWSER$, da Byteward nastavite za privzeti upravitelj gesel.",
     "description": "Description for the callout that prompts users to set Bitwarden as their default password manager",
     "placeholders": {
       "browser": {
@@ -6508,11 +6508,11 @@
     }
   },
   "privacyPermissionAdditionNotGrantedTitle": {
-    "message": "Bitwardena ni mogoče nastaviti za privzeti upravitelj gesel",
+    "message": "Bytewarda ni mogoče nastaviti za privzeti upravitelj gesel",
     "description": "Title for the dialog that appears when the user has not granted the extension permission to set privacy settings"
   },
   "privacyPermissionAdditionNotGrantedDescription": {
-    "message": "Bitwardenu morate odobriti dovoljenja za zasebnost brskalnika, da ga nastavite za privzeti upravitelj gesel.",
+    "message": "Bytewardu morate odobriti dovoljenja za zasebnost brskalnika, da ga nastavite za privzeti upravitelj gesel.",
     "description": "Description for the dialog that appears when the user has not granted the extension permission to set privacy settings"
   },
   "makeDefault": {
@@ -6520,10 +6520,10 @@
     "description": "Button text for the setting that allows overriding the default browser autofill settings"
   },
   "defaultPasswordManagerPromptTitle": {
-    "message": "Nastavite Bitwarden za privzeti upravitelj gesel v brskalniku"
+    "message": "Nastavite Byteward za privzeti upravitelj gesel v brskalniku"
   },
   "defaultPasswordManagerPromptTitleV2": {
-    "message": "Nastavite Bitwarden za privzeti upravitelj gesel",
+    "message": "Nastavite Byteward za privzeti upravitelj gesel",
     "description": "Label for the setting to make Bitwarden the default password manager"
   },
   "defaultPasswordManagerSettingHintV2": {
@@ -6535,13 +6535,13 @@
     "description": "Link text to browser autofill settings in the default password manager setting hint."
   },
   "defaultPasswordManagerPromptStep2AfterAllow": {
-    "message": "iz poziva brskalnika, da Bitwardenu odobrite dovoljenje za spreminjanje vaših nastavitev."
+    "message": "iz poziva brskalnika, da Bytewardu odobrite dovoljenje za spreminjanje vaših nastavitev."
   },
   "defaultPasswordManagerPromptStep3": {
     "message": "Izklopili bomo vgrajeni upravitelj gesel v vašem brskalniku, da boste lahko uživali v varni prijavi."
   },
   "defaultPasswordManagerSuccessToast": {
-    "message": "Bitwarden je nastavljen za privzeti upravitelj gesel v brskalniku"
+    "message": "Byteward je nastavljen za privzeti upravitelj gesel v brskalniku"
   },
   "allow": {
     "message": "Dovoli",
@@ -7549,7 +7549,7 @@
     "description": "Notification message for when a password has been regenerated"
   },
   "saveToBitwarden": {
-    "message": "Shrani v Bitwarden",
+    "message": "Shrani v Byteward",
     "description": "Confirmation message for saving a login to Bitwarden"
   },
   "spaceCharacterDescriptor": {
@@ -7793,13 +7793,13 @@
     "message": "Use folders to organize vault items. They're just for you. No one else will see or use them."
   },
   "introCarouselLabel": {
-    "message": "Dobrodošli v Bitwardenu"
+    "message": "Dobrodošli v Bytewardu"
   },
   "securityPrioritized": {
     "message": "Varnost na prvem mestu"
   },
   "securityPrioritizedBody": {
-    "message": "Shranite prijave, kartice in identitete v svoj varni trezor. Bitwarden uporablja ničelno znanje in šifriranje od konca do konca za zaščito tistega, kar vam je pomembno."
+    "message": "Shranite prijave, kartice in identitete v svoj varni trezor. Byteward uporablja ničelno znanje in šifriranje od konca do konca za zaščito tistega, kar vam je pomembno."
   },
   "quickLogin": {
     "message": "Hitra in enostavna prijava"
@@ -7945,7 +7945,7 @@
     "message": "O tej nastavitvi"
   },
   "permitCipherDetailsDescription": {
-    "message": "Bitwarden bo uporabil shranjene URI-je prijav za prepoznavanje, katero ikono ali URL za spremembo gesla naj uporabi za izboljšanje vaše izkušnje. Ob uporabi te storitve se nobene informacije ne zbirajo ali shranjujejo."
+    "message": "Byteward bo uporabil shranjene URI-je prijav za prepoznavanje, katero ikono ali URL za spremembo gesla naj uporabi za izboljšanje vaše izkušnje. Ob uporabi te storitve se nobene informacije ne zbirajo ali shranjujejo."
   },
   "showQuickCopyActionsDetailsDescription": {
     "message": "Dodajte 3 gumbe za hitro kopiranje poleg elementov za kopiranje uporabniškega imena, gesla ali kode za preverjanje v odložišče."
@@ -7954,7 +7954,7 @@
     "message": "Nimate dovoljenja za ogled te strani. Poskusite se prijaviti z drugim računom."
   },
   "wasmNotSupported": {
-    "message": "WebAssembly v vašem brskalniku ni podprt ali ni omogočen. WebAssembly je potreben za uporabo aplikacije Bitwarden.",
+    "message": "WebAssembly v vašem brskalniku ni podprt ali ni omogočen. WebAssembly je potreben za uporabo aplikacije Byteward.",
     "description": "'WebAssembly' is a technical term and should not be translated."
   },
   "showMore": {
@@ -8261,7 +8261,7 @@
     "message": "Za uporabo deljenega odklepanja Bitwarden potrebuje dovoljenje za komunikacijo z namizno aplikacijo. Ko nadaljujete, vas bo brskalnik prosil za odobritev."
   },
   "sharedUnlockDesktopPermissionWarning": {
-    "message": "Bitwarden se bo zaklenil in znova naložil. Ko odobrite, se razširitev znova naloži in zaklene vaš trezor."
+    "message": "Byteward se bo zaklenil in znova naložil. Ko odobrite, se razširitev znova naloži in zaklene vaš trezor."
   },
   "biometricPermissionDesc": {
     "message": "Za uporabo biometričnega odklepanja Bitwarden potrebuje dovoljenje za komunikacijo z namizno aplikacijo. Ko nadaljujete, vas bo brskalnik prosil za odobritev."

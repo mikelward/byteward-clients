@@ -336,7 +336,7 @@
     "message": "បន្តទៅហាងផ្នែកបន្ថែមកម្មវិធីរុករក?"
   },
   "continueToBrowserExtensionStoreDesc": {
-    "message": "ជួយអ្នកផ្សេងទៀតឱ្យដឹងថា Bitwarden សមស្របសម្រាប់ពួកគេឬអត់។ ចូលទៅហាងផ្នែកបន្ថែមរបស់កម្មវិធីរុករកអ្នក ហើយផ្តល់ការវាយតម្លៃឥឡូវនេះ។"
+    "message": "ជួយអ្នកផ្សេងទៀតឱ្យដឹងថា Byteward សមស្របសម្រាប់ពួកគេឬអត់។ ចូលទៅហាងផ្នែកបន្ថែមរបស់កម្មវិធីរុករកអ្នក ហើយផ្តល់ការវាយតម្លៃឥឡូវនេះ។"
   },
   "changeMasterPasswordOnWebConfirmation": {
     "message": "អ្នកអាចផ្លាស់ប្តូរពាក្យសម្ងាត់មេរបស់អ្នកនៅលើកម្មវិធីគេហទំព័រ Bitwarden។"
@@ -356,7 +356,7 @@
     "message": "ចាកចេញ"
   },
   "aboutBitwarden": {
-    "message": "អំពី Bitwarden"
+    "message": "អំពី Byteward"
   },
   "about": {
     "message": "អំពី"
@@ -1081,10 +1081,10 @@
     "message": "ធ្វើឱ្យការផ្ទៀងផ្ទាត់ពីរជំហានរលូន"
   },
   "totpHelper": {
-    "message": "Bitwarden អាចរក្សាទុក និងបំពេញកូដផ្ទៀងផ្ទាត់ពីរជំហាន។ ចម្លង និងបិទភ្ជាប់សោទៅក្នុងវាលនេះ។"
+    "message": "Byteward អាចរក្សាទុក និងបំពេញកូដផ្ទៀងផ្ទាត់ពីរជំហាន។ ចម្លង និងបិទភ្ជាប់សោទៅក្នុងវាលនេះ។"
   },
   "totpHelperWithCapture": {
-    "message": "Bitwarden អាចរក្សាទុក និងបំពេញកូដផ្ទៀងផ្ទាត់ពីរជំហាន។ ជ្រើសរើសរូបតំណាងកាមេរ៉ាដើម្បីថតរូបកូដ QR ឧបករណ៍ផ្ទៀងផ្ទាត់របស់គេហទំព័រនេះ ឬចម្លង និងបិទភ្ជាប់សោទៅក្នុងវាលនេះ។"
+    "message": "Byteward អាចរក្សាទុក និងបំពេញកូដផ្ទៀងផ្ទាត់ពីរជំហាន។ ជ្រើសរើសរូបតំណាងកាមេរ៉ាដើម្បីថតរូបកូដ QR ឧបករណ៍ផ្ទៀងផ្ទាត់របស់គេហទំព័រនេះ ឬចម្លង និងបិទភ្ជាប់សោទៅក្នុងវាលនេះ។"
   },
   "learnMoreAboutAuthenticators": {
     "message": "ស្វែងយល់បន្ថែមអំពីឧបករណ៍ផ្ទៀងផ្ទាត់"
@@ -1333,7 +1333,7 @@
     "message": "លោតទៅការកំណត់"
   },
   "notificationAddDesc": {
-    "message": "តើ Bitwarden គួរចងចាំពាក្យសម្ងាត់នេះសម្រាប់អ្នកទេ?"
+    "message": "តើ Byteward គួរចងចាំពាក្យសម្ងាត់នេះសម្រាប់អ្នកទេ?"
   },
   "notificationAddSave": {
     "message": "រក្សាទុក"
@@ -1369,11 +1369,11 @@
     }
   },
   "notificationLoginSaveConfirmation": {
-    "message": "បានរក្សាទុកទៅ Bitwarden។",
+    "message": "បានរក្សាទុកទៅ Byteward។",
     "description": "Shown to user after item is saved."
   },
   "notificationLoginUpdatedConfirmation": {
-    "message": "បានធ្វើបច្ចុប្បន្នភាពក្នុង Bitwarden។",
+    "message": "បានធ្វើបច្ចុប្បន្នភាពក្នុង Byteward។",
     "description": "Shown to user after item is updated."
   },
   "selectItemAriaLabel": {
@@ -1471,13 +1471,13 @@
     "message": "សួរដើម្បីរក្សាទុកសោចូលថ្មី ឬចូលដោយប្រើសោចូលដែលរក្សាទុកក្នុងឃ្លាំងសម្ងាត់របស់អ្នក។ អនុវត្តចំពោះគណនីដែលបានចូលទាំងអស់។"
   },
   "notificationChangeDesc": {
-    "message": "តើអ្នកចង់ធ្វើបច្ចុប្បន្នភាពពាក្យសម្ងាត់នេះក្នុង Bitwarden ទេ?"
+    "message": "តើអ្នកចង់ធ្វើបច្ចុប្បន្នភាពពាក្យសម្ងាត់នេះក្នុង Byteward ទេ?"
   },
   "notificationChangeSave": {
     "message": "ធ្វើបច្ចុប្បន្នភាព"
   },
   "notificationUnlockDesc": {
-    "message": "ដោះសោឃ្លាំងសម្ងាត់ Bitwarden របស់អ្នកដើម្បីបញ្ចប់សំណើបំពេញដោយស្វ័យប្រវត្តិ។"
+    "message": "ដោះសោឃ្លាំងសម្ងាត់ Byteward របស់អ្នកដើម្បីបញ្ចប់សំណើបំពេញដោយស្វ័យប្រវត្តិ។"
   },
   "notificationUnlock": {
     "message": "ដោះសោ"
@@ -1786,7 +1786,7 @@
     "message": "ពាក្យសម្ងាត់នេះនឹងត្រូវប្រើដើម្បីនាំចេញ និងនាំចូលឯកសារនេះ"
   },
   "accountRestrictedOptionDescription": {
-    "message": "ប្រើសោឌិគ្រីបគណនីរបស់អ្នក ដែលបានមកពីឈ្មោះអ្នកប្រើ និងពាក្យសម្ងាត់មេរបស់គណនី ដើម្បីឌិគ្រីបការនាំចេញ និងដាក់កំហិតការនាំចូលត្រឹមតែគណនី Bitwarden បច្ចុប្បន្ន។"
+    "message": "ប្រើសោឌិគ្រីបគណនីរបស់អ្នក ដែលបានមកពីឈ្មោះអ្នកប្រើ និងពាក្យសម្ងាត់មេរបស់គណនី ដើម្បីឌិគ្រីបការនាំចេញ និងដាក់កំហិតការនាំចូលត្រឹមតែគណនី Byteward បច្ចុប្បន្ន។"
   },
   "passwordProtectedOptionDescription": {
     "message": "កំណត់ពាក្យសម្ងាត់ឯកសារដើម្បីឌិគ្រីបការនាំចេញ និងនាំចូលវាទៅគណនី Bitwarden ណាមួយដោយប្រើពាក្យសម្ងាត់សម្រាប់ការឌិគ្រីប។"
@@ -2236,7 +2236,7 @@
     "message": "រកសំណើបំពេញដោយស្វ័យប្រវត្តិយ៉ាងងាយស្រួល"
   },
   "autofillSpotlightDesc": {
-    "message": "បិទការកំណត់បំពេញដោយស្វ័យប្រវត្តិរបស់កម្មវិធីរុករកអ្នក ដើម្បីកុំឱ្យវាប៉ះទង្គិចជាមួយ Bitwarden។"
+    "message": "បិទការកំណត់បំពេញដោយស្វ័យប្រវត្តិរបស់កម្មវិធីរុករកអ្នក ដើម្បីកុំឱ្យវាប៉ះទង្គិចជាមួយ Byteward។"
   },
   "turnOffBrowserAutofill": {
     "message": "បិទការបំពេញដោយស្វ័យប្រវត្តិ $BROWSER$",
@@ -2293,7 +2293,7 @@
     "message": "បង្ហាញសំណើបំពេញដោយស្វ័យប្រវត្តិនៅលើវាលទម្រង់"
   },
   "howDoesBitwardenProtectFromPhishing": {
-    "message": "តើ Bitwarden ការពារទិន្នន័យរបស់អ្នកពីការបន្លំដូចម្តេច?"
+    "message": "តើ Byteward ការពារទិន្នន័យរបស់អ្នកពីការបន្លំដូចម្តេច?"
   },
   "currentWebsite": {
     "message": "គេហទំព័របច្ចុប្បន្ន"
@@ -3202,7 +3202,7 @@
     "message": "ពាក្យសម្ងាត់មេខ្សោយ"
   },
   "weakMasterPasswordDesc": {
-    "message": "ពាក្យសម្ងាត់មេដែលអ្នកបានជ្រើសរើសគឺខ្សោយ។ អ្នកគួរប្រើពាក្យសម្ងាត់មេរឹងមាំ (ឬឃ្លាសម្ងាត់) ដើម្បីការពារគណនី Bitwarden របស់អ្នកឱ្យបានត្រឹមត្រូវ។ តើអ្នកប្រាកដជាចង់ប្រើពាក្យសម្ងាត់មេនេះមែនទេ?"
+    "message": "ពាក្យសម្ងាត់មេដែលអ្នកបានជ្រើសរើសគឺខ្សោយ។ អ្នកគួរប្រើពាក្យសម្ងាត់មេរឹងមាំ (ឬឃ្លាសម្ងាត់) ដើម្បីការពារគណនី Byteward របស់អ្នកឱ្យបានត្រឹមត្រូវ។ តើអ្នកប្រាកដជាចង់ប្រើពាក្យសម្ងាត់មេនេះមែនទេ?"
   },
   "rotateAccountEncKey": {
     "message": "បង្វិលសោឌិគ្រីបគណនីរបស់ខ្ញុំផងដែរ"
@@ -3242,10 +3242,10 @@
     "message": "កំណត់ PIN"
   },
   "setYourPinCode": {
-    "message": "កំណត់កូដ PIN របស់អ្នកសម្រាប់ដោះសោ Bitwarden។ ការកំណត់ PIN របស់អ្នកនឹងត្រូវបានកំណត់ឡើងវិញប្រសិនបើអ្នកចាកចេញពីកម្មវិធីទាំងស្រុង។"
+    "message": "កំណត់កូដ PIN របស់អ្នកសម្រាប់ដោះសោ Byteward។ ការកំណត់ PIN របស់អ្នកនឹងត្រូវបានកំណត់ឡើងវិញប្រសិនបើអ្នកចាកចេញពីកម្មវិធីទាំងស្រុង។"
   },
   "setPinCode": {
-    "message": "អ្នកអាចប្រើ PIN នេះដើម្បីដោះសោ Bitwarden។ PIN របស់អ្នកនឹងត្រូវបានកំណត់ឡើងវិញប្រសិនបើអ្នកចាកចេញពីកម្មវិធីទាំងស្រុង។"
+    "message": "អ្នកអាចប្រើ PIN នេះដើម្បីដោះសោ Byteward។ PIN របស់អ្នកនឹងត្រូវបានកំណត់ឡើងវិញប្រសិនបើអ្នកចាកចេញពីកម្មវិធីទាំងស្រុង។"
   },
   "pinRequired": {
     "message": "ត្រូវការកូដ PIN។"
@@ -3381,7 +3381,7 @@
     "message": "ទម្រង់នេះត្រូវបានផ្តល់ដោយដែនផ្សេងពី URI នៃការចូលដែលបានរក្សាទុករបស់អ្នក។ ជ្រើសរើសយល់ព្រមដើម្បីបំពេញដោយស្វ័យប្រវត្តិតទៅ ឬបោះបង់ដើម្បីបញ្ឈប់។"
   },
   "autofillIframeWarningTip": {
-    "message": "ដើម្បីការពារការព្រមាននេះនៅពេលអនាគត សូមរក្សាទុក URI នេះ $HOSTNAME$ ទៅធាតុចូល Bitwarden របស់អ្នកសម្រាប់គេហទំព័រនេះ។",
+    "message": "ដើម្បីការពារការព្រមាននេះនៅពេលអនាគត សូមរក្សាទុក URI នេះ $HOSTNAME$ ទៅធាតុចូល Byteward របស់អ្នកសម្រាប់គេហទំព័រនេះ។",
     "placeholders": {
       "hostname": {
         "content": "$1",
@@ -3390,7 +3390,7 @@
     }
   },
   "topLayerHijackWarning": {
-    "message": "ទំព័រនេះកំពុងរំខានដល់បទពិសោធន៍ Bitwarden។ ម៉ឺនុយក្នុងបន្ទាត់ Bitwarden ត្រូវបានបិទជាបណ្ដោះអាសន្នជាវិធានការសុវត្ថិភាព។"
+    "message": "ទំព័រនេះកំពុងរំខានដល់បទពិសោធន៍ Byteward។ ម៉ឺនុយក្នុងបន្ទាត់ Byteward ត្រូវបានបិទជាបណ្ដោះអាសន្នជាវិធានការសុវត្ថិភាព។"
   },
   "setMasterPassword": {
     "message": "កំណត់ពាក្យសម្ងាត់មេ"
@@ -3552,7 +3552,7 @@
     "message": "ជីវមាត្របានបរាជ័យ"
   },
   "biometricsFailedDesc": {
-    "message": "ជីវមាត្រមិនអាចបញ្ចប់បានទេ សូមពិចារណាប្រើពាក្យសម្ងាត់មេ ឬចាកចេញ។ ប្រសិនបើបញ្ហានេះនៅតែបន្ត សូមទាក់ទងជំនួយ Bitwarden។"
+    "message": "ជីវមាត្រមិនអាចបញ្ចប់បានទេ សូមពិចារណាប្រើពាក្យសម្ងាត់មេ ឬចាកចេញ។ ប្រសិនបើបញ្ហានេះនៅតែបន្ត សូមទាក់ទងជំនួយ Byteward។"
   },
   "nativeMessagingPermissionErrorTitle": {
     "message": "មិនបានផ្តល់ការអនុញ្ញាតទេ"
@@ -3595,7 +3595,7 @@
     "message": "ដែនមិនរាប់បញ្ចូល"
   },
   "excludedDomainsDesc": {
-    "message": "Bitwarden នឹងមិនសួរដើម្បីរក្សាទុកព័ត៌មានចូលសម្រាប់ដែនទាំងនេះទេ។ អ្នកត្រូវផ្ទុកទំព័រឡើងវិញដើម្បីឱ្យការផ្លាស់ប្តូរមានប្រសិទ្ធភាព។"
+    "message": "Byteward នឹងមិនសួរដើម្បីរក្សាទុកព័ត៌មានចូលសម្រាប់ដែនទាំងនេះទេ។ អ្នកត្រូវផ្ទុកទំព័រឡើងវិញដើម្បីឱ្យការផ្លាស់ប្តូរមានប្រសិទ្ធភាព។"
   },
   "blockedDomainsDesc": {
     "message": "ការបំពេញដោយស្វ័យប្រវត្តិ និងមុខងារពាក់ព័ន្ធផ្សេងទៀតនឹងមិនត្រូវបានផ្តល់ជូនសម្រាប់គេហទំព័រទាំងនេះទេ។ អ្នកត្រូវផ្ទុកទំព័រឡើងវិញដើម្បីឱ្យការផ្លាស់ប្តូរមានប្រសិទ្ធភាព។"
@@ -3727,24 +3727,24 @@
     "message": "រូបភាពបង្ហាញបញ្ជីការចូលដែលមានហានិភ័យ។"
   },
   "welcomeDialogGraphicAlt": {
-    "message": "រូបភាពបង្ហាញប្លង់នៃទំព័រឃ្លាំងសម្ងាត់ Bitwarden។"
+    "message": "រូបភាពបង្ហាញប្លង់នៃទំព័រឃ្លាំងសម្ងាត់ Byteward។"
   },
   "generatePasswordSlideDesc": {
-    "message": "បង្កើតពាក្យសម្ងាត់រឹងមាំ និងប្លែកយ៉ាងឆាប់រហ័សដោយប្រើម៉ឺនុយបំពេញដោយស្វ័យប្រវត្តិ Bitwarden នៅលើគេហទំព័រដែលមានហានិភ័យ។",
+    "message": "បង្កើតពាក្យសម្ងាត់រឹងមាំ និងប្លែកយ៉ាងឆាប់រហ័សដោយប្រើម៉ឺនុយបំពេញដោយស្វ័យប្រវត្តិ Byteward នៅលើគេហទំព័រដែលមានហានិភ័យ។",
     "description": "Description of the generate password slide on the at-risk password page carousel"
   },
   "generatePasswordSlideImgAltPeriod": {
-    "message": "រូបភាពបង្ហាញម៉ឺនុយបំពេញដោយស្វ័យប្រវត្តិ Bitwarden ដែលបង្ហាញពាក្យសម្ងាត់ដែលបានបង្កើត។"
+    "message": "រូបភាពបង្ហាញម៉ឺនុយបំពេញដោយស្វ័យប្រវត្តិ Byteward ដែលបង្ហាញពាក្យសម្ងាត់ដែលបានបង្កើត។"
   },
   "updateInBitwarden": {
-    "message": "ធ្វើបច្ចុប្បន្នភាពក្នុង Bitwarden"
+    "message": "ធ្វើបច្ចុប្បន្នភាពក្នុង Byteward"
   },
   "updateInBitwardenSlideDesc": {
-    "message": "បន្ទាប់មក Bitwarden នឹងបង្ហាញការសួរដើម្បីធ្វើបច្ចុប្បន្នភាពពាក្យសម្ងាត់នៅក្នុងកម្មវិធីគ្រប់គ្រងពាក្យសម្ងាត់។",
+    "message": "បន្ទាប់មក Byteward នឹងបង្ហាញការសួរដើម្បីធ្វើបច្ចុប្បន្នភាពពាក្យសម្ងាត់នៅក្នុងកម្មវិធីគ្រប់គ្រងពាក្យសម្ងាត់។",
     "description": "Description of the update in Bitwarden slide on the at-risk password page carousel"
   },
   "updateInBitwardenSlideImgAltPeriod": {
-    "message": "រូបភាពបង្ហាញការជូនដំណឹងរបស់ Bitwarden ដែលសួរអ្នកប្រើឱ្យធ្វើបច្ចុប្បន្នភាពការចូល។"
+    "message": "រូបភាពបង្ហាញការជូនដំណឹងរបស់ Byteward ដែលសួរអ្នកប្រើឱ្យធ្វើបច្ចុប្បន្នភាពការចូល។"
   },
   "turnOnAutofill": {
     "message": "បើកការបំពេញដោយស្វ័យប្រវត្តិ"
@@ -4372,11 +4372,11 @@
     }
   },
   "forwarderGeneratedBy": {
-    "message": "បង្កើតដោយ Bitwarden។",
+    "message": "បង្កើតដោយ Byteward។",
     "description": "Displayed with the address on the forwarding service's configuration screen."
   },
   "forwarderGeneratedByWithWebsite": {
-    "message": "គេហទំព័រ៖ $WEBSITE$។ បង្កើតដោយ Bitwarden។",
+    "message": "គេហទំព័រ៖ $WEBSITE$។ បង្កើតដោយ Byteward។",
     "description": "Displayed with the address on the forwarding service's configuration screen.",
     "placeholders": {
       "WEBSITE": {
@@ -4598,7 +4598,7 @@
     "message": "ការជូនដំណឹងត្រូវបានផ្ញើទៅឧបករណ៍របស់អ្នក។"
   },
   "notificationSentDevicePart1": {
-    "message": "ដោះសោ Bitwarden នៅលើឧបករណ៍របស់អ្នក ឬនៅលើ"
+    "message": "ដោះសោ Byteward នៅលើឧបករណ៍របស់អ្នក ឬនៅលើ"
   },
   "notificationSentDeviceAnchor": {
     "message": "កម្មវិធីគេហទំព័រ"
@@ -5098,15 +5098,15 @@
     "message": "រំលងទៅខ្លឹមសារ"
   },
   "bitwardenOverlayButton": {
-    "message": "ប៊ូតុងម៉ឺនុយបំពេញដោយស្វ័យប្រវត្តិ Bitwarden",
+    "message": "ប៊ូតុងម៉ឺនុយបំពេញដោយស្វ័យប្រវត្តិ Byteward",
     "description": "Page title for the iframe containing the overlay button"
   },
   "toggleBitwardenVaultOverlay": {
-    "message": "បិទ/បើកម៉ឺនុយបំពេញដោយស្វ័យប្រវត្តិ Bitwarden",
+    "message": "បិទ/បើកម៉ឺនុយបំពេញដោយស្វ័យប្រវត្តិ Byteward",
     "description": "Screen reader and tool tip label for the overlay button"
   },
   "bitwardenVault": {
-    "message": "ម៉ឺនុយបំពេញដោយស្វ័យប្រវត្តិ Bitwarden",
+    "message": "ម៉ឺនុយបំពេញដោយស្វ័យប្រវត្តិ Byteward",
     "description": "Page title in overlay"
   },
   "unlockYourAccountToViewMatchingLogins": {
@@ -5178,7 +5178,7 @@
     "description": "Screen reader text (aria-label) for new identity button within inline menu"
   },
   "bitwardenOverlayMenuAvailable": {
-    "message": "ម៉ឺនុយបំពេញដោយស្វ័យប្រវត្តិ Bitwarden អាចប្រើបាន។ ចុចគ្រាប់ចុចព្រួញចុះក្រោមដើម្បីជ្រើសរើស។",
+    "message": "ម៉ឺនុយបំពេញដោយស្វ័យប្រវត្តិ Byteward អាចប្រើបាន។ ចុចគ្រាប់ចុចព្រួញចុះក្រោមដើម្បីជ្រើសរើស។",
     "description": "Screen reader text for announcing when the overlay opens on the page"
   },
   "turnOn": {
@@ -6438,7 +6438,7 @@
     "description": "Label indicating the most common import formats"
   },
   "uriMatchDefaultStrategyHint": {
-    "message": "ការរកឃើញការផ្គូផ្គង URI គឺជារបៀបដែល Bitwarden កំណត់អត្តសញ្ញាណសំណើបំពេញដោយស្វ័យប្រវត្តិ។",
+    "message": "ការរកឃើញការផ្គូផ្គង URI គឺជារបៀបដែល Byteward កំណត់អត្តសញ្ញាណសំណើបំពេញដោយស្វ័យប្រវត្តិ។",
     "description": "Explains to the user that URI match detection determines how Bitwarden suggests autofill options, and clarifies that this default strategy applies when no specific match detection is set for a login item."
   },
   "regExAdvancedOptionWarning": {
@@ -6482,15 +6482,15 @@
     "description": "Body content for dialog which asks if the user wants to proceed to the browser's keyboard shortcut settings page"
   },
   "overrideDefaultBrowserAutofillTitle": {
-    "message": "ធ្វើឱ្យ Bitwarden ជាកម្មវិធីគ្រប់គ្រងពាក្យសម្ងាត់លំនាំដើមរបស់អ្នក?",
+    "message": "ធ្វើឱ្យ Byteward ជាកម្មវិធីគ្រប់គ្រងពាក្យសម្ងាត់លំនាំដើមរបស់អ្នក?",
     "description": "Dialog title facilitating the ability to override a chrome browser's default autofill behavior"
   },
   "overrideDefaultBrowserAutofillDescription": {
-    "message": "ការមិនអើពើជម្រើសនេះអាចបង្កឱ្យមានការប៉ះទង្គិចរវាងសំណើបំពេញដោយស្វ័យប្រវត្តិរបស់ Bitwarden និងរបស់កម្មវិធីរុករកអ្នក។",
+    "message": "ការមិនអើពើជម្រើសនេះអាចបង្កឱ្យមានការប៉ះទង្គិចរវាងសំណើបំពេញដោយស្វ័យប្រវត្តិរបស់ Byteward និងរបស់កម្មវិធីរុករកអ្នក។",
     "description": "Dialog message facilitating the ability to override a chrome browser's default autofill behavior"
   },
   "overrideDefaultBrowserAutoFillSettings": {
-    "message": "ធ្វើឱ្យ Bitwarden ជាកម្មវិធីគ្រប់គ្រងពាក្យសម្ងាត់លំនាំដើមរបស់អ្នក",
+    "message": "ធ្វើឱ្យ Byteward ជាកម្មវិធីគ្រប់គ្រងពាក្យសម្ងាត់លំនាំដើមរបស់អ្នក",
     "description": "Label for the setting that allows overriding the default browser autofill settings"
   },
   "defaultPasswordManagerCalloutTitle": {
@@ -6498,7 +6498,7 @@
     "description": "Title for the callout that prompts users to set Bitwarden as their default password manager"
   },
   "defaultPasswordManagerCalloutDesc": {
-    "message": "អ្នកនឹងត្រូវបានសួរឱ្យផ្តល់ការអនុញ្ញាតកម្មវិធីរុករក $BROWSER$ ដើម្បីធ្វើឱ្យ Bitwarden ជាកម្មវិធីគ្រប់គ្រងពាក្យសម្ងាត់លំនាំដើមរបស់អ្នក។",
+    "message": "អ្នកនឹងត្រូវបានសួរឱ្យផ្តល់ការអនុញ្ញាតកម្មវិធីរុករក $BROWSER$ ដើម្បីធ្វើឱ្យ Byteward ជាកម្មវិធីគ្រប់គ្រងពាក្យសម្ងាត់លំនាំដើមរបស់អ្នក។",
     "description": "Description for the callout that prompts users to set Bitwarden as their default password manager",
     "placeholders": {
       "browser": {
@@ -6508,11 +6508,11 @@
     }
   },
   "privacyPermissionAdditionNotGrantedTitle": {
-    "message": "មិនអាចកំណត់ Bitwarden ជាកម្មវិធីគ្រប់គ្រងពាក្យសម្ងាត់លំនាំដើមបានទេ",
+    "message": "មិនអាចកំណត់ Byteward ជាកម្មវិធីគ្រប់គ្រងពាក្យសម្ងាត់លំនាំដើមបានទេ",
     "description": "Title for the dialog that appears when the user has not granted the extension permission to set privacy settings"
   },
   "privacyPermissionAdditionNotGrantedDescription": {
-    "message": "អ្នកត្រូវផ្តល់ការអនុញ្ញាតភាពឯកជនកម្មវិធីរុករកទៅ Bitwarden ដើម្បីកំណត់វាជាកម្មវិធីគ្រប់គ្រងពាក្យសម្ងាត់លំនាំដើម។",
+    "message": "អ្នកត្រូវផ្តល់ការអនុញ្ញាតភាពឯកជនកម្មវិធីរុករកទៅ Byteward ដើម្បីកំណត់វាជាកម្មវិធីគ្រប់គ្រងពាក្យសម្ងាត់លំនាំដើម។",
     "description": "Description for the dialog that appears when the user has not granted the extension permission to set privacy settings"
   },
   "makeDefault": {
@@ -6520,10 +6520,10 @@
     "description": "Button text for the setting that allows overriding the default browser autofill settings"
   },
   "defaultPasswordManagerPromptTitle": {
-    "message": "ធ្វើឱ្យ Bitwarden ជាកម្មវិធីគ្រប់គ្រងពាក្យសម្ងាត់លំនាំដើមរបស់កម្មវិធីរុករកអ្នក"
+    "message": "ធ្វើឱ្យ Byteward ជាកម្មវិធីគ្រប់គ្រងពាក្យសម្ងាត់លំនាំដើមរបស់កម្មវិធីរុករកអ្នក"
   },
   "defaultPasswordManagerPromptTitleV2": {
-    "message": "ធ្វើឱ្យ Bitwarden ជាកម្មវិធីគ្រប់គ្រងពាក្យសម្ងាត់លំនាំដើមរបស់អ្នក",
+    "message": "ធ្វើឱ្យ Byteward ជាកម្មវិធីគ្រប់គ្រងពាក្យសម្ងាត់លំនាំដើមរបស់អ្នក",
     "description": "Label for the setting to make Bitwarden the default password manager"
   },
   "defaultPasswordManagerSettingHintV2": {
@@ -6535,13 +6535,13 @@
     "description": "Link text to browser autofill settings in the default password manager setting hint."
   },
   "defaultPasswordManagerPromptStep2AfterAllow": {
-    "message": "ពីការសួររបស់កម្មវិធីរុករកដើម្បីផ្តល់ការអនុញ្ញាតដល់ Bitwarden ក្នុងការផ្លាស់ប្តូរការកំណត់របស់អ្នក។"
+    "message": "ពីការសួររបស់កម្មវិធីរុករកដើម្បីផ្តល់ការអនុញ្ញាតដល់ Byteward ក្នុងការផ្លាស់ប្តូរការកំណត់របស់អ្នក។"
   },
   "defaultPasswordManagerPromptStep3": {
     "message": "យើងនឹងបិទកម្មវិធីគ្រប់គ្រងពាក្យសម្ងាត់ដែលមានស្រាប់ក្នុងកម្មវិធីរុករករបស់អ្នក ដើម្បីឱ្យអ្នកអាចទទួលបានបទពិសោធន៍ចូលដ៏សុវត្ថិភាព។"
   },
   "defaultPasswordManagerSuccessToast": {
-    "message": "បានធ្វើឱ្យ Bitwarden ជាកម្មវិធីគ្រប់គ្រងពាក្យសម្ងាត់កម្មវិធីរុករកលំនាំដើមរបស់អ្នក"
+    "message": "បានធ្វើឱ្យ Byteward ជាកម្មវិធីគ្រប់គ្រងពាក្យសម្ងាត់កម្មវិធីរុករកលំនាំដើមរបស់អ្នក"
   },
   "allow": {
     "message": "អនុញ្ញាត",
@@ -7549,7 +7549,7 @@
     "description": "Notification message for when a password has been regenerated"
   },
   "saveToBitwarden": {
-    "message": "រក្សាទុកទៅ Bitwarden",
+    "message": "រក្សាទុកទៅ Byteward",
     "description": "Confirmation message for saving a login to Bitwarden"
   },
   "spaceCharacterDescriptor": {
@@ -7793,13 +7793,13 @@
     "message": "Use folders to organize vault items. They're just for you. No one else will see or use them."
   },
   "introCarouselLabel": {
-    "message": "សូមស្វាគមន៍មកកាន់ Bitwarden"
+    "message": "សូមស្វាគមន៍មកកាន់ Byteward"
   },
   "securityPrioritized": {
     "message": "សុវត្ថិភាព ជាអាទិភាព"
   },
   "securityPrioritizedBody": {
-    "message": "រក្សាទុកការចូល កាត និងអត្តសញ្ញាណទៅឃ្លាំងសម្ងាត់របស់អ្នក។ Bitwarden ប្រើការឌិគ្រីបពីចុងដល់ចុងបែបគ្មានចំណេះដឹង ដើម្បីការពារអ្វីដែលសំខាន់សម្រាប់អ្នក។"
+    "message": "រក្សាទុកការចូល កាត និងអត្តសញ្ញាណទៅឃ្លាំងសម្ងាត់របស់អ្នក។ Byteward ប្រើការឌិគ្រីបពីចុងដល់ចុងបែបគ្មានចំណេះដឹង ដើម្បីការពារអ្វីដែលសំខាន់សម្រាប់អ្នក។"
   },
   "quickLogin": {
     "message": "ការចូលរហ័ស និងងាយស្រួល"
@@ -7945,7 +7945,7 @@
     "message": "អំពីការកំណត់នេះ"
   },
   "permitCipherDetailsDescription": {
-    "message": "Bitwarden នឹងប្រើ URI ចូលដែលបានរក្សាទុកដើម្បីកំណត់អត្តសញ្ញាណរូបតំណាង ឬ URL ផ្លាស់ប្តូរពាក្យសម្ងាត់ដែលគួរប្រើ ដើម្បីកែលម្អបទពិសោធន៍របស់អ្នក។ គ្មានព័ត៌មានត្រូវបានប្រមូល ឬរក្សាទុកទេនៅពេលអ្នកប្រើសេវាកម្មនេះ។"
+    "message": "Byteward នឹងប្រើ URI ចូលដែលបានរក្សាទុកដើម្បីកំណត់អត្តសញ្ញាណរូបតំណាង ឬ URL ផ្លាស់ប្តូរពាក្យសម្ងាត់ដែលគួរប្រើ ដើម្បីកែលម្អបទពិសោធន៍របស់អ្នក។ គ្មានព័ត៌មានត្រូវបានប្រមូល ឬរក្សាទុកទេនៅពេលអ្នកប្រើសេវាកម្មនេះ។"
   },
   "showQuickCopyActionsDetailsDescription": {
     "message": "បន្ថែមប៊ូតុងចម្លងរហ័ស 3 នៅជាប់ធាតុដើម្បីចម្លងឈ្មោះអ្នកប្រើ ពាក្យសម្ងាត់ ឬកូដផ្ទៀងផ្ទាត់របស់អ្នកទៅក្តារតម្បៀតខ្ទាស់។"
@@ -7954,7 +7954,7 @@
     "message": "អ្នកគ្មានសិទ្ធិមើលទំព័រនេះទេ។ សូមព្យាយាមចូលដោយគណនីផ្សេង។"
   },
   "wasmNotSupported": {
-    "message": "WebAssembly មិនត្រូវបានស្គាល់នៅលើកម្មវិធីរុករករបស់អ្នក ឬមិនត្រូវបានបើកទេ។ WebAssembly ត្រូវការដើម្បីប្រើកម្មវិធី Bitwarden។",
+    "message": "WebAssembly មិនត្រូវបានស្គាល់នៅលើកម្មវិធីរុករករបស់អ្នក ឬមិនត្រូវបានបើកទេ។ WebAssembly ត្រូវការដើម្បីប្រើកម្មវិធី Byteward។",
     "description": "'WebAssembly' is a technical term and should not be translated."
   },
   "showMore": {
@@ -8261,7 +8261,7 @@
     "message": "ដើម្បីប្រើការដោះសោរួមគ្នា Bitwarden ត្រូវការការអនុញ្ញាតឱ្យទំនាក់ទំនងជាមួយកម្មវិធីកុំព្យូទ័រ។ នៅពេលអ្នកបន្ត កម្មវិធីរុករករបស់អ្នកនឹងសួរឱ្យអ្នកអនុម័តវា។"
   },
   "sharedUnlockDesktopPermissionWarning": {
-    "message": "Bitwarden នឹងចាក់សោ និងផ្ទុកឡើងវិញ។ បន្ទាប់ពីអ្នកអនុម័ត ផ្នែកបន្ថែមនឹងផ្ទុកឡើងវិញ ហើយនឹងចាក់សោឃ្លាំងសម្ងាត់របស់អ្នក។"
+    "message": "Byteward នឹងចាក់សោ និងផ្ទុកឡើងវិញ។ បន្ទាប់ពីអ្នកអនុម័ត ផ្នែកបន្ថែមនឹងផ្ទុកឡើងវិញ ហើយនឹងចាក់សោឃ្លាំងសម្ងាត់របស់អ្នក។"
   },
   "biometricPermissionDesc": {
     "message": "ដើម្បីប្រើការដោះសោដោយជីវមាត្រ Bitwarden ត្រូវការការអនុញ្ញាតឱ្យទំនាក់ទំនងជាមួយកម្មវិធីកុំព្យូទ័រ។ នៅពេលអ្នកបន្ត កម្មវិធីរុករករបស់អ្នកនឹងសួរឱ្យអ្នកអនុម័តវា។"

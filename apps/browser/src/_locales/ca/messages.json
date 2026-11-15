@@ -336,7 +336,7 @@
     "message": "Voleu continuar cap a la botiga d'extensions del navegador?"
   },
   "continueToBrowserExtensionStoreDesc": {
-    "message": "Ajudeu els altres a descobrir si Bitwarden és adequat per a ells. Visiteu la botiga d'aplicacions i deixeu-nos una valoració ara."
+    "message": "Ajudeu els altres a descobrir si Byteward és adequat per a ells. Visiteu la botiga d'aplicacions i deixeu-nos una valoració ara."
   },
   "changeMasterPasswordOnWebConfirmation": {
     "message": "Podeu canviar la vostra contrasenya mestra a l'aplicació web de Bitwarden."
@@ -356,7 +356,7 @@
     "message": "Tanca la sessió"
   },
   "aboutBitwarden": {
-    "message": "Quant a Bitwarden"
+    "message": "Quant a Byteward"
   },
   "about": {
     "message": "Quant a"
@@ -1081,10 +1081,10 @@
     "message": "Feu que la verificació en dos passos siga perfecta"
   },
   "totpHelper": {
-    "message": "Bitwarden pot emmagatzemar i omplir codis de verificació en dos passos. Copieu i enganxeu la clau en aquest camp."
+    "message": "Byteward pot emmagatzemar i omplir codis de verificació en dos passos. Copieu i enganxeu la clau en aquest camp."
   },
   "totpHelperWithCapture": {
-    "message": "Bitwarden pot emmagatzemar i omplir codis de verificació en dos passos. Seleccioneu la icona de la càmera per fer una captura de pantalla del codi QR de l'autenticador d'aquest lloc web o copieu i enganxeu la clau en aquest camp."
+    "message": "Byteward pot emmagatzemar i omplir codis de verificació en dos passos. Seleccioneu la icona de la càmera per fer una captura de pantalla del codi QR de l'autenticador d'aquest lloc web o copieu i enganxeu la clau en aquest camp."
   },
   "learnMoreAboutAuthenticators": {
     "message": "Més informació sobre els autenticadors"
@@ -1333,7 +1333,7 @@
     "message": "Ves a la configuració"
   },
   "notificationAddDesc": {
-    "message": "Ha de recordar Bitwarden aquesta contrasenya per a vosaltres?"
+    "message": "Ha de recordar Byteward aquesta contrasenya per a vosaltres?"
   },
   "notificationAddSave": {
     "message": "Guarda"
@@ -1369,11 +1369,11 @@
     }
   },
   "notificationLoginSaveConfirmation": {
-    "message": "guardat a Bitwarden.",
+    "message": "guardat a Byteward.",
     "description": "Shown to user after item is saved."
   },
   "notificationLoginUpdatedConfirmation": {
-    "message": "actualitzat a Bitwarden.",
+    "message": "actualitzat a Byteward.",
     "description": "Shown to user after item is updated."
   },
   "selectItemAriaLabel": {
@@ -1471,13 +1471,13 @@
     "message": "Demana que guardeu les contrasenyes noves o inicieu sessió amb les claus emmagatzemades a la vostra caixa forta. S'aplica a tots els comptes connectats."
   },
   "notificationChangeDesc": {
-    "message": "Voleu actualitzar aquesta contrasenya a Bitwarden?"
+    "message": "Voleu actualitzar aquesta contrasenya a Byteward?"
   },
   "notificationChangeSave": {
     "message": "Actualitza"
   },
   "notificationUnlockDesc": {
-    "message": "Desbloquegeu la vostra caixa forta de Bitwarden per completar la sol·licitud d'emplenament automàtic."
+    "message": "Desbloquegeu la vostra caixa forta de Byteward per completar la sol·licitud d'emplenament automàtic."
   },
   "notificationUnlock": {
     "message": "Desbloqueja"
@@ -1786,7 +1786,7 @@
     "message": "Aquesta contrasenya s'utilitzarà per exportar i importar aquest fitxer"
   },
   "accountRestrictedOptionDescription": {
-    "message": "Utilitzeu la clau de xifratge del vostre compte, derivada del nom d'usuari i la contrasenya mestra, per xifrar l'exportació i restringir la importació només al compte de Bitwarden actual."
+    "message": "Utilitzeu la clau de xifratge del vostre compte, derivada del nom d'usuari i la contrasenya mestra, per xifrar l'exportació i restringir la importació només al compte de Byteward actual."
   },
   "passwordProtectedOptionDescription": {
     "message": "Establiu una contrasenya per xifrar l'exportació i importeu-la a qualsevol compte de Bitwarden mitjançant aquesta contrasenya."
@@ -2236,7 +2236,7 @@
     "message": "Trobeu fàcilment suggeriments d'emplenament automàtic"
   },
   "autofillSpotlightDesc": {
-    "message": "Desactiveu la configuració d'emplenament automàtic del vostre navegador perquè no entren en conflicte amb Bitwarden."
+    "message": "Desactiveu la configuració d'emplenament automàtic del vostre navegador perquè no entren en conflicte amb Byteward."
   },
   "turnOffBrowserAutofill": {
     "message": "Desactiveu l'emplenament automàtic de $BROWSER$",
@@ -2293,7 +2293,7 @@
     "message": "Mostra suggeriments d'emplenament automàtic als camps del formulari"
   },
   "howDoesBitwardenProtectFromPhishing": {
-    "message": "Com protegeix Bitwarden les teves dades del phishing?"
+    "message": "Com protegeix Byteward les teves dades del phishing?"
   },
   "currentWebsite": {
     "message": "Lloc web actual"
@@ -3202,7 +3202,7 @@
     "message": "Contrasenya mestra poc segura"
   },
   "weakMasterPasswordDesc": {
-    "message": "La contrasenya mestra que heu triat és poc segura. Heu d'utilitzar una contrasenya mestra segura (o una frase de pas) per protegir correctament el vostre compte de Bitwarden. Esteu segur que voleu utilitzar aquesta contrasenya mestra?"
+    "message": "La contrasenya mestra que heu triat és poc segura. Heu d'utilitzar una contrasenya mestra segura (o una frase de pas) per protegir correctament el vostre compte de Byteward. Esteu segur que voleu utilitzar aquesta contrasenya mestra?"
   },
   "rotateAccountEncKey": {
     "message": "Rota també la clau de xifratge del meu compte"
@@ -3242,10 +3242,10 @@
     "message": "Estableix el PIN"
   },
   "setYourPinCode": {
-    "message": "Configureu el vostre codi PIN per desbloquejar Bitwarden. La configuració del PIN es restablirà si tanqueu la sessió definitivament."
+    "message": "Configureu el vostre codi PIN per desbloquejar Byteward. La configuració del PIN es restablirà si tanqueu la sessió definitivament."
   },
   "setPinCode": {
-    "message": "Pots utilitzar aquest PIN per desbloquejar Bitwarden. El teu PIN es restablirà si tanques completament la sessió de l'aplicació."
+    "message": "Pots utilitzar aquest PIN per desbloquejar Byteward. El teu PIN es restablirà si tanques completament la sessió de l'aplicació."
   },
   "pinRequired": {
     "message": "Es necessita el codi PIN."
@@ -3381,7 +3381,7 @@
     "message": "El formulari està allotjat en un domini diferent de l'URI de l'inici de sessió guardat. Trieu D'acord per omplir -lo automàticament de totes maneres o Cancel·la per aturar-ho."
   },
   "autofillIframeWarningTip": {
-    "message": "Per evitar aquest avís en el futur, guardeu el lloc d'aquest URI, $HOSTNAME$, en els elements d'inici de sessió de Bitwarden.",
+    "message": "Per evitar aquest avís en el futur, guardeu el lloc d'aquest URI, $HOSTNAME$, en els elements d'inici de sessió de Byteward.",
     "placeholders": {
       "hostname": {
         "content": "$1",
@@ -3390,7 +3390,7 @@
     }
   },
   "topLayerHijackWarning": {
-    "message": "Aquesta pàgina interfereix amb l'experiència de Bitwarden. El menú integrat de Bitwarden s'ha desactivat temporalment com a mesura de seguretat."
+    "message": "Aquesta pàgina interfereix amb l'experiència de Byteward. El menú integrat de Byteward s'ha desactivat temporalment com a mesura de seguretat."
   },
   "setMasterPassword": {
     "message": "Estableix la contrasenya mestra"
@@ -3552,7 +3552,7 @@
     "message": "La biometria ha fallat"
   },
   "biometricsFailedDesc": {
-    "message": "La biometria no es pot completar, considereu utilitzar una contrasenya mestra o tancar la sessió. Si això continua, poseu-vos en contacte amb el servei d'assistència de Bitwarden."
+    "message": "La biometria no es pot completar, considereu utilitzar una contrasenya mestra o tancar la sessió. Si això continua, poseu-vos en contacte amb el servei d'assistència de Byteward."
   },
   "nativeMessagingPermissionErrorTitle": {
     "message": "Permís no proporcionat"
@@ -3595,7 +3595,7 @@
     "message": "Dominis exclosos"
   },
   "excludedDomainsDesc": {
-    "message": "Bitwarden no demanarà que es guarden les dades d’inici de sessió d’aquests dominis. Heu d'actualitzar la pàgina perquè els canvis tinguen efecte."
+    "message": "Byteward no demanarà que es guarden les dades d’inici de sessió d’aquests dominis. Heu d'actualitzar la pàgina perquè els canvis tinguen efecte."
   },
   "blockedDomainsDesc": {
     "message": "L'emplenament automàtic i altres funcions relacionades no s'oferiran per a aquests llocs web. Has d'actualitzar la pàgina perquè els canvis tinguin efecte."
@@ -3727,24 +3727,24 @@
     "message": "Il·lustració d'una llista d'inicis de sessió en risc."
   },
   "welcomeDialogGraphicAlt": {
-    "message": "Il·lustració de la disposició de la pàgina de la cavitat de Bitwarden."
+    "message": "Il·lustració de la disposició de la pàgina de la cavitat de Byteward."
   },
   "generatePasswordSlideDesc": {
-    "message": "Genera ràpidament una contrasenya forta i única amb el menú d'emplenament automàtic de Bitwarden al lloc en risc.",
+    "message": "Genera ràpidament una contrasenya forta i única amb el menú d'emplenament automàtic de Byteward al lloc en risc.",
     "description": "Description of the generate password slide on the at-risk password page carousel"
   },
   "generatePasswordSlideImgAltPeriod": {
-    "message": "Il·lustració del menú d'emplenament automàtic de Bitwarden mostrant una contrasenya generada."
+    "message": "Il·lustració del menú d'emplenament automàtic de Byteward mostrant una contrasenya generada."
   },
   "updateInBitwarden": {
-    "message": "Actualitza a Bitwarden"
+    "message": "Actualitza a Byteward"
   },
   "updateInBitwardenSlideDesc": {
-    "message": "Aleshores Bitwarden et demanarà que actualitzis la contrasenya al gestor de contrasenyes.",
+    "message": "Aleshores Byteward et demanarà que actualitzis la contrasenya al gestor de contrasenyes.",
     "description": "Description of the update in Bitwarden slide on the at-risk password page carousel"
   },
   "updateInBitwardenSlideImgAltPeriod": {
-    "message": "Il·lustració d'una notificació de Bitwarden que demana a l'usuari que actualitzi l'inici de sessió."
+    "message": "Il·lustració d'una notificació de Byteward que demana a l'usuari que actualitzi l'inici de sessió."
   },
   "turnOnAutofill": {
     "message": "Activa l'emplenament automàtic"
@@ -4372,11 +4372,11 @@
     }
   },
   "forwarderGeneratedBy": {
-    "message": "Generat per Bitwarden.",
+    "message": "Generat per Byteward.",
     "description": "Displayed with the address on the forwarding service's configuration screen."
   },
   "forwarderGeneratedByWithWebsite": {
-    "message": "Lloc web: $WEBSITE$. Generat per Bitwarden.",
+    "message": "Lloc web: $WEBSITE$. Generat per Byteward.",
     "description": "Displayed with the address on the forwarding service's configuration screen.",
     "placeholders": {
       "WEBSITE": {
@@ -4598,7 +4598,7 @@
     "message": "S'ha enviat una notificació al vostre dispositiu."
   },
   "notificationSentDevicePart1": {
-    "message": "Desbloqueja Bitwarden al teu dispositiu o al"
+    "message": "Desbloqueja Byteward al teu dispositiu o al"
   },
   "notificationSentDeviceAnchor": {
     "message": "aplicació web"
@@ -5098,15 +5098,15 @@
     "message": "Vés al contingut"
   },
   "bitwardenOverlayButton": {
-    "message": "Botó de menú d'emplenament automàtic de Bitwarden",
+    "message": "Botó de menú d'emplenament automàtic de Byteward",
     "description": "Page title for the iframe containing the overlay button"
   },
   "toggleBitwardenVaultOverlay": {
-    "message": "Commuta el menú d'emplenament automàtic de Bitwarden",
+    "message": "Commuta el menú d'emplenament automàtic de Byteward",
     "description": "Screen reader and tool tip label for the overlay button"
   },
   "bitwardenVault": {
-    "message": "Menú d'emplenament automàtic de Bitwarden",
+    "message": "Menú d'emplenament automàtic de Byteward",
     "description": "Page title in overlay"
   },
   "unlockYourAccountToViewMatchingLogins": {
@@ -5178,7 +5178,7 @@
     "description": "Screen reader text (aria-label) for new identity button within inline menu"
   },
   "bitwardenOverlayMenuAvailable": {
-    "message": "El menú d'emplenament automàtic de Bitwarden està disponible. Premeu la tecla de fletxa avall per seleccionar-lo.",
+    "message": "El menú d'emplenament automàtic de Byteward està disponible. Premeu la tecla de fletxa avall per seleccionar-lo.",
     "description": "Screen reader text for announcing when the overlay opens on the page"
   },
   "turnOn": {
@@ -6438,7 +6438,7 @@
     "description": "Label indicating the most common import formats"
   },
   "uriMatchDefaultStrategyHint": {
-    "message": "Bitwarden empra la detecció de coincidències URI per identificar suggeriments d'aemplenament automàtic.",
+    "message": "Byteward empra la detecció de coincidències URI per identificar suggeriments d'aemplenament automàtic.",
     "description": "Explains to the user that URI match detection determines how Bitwarden suggests autofill options, and clarifies that this default strategy applies when no specific match detection is set for a login item."
   },
   "regExAdvancedOptionWarning": {
@@ -6482,15 +6482,15 @@
     "description": "Body content for dialog which asks if the user wants to proceed to the browser's keyboard shortcut settings page"
   },
   "overrideDefaultBrowserAutofillTitle": {
-    "message": "Fer que Bitwarden siga el gestor de contrasenyes predeterminat?",
+    "message": "Fer que Byteward siga el gestor de contrasenyes predeterminat?",
     "description": "Dialog title facilitating the ability to override a chrome browser's default autofill behavior"
   },
   "overrideDefaultBrowserAutofillDescription": {
-    "message": "Si ignoreu aquesta opció pot provocar conflictes entre el menú d'emplenament automàtic de Bitwarden i el del navegador.",
+    "message": "Si ignoreu aquesta opció pot provocar conflictes entre el menú d'emplenament automàtic de Byteward i el del navegador.",
     "description": "Dialog message facilitating the ability to override a chrome browser's default autofill behavior"
   },
   "overrideDefaultBrowserAutoFillSettings": {
-    "message": "Feu que Bitwarden siga el vostre gestor de contrasenyes predeterminat",
+    "message": "Feu que Byteward siga el vostre gestor de contrasenyes predeterminat",
     "description": "Label for the setting that allows overriding the default browser autofill settings"
   },
   "defaultPasswordManagerCalloutTitle": {
@@ -6498,7 +6498,7 @@
     "description": "Title for the callout that prompts users to set Bitwarden as their default password manager"
   },
   "defaultPasswordManagerCalloutDesc": {
-    "message": "Se't demanarà que concedeixis un permís al navegador $BROWSER$ per fer de Bitwarden el teu gestor de contrasenyes predeterminat.",
+    "message": "Se't demanarà que concedeixis un permís al navegador $BROWSER$ per fer de Byteward el teu gestor de contrasenyes predeterminat.",
     "description": "Description for the callout that prompts users to set Bitwarden as their default password manager",
     "placeholders": {
       "browser": {
@@ -6508,11 +6508,11 @@
     }
   },
   "privacyPermissionAdditionNotGrantedTitle": {
-    "message": "No es pot establir Bitwarden com a gestor de contrasenyes predeterminat",
+    "message": "No es pot establir Byteward com a gestor de contrasenyes predeterminat",
     "description": "Title for the dialog that appears when the user has not granted the extension permission to set privacy settings"
   },
   "privacyPermissionAdditionNotGrantedDescription": {
-    "message": "Heu de concedir permisos de privadesa del navegador a Bitwarden per establir-lo com a gestor de contrasenyes predeterminat.",
+    "message": "Heu de concedir permisos de privadesa del navegador a Byteward per establir-lo com a gestor de contrasenyes predeterminat.",
     "description": "Description for the dialog that appears when the user has not granted the extension permission to set privacy settings"
   },
   "makeDefault": {
@@ -6520,10 +6520,10 @@
     "description": "Button text for the setting that allows overriding the default browser autofill settings"
   },
   "defaultPasswordManagerPromptTitle": {
-    "message": "Fes de Bitwarden el gestor de contrasenyes predeterminat del teu navegador"
+    "message": "Fes de Byteward el gestor de contrasenyes predeterminat del teu navegador"
   },
   "defaultPasswordManagerPromptTitleV2": {
-    "message": "Fes de Bitwarden el teu gestor de contrasenyes predeterminat",
+    "message": "Fes de Byteward el teu gestor de contrasenyes predeterminat",
     "description": "Label for the setting to make Bitwarden the default password manager"
   },
   "defaultPasswordManagerSettingHintV2": {
@@ -6535,13 +6535,13 @@
     "description": "Link text to browser autofill settings in the default password manager setting hint."
   },
   "defaultPasswordManagerPromptStep2AfterAllow": {
-    "message": "des del missatge del navegador per donar a Bitwarden permís per canviar la teva configuració."
+    "message": "des del missatge del navegador per donar a Byteward permís per canviar la teva configuració."
   },
   "defaultPasswordManagerPromptStep3": {
     "message": "Desactivarem el gestor de contrasenyes integrat del teu navegador perquè puguis gaudir d'una experiència d'inici de sessió segura."
   },
   "defaultPasswordManagerSuccessToast": {
-    "message": "Bitwarden s'ha convertit en el teu gestor de contrasenyes predeterminat del navegador"
+    "message": "Byteward s'ha convertit en el teu gestor de contrasenyes predeterminat del navegador"
   },
   "allow": {
     "message": "Permet",
@@ -7549,7 +7549,7 @@
     "description": "Notification message for when a password has been regenerated"
   },
   "saveToBitwarden": {
-    "message": "Desa a Bitwarden",
+    "message": "Desa a Byteward",
     "description": "Confirmation message for saving a login to Bitwarden"
   },
   "spaceCharacterDescriptor": {
@@ -7793,13 +7793,13 @@
     "message": "Use folders to organize vault items. They're just for you. No one else will see or use them."
   },
   "introCarouselLabel": {
-    "message": "Benvinguts a Bitwarden"
+    "message": "Benvinguts a Byteward"
   },
   "securityPrioritized": {
     "message": "Seguretat, prioritària"
   },
   "securityPrioritizedBody": {
-    "message": "Desa inicis de sessió, targetes i identitats a la teva cavitat segura. Bitwarden utilitza xifratge d'extrem a extrem de coneixement zero per protegir el que és important per a tu."
+    "message": "Desa inicis de sessió, targetes i identitats a la teva cavitat segura. Byteward utilitza xifratge d'extrem a extrem de coneixement zero per protegir el que és important per a tu."
   },
   "quickLogin": {
     "message": "Inici de sessió ràpid i fàcil"
@@ -7945,7 +7945,7 @@
     "message": "Sobre aquesta configuració"
   },
   "permitCipherDetailsDescription": {
-    "message": "Bitwarden utilitzarà els URI d'inici de sessió desats per identificar quina icona o URL de canvi de contrasenya s'ha d'utilitzar per millorar la teva experiència. No es recull ni es desa cap informació quan utilitzes aquest servei."
+    "message": "Byteward utilitzarà els URI d'inici de sessió desats per identificar quina icona o URL de canvi de contrasenya s'ha d'utilitzar per millorar la teva experiència. No es recull ni es desa cap informació quan utilitzes aquest servei."
   },
   "showQuickCopyActionsDetailsDescription": {
     "message": "Afegeix 3 botons de còpia ràpida al costat dels elements per copiar el teu nom d'usuari, contrasenya o codi de verificació al porta-retalls."
@@ -7954,7 +7954,7 @@
     "message": "No tens permisos per veure aquesta pàgina. Prova d'iniciar sessió amb un compte diferent."
   },
   "wasmNotSupported": {
-    "message": "WebAssembly no és compatible amb el teu navegador o no està activat. WebAssembly és necessari per utilitzar l'aplicació Bitwarden.",
+    "message": "WebAssembly no és compatible amb el teu navegador o no està activat. WebAssembly és necessari per utilitzar l'aplicació Byteward.",
     "description": "'WebAssembly' is a technical term and should not be translated."
   },
   "showMore": {
@@ -8261,7 +8261,7 @@
     "message": "Per utilitzar el desbloqueig compartit, Bitwarden necessita permís per comunicar-se amb l'aplicació d'escriptori. Quan continuïs, el teu navegador et demanarà que ho aprovis."
   },
   "sharedUnlockDesktopPermissionWarning": {
-    "message": "Bitwarden es bloquejarà i es tornarà a carregar. Després d'aprovar-ho, l'extensió es tornarà a carregar i bloquejarà la teva cavitat."
+    "message": "Byteward es bloquejarà i es tornarà a carregar. Després d'aprovar-ho, l'extensió es tornarà a carregar i bloquejarà la teva cavitat."
   },
   "biometricPermissionDesc": {
     "message": "Per utilitzar el desbloqueig biomètric, Bitwarden necessita permís per comunicar-se amb l'aplicació d'escriptori. Quan continuïs, el teu navegador et demanarà que ho aprovis."
