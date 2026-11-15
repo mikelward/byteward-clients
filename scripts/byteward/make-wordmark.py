@@ -3,7 +3,7 @@
 
 Usage: make-wordmark.py <space-grotesk-latin-700-normal.woff> > wordmark.json
 
-Space Grotesk is licensed under the SIL Open Font License (SpaceGrotesk-OFL.txt),
+Space Grotesk is licensed under the SIL Open Font License (space-grotesk-ofl.txt),
 which permits outlining glyphs for a logo. Requires: pip install fonttools
 """
 
