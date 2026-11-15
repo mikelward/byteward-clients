@@ -1,20 +1,20 @@
 {
   "appName": {
-    "message": "Byteward"
+    "message": "Bitwarden"
   },
   "appLogoLabel": {
-    "message": "Logo Byteward"
+    "message": "Logo Bitwarden"
   },
   "extName": {
-    "message": "Byteward – správca hesiel",
+    "message": "Bitwarden – správca hesiel",
     "description": "Extension name, MUST be less than 40 characters (Safari restriction)"
   },
   "extNameBeta": {
-    "message": "Byteward – správca hesiel (Beta)",
+    "message": "Bitwarden – správca hesiel (Beta)",
     "description": "Extension name for the beta channel, MUST be less than 40 characters (Safari restriction)"
   },
   "extDesc": {
-    "message": "Byteward zabezpečí všetky vaše heslá, prístupové kľúče a citlivé informácie doma, v práci alebo na cestách",
+    "message": "Bitwarden zabezpečí všetky vaše heslá, prístupové kľúče a citlivé informácie doma, v práci alebo na cestách",
     "description": "Extension description, MUST be less than 112 characters (Safari restriction)"
   },
   "loginOrCreateNewAccount": {
@@ -336,7 +336,7 @@
     "message": "Pokračovať do obchodu s rozšíreniami pre prehliadače?"
   },
   "continueToBrowserExtensionStoreDesc": {
-    "message": "Pomôžte ostatným zistiť, či je Byteward pre nich vhodný. Navštívte obchod s rozšíreniami pre prehliadače a pridajte hodnotenie."
+    "message": "Pomôžte ostatným zistiť, či je Bitwarden pre nich vhodný. Navštívte obchod s rozšíreniami pre prehliadače a pridajte hodnotenie."
   },
   "changeMasterPasswordOnWebConfirmation": {
     "message": "Hlavné heslo si môžete zmeniť vo webovej aplikácii Bitwarden."
@@ -356,7 +356,7 @@
     "message": "Odhlásiť sa"
   },
   "aboutBitwarden": {
-    "message": "O Byteward"
+    "message": "O Bitwarden"
   },
   "about": {
     "message": "O aplikácii"
@@ -1081,10 +1081,10 @@
     "message": "Spravte dvojstupňové overenie bezproblémovým"
   },
   "totpHelper": {
-    "message": "Byteward umožňuje uložiť a vyplniť kódy dvojstupňového overenia. Skopírujte a vložte kľúč do tohto poľa."
+    "message": "Bitwarden umožňuje uložiť a vyplniť kódy dvojstupňového overenia. Skopírujte a vložte kľúč do tohto poľa."
   },
   "totpHelperWithCapture": {
-    "message": "Byteward umožňuje uložiť a vyplniť kódy dvojstupňového overenia. Vyberte ikonu fotoaparátu a zosnímajte obrazovku QR kódu overovacej aplikácie tejto webovej stránky alebo skopírujte a vložte kľúč do tohto poľa."
+    "message": "Bitwarden umožňuje uložiť a vyplniť kódy dvojstupňového overenia. Vyberte ikonu fotoaparátu a zosnímajte obrazovku QR kódu overovacej aplikácie tejto webovej stránky alebo skopírujte a vložte kľúč do tohto poľa."
   },
   "learnMoreAboutAuthenticators": {
     "message": "Viac informácií o overovateľoch"
@@ -1333,7 +1333,7 @@
     "message": "Prejsť na nastavenia"
   },
   "notificationAddDesc": {
-    "message": "Má si Byteward zapamätať toto heslo?"
+    "message": "Má si Bitwarden zapamätať toto heslo?"
   },
   "notificationAddSave": {
     "message": "Uložiť"
@@ -1369,11 +1369,11 @@
     }
   },
   "notificationLoginSaveConfirmation": {
-    "message": "uložené do Bytewardu.",
+    "message": "uložené do Bitwardenu.",
     "description": "Shown to user after item is saved."
   },
   "notificationLoginUpdatedConfirmation": {
-    "message": "aktualizované v Bytewarde.",
+    "message": "aktualizované v Bitwardene.",
     "description": "Shown to user after item is updated."
   },
   "selectItemAriaLabel": {
@@ -1471,13 +1471,13 @@
     "message": "Požiadať o uloženie nových prístupových kľúčov alebo prihlásenie s prístupovými kľúčmi uloženými v trezore. Platí pre všetky prihlásené účty."
   },
   "notificationChangeDesc": {
-    "message": "Chcete aktualizovať toto heslo v Byteward?"
+    "message": "Chcete aktualizovať toto heslo v Bitwarden?"
   },
   "notificationChangeSave": {
     "message": "Aktualizovať"
   },
   "notificationUnlockDesc": {
-    "message": "Odomknite svoj Byteward trezor a dokončite žiadosť o automatické vyplnenie."
+    "message": "Odomknite svoj Bitwarden trezor a dokončite žiadosť o automatické vyplnenie."
   },
   "notificationUnlock": {
     "message": "Odomknúť"
@@ -1786,7 +1786,7 @@
     "message": "Toto heslo sa použije na export a import tohto súboru"
   },
   "accountRestrictedOptionDescription": {
-    "message": "Na zašifrovanie exportu a obmedzenie importu len na aktuálny účet Byteward použite šifrovací kľúč účtu odvodený z používateľského mena a hlavného hesla účtu."
+    "message": "Na zašifrovanie exportu a obmedzenie importu len na aktuálny účet Bitwarden použite šifrovací kľúč účtu odvodený z používateľského mena a hlavného hesla účtu."
   },
   "passwordProtectedOptionDescription": {
     "message": "Nastavte heslo súboru na zašifrovanie exportu a importujte ho do akéhokoľvek účtu Bitwarden pomocou hesla na dešifrovanie."
@@ -2236,7 +2236,7 @@
     "message": "Jednoduché vyhľadávanie návrhov na automatické vypĺňanie"
   },
   "autofillSpotlightDesc": {
-    "message": "Vypnite nastavenia automatického vypĺňania v prehliadači, aby nedošlo ku konfliktu s Bytewardom."
+    "message": "Vypnite nastavenia automatického vypĺňania v prehliadači, aby nedošlo ku konfliktu s Bitwardenom."
   },
   "turnOffBrowserAutofill": {
     "message": "Vypnúť automatické vypĺňanie v $BROWSER$",
@@ -2293,7 +2293,7 @@
     "message": "Zobraziť návrhy automatického vypĺňania v poliach formulára"
   },
   "howDoesBitwardenProtectFromPhishing": {
-    "message": "Ako Byteward chráni vaše údaje pred phishingom?"
+    "message": "Ako Bitwarden chráni vaše údaje pred phishingom?"
   },
   "currentWebsite": {
     "message": "Aktuálna webstránka"
@@ -3202,7 +3202,7 @@
     "message": "Slabé hlavné heslo"
   },
   "weakMasterPasswordDesc": {
-    "message": "Hlavné heslo, ktoré ste zadali, je slabé. Mali by ste použiť silné heslo (alebo frázu), aby ste spoľahlivo ochránili váš Byteward účet. Naozaj chcete použiť toto heslo?"
+    "message": "Hlavné heslo, ktoré ste zadali, je slabé. Mali by ste použiť silné heslo (alebo frázu), aby ste spoľahlivo ochránili váš Bitwarden účet. Naozaj chcete použiť toto heslo?"
   },
   "rotateAccountEncKey": {
     "message": "Rotovať aj šifrovací kľúč účtu"
@@ -3242,10 +3242,10 @@
     "message": "Nastaviť PIN"
   },
   "setYourPinCode": {
-    "message": "Nastaviť kód PIN na odomykanie Bytewardu. Nastavenie PIN sa vynuluje, ak sa úplne odhlásite z aplikácie."
+    "message": "Nastaviť kód PIN na odomykanie Bitwardenu. Nastavenie PIN sa vynuluje, ak sa úplne odhlásite z aplikácie."
   },
   "setPinCode": {
-    "message": "Tento PIN môžete použiť na odomknutie Bytewardu. PIN sa resetuje, ak sa úplne odhlásite z aplikácie."
+    "message": "Tento PIN môžete použiť na odomknutie Bitwardenu. PIN sa resetuje, ak sa úplne odhlásite z aplikácie."
   },
   "pinRequired": {
     "message": "Kód PIN je povinný."
@@ -3381,7 +3381,7 @@
     "message": "Formulár je umiestnený na inej doméne ako URI vašich prihlasovacích údajov. Vyberte OK, ak chcete aj tak použiť automatické vyplnenie, alebo Zrušiť, ak chcete automatické vyplnenie zastaviť."
   },
   "autofillIframeWarningTip": {
-    "message": "Ak chcete tomuto upozorneniu v budúcnosti zabrániť, uložte URI, $HOSTNAME$, do položky prihlásenia Bytewardu pre túto stránku.",
+    "message": "Ak chcete tomuto upozorneniu v budúcnosti zabrániť, uložte URI, $HOSTNAME$, do položky prihlásenia Bitwardenu pre túto stránku.",
     "placeholders": {
       "hostname": {
         "content": "$1",
@@ -3390,7 +3390,7 @@
     }
   },
   "topLayerHijackWarning": {
-    "message": "Táto stránka narúša zážitok z Bytewardu. Inline ponuka Bytewardu bola dočasne vypnutá ako bezpečnostné opatrenie."
+    "message": "Táto stránka narúša zážitok z Bitwardenu. Inline ponuka Bitwardenu bola dočasne vypnutá ako bezpečnostné opatrenie."
   },
   "setMasterPassword": {
     "message": "Nastaviť hlavné heslo"
@@ -3552,7 +3552,7 @@
     "message": "Biometria zlyhala"
   },
   "biometricsFailedDesc": {
-    "message": "Biometria nebola dokončená. Zvážte použitie hlavného hesla, alebo sa odhláste. Ak tento problém pretrváva, kontaktujte podporu Byteward."
+    "message": "Biometria nebola dokončená. Zvážte použitie hlavného hesla, alebo sa odhláste. Ak tento problém pretrváva, kontaktujte podporu Bitwarden."
   },
   "nativeMessagingPermissionErrorTitle": {
     "message": "Povolenie nebolo udelené"
@@ -3595,7 +3595,7 @@
     "message": "Vylúčené domény"
   },
   "excludedDomainsDesc": {
-    "message": "Byteward nebude požadovať ukladanie prihlasovacích údajov pre tieto domény. Aby sa zmeny prejavili, musíte stránku obnoviť."
+    "message": "Bitwarden nebude požadovať ukladanie prihlasovacích údajov pre tieto domény. Aby sa zmeny prejavili, musíte stránku obnoviť."
   },
   "blockedDomainsDesc": {
     "message": "Automatické vypĺňanie a ďalšie súvisiace funkcie sa na týchto webových stránkach nebudú ponúkať. Aby sa zmeny prejavili, musíte stránku obnoviť."
@@ -3727,24 +3727,24 @@
     "message": "Príklady zoznamu prihlásení, ktoré sú ohrozené."
   },
   "welcomeDialogGraphicAlt": {
-    "message": "Ilustrácia rozloženia stránky trezoru Byteward."
+    "message": "Ilustrácia rozloženia stránky trezoru Bitwarden."
   },
   "generatePasswordSlideDesc": {
-    "message": "Rýchlo generujte silné, jedinečné heslo pomocu ponuky automatického vypĺňania Bytewardu na ohrozených stránkach.",
+    "message": "Rýchlo generujte silné, jedinečné heslo pomocu ponuky automatického vypĺňania Bitwardenu na ohrozených stránkach.",
     "description": "Description of the generate password slide on the at-risk password page carousel"
   },
   "generatePasswordSlideImgAltPeriod": {
-    "message": "Príklad ponuky automatického vypĺňania Bytewardu zobrazujúca vygenerované heslo."
+    "message": "Príklad ponuky automatického vypĺňania Bitwardenu zobrazujúca vygenerované heslo."
   },
   "updateInBitwarden": {
-    "message": "Aktualizovať v Bytewarde"
+    "message": "Aktualizovať v Bitwardene"
   },
   "updateInBitwardenSlideDesc": {
-    "message": "Byteward vás vyzve na aktualizáciu hesla v správcovi hesiel.",
+    "message": "Bitwarden vás vyzve na aktualizáciu hesla v správcovi hesiel.",
     "description": "Description of the update in Bitwarden slide on the at-risk password page carousel"
   },
   "updateInBitwardenSlideImgAltPeriod": {
-    "message": "Príklad upozornenia Bytewardu na aktualizovanie prihlasovacích údajov."
+    "message": "Príklad upozornenia Bitwardenu na aktualizovanie prihlasovacích údajov."
   },
   "turnOnAutofill": {
     "message": "Zapnúť automatické vypĺňanie"
@@ -4372,11 +4372,11 @@
     }
   },
   "forwarderGeneratedBy": {
-    "message": "Vygenerované Bytewardom.",
+    "message": "Vygenerované Bitwardenom.",
     "description": "Displayed with the address on the forwarding service's configuration screen."
   },
   "forwarderGeneratedByWithWebsite": {
-    "message": "Webstránka: $WEBSITE$. Vygenerované Bytewardom.",
+    "message": "Webstránka: $WEBSITE$. Vygenerované Bitwardenom.",
     "description": "Displayed with the address on the forwarding service's configuration screen.",
     "placeholders": {
       "WEBSITE": {
@@ -4598,7 +4598,7 @@
     "message": "Do vášho zariadenia bolo odoslané upozornenie."
   },
   "notificationSentDevicePart1": {
-    "message": "Odomknúť Byteward vo svojom zariadení alebo vo"
+    "message": "Odomknúť Bitwarden vo svojom zariadení alebo vo"
   },
   "notificationSentDeviceAnchor": {
     "message": "webovej aplikácii"
@@ -5098,15 +5098,15 @@
     "message": "Preskočiť na obsah"
   },
   "bitwardenOverlayButton": {
-    "message": "Tlačidlo ponuky automatického vypĺňania Bytewardu",
+    "message": "Tlačidlo ponuky automatického vypĺňania Bitwardenu",
     "description": "Page title for the iframe containing the overlay button"
   },
   "toggleBitwardenVaultOverlay": {
-    "message": "Prepnúť ponuku automatického vypĺňania Bytewardu",
+    "message": "Prepnúť ponuku automatického vypĺňania Bitwardenu",
     "description": "Screen reader and tool tip label for the overlay button"
   },
   "bitwardenVault": {
-    "message": "Ponuka automatického vypĺňania Bytewardu",
+    "message": "Ponuka automatického vypĺňania Bitwardenu",
     "description": "Page title in overlay"
   },
   "unlockYourAccountToViewMatchingLogins": {
@@ -5178,7 +5178,7 @@
     "description": "Screen reader text (aria-label) for new identity button within inline menu"
   },
   "bitwardenOverlayMenuAvailable": {
-    "message": "K dispozícii je ponuka automatického vyplňovania Bytewardu. Stlačte tlačidlo so šípkou nadol a vyberte.",
+    "message": "K dispozícii je ponuka automatického vyplňovania Bitwardenu. Stlačte tlačidlo so šípkou nadol a vyberte.",
     "description": "Screen reader text for announcing when the overlay opens on the page"
   },
   "turnOn": {
@@ -6438,7 +6438,7 @@
     "description": "Label indicating the most common import formats"
   },
   "uriMatchDefaultStrategyHint": {
-    "message": "Zisťovanie zhody URI je spôsob, akým Byteward identifikuje návrhy na automatické vypĺňanie.",
+    "message": "Zisťovanie zhody URI je spôsob, akým Bitwarden identifikuje návrhy na automatické vypĺňanie.",
     "description": "Explains to the user that URI match detection determines how Bitwarden suggests autofill options, and clarifies that this default strategy applies when no specific match detection is set for a login item."
   },
   "regExAdvancedOptionWarning": {
@@ -6482,15 +6482,15 @@
     "description": "Body content for dialog which asks if the user wants to proceed to the browser's keyboard shortcut settings page"
   },
   "overrideDefaultBrowserAutofillTitle": {
-    "message": "Nastaviť Byteward ako predvoleného správcu hesiel?",
+    "message": "Nastaviť Bitwarden ako predvoleného správcu hesiel?",
     "description": "Dialog title facilitating the ability to override a chrome browser's default autofill behavior"
   },
   "overrideDefaultBrowserAutofillDescription": {
-    "message": "Ak nenastavíte túto možnosť, môže to spôsobiť konflikty medzi ponukou automatického vypĺňania Bytewardu a ponukou vášho prehliadača.",
+    "message": "Ak nenastavíte túto možnosť, môže to spôsobiť konflikty medzi ponukou automatického vypĺňania Bitwardenu a ponukou vášho prehliadača.",
     "description": "Dialog message facilitating the ability to override a chrome browser's default autofill behavior"
   },
   "overrideDefaultBrowserAutoFillSettings": {
-    "message": "Nastaviť Byteward ako predvoleného správcu hesiel",
+    "message": "Nastaviť Bitwarden ako predvoleného správcu hesiel",
     "description": "Label for the setting that allows overriding the default browser autofill settings"
   },
   "defaultPasswordManagerCalloutTitle": {
@@ -6498,7 +6498,7 @@
     "description": "Title for the callout that prompts users to set Bitwarden as their default password manager"
   },
   "defaultPasswordManagerCalloutDesc": {
-    "message": "Budete požiadaní, aby ste prehliadaču $BROWSER$ udelili povolenie na nastavenie Bytewardu ako predvoleného správcu hesiel.",
+    "message": "Budete požiadaní, aby ste prehliadaču $BROWSER$ udelili povolenie na nastavenie Bitwardenu ako predvoleného správcu hesiel.",
     "description": "Description for the callout that prompts users to set Bitwarden as their default password manager",
     "placeholders": {
       "browser": {
@@ -6508,11 +6508,11 @@
     }
   },
   "privacyPermissionAdditionNotGrantedTitle": {
-    "message": "Nie je možné nastaviť Byteward ako predvoleného správcu hesiel",
+    "message": "Nie je možné nastaviť Bitwarden ako predvoleného správcu hesiel",
     "description": "Title for the dialog that appears when the user has not granted the extension permission to set privacy settings"
   },
   "privacyPermissionAdditionNotGrantedDescription": {
-    "message": "Ak chcete nastaviť Byteward ako predvoleného správcu hesiel, musíte mu udeliť oprávnenia na ochranu súkromia v prehliadači.",
+    "message": "Ak chcete nastaviť Bitwarden ako predvoleného správcu hesiel, musíte mu udeliť oprávnenia na ochranu súkromia v prehliadači.",
     "description": "Description for the dialog that appears when the user has not granted the extension permission to set privacy settings"
   },
   "makeDefault": {
@@ -6520,10 +6520,10 @@
     "description": "Button text for the setting that allows overriding the default browser autofill settings"
   },
   "defaultPasswordManagerPromptTitle": {
-    "message": "Nastaviť Byteward ako predvolený správca hesiel v prehliadači"
+    "message": "Nastaviť Bitwarden ako predvolený správca hesiel v prehliadači"
   },
   "defaultPasswordManagerPromptTitleV2": {
-    "message": "Nastaviť Byteward ako predvoleného správcu hesiel",
+    "message": "Nastaviť Bitwarden ako predvoleného správcu hesiel",
     "description": "Label for the setting to make Bitwarden the default password manager"
   },
   "defaultPasswordManagerSettingHintV2": {
@@ -6535,13 +6535,13 @@
     "description": "Link text to browser autofill settings in the default password manager setting hint."
   },
   "defaultPasswordManagerPromptStep2AfterAllow": {
-    "message": "z výzvy prehliadača, v ktorej sa žiada o udelenie povolenia pre Byteward na zmenu vašich nastavení."
+    "message": "z výzvy prehliadača, v ktorej sa žiada o udelenie povolenia pre Bitwarden na zmenu vašich nastavení."
   },
   "defaultPasswordManagerPromptStep3": {
     "message": "Vypneme integrovaného správcu hesiel v prehliadači, aby ste sa mohli bezpečne prihlásiť."
   },
   "defaultPasswordManagerSuccessToast": {
-    "message": "Nastavili ste si Byteward ako predvolený správca hesiel v prehliadači"
+    "message": "Nastavili ste si Bitwarden ako predvolený správca hesiel v prehliadači"
   },
   "allow": {
     "message": "Povoliť",
@@ -7549,7 +7549,7 @@
     "description": "Notification message for when a password has been regenerated"
   },
   "saveToBitwarden": {
-    "message": "Uložiť do Bytewardu",
+    "message": "Uložiť do Bitwardenu",
     "description": "Confirmation message for saving a login to Bitwarden"
   },
   "spaceCharacterDescriptor": {
@@ -7793,13 +7793,13 @@
     "message": "Použite priečinky na usporiadanie položiek trezoru. Sú len pre vás. Nikto iný ich neuvidí ani nepoužije."
   },
   "introCarouselLabel": {
-    "message": "Vitajte v Bytewarde"
+    "message": "Vitajte v Bitwardene"
   },
   "securityPrioritized": {
     "message": "Bezpečnosť na prvom mieste"
   },
   "securityPrioritizedBody": {
-    "message": "Ukladajte prihlasovacie údaje, karty a identity do zabezpečeného trezoru. Byteward používa šifrovanie s nulovou znalosťou od začiatku do konca na ochranu toho, čo je pre vás dôležité."
+    "message": "Ukladajte prihlasovacie údaje, karty a identity do zabezpečeného trezoru. Bitwarden používa šifrovanie s nulovou znalosťou od začiatku do konca na ochranu toho, čo je pre vás dôležité."
   },
   "quickLogin": {
     "message": "Rýchle a jednoduché prihlásenie"
@@ -7945,7 +7945,7 @@
     "message": "O tomto nastavení"
   },
   "permitCipherDetailsDescription": {
-    "message": "Byteward použije uložené prihlasovacie URI na určenie ikony alebo adresy URL na zmenu hesla, ktoré by sa mali použiť na zlepšenie vášho zážitku. Pri používaní tejto služby sa nezbierajú ani neukladajú žiadne informácie."
+    "message": "Bitwarden použije uložené prihlasovacie URI na určenie ikony alebo adresy URL na zmenu hesla, ktoré by sa mali použiť na zlepšenie vášho zážitku. Pri používaní tejto služby sa nezbierajú ani neukladajú žiadne informácie."
   },
   "showQuickCopyActionsDetailsDescription": {
     "message": "Vedľa položiek pridá 3 tlačidlá na rýchle kopírovanie, pomocou ktorých môžete skopírovať používateľské meno, heslo alebo overovací kód do schránky."
@@ -7954,7 +7954,7 @@
     "message": "Nemáte oprávnenie na zobrazenie tejto stránky. Skúste sa prihlásiť pomocou iného účtu."
   },
   "wasmNotSupported": {
-    "message": "WebAssembly nie je vo vašom prehliadači podporovaný alebo nie je povolený. Na používanie Bytewardu sa vyžaduje WebAssembly.",
+    "message": "WebAssembly nie je vo vašom prehliadači podporovaný alebo nie je povolený. Na používanie Bitwardenu sa vyžaduje WebAssembly.",
     "description": "'WebAssembly' is a technical term and should not be translated."
   },
   "showMore": {
@@ -8261,7 +8261,7 @@
     "message": "Na používanie zdieľaného odomknutia potrebuje Bitwarden povolenie na komunikáciu s desktopovou aplikáciou. Keď budete pokračovať, prehliadač vás požiada o schválenie tohto povolenia."
   },
   "sharedUnlockDesktopPermissionWarning": {
-    "message": "Byteward sa uzamkne a znovu sa načíta. Po vašom schválení sa rozšírenie znovu načíta a uzamkne trezor."
+    "message": "Bitwarden sa uzamkne a znovu sa načíta. Po vašom schválení sa rozšírenie znovu načíta a uzamkne trezor."
   },
   "biometricPermissionDesc": {
     "message": "Na používanie odomknutia biometriou potrebuje Bitwarden povolenie na komunikáciu s desktopovou aplikáciou. Keď budete pokračovať, prehliadač vás požiada o schválenie tohto povolenia."

@@ -1,20 +1,20 @@
 {
   "appName": {
-    "message": "Byteward"
+    "message": "Bitwarden"
   },
   "appLogoLabel": {
-    "message": "Byteward-ის ლოგო"
+    "message": "Bitwarden-ის ლოგო"
   },
   "extName": {
-    "message": "Byteward პაროლების მენეჯერი",
+    "message": "Bitwarden პაროლების მენეჯერი",
     "description": "Extension name, MUST be less than 40 characters (Safari restriction)"
   },
   "extNameBeta": {
-    "message": "Byteward პაროლების მენეჯერი Beta",
+    "message": "Bitwarden პაროლების მენეჯერი Beta",
     "description": "Extension name for the beta channel, MUST be less than 40 characters (Safari restriction)"
   },
   "extDesc": {
-    "message": "სახლში, სამსახურში ან გზაში, Byteward მარტივად იცავს თქვენს ყველა პაროლს, პასკის და მგრძნობიარე ინფორმაციას",
+    "message": "სახლში, სამსახურში ან გზაში, Bitwarden მარტივად იცავს თქვენს ყველა პაროლს, პასკის და მგრძნობიარე ინფორმაციას",
     "description": "Extension description, MUST be less than 112 characters (Safari restriction)"
   },
   "loginOrCreateNewAccount": {
@@ -336,7 +336,7 @@
     "message": "გავაგრძელოთ ბრაუზერის გაფართოებების მაღაზიაში?"
   },
   "continueToBrowserExtensionStoreDesc": {
-    "message": "დაეხმარეთ სხვებს გაიგონ, არის თუ არა Byteward მათთვის შესაფერისი. ეწვიეთ თქვენი ბრაუზერის გაფართოებების მაღაზიას და დატოვეთ შეფასება."
+    "message": "დაეხმარეთ სხვებს გაიგონ, არის თუ არა Bitwarden მათთვის შესაფერისი. ეწვიეთ თქვენი ბრაუზერის გაფართოებების მაღაზიას და დატოვეთ შეფასება."
   },
   "changeMasterPasswordOnWebConfirmation": {
     "message": "შეგიძლიათ შეცვალოთ მთავარი პაროლი Bitwarden-ის ვებ აპში."
@@ -356,7 +356,7 @@
     "message": "სისტემიდან გასვლა"
   },
   "aboutBitwarden": {
-    "message": "Byteward-ის შესახებ"
+    "message": "Bitwarden-ის შესახებ"
   },
   "about": {
     "message": "შესახებ"
@@ -1081,10 +1081,10 @@
     "message": "გახადეთ ორსაფეხურიანი ვერიფიკაცია უწყვეტი"
   },
   "totpHelper": {
-    "message": "Byteward-ს შეუძლია ორსაფეხურიანი ვერიფიკაციის კოდების შენახვა და შევსება. დააკოპირეთ და ჩასვით გასაღები ამ ველში."
+    "message": "Bitwarden-ს შეუძლია ორსაფეხურიანი ვერიფიკაციის კოდების შენახვა და შევსება. დააკოპირეთ და ჩასვით გასაღები ამ ველში."
   },
   "totpHelperWithCapture": {
-    "message": "Byteward-ს შეუძლია ორსაფეხურიანი ვერიფიკაციის კოდების შენახვა და შევსება. აირჩიეთ კამერის ხატულა ამ ვებსაიტის აუთენტიფიკატორის QR კოდის სკრინშოტის გადასაღებად, ან დააკოპირეთ და ჩასვით გასაღები ამ ველში."
+    "message": "Bitwarden-ს შეუძლია ორსაფეხურიანი ვერიფიკაციის კოდების შენახვა და შევსება. აირჩიეთ კამერის ხატულა ამ ვებსაიტის აუთენტიფიკატორის QR კოდის სკრინშოტის გადასაღებად, ან დააკოპირეთ და ჩასვით გასაღები ამ ველში."
   },
   "learnMoreAboutAuthenticators": {
     "message": "გაიგეთ მეტი აუთენტიფიკატორების შესახებ"
@@ -1333,7 +1333,7 @@
     "message": "პარამეტრზე გადასვლა"
   },
   "notificationAddDesc": {
-    "message": "უნდა დაიმახსოვროს Byteward-მა ეს პაროლი თქვენთვის?"
+    "message": "უნდა დაიმახსოვროს Bitwarden-მა ეს პაროლი თქვენთვის?"
   },
   "notificationAddSave": {
     "message": "შენახვა"
@@ -1369,11 +1369,11 @@
     }
   },
   "notificationLoginSaveConfirmation": {
-    "message": "შენახულია Byteward-ში.",
+    "message": "შენახულია Bitwarden-ში.",
     "description": "Shown to user after item is saved."
   },
   "notificationLoginUpdatedConfirmation": {
-    "message": "განახლებულია Byteward-ში.",
+    "message": "განახლებულია Bitwarden-ში.",
     "description": "Shown to user after item is updated."
   },
   "selectItemAriaLabel": {
@@ -1471,13 +1471,13 @@
     "message": "ახალი პასკების შენახვის ან თქვენს საცავში შენახული პასკებით შესვლის მოთხოვნა. ვრცელდება ყველა შესულ ანგარიშზე."
   },
   "notificationChangeDesc": {
-    "message": "გსურთ ამ პაროლის განახლება Byteward-ში?"
+    "message": "გსურთ ამ პაროლის განახლება Bitwarden-ში?"
   },
   "notificationChangeSave": {
     "message": "განახლება"
   },
   "notificationUnlockDesc": {
-    "message": "განბლოკეთ თქვენი Byteward საცავი ავტომატური შევსების მოთხოვნის დასასრულებლად."
+    "message": "განბლოკეთ თქვენი Bitwarden საცავი ავტომატური შევსების მოთხოვნის დასასრულებლად."
   },
   "notificationUnlock": {
     "message": "განბლოკვა"
@@ -1786,7 +1786,7 @@
     "message": "ეს პაროლი გამოყენებული იქნება ამ ფაილის ექსპორტისა და იმპორტისთვის"
   },
   "accountRestrictedOptionDescription": {
-    "message": "გამოიყენეთ თქვენი ანგარიშის დაშიფვრის გასაღები, რომელიც მიღებულია თქვენი ანგარიშის მომხმარებლის სახელიდან და მთავარი პაროლიდან, ექსპორტის დასაშიფრად და იმპორტის შესაზღუდად მხოლოდ მიმდინარე Byteward ანგარიშზე."
+    "message": "გამოიყენეთ თქვენი ანგარიშის დაშიფვრის გასაღები, რომელიც მიღებულია თქვენი ანგარიშის მომხმარებლის სახელიდან და მთავარი პაროლიდან, ექსპორტის დასაშიფრად და იმპორტის შესაზღუდად მხოლოდ მიმდინარე Bitwarden ანგარიშზე."
   },
   "passwordProtectedOptionDescription": {
     "message": "დააყენეთ ფაილის პაროლი ექსპორტის დასაშიფრად და იმპორტისთვის ნებისმიერ Bitwarden ანგარიშზე, გაშიფვრისთვის პაროლის გამოყენებით."
@@ -2236,7 +2236,7 @@
     "message": "მარტივად იპოვეთ ავტომატური შევსების შემოთავაზებები"
   },
   "autofillSpotlightDesc": {
-    "message": "გამორთეთ თქვენი ბრაუზერის ავტომატური შევსების პარამეტრები, რომ არ კონფლიქტობდეს Byteward-თან."
+    "message": "გამორთეთ თქვენი ბრაუზერის ავტომატური შევსების პარამეტრები, რომ არ კონფლიქტობდეს Bitwarden-თან."
   },
   "turnOffBrowserAutofill": {
     "message": "$BROWSER$-ის ავტომატური შევსების გამორთვა",
@@ -2293,7 +2293,7 @@
     "message": "ავტომატური შევსების შემოთავაზებების ჩვენება ფორმის ველებზე"
   },
   "howDoesBitwardenProtectFromPhishing": {
-    "message": "როგორ იცავს Byteward თქვენს მონაცემებს ფიშინგისგან?"
+    "message": "როგორ იცავს Bitwarden თქვენს მონაცემებს ფიშინგისგან?"
   },
   "currentWebsite": {
     "message": "მიმდინარე ვებსაიტი"
@@ -3202,7 +3202,7 @@
     "message": "სუსტი მთავარი პაროლი"
   },
   "weakMasterPasswordDesc": {
-    "message": "თქვენ მიერ არჩეული მთავარი პაროლი სუსტია. თქვენ უნდა გამოიყენოთ ძლიერი მთავარი პაროლი (ან ფრაზა) თქვენი Byteward ანგარიშის სათანადოდ დასაცავად. დარწმუნებული ხართ, რომ გსურთ ამ მთავარი პაროლის გამოყენება?"
+    "message": "თქვენ მიერ არჩეული მთავარი პაროლი სუსტია. თქვენ უნდა გამოიყენოთ ძლიერი მთავარი პაროლი (ან ფრაზა) თქვენი Bitwarden ანგარიშის სათანადოდ დასაცავად. დარწმუნებული ხართ, რომ გსურთ ამ მთავარი პაროლის გამოყენება?"
   },
   "rotateAccountEncKey": {
     "message": "ასევე შეცვალეთ ჩემი ანგარიშის დაშიფვრის გასაღები"
@@ -3242,10 +3242,10 @@
     "message": "PIN-ის დაყენება"
   },
   "setYourPinCode": {
-    "message": "დააყენეთ თქვენი PIN კოდი Byteward-ის განბლოკვისთვის. თქვენი PIN პარამეტრები განულდება, თუ ოდესმე მთლიანად გამოხვალთ აპლიკაციიდან."
+    "message": "დააყენეთ თქვენი PIN კოდი Bitwarden-ის განბლოკვისთვის. თქვენი PIN პარამეტრები განულდება, თუ ოდესმე მთლიანად გამოხვალთ აპლიკაციიდან."
   },
   "setPinCode": {
-    "message": "შეგიძლიათ ეს PIN გამოიყენოთ Byteward-ის განსაბლოკად. თქვენი PIN განულდება, თუ ოდესმე მთლიანად გამოხვალთ აპლიკაციიდან."
+    "message": "შეგიძლიათ ეს PIN გამოიყენოთ Bitwarden-ის განსაბლოკად. თქვენი PIN განულდება, თუ ოდესმე მთლიანად გამოხვალთ აპლიკაციიდან."
   },
   "pinRequired": {
     "message": "PIN კოდი სავალდებულოა."
@@ -3381,7 +3381,7 @@
     "message": "ფორმა განთავსებულია სხვა დომენზე, ვიდრე თქვენი შენახული შესვლის URI. აირჩიეთ OK ყოველ შემთხვევაში ავტომატურად შესავსებად, ან Cancel შესაჩერებლად."
   },
   "autofillIframeWarningTip": {
-    "message": "მომავალში ამ გაფრთხილების თავიდან ასაცილებლად, შეინახეთ ეს URI, $HOSTNAME$, თქვენი Byteward-ის შესვლის ელემენტში ამ საიტისთვის.",
+    "message": "მომავალში ამ გაფრთხილების თავიდან ასაცილებლად, შეინახეთ ეს URI, $HOSTNAME$, თქვენი Bitwarden-ის შესვლის ელემენტში ამ საიტისთვის.",
     "placeholders": {
       "hostname": {
         "content": "$1",
@@ -3390,7 +3390,7 @@
     }
   },
   "topLayerHijackWarning": {
-    "message": "ეს გვერდი ხელს უშლის Byteward-ის მუშაობას. Byteward-ის ჩაშენებული მენიუ დროებით გამორთულია უსაფრთხოების ზომად."
+    "message": "ეს გვერდი ხელს უშლის Bitwarden-ის მუშაობას. Bitwarden-ის ჩაშენებული მენიუ დროებით გამორთულია უსაფრთხოების ზომად."
   },
   "setMasterPassword": {
     "message": "მთავარი პაროლის დაყენება"
@@ -3552,7 +3552,7 @@
     "message": "ბიომეტრია ვერ მოხერხდა"
   },
   "biometricsFailedDesc": {
-    "message": "ბიომეტრია ვერ სრულდება, განიხილეთ მთავარი პაროლის გამოყენება ან გასვლა. თუ ეს გაგრძელდა, გთხოვთ დაუკავშირდეთ Byteward-ის მხარდაჭერას."
+    "message": "ბიომეტრია ვერ სრულდება, განიხილეთ მთავარი პაროლის გამოყენება ან გასვლა. თუ ეს გაგრძელდა, გთხოვთ დაუკავშირდეთ Bitwarden-ის მხარდაჭერას."
   },
   "nativeMessagingPermissionErrorTitle": {
     "message": "ნებართვა არ არის მოწოდებული"
@@ -3595,7 +3595,7 @@
     "message": "გამორიცხული დომენები"
   },
   "excludedDomainsDesc": {
-    "message": "Byteward არ მოგთხოვთ ამ დომენებისთვის შესვლის დეტალების შენახვას. ცვლილებების ძალაში შესვლისთვის საჭიროა გვერდის განახლება."
+    "message": "Bitwarden არ მოგთხოვთ ამ დომენებისთვის შესვლის დეტალების შენახვას. ცვლილებების ძალაში შესვლისთვის საჭიროა გვერდის განახლება."
   },
   "blockedDomainsDesc": {
     "message": "ავტომატური შევსება და სხვა დაკავშირებული ფუნქციები არ იქნება შემოთავაზებული ამ ვებსაიტებისთვის. ცვლილებების ძალაში შესვლისთვის საჭიროა გვერდის განახლება."
@@ -3727,24 +3727,24 @@
     "message": "რისკის ქვეშ მყოფი შესვლების სიის ილუსტრაცია."
   },
   "welcomeDialogGraphicAlt": {
-    "message": "Byteward-ის საცავის გვერდის განლაგების ილუსტრაცია."
+    "message": "Bitwarden-ის საცავის გვერდის განლაგების ილუსტრაცია."
   },
   "generatePasswordSlideDesc": {
-    "message": "სწრაფად დააგენერირეთ ძლიერი, უნიკალური პაროლი Byteward-ის ავტომატური შევსების მენიუთი რისკის ქვეშ მყოფ საიტზე.",
+    "message": "სწრაფად დააგენერირეთ ძლიერი, უნიკალური პაროლი Bitwarden-ის ავტომატური შევსების მენიუთი რისკის ქვეშ მყოფ საიტზე.",
     "description": "Description of the generate password slide on the at-risk password page carousel"
   },
   "generatePasswordSlideImgAltPeriod": {
-    "message": "Byteward-ის ავტომატური შევსების მენიუს ილუსტრაცია, რომელიც აჩვენებს დაგენერირებულ პაროლს."
+    "message": "Bitwarden-ის ავტომატური შევსების მენიუს ილუსტრაცია, რომელიც აჩვენებს დაგენერირებულ პაროლს."
   },
   "updateInBitwarden": {
-    "message": "განახლება Byteward-ში"
+    "message": "განახლება Bitwarden-ში"
   },
   "updateInBitwardenSlideDesc": {
-    "message": "Byteward შემდეგ მოგთხოვთ პაროლის განახლებას პაროლების მენეჯერში.",
+    "message": "Bitwarden შემდეგ მოგთხოვთ პაროლის განახლებას პაროლების მენეჯერში.",
     "description": "Description of the update in Bitwarden slide on the at-risk password page carousel"
   },
   "updateInBitwardenSlideImgAltPeriod": {
-    "message": "Byteward-ის შეტყობინების ილუსტრაცია, რომელიც მომხმარებელს შესვლის განახლებას სთხოვს."
+    "message": "Bitwarden-ის შეტყობინების ილუსტრაცია, რომელიც მომხმარებელს შესვლის განახლებას სთხოვს."
   },
   "turnOnAutofill": {
     "message": "ავტომატური შევსების ჩართვა"
@@ -4372,11 +4372,11 @@
     }
   },
   "forwarderGeneratedBy": {
-    "message": "დაგენერირებულია Byteward-ის მიერ.",
+    "message": "დაგენერირებულია Bitwarden-ის მიერ.",
     "description": "Displayed with the address on the forwarding service's configuration screen."
   },
   "forwarderGeneratedByWithWebsite": {
-    "message": "ვებსაიტი: $WEBSITE$. დაგენერირებულია Byteward-ის მიერ.",
+    "message": "ვებსაიტი: $WEBSITE$. დაგენერირებულია Bitwarden-ის მიერ.",
     "description": "Displayed with the address on the forwarding service's configuration screen.",
     "placeholders": {
       "WEBSITE": {
@@ -4598,7 +4598,7 @@
     "message": "შეტყობინება გაგზავნილია თქვენს მოწყობილობაზე."
   },
   "notificationSentDevicePart1": {
-    "message": "განბლოკეთ Byteward თქვენს მოწყობილობაზე ან"
+    "message": "განბლოკეთ Bitwarden თქვენს მოწყობილობაზე ან"
   },
   "notificationSentDeviceAnchor": {
     "message": "ვებ აპზე"
@@ -5098,15 +5098,15 @@
     "message": "შემცველობაზე გადახტომა"
   },
   "bitwardenOverlayButton": {
-    "message": "Byteward-ის ავტომატური შევსების მენიუს ღილაკი",
+    "message": "Bitwarden-ის ავტომატური შევსების მენიუს ღილაკი",
     "description": "Page title for the iframe containing the overlay button"
   },
   "toggleBitwardenVaultOverlay": {
-    "message": "Byteward-ის ავტომატური შევსების მენიუს გადართვა",
+    "message": "Bitwarden-ის ავტომატური შევსების მენიუს გადართვა",
     "description": "Screen reader and tool tip label for the overlay button"
   },
   "bitwardenVault": {
-    "message": "Byteward-ის ავტომატური შევსების მენიუ",
+    "message": "Bitwarden-ის ავტომატური შევსების მენიუ",
     "description": "Page title in overlay"
   },
   "unlockYourAccountToViewMatchingLogins": {
@@ -5178,7 +5178,7 @@
     "description": "Screen reader text (aria-label) for new identity button within inline menu"
   },
   "bitwardenOverlayMenuAvailable": {
-    "message": "Byteward-ის ავტომატური შევსების მენიუ ხელმისაწვდომია. ასარჩევად დააჭირეთ ქვემოთ მიმართულ ისარს.",
+    "message": "Bitwarden-ის ავტომატური შევსების მენიუ ხელმისაწვდომია. ასარჩევად დააჭირეთ ქვემოთ მიმართულ ისარს.",
     "description": "Screen reader text for announcing when the overlay opens on the page"
   },
   "turnOn": {
@@ -6438,7 +6438,7 @@
     "description": "Label indicating the most common import formats"
   },
   "uriMatchDefaultStrategyHint": {
-    "message": "URI-ის შესაბამისობის აღმოჩენა არის ის, თუ როგორ ამოიცნობს Byteward ავტომატური შევსების შემოთავაზებებს.",
+    "message": "URI-ის შესაბამისობის აღმოჩენა არის ის, თუ როგორ ამოიცნობს Bitwarden ავტომატური შევსების შემოთავაზებებს.",
     "description": "Explains to the user that URI match detection determines how Bitwarden suggests autofill options, and clarifies that this default strategy applies when no specific match detection is set for a login item."
   },
   "regExAdvancedOptionWarning": {
@@ -6482,15 +6482,15 @@
     "description": "Body content for dialog which asks if the user wants to proceed to the browser's keyboard shortcut settings page"
   },
   "overrideDefaultBrowserAutofillTitle": {
-    "message": "გახადოთ Byteward თქვენი ნაგულისხმევი პაროლების მენეჯერი?",
+    "message": "გახადოთ Bitwarden თქვენი ნაგულისხმევი პაროლების მენეჯერი?",
     "description": "Dialog title facilitating the ability to override a chrome browser's default autofill behavior"
   },
   "overrideDefaultBrowserAutofillDescription": {
-    "message": "ამ პარამეტრის იგნორირებამ შეიძლება გამოიწვიოს კონფლიქტი Byteward-ის ავტომატური შევსების შემოთავაზებებსა და თქვენი ბრაუზერისას შორის.",
+    "message": "ამ პარამეტრის იგნორირებამ შეიძლება გამოიწვიოს კონფლიქტი Bitwarden-ის ავტომატური შევსების შემოთავაზებებსა და თქვენი ბრაუზერისას შორის.",
     "description": "Dialog message facilitating the ability to override a chrome browser's default autofill behavior"
   },
   "overrideDefaultBrowserAutoFillSettings": {
-    "message": "გახადეთ Byteward თქვენი ნაგულისხმევი პაროლების მენეჯერი",
+    "message": "გახადეთ Bitwarden თქვენი ნაგულისხმევი პაროლების მენეჯერი",
     "description": "Label for the setting that allows overriding the default browser autofill settings"
   },
   "defaultPasswordManagerCalloutTitle": {
@@ -6498,7 +6498,7 @@
     "description": "Title for the callout that prompts users to set Bitwarden as their default password manager"
   },
   "defaultPasswordManagerCalloutDesc": {
-    "message": "თქვენ მოგეთხოვებათ $BROWSER$ ბრაუზერის ნებართვის მინიჭება, რომ Byteward თქვენს ნაგულისხმევ პაროლების მენეჯერად იქცეს.",
+    "message": "თქვენ მოგეთხოვებათ $BROWSER$ ბრაუზერის ნებართვის მინიჭება, რომ Bitwarden თქვენს ნაგულისხმევ პაროლების მენეჯერად იქცეს.",
     "description": "Description for the callout that prompts users to set Bitwarden as their default password manager",
     "placeholders": {
       "browser": {
@@ -6508,11 +6508,11 @@
     }
   },
   "privacyPermissionAdditionNotGrantedTitle": {
-    "message": "Byteward-ის ნაგულისხმევ პაროლების მენეჯერად დაყენება შეუძლებელია",
+    "message": "Bitwarden-ის ნაგულისხმევ პაროლების მენეჯერად დაყენება შეუძლებელია",
     "description": "Title for the dialog that appears when the user has not granted the extension permission to set privacy settings"
   },
   "privacyPermissionAdditionNotGrantedDescription": {
-    "message": "Byteward-ის ნაგულისხმევ პაროლების მენეჯერად დასაყენებლად უნდა მიანიჭოთ ბრაუზერის კონფიდენციალურობის ნებართვები.",
+    "message": "Bitwarden-ის ნაგულისხმევ პაროლების მენეჯერად დასაყენებლად უნდა მიანიჭოთ ბრაუზერის კონფიდენციალურობის ნებართვები.",
     "description": "Description for the dialog that appears when the user has not granted the extension permission to set privacy settings"
   },
   "makeDefault": {
@@ -6520,10 +6520,10 @@
     "description": "Button text for the setting that allows overriding the default browser autofill settings"
   },
   "defaultPasswordManagerPromptTitle": {
-    "message": "გახადეთ Byteward თქვენი ბრაუზერის ნაგულისხმევი პაროლების მენეჯერი"
+    "message": "გახადეთ Bitwarden თქვენი ბრაუზერის ნაგულისხმევი პაროლების მენეჯერი"
   },
   "defaultPasswordManagerPromptTitleV2": {
-    "message": "გახადეთ Byteward თქვენი ნაგულისხმევი პაროლების მენეჯერი",
+    "message": "გახადეთ Bitwarden თქვენი ნაგულისხმევი პაროლების მენეჯერი",
     "description": "Label for the setting to make Bitwarden the default password manager"
   },
   "defaultPasswordManagerSettingHintV2": {
@@ -6535,13 +6535,13 @@
     "description": "Link text to browser autofill settings in the default password manager setting hint."
   },
   "defaultPasswordManagerPromptStep2AfterAllow": {
-    "message": "ბრაუზერის მოთხოვნიდან, რომ Byteward-ს მისცეთ თქვენი პარამეტრების შეცვლის ნებართვა."
+    "message": "ბრაუზერის მოთხოვნიდან, რომ Bitwarden-ს მისცეთ თქვენი პარამეტრების შეცვლის ნებართვა."
   },
   "defaultPasswordManagerPromptStep3": {
     "message": "ჩვენ გამოვრთავთ თქვენი ბრაუზერის ჩაშენებულ პაროლების მენეჯერს, რომ უსაფრთხო შესვლის გამოცდილება მიიღოთ."
   },
   "defaultPasswordManagerSuccessToast": {
-    "message": "Byteward გახდა თქვენი ბრაუზერის ნაგულისხმევი პაროლების მენეჯერი"
+    "message": "Bitwarden გახდა თქვენი ბრაუზერის ნაგულისხმევი პაროლების მენეჯერი"
   },
   "allow": {
     "message": "დაშვება",
@@ -7549,7 +7549,7 @@
     "description": "Notification message for when a password has been regenerated"
   },
   "saveToBitwarden": {
-    "message": "Byteward-ში შენახვა",
+    "message": "Bitwarden-ში შენახვა",
     "description": "Confirmation message for saving a login to Bitwarden"
   },
   "spaceCharacterDescriptor": {
@@ -7793,13 +7793,13 @@
     "message": "Use folders to organize vault items. They're just for you. No one else will see or use them."
   },
   "introCarouselLabel": {
-    "message": "კეთილი იყოს თქვენი მობრძანება Byteward-ში"
+    "message": "კეთილი იყოს თქვენი მობრძანება Bitwarden-ში"
   },
   "securityPrioritized": {
     "message": "უსაფრთხოება, პრიორიტეტად"
   },
   "securityPrioritizedBody": {
-    "message": "შეინახეთ შესვლები, ბარათები და იდენტობები თქვენს დაცულ საცავში. Byteward იყენებს ნულოვანი ცოდნის, ბოლოდან ბოლომდე დაშიფვრას თქვენთვის მნიშვნელოვანი ნივთების დასაცავად."
+    "message": "შეინახეთ შესვლები, ბარათები და იდენტობები თქვენს დაცულ საცავში. Bitwarden იყენებს ნულოვანი ცოდნის, ბოლოდან ბოლომდე დაშიფვრას თქვენთვის მნიშვნელოვანი ნივთების დასაცავად."
   },
   "quickLogin": {
     "message": "სწრაფი და მარტივი შესვლა"
@@ -7945,7 +7945,7 @@
     "message": "ამ პარამეტრის შესახებ"
   },
   "permitCipherDetailsDescription": {
-    "message": "Byteward გამოიყენებს შენახულ შესვლის URI-ებს იმის დასადგენად, თუ რომელი ხატულა ან პაროლის შეცვლის URL უნდა იქნას გამოყენებული თქვენი გამოცდილების გასაუმჯობესებლად. ამ სერვისის გამოყენებისას ინფორმაცია არ გროვდება ან ინახება."
+    "message": "Bitwarden გამოიყენებს შენახულ შესვლის URI-ებს იმის დასადგენად, თუ რომელი ხატულა ან პაროლის შეცვლის URL უნდა იქნას გამოყენებული თქვენი გამოცდილების გასაუმჯობესებლად. ამ სერვისის გამოყენებისას ინფორმაცია არ გროვდება ან ინახება."
   },
   "showQuickCopyActionsDetailsDescription": {
     "message": "დაამატეთ 3 სწრაფი კოპირების ღილაკი ელემენტების გვერდით, რომ დააკოპიროთ თქვენი მომხმარებლის სახელი, პაროლი ან ვერიფიკაციის კოდი ბუფერში."
@@ -7954,7 +7954,7 @@
     "message": "თქვენ არ გაქვთ ამ გვერდის ნახვის უფლება. სცადეთ სხვა ანგარიშით შესვლა."
   },
   "wasmNotSupported": {
-    "message": "WebAssembly არ არის მხარდაჭერილი თქვენს ბრაუზერზე ან არ არის ჩართული. WebAssembly საჭიროა Byteward აპის გამოსაყენებლად.",
+    "message": "WebAssembly არ არის მხარდაჭერილი თქვენს ბრაუზერზე ან არ არის ჩართული. WebAssembly საჭიროა Bitwarden აპის გამოსაყენებლად.",
     "description": "'WebAssembly' is a technical term and should not be translated."
   },
   "showMore": {
@@ -8261,7 +8261,7 @@
     "message": "საერთო განბლოკვის გამოსაყენებლად, Bitwarden-ს სჭირდება ნებართვა დესკტოპ აპთან კომუნიკაციისთვის. გაგრძელებისას, თქვენი ბრაუზერი მოგთხოვთ მის დადასტურებას."
   },
   "sharedUnlockDesktopPermissionWarning": {
-    "message": "Byteward დაიბლოკება და გადაიტვირთება. დადასტურების შემდეგ, გაფართოება გადაიტვირთება და დაბლოკავს თქვენს საცავს."
+    "message": "Bitwarden დაიბლოკება და გადაიტვირთება. დადასტურების შემდეგ, გაფართოება გადაიტვირთება და დაბლოკავს თქვენს საცავს."
   },
   "biometricPermissionDesc": {
     "message": "ბიომეტრიით განბლოკვის გამოსაყენებლად, Bitwarden-ს სჭირდება ნებართვა დესკტოპ აპთან კომუნიკაციისთვის. გაგრძელებისას, თქვენი ბრაუზერი მოგთხოვთ მის დადასტურებას."

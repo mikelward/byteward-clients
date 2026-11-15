@@ -1,20 +1,20 @@
 {
   "appName": {
-    "message": "Byteward"
+    "message": "Bitwarden"
   },
   "appLogoLabel": {
-    "message": "Bytewardi logo"
+    "message": "Bitwardeni logo"
   },
   "extName": {
-    "message": "Bytewardi paroolihaldur",
+    "message": "Bitwardeni paroolihaldur",
     "description": "Extension name, MUST be less than 40 characters (Safari restriction)"
   },
   "extNameBeta": {
-    "message": "Bytewardi paroolihaldur beeta",
+    "message": "Bitwardeni paroolihaldur beeta",
     "description": "Extension name for the beta channel, MUST be less than 40 characters (Safari restriction)"
   },
   "extDesc": {
-    "message": "Kodus, tööl ja teel - Byteward hoiustab imelihtsalt kõik su paroolid, pääsuvõtmed ja tundliku info",
+    "message": "Kodus, tööl ja teel - Bitwarden hoiustab imelihtsalt kõik su paroolid, pääsuvõtmed ja tundliku info",
     "description": "Extension description, MUST be less than 112 characters (Safari restriction)"
   },
   "loginOrCreateNewAccount": {
@@ -1081,10 +1081,10 @@
     "message": "Muuda kaheastmeline kinnitamine sujuvaks"
   },
   "totpHelper": {
-    "message": "Byteward saab hoiustada ja täita kaheastmelise kinnitamise koode. Kopeeri ja kleebi võti siia."
+    "message": "Bitwarden saab hoiustada ja täita kaheastmelise kinnitamise koode. Kopeeri ja kleebi võti siia."
   },
   "totpHelperWithCapture": {
-    "message": "Byteward saab hoiustada ja täita kaheastmelise kinnitamise koode. Vajuta kaamera ikoonile, et teha ekraanipilt autentiteerimise QR koodist või kopeeri ja kleebi võti siia."
+    "message": "Bitwarden saab hoiustada ja täita kaheastmelise kinnitamise koode. Vajuta kaamera ikoonile, et teha ekraanipilt autentiteerimise QR koodist või kopeeri ja kleebi võti siia."
   },
   "learnMoreAboutAuthenticators": {
     "message": "Uuri lähemalt autentikaatorite kohta"
@@ -1369,11 +1369,11 @@
     }
   },
   "notificationLoginSaveConfirmation": {
-    "message": "salvestatud Bytewardi.",
+    "message": "salvestatud Bitwardeni.",
     "description": "Shown to user after item is saved."
   },
   "notificationLoginUpdatedConfirmation": {
-    "message": "uuendatud Bytewardis.",
+    "message": "uuendatud Bitwardenis.",
     "description": "Shown to user after item is updated."
   },
   "selectItemAriaLabel": {
@@ -1459,7 +1459,7 @@
     "message": "Paku olemasolevate sisselogimisandmete uuendamist"
   },
   "changedPasswordNotificationDesc": {
-    "message": "Kui veebilehel tuvastatakse olemasolevate sisselogimisandmete muutmine, siis pakutakse nende sisselogimisandmete uuendamist Bytewardis."
+    "message": "Kui veebilehel tuvastatakse olemasolevate sisselogimisandmete muutmine, siis pakutakse nende sisselogimisandmete uuendamist Bitwardenis."
   },
   "changedPasswordNotificationDescAlt": {
     "message": "Küsi sisselogimisandmete parooli värskendamist, kui veebisaidil tuvastatakse muudatus. Kehtib kõikidele sisselogitud kontodele."
@@ -1471,13 +1471,13 @@
     "message": "Küsi uute pääsuvõtmete salvestamist või logi sisse sinu hoidlas olevate pääsuvõtmetega. Kehtib kõikidele sisselogitud kontodele."
   },
   "notificationChangeDesc": {
-    "message": "Soovid seda parooli ka Bytewardis uuendada?"
+    "message": "Soovid seda parooli ka Bitwardenis uuendada?"
   },
   "notificationChangeSave": {
     "message": "Jah, uuenda"
   },
   "notificationUnlockDesc": {
-    "message": "Ava Bytewardi hoidla, et automaattäitmine lõpuni viia."
+    "message": "Ava Bitwardeni hoidla, et automaattäitmine lõpuni viia."
   },
   "notificationUnlock": {
     "message": "Lukusta lahti"
@@ -1524,7 +1524,7 @@
     "message": "Kuva kontekstimenüü (parem klõps) valikud"
   },
   "contextMenuItemDesc": {
-    "message": "Võimaldab kontekstimenüüs (parem klõps) kaustada Bytewardi valikuid, nt sisselogimisandmete täitmist või parooli genereerimist. "
+    "message": "Võimaldab kontekstimenüüs (parem klõps) kaustada Bitwardeni valikuid, nt sisselogimisandmete täitmist või parooli genereerimist. "
   },
   "contextMenuItemDescAlt": {
     "message": "Kasuta teisest klõpsu, et pääseda ligi veebisaidi parooli genereerimisele ja sobivatele sisselogimisandmetele. Kehtib kõikidele sisselogitud kontodele."
@@ -1786,7 +1786,7 @@
     "message": "Seda parooli kasutatakse selle faili eksportimiseks ja importimiseks"
   },
   "accountRestrictedOptionDescription": {
-    "message": "Kasuta oma konto krüptovõtit, mis on tuletatud konto kasutajanimest ja ülemparoolist, et eksport krüptida ja importida ainult praegusesse Bytewardi kontosse."
+    "message": "Kasuta oma konto krüptovõtit, mis on tuletatud konto kasutajanimest ja ülemparoolist, et eksport krüptida ja importida ainult praegusesse Bitwardeni kontosse."
   },
   "passwordProtectedOptionDescription": {
     "message": "Määra faili parool, et eksport krüptida ja importida see ükskõik millisesse Bitwardeni kontosse, kasutades dekrüptimiseks parooli."
@@ -2236,7 +2236,7 @@
     "message": "Leia hõlpsasti automaattäitmise soovitusi"
   },
   "autofillSpotlightDesc": {
-    "message": "Lülita välja oma veebilehitseja automaattäitmise sätted, et need ei läheks Bytewardiga vastuollu."
+    "message": "Lülita välja oma veebilehitseja automaattäitmise sätted, et need ei läheks Bitwardeniga vastuollu."
   },
   "turnOffBrowserAutofill": {
     "message": "Lülita välja $BROWSER$ automaattäitmine",
@@ -2293,7 +2293,7 @@
     "message": "Kuva vormiväljadel automaattäitmise soovitusi"
   },
   "howDoesBitwardenProtectFromPhishing": {
-    "message": "Kuidas kaitseb Byteward sinu andmeid õngitsemise eest?"
+    "message": "Kuidas kaitseb Bitwarden sinu andmeid õngitsemise eest?"
   },
   "currentWebsite": {
     "message": "Praegune veebisait"
@@ -3202,7 +3202,7 @@
     "message": "Nõrk ülemparool"
   },
   "weakMasterPasswordDesc": {
-    "message": "Valitud ülemparool on nõrk. Oma Bytewardi konto paremaks kaitsmiseks peaksid kasutama tugevat parooli. Oled kindel, et soovid seda parooli ülemparoolina kasutada?"
+    "message": "Valitud ülemparool on nõrk. Oma Bitwardeni konto paremaks kaitsmiseks peaksid kasutama tugevat parooli. Oled kindel, et soovid seda parooli ülemparoolina kasutada?"
   },
   "rotateAccountEncKey": {
     "message": "Pööra ka minu konto krüptovõti"
@@ -3242,10 +3242,10 @@
     "message": "Määra PIN-kood"
   },
   "setYourPinCode": {
-    "message": "Määra Bytewardi lahtilukustamiseks PIN kood. Rakendusest täielikult välja logides nullitakse ka PIN koodi seaded."
+    "message": "Määra Bitwardeni lahtilukustamiseks PIN kood. Rakendusest täielikult välja logides nullitakse ka PIN koodi seaded."
   },
   "setPinCode": {
-    "message": "Saad seda PIN-koodi kasutada Bytewardi avamiseks. Kui logid rakendusest täielikult välja, lähtestatakse sinu PIN-kood."
+    "message": "Saad seda PIN-koodi kasutada Bitwardeni avamiseks. Kui logid rakendusest täielikult välja, lähtestatakse sinu PIN-kood."
   },
   "pinRequired": {
     "message": "PIN-kood on nõutud."
@@ -3381,7 +3381,7 @@
     "message": "See vorm on majutatud teistsugusel domeenil kui sinu salvestatud URI. Vajuta OK, et automaattäita või Tühista, et täitmine peatada."
   },
   "autofillIframeWarningTip": {
-    "message": "Selleks, et antud teavitust edaspidi ei kuvataks, salvesta see URI $HOSTNAME$ Bytewardi kirjesse.",
+    "message": "Selleks, et antud teavitust edaspidi ei kuvataks, salvesta see URI $HOSTNAME$ Bitwardeni kirjesse.",
     "placeholders": {
       "hostname": {
         "content": "$1",
@@ -3390,7 +3390,7 @@
     }
   },
   "topLayerHijackWarning": {
-    "message": "See leht segab Bytewardi kasutuskogemust. Bytewardi reasisene menüü on turvameetmena ajutiselt keelatud."
+    "message": "See leht segab Bitwardeni kasutuskogemust. Bitwardeni reasisene menüü on turvameetmena ajutiselt keelatud."
   },
   "setMasterPassword": {
     "message": "Määra ülemparool"
@@ -3528,7 +3528,7 @@
     "message": "Biomeetria ei ole sisse lülitatud"
   },
   "biometricsNotEnabledDesc": {
-    "message": "Biomeetria kasutamiseks veebilehitsejas peab esmalt Bytewardi töölauarakenduse seadetes biomeetria lubama."
+    "message": "Biomeetria kasutamiseks veebilehitsejas peab esmalt Bitwardeni töölauarakenduse seadetes biomeetria lubama."
   },
   "biometricsNotSupportedTitle": {
     "message": "Biomeetriat ei toetata"
@@ -3552,7 +3552,7 @@
     "message": "Biomeetria nurjus"
   },
   "biometricsFailedDesc": {
-    "message": "Biomeetriaga kinnitamine ebaõnnestus. Kasuta ülemparooli või logi välja. Kui probleem püsib, võta ühendust Bytewardi toega."
+    "message": "Biomeetriaga kinnitamine ebaõnnestus. Kasuta ülemparooli või logi välja. Kui probleem püsib, võta ühendust Bitwardeni toega."
   },
   "nativeMessagingPermissionErrorTitle": {
     "message": "Luba pole antud"
@@ -3595,7 +3595,7 @@
     "message": "Väljajäetud domeenid"
   },
   "excludedDomainsDesc": {
-    "message": "Nendel domeenidel Byteward paroolide salvestamise valikut ei paku. Muudatuste jõustamiseks pead lehekülge värskendama."
+    "message": "Nendel domeenidel Bitwarden paroolide salvestamise valikut ei paku. Muudatuste jõustamiseks pead lehekülge värskendama."
   },
   "blockedDomainsDesc": {
     "message": "Nende veebisaitide jaoks ei pakuta automaattäitmist ja muid seotud funktsioone. Muudatuste jõustumiseks pead lehe värskendama."
@@ -3727,24 +3727,24 @@
     "message": "Illustratsioon riskantsete sisselogimiste loendist."
   },
   "welcomeDialogGraphicAlt": {
-    "message": "Illustratsioon Bytewardi hoidla lehe paigutusest."
+    "message": "Illustratsioon Bitwardeni hoidla lehe paigutusest."
   },
   "generatePasswordSlideDesc": {
-    "message": "Genereeri riskantsel saidil Bytewardi automaattäitmise menüü abil kiiresti tugev ja unikaalne parool.",
+    "message": "Genereeri riskantsel saidil Bitwardeni automaattäitmise menüü abil kiiresti tugev ja unikaalne parool.",
     "description": "Description of the generate password slide on the at-risk password page carousel"
   },
   "generatePasswordSlideImgAltPeriod": {
-    "message": "Illustratsioon Bytewardi automaattäitmise menüüst, mis kuvab genereeritud parooli."
+    "message": "Illustratsioon Bitwardeni automaattäitmise menüüst, mis kuvab genereeritud parooli."
   },
   "updateInBitwarden": {
-    "message": "Värskenda Bytewardis"
+    "message": "Värskenda Bitwardenis"
   },
   "updateInBitwardenSlideDesc": {
-    "message": "Seejärel palub Byteward sul paroolihalduris parooli värskendada.",
+    "message": "Seejärel palub Bitwarden sul paroolihalduris parooli värskendada.",
     "description": "Description of the update in Bitwarden slide on the at-risk password page carousel"
   },
   "updateInBitwardenSlideImgAltPeriod": {
-    "message": "Illustratsioon Bytewardi teatisest, mis palub kasutajal sisselogimist värskendada."
+    "message": "Illustratsioon Bitwardeni teatisest, mis palub kasutajal sisselogimist värskendada."
   },
   "turnOnAutofill": {
     "message": "Lülita automaattäitmine sisse"
@@ -4372,11 +4372,11 @@
     }
   },
   "forwarderGeneratedBy": {
-    "message": "Genereeritud Bytewardi poolt.",
+    "message": "Genereeritud Bitwardeni poolt.",
     "description": "Displayed with the address on the forwarding service's configuration screen."
   },
   "forwarderGeneratedByWithWebsite": {
-    "message": "Veebisait: $WEBSITE$. Genereeritud Bytewardi poolt.",
+    "message": "Veebisait: $WEBSITE$. Genereeritud Bitwardeni poolt.",
     "description": "Displayed with the address on the forwarding service's configuration screen.",
     "placeholders": {
       "WEBSITE": {
@@ -4598,7 +4598,7 @@
     "message": "Sinu seadmesse saadeti teavitus."
   },
   "notificationSentDevicePart1": {
-    "message": "Ava Byteward oma seadmes või"
+    "message": "Ava Bitwarden oma seadmes või"
   },
   "notificationSentDeviceAnchor": {
     "message": "veebirakenduses"
@@ -5098,15 +5098,15 @@
     "message": "Mine sisu juurde"
   },
   "bitwardenOverlayButton": {
-    "message": "Bytewardi automaattäitmise menüü nupp",
+    "message": "Bitwardeni automaattäitmise menüü nupp",
     "description": "Page title for the iframe containing the overlay button"
   },
   "toggleBitwardenVaultOverlay": {
-    "message": "Lülita Bytewardi automaattäitmise menüü sisse/välja",
+    "message": "Lülita Bitwardeni automaattäitmise menüü sisse/välja",
     "description": "Screen reader and tool tip label for the overlay button"
   },
   "bitwardenVault": {
-    "message": "Bytewardi automaattäitmise menüü",
+    "message": "Bitwardeni automaattäitmise menüü",
     "description": "Page title in overlay"
   },
   "unlockYourAccountToViewMatchingLogins": {
@@ -5178,7 +5178,7 @@
     "description": "Screen reader text (aria-label) for new identity button within inline menu"
   },
   "bitwardenOverlayMenuAvailable": {
-    "message": "Bytewardi automaattäitmise menüü on saadaval. Valimiseks vajuta alla-noolt.",
+    "message": "Bitwardeni automaattäitmise menüü on saadaval. Valimiseks vajuta alla-noolt.",
     "description": "Screen reader text for announcing when the overlay opens on the page"
   },
   "turnOn": {
@@ -6438,7 +6438,7 @@
     "description": "Label indicating the most common import formats"
   },
   "uriMatchDefaultStrategyHint": {
-    "message": "URI vastavuse tuvastamine on viis, kuidas Byteward tuvastab automaattäitmise soovitusi.",
+    "message": "URI vastavuse tuvastamine on viis, kuidas Bitwarden tuvastab automaattäitmise soovitusi.",
     "description": "Explains to the user that URI match detection determines how Bitwarden suggests autofill options, and clarifies that this default strategy applies when no specific match detection is set for a login item."
   },
   "regExAdvancedOptionWarning": {
@@ -6482,15 +6482,15 @@
     "description": "Body content for dialog which asks if the user wants to proceed to the browser's keyboard shortcut settings page"
   },
   "overrideDefaultBrowserAutofillTitle": {
-    "message": "Kas teha Bytewardist sinu vaikimisi paroolihaldur?",
+    "message": "Kas teha Bitwardenist sinu vaikimisi paroolihaldur?",
     "description": "Dialog title facilitating the ability to override a chrome browser's default autofill behavior"
   },
   "overrideDefaultBrowserAutofillDescription": {
-    "message": "Selle valiku eiramine võib põhjustada konflikte Bytewardi automaattäitmise soovituste ja sinu veebilehitseja omade vahel.",
+    "message": "Selle valiku eiramine võib põhjustada konflikte Bitwardeni automaattäitmise soovituste ja sinu veebilehitseja omade vahel.",
     "description": "Dialog message facilitating the ability to override a chrome browser's default autofill behavior"
   },
   "overrideDefaultBrowserAutoFillSettings": {
-    "message": "Tee Bytewardist oma vaikimisi paroolihaldur",
+    "message": "Tee Bitwardenist oma vaikimisi paroolihaldur",
     "description": "Label for the setting that allows overriding the default browser autofill settings"
   },
   "defaultPasswordManagerCalloutTitle": {
@@ -6498,7 +6498,7 @@
     "description": "Title for the callout that prompts users to set Bitwarden as their default password manager"
   },
   "defaultPasswordManagerCalloutDesc": {
-    "message": "Sul palutakse anda $BROWSER$ veebilehitsejale luba, et määrata Byteward oma vaikimisi paroolihalduriks.",
+    "message": "Sul palutakse anda $BROWSER$ veebilehitsejale luba, et määrata Bitwarden oma vaikimisi paroolihalduriks.",
     "description": "Description for the callout that prompts users to set Bitwarden as their default password manager",
     "placeholders": {
       "browser": {
@@ -6508,11 +6508,11 @@
     }
   },
   "privacyPermissionAdditionNotGrantedTitle": {
-    "message": "Bytewardi ei saa vaikimisi paroolihalduriks määrata",
+    "message": "Bitwardeni ei saa vaikimisi paroolihalduriks määrata",
     "description": "Title for the dialog that appears when the user has not granted the extension permission to set privacy settings"
   },
   "privacyPermissionAdditionNotGrantedDescription": {
-    "message": "Bytewardi vaikimisi paroolihalduriks määramiseks peate andma Bytewardile veebilehitseja privaatsusõigused.",
+    "message": "Bitwardeni vaikimisi paroolihalduriks määramiseks peate andma Bitwardenile veebilehitseja privaatsusõigused.",
     "description": "Description for the dialog that appears when the user has not granted the extension permission to set privacy settings"
   },
   "makeDefault": {
@@ -6520,10 +6520,10 @@
     "description": "Button text for the setting that allows overriding the default browser autofill settings"
   },
   "defaultPasswordManagerPromptTitle": {
-    "message": "Tee Bytewardist oma veebilehitseja vaikimisi paroolihaldur"
+    "message": "Tee Bitwardenist oma veebilehitseja vaikimisi paroolihaldur"
   },
   "defaultPasswordManagerPromptTitleV2": {
-    "message": "Tee Bytewardist oma vaikimisi paroolihaldur",
+    "message": "Tee Bitwardenist oma vaikimisi paroolihaldur",
     "description": "Label for the setting to make Bitwarden the default password manager"
   },
   "defaultPasswordManagerSettingHintV2": {
@@ -6535,13 +6535,13 @@
     "description": "Link text to browser autofill settings in the default password manager setting hint."
   },
   "defaultPasswordManagerPromptStep2AfterAllow": {
-    "message": "veebilehitseja viipest, et anda Bytewardile luba sinu sätteid muuta."
+    "message": "veebilehitseja viipest, et anda Bitwardenile luba sinu sätteid muuta."
   },
   "defaultPasswordManagerPromptStep3": {
     "message": "Lülitame välja sinu veebilehitseja sisseehitatud paroolihalduri, et saaksid nautida turvalist sisselogimiskogemust."
   },
   "defaultPasswordManagerSuccessToast": {
-    "message": "Byteward määrati sinu veebilehitseja vaikimisi paroolihalduriks"
+    "message": "Bitwarden määrati sinu veebilehitseja vaikimisi paroolihalduriks"
   },
   "allow": {
     "message": "Luba",
@@ -7549,7 +7549,7 @@
     "description": "Notification message for when a password has been regenerated"
   },
   "saveToBitwarden": {
-    "message": "Salvesta Bytewardi",
+    "message": "Salvesta Bitwardeni",
     "description": "Confirmation message for saving a login to Bitwarden"
   },
   "spaceCharacterDescriptor": {
@@ -7793,13 +7793,13 @@
     "message": "Kasuta kaustu hoidla kirjete korrastamiseks. Need on mõeldud ainult sulle – keegi teine ​​neid ei näe ega kasuta."
   },
   "introCarouselLabel": {
-    "message": "Tere tulemast Bytewardi"
+    "message": "Tere tulemast Bitwardeni"
   },
   "securityPrioritized": {
     "message": "Turvalisus on esikohal"
   },
   "securityPrioritizedBody": {
-    "message": "Salvesta sisselogimisandmed, pangakaardid ja identiteedid oma turvalisse hoidlasse. Byteward kasutab sulle olulise kaitsmiseks nullteadmisvajadusega otsast-otsani krüptimist."
+    "message": "Salvesta sisselogimisandmed, pangakaardid ja identiteedid oma turvalisse hoidlasse. Bitwarden kasutab sulle olulise kaitsmiseks nullteadmisvajadusega otsast-otsani krüptimist."
   },
   "quickLogin": {
     "message": "Kiire ja lihtne sisselogimine"
@@ -7945,7 +7945,7 @@
     "message": "Selle sätte kohta"
   },
   "permitCipherDetailsDescription": {
-    "message": "Byteward kasutab salvestatud sisselogimisandmete URI-sid, et tuvastada, millist ikooni või parooli muutmise URL-i kasutada, et sinu kogemust parandada. Selle teenuse kasutamisel ei koguta ega salvestata mingit teavet."
+    "message": "Bitwarden kasutab salvestatud sisselogimisandmete URI-sid, et tuvastada, millist ikooni või parooli muutmise URL-i kasutada, et sinu kogemust parandada. Selle teenuse kasutamisel ei koguta ega salvestata mingit teavet."
   },
   "showQuickCopyActionsDetailsDescription": {
     "message": "Lisa kirjete kõrvale 3 kiirkopeerimise nuppu, et kopeerida oma kasutajanimi, parool või kinnituskood lõikelauale."
@@ -7954,7 +7954,7 @@
     "message": "Sul pole õigust seda lehte vaadata. Proovi sisse logida teise kontoga."
   },
   "wasmNotSupported": {
-    "message": "WebAssembly ei ole sinu veebilehitsejas toetatud või pole lubatud. Bytewardi rakenduse kasutamiseks on vajalik WebAssembly.",
+    "message": "WebAssembly ei ole sinu veebilehitsejas toetatud või pole lubatud. Bitwardeni rakenduse kasutamiseks on vajalik WebAssembly.",
     "description": "'WebAssembly' is a technical term and should not be translated."
   },
   "showMore": {
@@ -8261,7 +8261,7 @@
     "message": "Jagatud avamise kasutamiseks vajab Bitwarden luba töölauarakendusega suhtlemiseks. Jätkamisel palub veebilehitseja sul selle heaks kiita."
   },
   "sharedUnlockDesktopPermissionWarning": {
-    "message": "Byteward lukustub ja laaditakse uuesti. Pärast kinnitamist laaditakse laiend uuesti ja lukustab teie hoidla."
+    "message": "Bitwarden lukustub ja laaditakse uuesti. Pärast kinnitamist laaditakse laiend uuesti ja lukustab teie hoidla."
   },
   "biometricPermissionDesc": {
     "message": "Biomeetrilise avamise kasutamiseks vajab Bitwarden luba töölauarakendusega suhtlemiseks. Jätkamisel palub veebilehitseja sul selle heaks kiita."

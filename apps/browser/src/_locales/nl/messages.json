@@ -1,20 +1,20 @@
 {
   "appName": {
-    "message": "Byteward"
+    "message": "Bitwarden"
   },
   "appLogoLabel": {
-    "message": "Byteward logo"
+    "message": "Bitwarden logo"
   },
   "extName": {
-    "message": "Byteward - wachtwoordbeheerder",
+    "message": "Bitwarden - wachtwoordbeheerder",
     "description": "Extension name, MUST be less than 40 characters (Safari restriction)"
   },
   "extNameBeta": {
-    "message": "Byteward Password Manager Beta",
+    "message": "Bitwarden Password Manager Beta",
     "description": "Extension name for the beta channel, MUST be less than 40 characters (Safari restriction)"
   },
   "extDesc": {
-    "message": "Thuis, op werk of onderweg. Byteward beveiligt makkelijk al je wachtwoorden, passkeys en gevoelige informatie",
+    "message": "Thuis, op werk of onderweg. Bitwarden beveiligt makkelijk al je wachtwoorden, passkeys en gevoelige informatie",
     "description": "Extension description, MUST be less than 112 characters (Safari restriction)"
   },
   "loginOrCreateNewAccount": {
@@ -336,7 +336,7 @@
     "message": "Doorgaan naar de app store van browserextensies?"
   },
   "continueToBrowserExtensionStoreDesc": {
-    "message": "Help anderen met beslissen of Byteward iets voor hen is. Bezoek de app store voor extensies en laat een beoordeling achter."
+    "message": "Help anderen met beslissen of Bitwarden iets voor hen is. Bezoek de app store voor extensies en laat een beoordeling achter."
   },
   "changeMasterPasswordOnWebConfirmation": {
     "message": "Je kunt je hoofdwachtwoord wijzigen in de Bitwarden webapp."
@@ -356,7 +356,7 @@
     "message": "Uitloggen"
   },
   "aboutBitwarden": {
-    "message": "Over Byteward"
+    "message": "Over Bitwarden"
   },
   "about": {
     "message": "Over"
@@ -1081,10 +1081,10 @@
     "message": "Maak tweestapsaanmelding naadloos"
   },
   "totpHelper": {
-    "message": "Byteward kan tweestapsaanmeldingscodes opslaan en invullen. Kopieer en plak de sleutel in dit veld."
+    "message": "Bitwarden kan tweestapsaanmeldingscodes opslaan en invullen. Kopieer en plak de sleutel in dit veld."
   },
   "totpHelperWithCapture": {
-    "message": "Byteward kan tweestapsaanmeldingscodes opslaan en invullen. Selecteer het camerapictogram om een schermafbeelding van de QR-code van deze website te maken of kopieer en plak de sleutel in dit veld."
+    "message": "Bitwarden kan tweestapsaanmeldingscodes opslaan en invullen. Selecteer het camerapictogram om een schermafbeelding van de QR-code van deze website te maken of kopieer en plak de sleutel in dit veld."
   },
   "learnMoreAboutAuthenticators": {
     "message": "Meer informatie over authenticatoren"
@@ -1333,7 +1333,7 @@
     "message": "Ga naar instelling"
   },
   "notificationAddDesc": {
-    "message": "Moet Byteward dit wachtwoord voor je onthouden?"
+    "message": "Moet Bitwarden dit wachtwoord voor je onthouden?"
   },
   "notificationAddSave": {
     "message": "Ja, nu opslaan"
@@ -1369,11 +1369,11 @@
     }
   },
   "notificationLoginSaveConfirmation": {
-    "message": "opgeslagen in Byteward.",
+    "message": "opgeslagen in Bitwarden.",
     "description": "Shown to user after item is saved."
   },
   "notificationLoginUpdatedConfirmation": {
-    "message": "bijgewerkt in Byteward.",
+    "message": "bijgewerkt in Bitwarden.",
     "description": "Shown to user after item is updated."
   },
   "selectItemAriaLabel": {
@@ -1471,13 +1471,13 @@
     "message": "Vragen om opslaan nieuwe passkeys of inloggen met opgeslagen passkeys in je privékluis. Geldt voor alle ingelogde accounts."
   },
   "notificationChangeDesc": {
-    "message": "Wilt je dit wachtwoord in Byteward bijwerken?"
+    "message": "Wilt je dit wachtwoord in Bitwarden bijwerken?"
   },
   "notificationChangeSave": {
     "message": "Ja, nu bijwerken"
   },
   "notificationUnlockDesc": {
-    "message": "Ontgrendel je Byteward kluis om het automatisch invullen verzoek te voltooien."
+    "message": "Ontgrendel je Bitwarden kluis om het automatisch invullen verzoek te voltooien."
   },
   "notificationUnlock": {
     "message": "Ontgrendelen"
@@ -1786,7 +1786,7 @@
     "message": "We gebruiken dit wachtwoord bij het exporteren en importeren van dit bestand"
   },
   "accountRestrictedOptionDescription": {
-    "message": "Gebruik de encryptiesleutel van je account, afgeleid van je gebruikersnaam en hoodfwachtwoord, om de export te versleutelen en importeren te beperken tot het huidige Byteward account."
+    "message": "Gebruik de encryptiesleutel van je account, afgeleid van je gebruikersnaam en hoodfwachtwoord, om de export te versleutelen en importeren te beperken tot het huidige Bitwarden account."
   },
   "passwordProtectedOptionDescription": {
     "message": "Stel een bestandswachtwoord in om de export te versleutelen en te importeren naar een willekeurig Bitwarden account met het wachtwoord voor decoderen."
@@ -2236,7 +2236,7 @@
     "message": "Gemakkelijk suggesties voor automatisch invullen vinden"
   },
   "autofillSpotlightDesc": {
-    "message": "Schakel de autofill-instellingen van je browser uit, zodat ze niet conflicteren met Byteward."
+    "message": "Schakel de autofill-instellingen van je browser uit, zodat ze niet conflicteren met Bitwarden."
   },
   "turnOffBrowserAutofill": {
     "message": "Automatisch invullen van $BROWSER$ uitschakelen",
@@ -2293,7 +2293,7 @@
     "message": "Suggesties voor automatisch invullen op formuliervelden weergeven"
   },
   "howDoesBitwardenProtectFromPhishing": {
-    "message": "Hoe beschermt Byteward je gegevens tegen phishing?"
+    "message": "Hoe beschermt Bitwarden je gegevens tegen phishing?"
   },
   "currentWebsite": {
     "message": "Huidige website"
@@ -3202,7 +3202,7 @@
     "message": "Zwak hoofdwachtwoord"
   },
   "weakMasterPasswordDesc": {
-    "message": "Je hebt een zwak hoofdwachtwoord gekozen. Gebruik een sterk hoofdwachtwoord (of wachtwoordzin) om jouw Byteward account goed te beschermen. Weet je zeker dat je dit hoofdwachtwoord wilt gebruiken?"
+    "message": "Je hebt een zwak hoofdwachtwoord gekozen. Gebruik een sterk hoofdwachtwoord (of wachtwoordzin) om jouw Bitwarden account goed te beschermen. Weet je zeker dat je dit hoofdwachtwoord wilt gebruiken?"
   },
   "rotateAccountEncKey": {
     "message": "De encryptiesleutel van mijn account ook roteren"
@@ -3242,10 +3242,10 @@
     "message": "PIN instellen"
   },
   "setYourPinCode": {
-    "message": "Stel je PIN-code in voor het ontgrendelen van Byteward. Je PIN-code wordt opnieuw ingesteld als je je ooit volledig afmeldt bij de applicatie."
+    "message": "Stel je PIN-code in voor het ontgrendelen van Bitwarden. Je PIN-code wordt opnieuw ingesteld als je je ooit volledig afmeldt bij de applicatie."
   },
   "setPinCode": {
-    "message": "Je kunt deze PIN gebruiken voor het ontgrendelen van Byteward. Je PIN wordt opnieuw ingesteld als je je ooit volledig afmeldt bij de applicatie."
+    "message": "Je kunt deze PIN gebruiken voor het ontgrendelen van Bitwarden. Je PIN wordt opnieuw ingesteld als je je ooit volledig afmeldt bij de applicatie."
   },
   "pinRequired": {
     "message": "PIN-code is vereist."
@@ -3381,7 +3381,7 @@
     "message": "Dit formulier wordt door een ander domein gehost dan de URI van jouw opgeslagen login. Kies OK voor toch automatisch invullen, of Annuleren om te stoppen."
   },
   "autofillIframeWarningTip": {
-    "message": "Om deze waarschuwing in de toekomst te voorkomen, bewaar je deze URI, $HOSTNAME$, bij je Byteward login voor deze site.",
+    "message": "Om deze waarschuwing in de toekomst te voorkomen, bewaar je deze URI, $HOSTNAME$, bij je Bitwarden login voor deze site.",
     "placeholders": {
       "hostname": {
         "content": "$1",
@@ -3390,7 +3390,7 @@
     }
   },
   "topLayerHijackWarning": {
-    "message": "Deze pagina verstoort de Byteward ervaring. Het inline-menu van Byteward is tijdelijk uitgeschakeld als veiligheidsmaatregel."
+    "message": "Deze pagina verstoort de Bitwarden ervaring. Het inline-menu van Bitwarden is tijdelijk uitgeschakeld als veiligheidsmaatregel."
   },
   "setMasterPassword": {
     "message": "Hoofdwachtwoord instellen"
@@ -3552,7 +3552,7 @@
     "message": "Biometrie mislukt"
   },
   "biometricsFailedDesc": {
-    "message": "Kan biometrische authenticatie niet voltooien, gebruik een hoofdwachtwoord of log uit. Neem contact op met de ondersteuning van Byteward als dit blijft aanhouden."
+    "message": "Kan biometrische authenticatie niet voltooien, gebruik een hoofdwachtwoord of log uit. Neem contact op met de ondersteuning van Bitwarden als dit blijft aanhouden."
   },
   "nativeMessagingPermissionErrorTitle": {
     "message": "Toestemming niet verleend"
@@ -3595,7 +3595,7 @@
     "message": "Uitgesloten domeinen"
   },
   "excludedDomainsDesc": {
-    "message": "Byteward zal voor deze domeinen niet vragen om inloggegevens op te slaan. Je moet de pagina vernieuwen om de wijzigingen toe te passen."
+    "message": "Bitwarden zal voor deze domeinen niet vragen om inloggegevens op te slaan. Je moet de pagina vernieuwen om de wijzigingen toe te passen."
   },
   "blockedDomainsDesc": {
     "message": "Autofill en andere gerelateerde functies worden niet aangeboden voor deze websites. Vernieuw de pagina om de wijzigingen toe te passen."
@@ -3727,24 +3727,24 @@
     "message": "Voorbeeld van een lijst van risicovolle inloggegevens."
   },
   "welcomeDialogGraphicAlt": {
-    "message": "Illustratie van de lay-out van de Byteward kluispagina."
+    "message": "Illustratie van de lay-out van de Bitwarden kluispagina."
   },
   "generatePasswordSlideDesc": {
-    "message": "Genereer snel een sterk, uniek wachtwoord met het automatisch invulmenu van Byteward op de risicovolle website.",
+    "message": "Genereer snel een sterk, uniek wachtwoord met het automatisch invulmenu van Bitwarden op de risicovolle website.",
     "description": "Description of the generate password slide on the at-risk password page carousel"
   },
   "generatePasswordSlideImgAltPeriod": {
-    "message": "Voorbeeld van het automatisch invulmenu van Byteward met een gegenereerd wachtwoord."
+    "message": "Voorbeeld van het automatisch invulmenu van Bitwarden met een gegenereerd wachtwoord."
   },
   "updateInBitwarden": {
-    "message": "Bijwerken in Byteward"
+    "message": "Bijwerken in Bitwarden"
   },
   "updateInBitwardenSlideDesc": {
-    "message": "Byteward vraagt je vervolgens het wachtwoord bij te werken in de wachtwoordbeheerder.",
+    "message": "Bitwarden vraagt je vervolgens het wachtwoord bij te werken in de wachtwoordbeheerder.",
     "description": "Description of the update in Bitwarden slide on the at-risk password page carousel"
   },
   "updateInBitwardenSlideImgAltPeriod": {
-    "message": "Voorbeeld van een Byteward melding die de gebruiker aanspoort tot het bijwerken van de login."
+    "message": "Voorbeeld van een Bitwarden melding die de gebruiker aanspoort tot het bijwerken van de login."
   },
   "turnOnAutofill": {
     "message": "Automatisch invullen inschakelen"
@@ -4372,11 +4372,11 @@
     }
   },
   "forwarderGeneratedBy": {
-    "message": "Gegenereerd door Byteward.",
+    "message": "Gegenereerd door Bitwarden.",
     "description": "Displayed with the address on the forwarding service's configuration screen."
   },
   "forwarderGeneratedByWithWebsite": {
-    "message": "Website: $WEBSITE$. Gegenereerd door Byteward.",
+    "message": "Website: $WEBSITE$. Gegenereerd door Bitwarden.",
     "description": "Displayed with the address on the forwarding service's configuration screen.",
     "placeholders": {
       "WEBSITE": {
@@ -4598,7 +4598,7 @@
     "message": "Er is een melding naar je apparaat verzonden."
   },
   "notificationSentDevicePart1": {
-    "message": "Ontgrendel Byteward op je apparaat of op de"
+    "message": "Ontgrendel Bitwarden op je apparaat of op de"
   },
   "notificationSentDeviceAnchor": {
     "message": "webapp"
@@ -5098,15 +5098,15 @@
     "message": "Overslaan naar inhoud"
   },
   "bitwardenOverlayButton": {
-    "message": "Menuknop Byteward automatisch invullen",
+    "message": "Menuknop Bitwarden automatisch invullen",
     "description": "Page title for the iframe containing the overlay button"
   },
   "toggleBitwardenVaultOverlay": {
-    "message": "Byteward automatisch invullen menu in- en uitschakelen",
+    "message": "Bitwarden automatisch invullen menu in- en uitschakelen",
     "description": "Screen reader and tool tip label for the overlay button"
   },
   "bitwardenVault": {
-    "message": "Byteward automatisch invullen menu",
+    "message": "Bitwarden automatisch invullen menu",
     "description": "Page title in overlay"
   },
   "unlockYourAccountToViewMatchingLogins": {
@@ -5178,7 +5178,7 @@
     "description": "Screen reader text (aria-label) for new identity button within inline menu"
   },
   "bitwardenOverlayMenuAvailable": {
-    "message": "Byteward automatisch invullen menu beschikbaar. Druk op de pijltjestoets omlaag om te selecteren.",
+    "message": "Bitwarden automatisch invullen menu beschikbaar. Druk op de pijltjestoets omlaag om te selecteren.",
     "description": "Screen reader text for announcing when the overlay opens on the page"
   },
   "turnOn": {
@@ -6438,7 +6438,7 @@
     "description": "Label indicating the most common import formats"
   },
   "uriMatchDefaultStrategyHint": {
-    "message": "URI-matche-detectie is hoe Byteward invulsuggesties herkent.",
+    "message": "URI-matche-detectie is hoe Bitwarden invulsuggesties herkent.",
     "description": "Explains to the user that URI match detection determines how Bitwarden suggests autofill options, and clarifies that this default strategy applies when no specific match detection is set for a login item."
   },
   "regExAdvancedOptionWarning": {
@@ -6482,15 +6482,15 @@
     "description": "Body content for dialog which asks if the user wants to proceed to the browser's keyboard shortcut settings page"
   },
   "overrideDefaultBrowserAutofillTitle": {
-    "message": "Byteward als je standaardwachtwoordbeheerder gebruiken?",
+    "message": "Bitwarden als je standaardwachtwoordbeheerder gebruiken?",
     "description": "Dialog title facilitating the ability to override a chrome browser's default autofill behavior"
   },
   "overrideDefaultBrowserAutofillDescription": {
-    "message": "Deze optie negeren kan tot conflicten leiden tussen het automatisch invullen van Byteward en dat van je browser.",
+    "message": "Deze optie negeren kan tot conflicten leiden tussen het automatisch invullen van Bitwarden en dat van je browser.",
     "description": "Dialog message facilitating the ability to override a chrome browser's default autofill behavior"
   },
   "overrideDefaultBrowserAutoFillSettings": {
-    "message": "Byteward als je standaardwachtwoordbeheerder gebruiken",
+    "message": "Bitwarden als je standaardwachtwoordbeheerder gebruiken",
     "description": "Label for the setting that allows overriding the default browser autofill settings"
   },
   "defaultPasswordManagerCalloutTitle": {
@@ -6498,7 +6498,7 @@
     "description": "Title for the callout that prompts users to set Bitwarden as their default password manager"
   },
   "defaultPasswordManagerCalloutDesc": {
-    "message": "Je krijgt de vraag om webbrowser $BROWSER$ toestemming te geven om Byteward je standaard wachtwoordmanager te maken.",
+    "message": "Je krijgt de vraag om webbrowser $BROWSER$ toestemming te geven om Bitwarden je standaard wachtwoordmanager te maken.",
     "description": "Description for the callout that prompts users to set Bitwarden as their default password manager",
     "placeholders": {
       "browser": {
@@ -6508,11 +6508,11 @@
     }
   },
   "privacyPermissionAdditionNotGrantedTitle": {
-    "message": "Kan Byteward niet als standaardwachtwoordbeheerder instellen",
+    "message": "Kan Bitwarden niet als standaardwachtwoordbeheerder instellen",
     "description": "Title for the dialog that appears when the user has not granted the extension permission to set privacy settings"
   },
   "privacyPermissionAdditionNotGrantedDescription": {
-    "message": "Je moet Byteward browser-privacyrechten geven aan om deze in te stellen als standaard wachtwoordmanager.",
+    "message": "Je moet Bitwarden browser-privacyrechten geven aan om deze in te stellen als standaard wachtwoordmanager.",
     "description": "Description for the dialog that appears when the user has not granted the extension permission to set privacy settings"
   },
   "makeDefault": {
@@ -6520,10 +6520,10 @@
     "description": "Button text for the setting that allows overriding the default browser autofill settings"
   },
   "defaultPasswordManagerPromptTitle": {
-    "message": "Maak van Byteward de standaardwachtwoordbeheerder van je webbrowser"
+    "message": "Maak van Bitwarden de standaardwachtwoordbeheerder van je webbrowser"
   },
   "defaultPasswordManagerPromptTitleV2": {
-    "message": "Byteward als je standaardwachtwoordbeheerder gebruiken",
+    "message": "Bitwarden als je standaardwachtwoordbeheerder gebruiken",
     "description": "Label for the setting to make Bitwarden the default password manager"
   },
   "defaultPasswordManagerSettingHintV2": {
@@ -6535,13 +6535,13 @@
     "description": "Link text to browser autofill settings in the default password manager setting hint."
   },
   "defaultPasswordManagerPromptStep2AfterAllow": {
-    "message": "vanuit de browserprompt om Byteward toestemming te geven om je instellingen te wijzigen."
+    "message": "vanuit de browserprompt om Bitwarden toestemming te geven om je instellingen te wijzigen."
   },
   "defaultPasswordManagerPromptStep3": {
     "message": "We zullen de ingebouwde wachtwoordbeheerder van je browser uitschakelen zodat je kunt genieten van een veilige inlogervaring."
   },
   "defaultPasswordManagerSuccessToast": {
-    "message": "Byteward is nu je standaardwachtwoordbeheerder"
+    "message": "Bitwarden is nu je standaardwachtwoordbeheerder"
   },
   "allow": {
     "message": "Toestaan",
@@ -7549,7 +7549,7 @@
     "description": "Notification message for when a password has been regenerated"
   },
   "saveToBitwarden": {
-    "message": "Opslaan in Byteward",
+    "message": "Opslaan in Bitwarden",
     "description": "Confirmation message for saving a login to Bitwarden"
   },
   "spaceCharacterDescriptor": {
@@ -7793,13 +7793,13 @@
     "message": "Gebruik mappen om kluis-items te organiseren. Ze zijn alleen voor jou - niemand anders zal ze zien of gebruiken."
   },
   "introCarouselLabel": {
-    "message": "Welkom bij Byteward"
+    "message": "Welkom bij Bitwarden"
   },
   "securityPrioritized": {
     "message": "Beveiliging, geprioriteerd"
   },
   "securityPrioritizedBody": {
-    "message": "Logins, kaarten en identiteiten in je beveiligde kluis opslaan. Byteward gebruikt zero-knowledge, end-to-end versleuteling om te beschermen wat belangrijk voor jou is."
+    "message": "Logins, kaarten en identiteiten in je beveiligde kluis opslaan. Bitwarden gebruikt zero-knowledge, end-to-end versleuteling om te beschermen wat belangrijk voor jou is."
   },
   "quickLogin": {
     "message": "Snel en eenvoudig inloggen"
@@ -7945,7 +7945,7 @@
     "message": "Over deze instelling"
   },
   "permitCipherDetailsDescription": {
-    "message": "Byteward gebruikt opgeslagen login-URI's om te bepalen welk pictogram of URL voor het wijzigen van het wachtwoord moet worden gebruikt om je ervaring te verbeteren. Er wordt geen informatie verzameld of opgeslagen wanneer je deze service gebruikt."
+    "message": "Bitwarden gebruikt opgeslagen login-URI's om te bepalen welk pictogram of URL voor het wijzigen van het wachtwoord moet worden gebruikt om je ervaring te verbeteren. Er wordt geen informatie verzameld of opgeslagen wanneer je deze service gebruikt."
   },
   "showQuickCopyActionsDetailsDescription": {
     "message": "3 sneltoetsen toevoegen naast items om je gebruikersnaam, wachtwoord of verificatiecode naar het klembord te kopiëren."
@@ -7954,7 +7954,7 @@
     "message": "Je hebt geen rechten om deze pagina te bekijken. Probeer in te loggen met een ander account."
   },
   "wasmNotSupported": {
-    "message": "WebAssembly wordt niet ondersteund in je browser of is niet ingeschakeld. WebAssembly is vereist om de Byteward app te gebruiken.",
+    "message": "WebAssembly wordt niet ondersteund in je browser of is niet ingeschakeld. WebAssembly is vereist om de Bitwarden app te gebruiken.",
     "description": "'WebAssembly' is a technical term and should not be translated."
   },
   "showMore": {
@@ -8261,7 +8261,7 @@
     "message": "Om gedeeld ontgrendelen te gebruiken, heeft Bitwarden toestemming nodig om te communiceren met de desktop-app. Als je doorgaat, vraagt je browser je om goedkeuring."
   },
   "sharedUnlockDesktopPermissionWarning": {
-    "message": "Byteward zal vergrendelen en herladen. Nadat je het hebt goedgekeurd, laadt de extensie opnieuw en vergrendelt je kluis."
+    "message": "Bitwarden zal vergrendelen en herladen. Nadat je het hebt goedgekeurd, laadt de extensie opnieuw en vergrendelt je kluis."
   },
   "biometricPermissionDesc": {
     "message": "Om biometrisch ontgrendelen te gebruiken, heeft Bitwarden toestemming nodig om te communiceren met de desktop-app. Als je doorgaat, vraagt je browser je om goedkeuring."

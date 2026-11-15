@@ -1,20 +1,20 @@
 {
   "appName": {
-    "message": "Byteward"
+    "message": "Bitwarden"
   },
   "appLogoLabel": {
-    "message": "Logo Byteward"
+    "message": "Logo Bitwarden"
   },
   "extName": {
-    "message": "Rheolydd cyfrineiriau Byteward",
+    "message": "Rheolydd cyfrineiriau Bitwarden",
     "description": "Extension name, MUST be less than 40 characters (Safari restriction)"
   },
   "extNameBeta": {
-    "message": "Rheolwr Cyfrinair Byteward Beta",
+    "message": "Rheolwr Cyfrinair Bitwarden Beta",
     "description": "Extension name for the beta channel, MUST be less than 40 characters (Safari restriction)"
   },
   "extDesc": {
-    "message": "Gartref, yn y gweithle, neu ar fynd, mae Byteward yn diogelu eich holl gyfrineiriau a gwybodaeth sensitif",
+    "message": "Gartref, yn y gweithle, neu ar fynd, mae Bitwarden yn diogelu eich holl gyfrineiriau a gwybodaeth sensitif",
     "description": "Extension description, MUST be less than 112 characters (Safari restriction)"
   },
   "loginOrCreateNewAccount": {
@@ -336,7 +336,7 @@
     "message": "Parhau i siop estyniadau'r porwr?"
   },
   "continueToBrowserExtensionStoreDesc": {
-    "message": "Helpwch eraill i ddarganfod a yw Byteward yn addas iddynt. Ewch i siop estyniadau eich porwr a gadael sgôr nawr."
+    "message": "Helpwch eraill i ddarganfod a yw Bitwarden yn addas iddynt. Ewch i siop estyniadau eich porwr a gadael sgôr nawr."
   },
   "changeMasterPasswordOnWebConfirmation": {
     "message": "Gallwch newid eich prif gyfrinair ar ap gwe Bitwarden."
@@ -356,7 +356,7 @@
     "message": "Allgofnodi"
   },
   "aboutBitwarden": {
-    "message": "Ynghylch Byteward"
+    "message": "Ynghylch Bitwarden"
   },
   "about": {
     "message": "Ynghylch"
@@ -1081,10 +1081,10 @@
     "message": "Gwnewch ddilysu 2 gam yn ddi-dor"
   },
   "totpHelper": {
-    "message": "Gall Byteward storio a llenwi codau dilysu 2 gam. Copïwch a gludwch yr allwedd i'r maes hwn."
+    "message": "Gall Bitwarden storio a llenwi codau dilysu 2 gam. Copïwch a gludwch yr allwedd i'r maes hwn."
   },
   "totpHelperWithCapture": {
-    "message": "Gall Byteward storio a llenwi codau dilysu 2 gam. Dewiswch yr eicon camera i dynnu sgrinlun o god QR dilysu'r wefan hon, neu copïwch a gludwch yr allwedd i'r maes hwn."
+    "message": "Gall Bitwarden storio a llenwi codau dilysu 2 gam. Dewiswch yr eicon camera i dynnu sgrinlun o god QR dilysu'r wefan hon, neu copïwch a gludwch yr allwedd i'r maes hwn."
   },
   "learnMoreAboutAuthenticators": {
     "message": "Dysgwch fwy am ddilyswyr"
@@ -1333,7 +1333,7 @@
     "message": "Neidio i'r gosodiad"
   },
   "notificationAddDesc": {
-    "message": "A ddylai Byteward gofio'r cyfrinair hwn i chi?"
+    "message": "A ddylai Bitwarden gofio'r cyfrinair hwn i chi?"
   },
   "notificationAddSave": {
     "message": "Cadw"
@@ -1369,11 +1369,11 @@
     }
   },
   "notificationLoginSaveConfirmation": {
-    "message": "wedi'i gadw i Byteward.",
+    "message": "wedi'i gadw i Bitwarden.",
     "description": "Shown to user after item is saved."
   },
   "notificationLoginUpdatedConfirmation": {
-    "message": "wedi'i ddiweddaru yn Byteward.",
+    "message": "wedi'i ddiweddaru yn Bitwarden.",
     "description": "Shown to user after item is updated."
   },
   "selectItemAriaLabel": {
@@ -1471,13 +1471,13 @@
     "message": "Gofyn i gadw pasgwd newydd neu fewngofnodi â phasgwd sydd wedi'u storio yn eich cist. Yn berthnasol i bob cyfrif sydd wedi mewngofnodi."
   },
   "notificationChangeDesc": {
-    "message": "Ydych chi am ddiweddaru'r cyfrinair hwn yn Byteward?"
+    "message": "Ydych chi am ddiweddaru'r cyfrinair hwn yn Bitwarden?"
   },
   "notificationChangeSave": {
     "message": "Diweddaru"
   },
   "notificationUnlockDesc": {
-    "message": "Datglowch eich cist Byteward i gwblhau'r cais llenwi awtomatig."
+    "message": "Datglowch eich cist Bitwarden i gwblhau'r cais llenwi awtomatig."
   },
   "notificationUnlock": {
     "message": "Datgloi"
@@ -1786,7 +1786,7 @@
     "message": "Bydd y cyfrinair hwn yn cael ei ddefnyddio i allforio a mewngludo'r ffeil hon"
   },
   "accountRestrictedOptionDescription": {
-    "message": "Defnyddiwch allwedd cryptio eich cyfrif, sy'n deillio o enw defnyddiwr a Phrif Gyfrinair eich cyfrif, i amgryptio'r allforiad a chyfyngu mewngludo i'r cyfrif Byteward cyfredol yn unig."
+    "message": "Defnyddiwch allwedd cryptio eich cyfrif, sy'n deillio o enw defnyddiwr a Phrif Gyfrinair eich cyfrif, i amgryptio'r allforiad a chyfyngu mewngludo i'r cyfrif Bitwarden cyfredol yn unig."
   },
   "passwordProtectedOptionDescription": {
     "message": "Gosodwch gyfrinair ffeil i amgryptio'r allforiad a'i fewngludo i unrhyw gyfrif Bitwarden gan ddefnyddio'r cyfrinair ar gyfer dadgryptio."
@@ -2236,7 +2236,7 @@
     "message": "Darganfod awgrymiadau llenwi awtomatig yn hawdd"
   },
   "autofillSpotlightDesc": {
-    "message": "Diffoddwch osodiadau llenwi awtomatig eich porwr, fel nad ydynt yn gwrthdaro â Byteward."
+    "message": "Diffoddwch osodiadau llenwi awtomatig eich porwr, fel nad ydynt yn gwrthdaro â Bitwarden."
   },
   "turnOffBrowserAutofill": {
     "message": "Diffodd llenwi awtomatig $BROWSER$",
@@ -2293,7 +2293,7 @@
     "message": "Dangos awgrymiadau llenwi awtomatig ar feysydd ffurflen"
   },
   "howDoesBitwardenProtectFromPhishing": {
-    "message": "Sut mae Byteward yn diogelu eich data rhag gwe-rwydo?"
+    "message": "Sut mae Bitwarden yn diogelu eich data rhag gwe-rwydo?"
   },
   "currentWebsite": {
     "message": "Gwefan gyfredol"
@@ -3202,7 +3202,7 @@
     "message": "Prif gyfrinair gwan"
   },
   "weakMasterPasswordDesc": {
-    "message": "Mae'r prif gyfrinair rydych chi wedi'i ddewis yn wan. Dylech ddefnyddio prif gyfrinair (neu gyfrinymadrodd) cryf i amddiffyn eich cyfrif Byteward. Ydych chi'n siŵr eich bod am ddefnyddio'r prif gyfrinair hwn?"
+    "message": "Mae'r prif gyfrinair rydych chi wedi'i ddewis yn wan. Dylech ddefnyddio prif gyfrinair (neu gyfrinymadrodd) cryf i amddiffyn eich cyfrif Bitwarden. Ydych chi'n siŵr eich bod am ddefnyddio'r prif gyfrinair hwn?"
   },
   "rotateAccountEncKey": {
     "message": "Hefyd cylchdroi allwedd cryptio fy nghyfrif"
@@ -3242,10 +3242,10 @@
     "message": "Gosod PIN"
   },
   "setYourPinCode": {
-    "message": "Gosodwch eich cod PIN ar gyfer datgloi Byteward. Bydd eich gosodiadau PIN yn cael eu hailosod os byddwch byth yn allgofnodi'n llwyr o'r ap."
+    "message": "Gosodwch eich cod PIN ar gyfer datgloi Bitwarden. Bydd eich gosodiadau PIN yn cael eu hailosod os byddwch byth yn allgofnodi'n llwyr o'r ap."
   },
   "setPinCode": {
-    "message": "Gallwch ddefnyddio'r PIN hwn i ddatgloi Byteward. Bydd eich PIN yn cael ei ailosod os byddwch byth yn allgofnodi'n llwyr o'r ap."
+    "message": "Gallwch ddefnyddio'r PIN hwn i ddatgloi Bitwarden. Bydd eich PIN yn cael ei ailosod os byddwch byth yn allgofnodi'n llwyr o'r ap."
   },
   "pinRequired": {
     "message": "Mae angen cod PIN."
@@ -3381,7 +3381,7 @@
     "message": "Mae'r ffurflen yn cael ei chynnal gan barth gwahanol i URI eich mewngofnodi sydd wedi'i gadw. Dewiswch OK i lenwi'n awtomatig beth bynnag, neu Cancel i stopio."
   },
   "autofillIframeWarningTip": {
-    "message": "I atal y rhybudd hwn yn y dyfodol, cadwch yr URI hwn, $HOSTNAME$, i'ch eitem mewngofnodi Byteward ar gyfer y safle hwn.",
+    "message": "I atal y rhybudd hwn yn y dyfodol, cadwch yr URI hwn, $HOSTNAME$, i'ch eitem mewngofnodi Bitwarden ar gyfer y safle hwn.",
     "placeholders": {
       "hostname": {
         "content": "$1",
@@ -3390,7 +3390,7 @@
     }
   },
   "topLayerHijackWarning": {
-    "message": "Mae'r dudalen hon yn ymyrryd â phrofiad Byteward. Mae dewislen fewnol Byteward wedi'i hanalluogi dros dro fel mesur diogelwch."
+    "message": "Mae'r dudalen hon yn ymyrryd â phrofiad Bitwarden. Mae dewislen fewnol Bitwarden wedi'i hanalluogi dros dro fel mesur diogelwch."
   },
   "setMasterPassword": {
     "message": "Gosod prif gyfrinair"
@@ -3552,7 +3552,7 @@
     "message": "Methodd biometreg"
   },
   "biometricsFailedDesc": {
-    "message": "Ni ellir cwblhau biometreg, ystyriwch ddefnyddio prif gyfrinair neu allgofnodi. Os yw hyn yn parhau, cysylltwch â chymorth Byteward."
+    "message": "Ni ellir cwblhau biometreg, ystyriwch ddefnyddio prif gyfrinair neu allgofnodi. Os yw hyn yn parhau, cysylltwch â chymorth Bitwarden."
   },
   "nativeMessagingPermissionErrorTitle": {
     "message": "Caniatâd heb ei roi"
@@ -3595,7 +3595,7 @@
     "message": "Parthau wedi'u heithrio"
   },
   "excludedDomainsDesc": {
-    "message": "Fydd Byteward ddim yn gofyn i gadw manylion mewngofnodi'r parthau hyn. Rhaid i chi ail-lwytho'r dudalen i newidiadau ddod i rym."
+    "message": "Fydd Bitwarden ddim yn gofyn i gadw manylion mewngofnodi'r parthau hyn. Rhaid i chi ail-lwytho'r dudalen i newidiadau ddod i rym."
   },
   "blockedDomainsDesc": {
     "message": "Ni fydd llenwi awtomatig a nodweddion cysylltiedig eraill yn cael eu cynnig ar gyfer y gwefannau hyn. Rhaid i chi adnewyddu'r dudalen i newidiadau ddod i rym."
@@ -3727,24 +3727,24 @@
     "message": "Darlun o restr o fewngofnodiadau sydd mewn perygl."
   },
   "welcomeDialogGraphicAlt": {
-    "message": "Darlun o gynllun tudalen cist Byteward."
+    "message": "Darlun o gynllun tudalen cist Bitwarden."
   },
   "generatePasswordSlideDesc": {
-    "message": "Cynhyrchwch gyfrinair cryf, unigryw yn gyflym gyda dewislen llenwi awtomatig Byteward ar y safle mewn perygl.",
+    "message": "Cynhyrchwch gyfrinair cryf, unigryw yn gyflym gyda dewislen llenwi awtomatig Bitwarden ar y safle mewn perygl.",
     "description": "Description of the generate password slide on the at-risk password page carousel"
   },
   "generatePasswordSlideImgAltPeriod": {
-    "message": "Darlun o ddewislen llenwi awtomatig Byteward yn dangos cyfrinair wedi'i gynhyrchu."
+    "message": "Darlun o ddewislen llenwi awtomatig Bitwarden yn dangos cyfrinair wedi'i gynhyrchu."
   },
   "updateInBitwarden": {
-    "message": "Diweddaru yn Byteward"
+    "message": "Diweddaru yn Bitwarden"
   },
   "updateInBitwardenSlideDesc": {
-    "message": "Yna bydd Byteward yn eich annog i ddiweddaru'r cyfrinair yn y rheolwr cyfrineiriau.",
+    "message": "Yna bydd Bitwarden yn eich annog i ddiweddaru'r cyfrinair yn y rheolwr cyfrineiriau.",
     "description": "Description of the update in Bitwarden slide on the at-risk password page carousel"
   },
   "updateInBitwardenSlideImgAltPeriod": {
-    "message": "Darlun o hysbysiad Byteward yn annog y defnyddiwr i ddiweddaru'r mewngofnodi."
+    "message": "Darlun o hysbysiad Bitwarden yn annog y defnyddiwr i ddiweddaru'r mewngofnodi."
   },
   "turnOnAutofill": {
     "message": "Troi llenwi awtomatig ymlaen"
@@ -4372,11 +4372,11 @@
     }
   },
   "forwarderGeneratedBy": {
-    "message": "Cynhyrchwyd gan Byteward.",
+    "message": "Cynhyrchwyd gan Bitwarden.",
     "description": "Displayed with the address on the forwarding service's configuration screen."
   },
   "forwarderGeneratedByWithWebsite": {
-    "message": "Gwefan: $WEBSITE$. Wedi'i gynhyrchu gan Byteward.",
+    "message": "Gwefan: $WEBSITE$. Wedi'i gynhyrchu gan Bitwarden.",
     "description": "Displayed with the address on the forwarding service's configuration screen.",
     "placeholders": {
       "WEBSITE": {
@@ -4598,7 +4598,7 @@
     "message": "Mae hysbysiad wedi'i anfon at eich dyfais."
   },
   "notificationSentDevicePart1": {
-    "message": "Datglowch Byteward ar eich dyfais neu ar y"
+    "message": "Datglowch Bitwarden ar eich dyfais neu ar y"
   },
   "notificationSentDeviceAnchor": {
     "message": "ap gwe"
@@ -5098,15 +5098,15 @@
     "message": "Neidio i'r cynnwys"
   },
   "bitwardenOverlayButton": {
-    "message": "Botwm dewislen llenwi awtomatig Byteward",
+    "message": "Botwm dewislen llenwi awtomatig Bitwarden",
     "description": "Page title for the iframe containing the overlay button"
   },
   "toggleBitwardenVaultOverlay": {
-    "message": "Toglo dewislen llenwi awtomatig Byteward",
+    "message": "Toglo dewislen llenwi awtomatig Bitwarden",
     "description": "Screen reader and tool tip label for the overlay button"
   },
   "bitwardenVault": {
-    "message": "Dewislen llenwi awtomatig Byteward",
+    "message": "Dewislen llenwi awtomatig Bitwarden",
     "description": "Page title in overlay"
   },
   "unlockYourAccountToViewMatchingLogins": {
@@ -5178,7 +5178,7 @@
     "description": "Screen reader text (aria-label) for new identity button within inline menu"
   },
   "bitwardenOverlayMenuAvailable": {
-    "message": "Dewislen llenwi awtomatig Byteward ar gael. Pwyswch y fysell saeth i lawr i ddewis.",
+    "message": "Dewislen llenwi awtomatig Bitwarden ar gael. Pwyswch y fysell saeth i lawr i ddewis.",
     "description": "Screen reader text for announcing when the overlay opens on the page"
   },
   "turnOn": {
@@ -6438,7 +6438,7 @@
     "description": "Label indicating the most common import formats"
   },
   "uriMatchDefaultStrategyHint": {
-    "message": "Canfod cyfatebiaeth URI yw sut mae Byteward yn adnabod awgrymiadau llenwi awtomatig.",
+    "message": "Canfod cyfatebiaeth URI yw sut mae Bitwarden yn adnabod awgrymiadau llenwi awtomatig.",
     "description": "Explains to the user that URI match detection determines how Bitwarden suggests autofill options, and clarifies that this default strategy applies when no specific match detection is set for a login item."
   },
   "regExAdvancedOptionWarning": {
@@ -6482,15 +6482,15 @@
     "description": "Body content for dialog which asks if the user wants to proceed to the browser's keyboard shortcut settings page"
   },
   "overrideDefaultBrowserAutofillTitle": {
-    "message": "Hoffech chi wneud Byteward yn rheolydd cyfrineiriau rhagosodedig?",
+    "message": "Hoffech chi wneud Bitwarden yn rheolydd cyfrineiriau rhagosodedig?",
     "description": "Dialog title facilitating the ability to override a chrome browser's default autofill behavior"
   },
   "overrideDefaultBrowserAutofillDescription": {
-    "message": "Gall anwybyddu'r opsiwn hwn achosi gwrthdaro rhwng awgrymiadau llenwi awtomatig Byteward a rhai eich porwr.",
+    "message": "Gall anwybyddu'r opsiwn hwn achosi gwrthdaro rhwng awgrymiadau llenwi awtomatig Bitwarden a rhai eich porwr.",
     "description": "Dialog message facilitating the ability to override a chrome browser's default autofill behavior"
   },
   "overrideDefaultBrowserAutoFillSettings": {
-    "message": "Gwnewch Byteward yn rheolwr cyfrineiriau diofyn",
+    "message": "Gwnewch Bitwarden yn rheolwr cyfrineiriau diofyn",
     "description": "Label for the setting that allows overriding the default browser autofill settings"
   },
   "defaultPasswordManagerCalloutTitle": {
@@ -6498,7 +6498,7 @@
     "description": "Title for the callout that prompts users to set Bitwarden as their default password manager"
   },
   "defaultPasswordManagerCalloutDesc": {
-    "message": "Gofynnir i chi roi caniatâd porwr $BROWSER$ i wneud Byteward yn rheolwr cyfrineiriau diofyn.",
+    "message": "Gofynnir i chi roi caniatâd porwr $BROWSER$ i wneud Bitwarden yn rheolwr cyfrineiriau diofyn.",
     "description": "Description for the callout that prompts users to set Bitwarden as their default password manager",
     "placeholders": {
       "browser": {
@@ -6508,11 +6508,11 @@
     }
   },
   "privacyPermissionAdditionNotGrantedTitle": {
-    "message": "Methu gosod Byteward fel y rheolwr cyfrineiriau diofyn",
+    "message": "Methu gosod Bitwarden fel y rheolwr cyfrineiriau diofyn",
     "description": "Title for the dialog that appears when the user has not granted the extension permission to set privacy settings"
   },
   "privacyPermissionAdditionNotGrantedDescription": {
-    "message": "Rhaid i chi roi caniatâd preifatrwydd porwr i Byteward i'w osod fel y rheolwr cyfrineiriau diofyn.",
+    "message": "Rhaid i chi roi caniatâd preifatrwydd porwr i Bitwarden i'w osod fel y rheolwr cyfrineiriau diofyn.",
     "description": "Description for the dialog that appears when the user has not granted the extension permission to set privacy settings"
   },
   "makeDefault": {
@@ -6520,10 +6520,10 @@
     "description": "Button text for the setting that allows overriding the default browser autofill settings"
   },
   "defaultPasswordManagerPromptTitle": {
-    "message": "Gwnewch Byteward yn rheolwr cyfrineiriau diofyn eich porwr"
+    "message": "Gwnewch Bitwarden yn rheolwr cyfrineiriau diofyn eich porwr"
   },
   "defaultPasswordManagerPromptTitleV2": {
-    "message": "Gwnewch Byteward yn rheolwr cyfrineiriau diofyn",
+    "message": "Gwnewch Bitwarden yn rheolwr cyfrineiriau diofyn",
     "description": "Label for the setting to make Bitwarden the default password manager"
   },
   "defaultPasswordManagerSettingHintV2": {
@@ -6535,13 +6535,13 @@
     "description": "Link text to browser autofill settings in the default password manager setting hint."
   },
   "defaultPasswordManagerPromptStep2AfterAllow": {
-    "message": "o'r anogwr porwr i roi caniatâd i Byteward newid eich gosodiadau."
+    "message": "o'r anogwr porwr i roi caniatâd i Bitwarden newid eich gosodiadau."
   },
   "defaultPasswordManagerPromptStep3": {
     "message": "Byddwn yn diffodd rheolwr cyfrineiriau adeiledig eich porwr fel y gallwch fwynhau profiad mewngofnodi diogel."
   },
   "defaultPasswordManagerSuccessToast": {
-    "message": "Gwnaethpwyd Byteward yn rheolwr cyfrinair diofyn eich porwr"
+    "message": "Gwnaethpwyd Bitwarden yn rheolwr cyfrinair diofyn eich porwr"
   },
   "allow": {
     "message": "Caniatáu",
@@ -7549,7 +7549,7 @@
     "description": "Notification message for when a password has been regenerated"
   },
   "saveToBitwarden": {
-    "message": "Cadw i Byteward",
+    "message": "Cadw i Bitwarden",
     "description": "Confirmation message for saving a login to Bitwarden"
   },
   "spaceCharacterDescriptor": {
@@ -7793,13 +7793,13 @@
     "message": "Use folders to organize vault items. They're just for you. No one else will see or use them."
   },
   "introCarouselLabel": {
-    "message": "Croeso i Byteward"
+    "message": "Croeso i Bitwarden"
   },
   "securityPrioritized": {
     "message": "Diogelwch, wedi'i flaenoriaethu"
   },
   "securityPrioritizedBody": {
-    "message": "Cadwch fewngofnodiadau, cardiau, a hunaniaethau i'ch cist ddiogel. Mae Byteward yn defnyddio cryptio di-wybodaeth, o'r dechrau i'r diwedd i ddiogelu'r hyn sy'n bwysig i chi."
+    "message": "Cadwch fewngofnodiadau, cardiau, a hunaniaethau i'ch cist ddiogel. Mae Bitwarden yn defnyddio cryptio di-wybodaeth, o'r dechrau i'r diwedd i ddiogelu'r hyn sy'n bwysig i chi."
   },
   "quickLogin": {
     "message": "Mewngofnodi cyflym a hawdd"
@@ -7945,7 +7945,7 @@
     "message": "Am y gosodiad hwn"
   },
   "permitCipherDetailsDescription": {
-    "message": "Bydd Byteward yn defnyddio URIs mewngofnodi sydd wedi'u cadw i adnabod pa eicon neu URL newid cyfrinair y dylid ei ddefnyddio i wella'ch profiad. Ni chasglir nac ni chadwir unrhyw wybodaeth pan fyddwch yn defnyddio'r gwasanaeth hwn."
+    "message": "Bydd Bitwarden yn defnyddio URIs mewngofnodi sydd wedi'u cadw i adnabod pa eicon neu URL newid cyfrinair y dylid ei ddefnyddio i wella'ch profiad. Ni chasglir nac ni chadwir unrhyw wybodaeth pan fyddwch yn defnyddio'r gwasanaeth hwn."
   },
   "showQuickCopyActionsDetailsDescription": {
     "message": "Ychwanegwch 3 botwm copïo cyflym wrth ymyl eitemau i gopïo eich enw defnyddiwr, cyfrinair, neu god dilysu i'r clipfwrdd."
@@ -7954,7 +7954,7 @@
     "message": "Nid oes gennych ganiatâd i weld y dudalen hon. Ceisiwch fewngofnodi â chyfrif gwahanol."
   },
   "wasmNotSupported": {
-    "message": "Nid yw WebAssembly yn cael ei gefnogi ar eich porwr neu nid yw wedi'i alluogi. Mae angen WebAssembly i ddefnyddio ap Byteward.",
+    "message": "Nid yw WebAssembly yn cael ei gefnogi ar eich porwr neu nid yw wedi'i alluogi. Mae angen WebAssembly i ddefnyddio ap Bitwarden.",
     "description": "'WebAssembly' is a technical term and should not be translated."
   },
   "showMore": {
@@ -8261,7 +8261,7 @@
     "message": "I ddefnyddio datgloi a rennir, mae angen caniatâd ar Bitwarden i gyfathrebu â'r ap bwrdd gwaith. Pan fyddwch yn parhau, bydd eich porwr yn gofyn i chi ei gymeradwyo."
   },
   "sharedUnlockDesktopPermissionWarning": {
-    "message": "Bydd Byteward yn cloi ac yn ail-lwytho. Ar ôl i chi gymeradwyo, bydd yr estyniad yn ail-lwytho ac yn cloi eich cist."
+    "message": "Bydd Bitwarden yn cloi ac yn ail-lwytho. Ar ôl i chi gymeradwyo, bydd yr estyniad yn ail-lwytho ac yn cloi eich cist."
   },
   "biometricPermissionDesc": {
     "message": "I ddefnyddio datgloi biometrig, mae angen caniatâd ar Bitwarden i gyfathrebu â'r ap bwrdd gwaith. Pan fyddwch yn parhau, bydd eich porwr yn gofyn i chi ei gymeradwyo."

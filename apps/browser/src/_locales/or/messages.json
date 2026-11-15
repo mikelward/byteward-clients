@@ -1,20 +1,20 @@
 {
   "appName": {
-    "message": "Byteward"
+    "message": "Bitwarden"
   },
   "appLogoLabel": {
-    "message": "Byteward ଲୋଗୋ"
+    "message": "Bitwarden ଲୋଗୋ"
   },
   "extName": {
-    "message": "Byteward ପାସୱାର୍ଡ ପରିଚାଳକ",
+    "message": "Bitwarden ପାସୱାର୍ଡ ପରିଚାଳକ",
     "description": "Extension name, MUST be less than 40 characters (Safari restriction)"
   },
   "extNameBeta": {
-    "message": "Byteward ପାସୱାର୍ଡ ପରିଚାଳକ ବିଟା",
+    "message": "Bitwarden ପାସୱାର୍ଡ ପରିଚାଳକ ବିଟା",
     "description": "Extension name for the beta channel, MUST be less than 40 characters (Safari restriction)"
   },
   "extDesc": {
-    "message": "ଘରେ, କାମରେ କିମ୍ବା ବାଟରେ, Byteward ଆପଣଙ୍କ ସମସ୍ତ ପାସୱାର୍ଡ, ପାସକେ ଓ ସମ୍ବେଦନଶୀଳ ତଥ୍ୟ ସହଜରେ ସୁରକ୍ଷିତ କରେ।",
+    "message": "ଘରେ, କାମରେ କିମ୍ବା ବାଟରେ, Bitwarden ଆପଣଙ୍କ ସମସ୍ତ ପାସୱାର୍ଡ, ପାସକେ ଓ ସମ୍ବେଦନଶୀଳ ତଥ୍ୟ ସହଜରେ ସୁରକ୍ଷିତ କରେ।",
     "description": "Extension description, MUST be less than 112 characters (Safari restriction)"
   },
   "loginOrCreateNewAccount": {
@@ -336,7 +336,7 @@
     "message": "ବ୍ରାଉଜର ଏକ୍ସଟେନ୍ସନ୍ ଷ୍ଟୋରକୁ ଜାରି ରଖିବେ?"
   },
   "continueToBrowserExtensionStoreDesc": {
-    "message": "Byteward ସେମାନଙ୍କ ପାଇଁ ଉପযুক্ত କି ନାହିଁ ଜାଣିବାରେ ଅନ୍ୟମାନଙ୍କୁ ସାହାଯ୍ୟ କରନ୍ତୁ। ଆପଣଙ୍କର ବ୍ରାଉଜରର ଏକ୍ସଟେନ୍ସନ୍ ଷ୍ଟୋରକୁ ଯାଆନ୍ତୁ ଏବଂ ଏବେ ଏକ ରେଟିଂ ଦିଅନ୍ତୁ।"
+    "message": "Bitwarden ସେମାନଙ୍କ ପାଇଁ ଉପযুক্ত କି ନାହିଁ ଜାଣିବାରେ ଅନ୍ୟମାନଙ୍କୁ ସାହାଯ୍ୟ କରନ୍ତୁ। ଆପଣଙ୍କର ବ୍ରାଉଜରର ଏକ୍ସଟେନ୍ସନ୍ ଷ୍ଟୋରକୁ ଯାଆନ୍ତୁ ଏବଂ ଏବେ ଏକ ରେଟିଂ ଦିଅନ୍ତୁ।"
   },
   "changeMasterPasswordOnWebConfirmation": {
     "message": "ଆପଣ Bitwarden ୱେବ୍ ଆପରେ ଆପଣଙ୍କର ମାଷ୍ଟର ପାସୱାର୍ଡ ପରିବର୍ତ୍ତନ କରିପାରିବେ।"
@@ -356,7 +356,7 @@
     "message": "ଲଗ୍ ଆଉଟ୍ କରନ୍ତୁ"
   },
   "aboutBitwarden": {
-    "message": "Byteward ବିଷୟରେ"
+    "message": "Bitwarden ବିଷୟରେ"
   },
   "about": {
     "message": "ବିଷୟରେ"
@@ -1081,10 +1081,10 @@
     "message": "2-ପଦକ୍ଷେପ ଯାଞ୍ଚକୁ ସୁଗମ କରନ୍ତୁ"
   },
   "totpHelper": {
-    "message": "Byteward 2-ପଦକ୍ଷେପ ଯାଞ୍ଚ କୋଡ୍ ସଞ୍ଚୟ ଏବଂ ପୂରଣ କରିପାରେ। ଏହି ଫିଲ୍ଡରେ କୀ କପି ଏବଂ ପେଷ୍ଟ କରନ୍ତୁ।"
+    "message": "Bitwarden 2-ପଦକ୍ଷେପ ଯାଞ୍ଚ କୋଡ୍ ସଞ୍ଚୟ ଏବଂ ପୂରଣ କରିପାରେ। ଏହି ଫିଲ୍ଡରେ କୀ କପି ଏବଂ ପେଷ୍ଟ କରନ୍ତୁ।"
   },
   "totpHelperWithCapture": {
-    "message": "Byteward 2-ପଦକ୍ଷେପ ଯାଞ୍ଚ କୋଡ୍ ସଞ୍ଚୟ ଏବଂ ପୂରଣ କରିପାରେ। ଏହି ୱେବସାଇଟର ପ୍ରମାଣିକରଣକାରୀ QR କୋଡର ସ୍କ୍ରିନସଟ୍ ନେବା ପାଇଁ କ୍ୟାମେରା ଆଇକନ୍ ଚୟନ କରନ୍ତୁ, କିମ୍ବା ଏହି ଫିଲ୍ଡରେ କୀ କପି ଏବଂ ପେଷ୍ଟ କରନ୍ତୁ।"
+    "message": "Bitwarden 2-ପଦକ୍ଷେପ ଯାଞ୍ଚ କୋଡ୍ ସଞ୍ଚୟ ଏବଂ ପୂରଣ କରିପାରେ। ଏହି ୱେବସାଇଟର ପ୍ରମାଣିକରଣକାରୀ QR କୋଡର ସ୍କ୍ରିନସଟ୍ ନେବା ପାଇଁ କ୍ୟାମେରା ଆଇକନ୍ ଚୟନ କରନ୍ତୁ, କିମ୍ବା ଏହି ଫିଲ୍ଡରେ କୀ କପି ଏବଂ ପେଷ୍ଟ କରନ୍ତୁ।"
   },
   "learnMoreAboutAuthenticators": {
     "message": "ପ୍ରମାଣିକରଣକାରୀ ବିଷୟରେ ଅଧିକ ଜାଣନ୍ତୁ"
@@ -1333,7 +1333,7 @@
     "message": "ସେଟିଂକୁ ଯାଆନ୍ତୁ"
   },
   "notificationAddDesc": {
-    "message": "Byteward ଆପଣଙ୍କ ପାଇଁ ଏହି ପାସୱାର୍ଡ ମନେ ରଖିବା ଉଚିତ କି?"
+    "message": "Bitwarden ଆପଣଙ୍କ ପାଇଁ ଏହି ପାସୱାର୍ଡ ମନେ ରଖିବା ଉଚିତ କି?"
   },
   "notificationAddSave": {
     "message": "ସଞ୍ଚୟ କରନ୍ତୁ"
@@ -1369,11 +1369,11 @@
     }
   },
   "notificationLoginSaveConfirmation": {
-    "message": "Byteward ରେ ସଞ୍ଚିତ ହୋଇଛି।",
+    "message": "Bitwarden ରେ ସଞ୍ଚିତ ହୋଇଛି।",
     "description": "Shown to user after item is saved."
   },
   "notificationLoginUpdatedConfirmation": {
-    "message": "Byteward ରେ ଅପଡେଟ୍ ହୋଇଛି।",
+    "message": "Bitwarden ରେ ଅପଡେଟ୍ ହୋଇଛି।",
     "description": "Shown to user after item is updated."
   },
   "selectItemAriaLabel": {
@@ -1471,13 +1471,13 @@
     "message": "ନୂତନ ପାସ୍କି ସଞ୍ଚୟ କରିବାକୁ କିମ୍ବା ଆପଣଙ୍କର ଭଣ୍ଡାରରେ ସଞ୍ଚିତ ପାସ୍କି ସହିତ ଲଗ୍ ଇନ୍ କରିବାକୁ ପଚାରନ୍ତୁ। ସମସ୍ତ ଲଗ୍ ଇନ୍ ଖାତାରେ ପ୍ରଯୁଜ୍ୟ।"
   },
   "notificationChangeDesc": {
-    "message": "ଆପଣ Byteward ରେ ଏହି ପାସୱାର୍ଡ ଅପଡେଟ୍ କରିବାକୁ ଚାହାଁନ୍ତି?"
+    "message": "ଆପଣ Bitwarden ରେ ଏହି ପାସୱାର୍ଡ ଅପଡେଟ୍ କରିବାକୁ ଚାହାଁନ୍ତି?"
   },
   "notificationChangeSave": {
     "message": "ଅପଡେଟ୍ କରନ୍ତୁ"
   },
   "notificationUnlockDesc": {
-    "message": "ସ୍ୱତଃ ପୂରଣ ଅନୁରୋଧ ସମ୍ପୂର୍ଣ୍ଣ କରିବା ପାଇଁ ଆପଣଙ୍କର Byteward ଭଣ୍ଡାର ଅନଲକ୍ କରନ୍ତୁ।"
+    "message": "ସ୍ୱତଃ ପୂରଣ ଅନୁରୋଧ ସମ୍ପୂର୍ଣ୍ଣ କରିବା ପାଇଁ ଆପଣଙ୍କର Bitwarden ଭଣ୍ଡାର ଅନଲକ୍ କରନ୍ତୁ।"
   },
   "notificationUnlock": {
     "message": "ଅନଲକ୍ କରନ୍ତୁ"
@@ -1786,7 +1786,7 @@
     "message": "ଏହି ଫାଇଲ୍ ରପ୍ତାନି ଏବଂ ଆମଦାନି କରିବା ପାଇଁ ଏହି ପାସୱାର୍ଡ ବ୍ୟବହୃତ ହେବ"
   },
   "accountRestrictedOptionDescription": {
-    "message": "ରପ୍ତାନିକୁ ଏନକ୍ରିପ୍ଟ କରିବା ଏବଂ କେବଳ ବର୍ତ୍ତମାନ Byteward ଖାତାରେ ଆମଦାନି ସୀମିତ ରଖିବା ପାଇଁ ଆପଣଙ୍କର ଖାତାର ଉପଭୋକ୍ତା ନାମ ଏବଂ ମାଷ୍ଟର ପାସୱାର୍ଡରୁ ଉତ୍ପନ୍ନ ଆପଣଙ୍କର ଖାତା ଏନକ୍ରିପ୍ସନ୍ କୀ ବ୍ୟବହାର କରନ୍ତୁ।"
+    "message": "ରପ୍ତାନିକୁ ଏନକ୍ରିପ୍ଟ କରିବା ଏବଂ କେବଳ ବର୍ତ୍ତମାନ Bitwarden ଖାତାରେ ଆମଦାନି ସୀମିତ ରଖିବା ପାଇଁ ଆପଣଙ୍କର ଖାତାର ଉପଭୋକ୍ତା ନାମ ଏବଂ ମାଷ୍ଟର ପାସୱାର୍ଡରୁ ଉତ୍ପନ୍ନ ଆପଣଙ୍କର ଖାତା ଏନକ୍ରିପ୍ସନ୍ କୀ ବ୍ୟବହାର କରନ୍ତୁ।"
   },
   "passwordProtectedOptionDescription": {
     "message": "ରପ୍ତାନିକୁ ଏନକ୍ରିପ୍ଟ କରିବା ପାଇଁ ଏକ ଫାଇଲ୍ ପାସୱାର୍ଡ ସେଟ୍ କରନ୍ତୁ ଏବଂ ଡିକ୍ରିପ୍ସନ୍ ପାଇଁ ପାସୱାର୍ଡ ବ୍ୟବହାର କରି ଏହାକୁ ଯେକୌଣସି Bitwarden ଖାତାରେ ଆମଦାନି କରନ୍ତୁ।"
@@ -2236,7 +2236,7 @@
     "message": "ସହଜରେ ସ୍ୱତଃ ପୂରଣ ସୂଚନା ଖୋଜନ୍ତୁ"
   },
   "autofillSpotlightDesc": {
-    "message": "ଆପଣଙ୍କର ବ୍ରାଉଜରର ସ୍ୱତଃ ପୂରଣ ସେଟିଂସ୍ ବନ୍ଦ କରନ୍ତୁ, ଯାହା ଦ୍ୱାରା ସେଗୁଡ଼ିକ Byteward ସହିତ ଦ୍ୱନ୍ଦ୍ୱ ନକରନ୍ତି।"
+    "message": "ଆପଣଙ୍କର ବ୍ରାଉଜରର ସ୍ୱତଃ ପୂରଣ ସେଟିଂସ୍ ବନ୍ଦ କରନ୍ତୁ, ଯାହା ଦ୍ୱାରା ସେଗୁଡ଼ିକ Bitwarden ସହିତ ଦ୍ୱନ୍ଦ୍ୱ ନକରନ୍ତି।"
   },
   "turnOffBrowserAutofill": {
     "message": "$BROWSER$ ସ୍ୱତଃ ପୂରଣ ବନ୍ଦ କରନ୍ତୁ",
@@ -2293,7 +2293,7 @@
     "message": "ଫର୍ମ ଫିଲ୍ଡରେ ସ୍ୱତଃ ପୂରଣ ସୂଚନା ଦେଖାନ୍ତୁ"
   },
   "howDoesBitwardenProtectFromPhishing": {
-    "message": "Byteward କିପରି ଆପଣଙ୍କର ଡାଟାକୁ ଫିସିଂରୁ ସୁରକ୍ଷା କରେ?"
+    "message": "Bitwarden କିପରି ଆପଣଙ୍କର ଡାଟାକୁ ଫିସିଂରୁ ସୁରକ୍ଷା କରେ?"
   },
   "currentWebsite": {
     "message": "ବର୍ତ୍ତମାନ ୱେବସାଇଟ୍"
@@ -3202,7 +3202,7 @@
     "message": "ଦୁର୍ବଳ ମାଷ୍ଟର ପାସୱାର୍ଡ"
   },
   "weakMasterPasswordDesc": {
-    "message": "ଆପଣ ଚୟନ କରିଥିବା ମାଷ୍ଟର ପାସୱାର୍ଡ ଦୁର୍ବଳ। ଆପଣଙ୍କର Byteward ଖାତାକୁ ଉଚିତ ଭାବରେ ସୁରକ୍ଷିତ ରଖିବାକୁ ଆପଣ ଏକ ଶକ୍ତିଶାଳୀ ମାଷ୍ଟର ପାସୱାର୍ଡ (କିମ୍ବା ଏକ ପାସଫ୍ରେଜ୍) ବ୍ୟବହାର କରିବା ଉଚିତ। ଆପଣ ନିଶ୍ଚିତ କି ଆପଣ ଏହି ମାଷ୍ଟର ପାସୱାର୍ଡ ବ୍ୟବହାର କରିବାକୁ ଚାହାଁନ୍ତି?"
+    "message": "ଆପଣ ଚୟନ କରିଥିବା ମାଷ୍ଟର ପାସୱାର୍ଡ ଦୁର୍ବଳ। ଆପଣଙ୍କର Bitwarden ଖାତାକୁ ଉଚିତ ଭାବରେ ସୁରକ୍ଷିତ ରଖିବାକୁ ଆପଣ ଏକ ଶକ୍ତିଶାଳୀ ମାଷ୍ଟର ପାସୱାର୍ଡ (କିମ୍ବା ଏକ ପାସଫ୍ରେଜ୍) ବ୍ୟବହାର କରିବା ଉଚିତ। ଆପଣ ନିଶ୍ଚିତ କି ଆପଣ ଏହି ମାଷ୍ଟର ପାସୱାର୍ଡ ବ୍ୟବହାର କରିବାକୁ ଚାହାଁନ୍ତି?"
   },
   "rotateAccountEncKey": {
     "message": "ମୋର ଖାତାର ଏନକ୍ରିପ୍ସନ୍ କୀ ମଧ୍ୟ ଘୂର୍ଣ୍ଣନ କରନ୍ତୁ"
@@ -3242,10 +3242,10 @@
     "message": "PIN ସେଟ୍ କରନ୍ତୁ"
   },
   "setYourPinCode": {
-    "message": "Byteward ଅନଲକ୍ କରିବା ପାଇଁ ଆପଣଙ୍କର PIN କୋଡ୍ ସେଟ୍ କରନ୍ତୁ। ଯଦି ଆପଣ କେବେ ଆପ୍ଲିକେସନରୁ ସମ୍ପୂର୍ଣ୍ଣ ଲଗ୍ ଆଉଟ୍ କରନ୍ତି ତେବେ ଆପଣଙ୍କର PIN ସେଟିଂସ୍ ରିସେଟ୍ ହେବ।"
+    "message": "Bitwarden ଅନଲକ୍ କରିବା ପାଇଁ ଆପଣଙ୍କର PIN କୋଡ୍ ସେଟ୍ କରନ୍ତୁ। ଯଦି ଆପଣ କେବେ ଆପ୍ଲିକେସନରୁ ସମ୍ପୂର୍ଣ୍ଣ ଲଗ୍ ଆଉଟ୍ କରନ୍ତି ତେବେ ଆପଣଙ୍କର PIN ସେଟିଂସ୍ ରିସେଟ୍ ହେବ।"
   },
   "setPinCode": {
-    "message": "ଆପଣ Byteward ଅନଲକ୍ କରିବାକୁ ଏହି PIN ବ୍ୟବହାର କରିପାରିବେ। ଯଦି ଆପଣ କେବେ ଆପ୍ଲିକେସନରୁ ସମ୍ପୂର୍ଣ୍ଣ ଲଗ୍ ଆଉଟ୍ କରନ୍ତି ତେବେ ଆପଣଙ୍କର PIN ରିସେଟ୍ ହେବ।"
+    "message": "ଆପଣ Bitwarden ଅନଲକ୍ କରିବାକୁ ଏହି PIN ବ୍ୟବହାର କରିପାରିବେ। ଯଦି ଆପଣ କେବେ ଆପ୍ଲିକେସନରୁ ସମ୍ପୂର୍ଣ୍ଣ ଲଗ୍ ଆଉଟ୍ କରନ୍ତି ତେବେ ଆପଣଙ୍କର PIN ରିସେଟ୍ ହେବ।"
   },
   "pinRequired": {
     "message": "PIN କୋଡ୍ ଆବଶ୍ୟକ।"
@@ -3381,7 +3381,7 @@
     "message": "ଫର୍ମଟି ଆପଣଙ୍କର ସଞ୍ଚିତ ଲଗଇନର URI ଠାରୁ ଏକ ଭିନ୍ନ ଡୋମେନ୍ ଦ୍ୱାରା ହୋଷ୍ଟ କରାଯାଇଛି। ଯେକୌଣସି ପ୍ରକାରେ ସ୍ୱତଃ ପୂରଣ କରିବାକୁ ଠିକ୍ ଅଛି ଚୟନ କରନ୍ତୁ, କିମ୍ବା ବନ୍ଦ କରିବାକୁ ବାତିଲ୍ କରନ୍ତୁ।"
   },
   "autofillIframeWarningTip": {
-    "message": "ଭବିଷ୍ୟତରେ ଏହି ଚେତାବନୀ ରୋକିବାକୁ, ଏହି URI, $HOSTNAME$, କୁ ଏହି ସାଇଟ୍ ପାଇଁ ଆପଣଙ୍କର Byteward ଲଗଇନ୍ ଆଇଟମରେ ସଞ୍ଚୟ କରନ୍ତୁ।",
+    "message": "ଭବିଷ୍ୟତରେ ଏହି ଚେତାବନୀ ରୋକିବାକୁ, ଏହି URI, $HOSTNAME$, କୁ ଏହି ସାଇଟ୍ ପାଇଁ ଆପଣଙ୍କର Bitwarden ଲଗଇନ୍ ଆଇଟମରେ ସଞ୍ଚୟ କରନ୍ତୁ।",
     "placeholders": {
       "hostname": {
         "content": "$1",
@@ -3390,7 +3390,7 @@
     }
   },
   "topLayerHijackWarning": {
-    "message": "ଏହି ପୃଷ୍ଠା Byteward ଅନୁଭୂତିରେ ବାଧା ସୃଷ୍ଟି କରୁଛି। ସୁରକ୍ଷା ପଦକ୍ଷେପ ଭାବରେ Byteward ଇନଲାଇନ୍ ମେନୁ ଅସ୍ଥାୟୀ ଭାବରେ ଅକ୍ଷମ କରାଯାଇଛି।"
+    "message": "ଏହି ପୃଷ୍ଠା Bitwarden ଅନୁଭୂତିରେ ବାଧା ସୃଷ୍ଟି କରୁଛି। ସୁରକ୍ଷା ପଦକ୍ଷେପ ଭାବରେ Bitwarden ଇନଲାଇନ୍ ମେନୁ ଅସ୍ଥାୟୀ ଭାବରେ ଅକ୍ଷମ କରାଯାଇଛି।"
   },
   "setMasterPassword": {
     "message": "ମାଷ୍ଟର ପାସୱାର୍ଡ ସେଟ୍ କରନ୍ତୁ"
@@ -3552,7 +3552,7 @@
     "message": "ବାୟୋମେଟ୍ରିକ୍ସ ବିଫଳ ହୋଇଛି"
   },
   "biometricsFailedDesc": {
-    "message": "ବାୟୋମେଟ୍ରିକ୍ସ ସମ୍ପୂର୍ଣ୍ଣ କରାଯାଇପାରିବ ନାହିଁ, ଏକ ମାଷ୍ଟର ପାସୱାର୍ଡ ବ୍ୟବହାର କରିବା କିମ୍ବା ଲଗ୍ ଆଉଟ୍ କରିବା ବିଷୟରେ ବିଚାର କରନ୍ତୁ। ଯଦି ଏହା ଜାରି ରହେ, ଦୟାକରି Byteward ସହାୟତା ସହିତ ସମ୍ପର୍କ କରନ୍ତୁ।"
+    "message": "ବାୟୋମେଟ୍ରିକ୍ସ ସମ୍ପୂର୍ଣ୍ଣ କରାଯାଇପାରିବ ନାହିଁ, ଏକ ମାଷ୍ଟର ପାସୱାର୍ଡ ବ୍ୟବହାର କରିବା କିମ୍ବା ଲଗ୍ ଆଉଟ୍ କରିବା ବିଷୟରେ ବିଚାର କରନ୍ତୁ। ଯଦି ଏହା ଜାରି ରହେ, ଦୟାକରି Bitwarden ସହାୟତା ସହିତ ସମ୍ପର୍କ କରନ୍ତୁ।"
   },
   "nativeMessagingPermissionErrorTitle": {
     "message": "ଅନୁମତି ପ୍ରଦାନ କରାଯାଇନାହିଁ"
@@ -3595,7 +3595,7 @@
     "message": "ବାଦ ଦିଆଯାଇଥିବା ଡୋମେନଗୁଡ଼ିକ"
   },
   "excludedDomainsDesc": {
-    "message": "Byteward ଏହି ଡୋମେନଗୁଡ଼ିକ ପାଇଁ ଲଗଇନ୍ ବିବରଣୀ ସଞ୍ଚୟ କରିବାକୁ ପଚାରିବ ନାହିଁ। ପରିବର୍ତ୍ତନଗୁଡ଼ିକ କାର୍ଯ୍ୟକାରୀ ହେବା ପାଇଁ ଆପଣଙ୍କୁ ପୃଷ୍ଠା ରିଫ୍ରେସ୍ କରିବାକୁ ହେବ।"
+    "message": "Bitwarden ଏହି ଡୋମେନଗୁଡ଼ିକ ପାଇଁ ଲଗଇନ୍ ବିବରଣୀ ସଞ୍ଚୟ କରିବାକୁ ପଚାରିବ ନାହିଁ। ପରିବର୍ତ୍ତନଗୁଡ଼ିକ କାର୍ଯ୍ୟକାରୀ ହେବା ପାଇଁ ଆପଣଙ୍କୁ ପୃଷ୍ଠା ରିଫ୍ରେସ୍ କରିବାକୁ ହେବ।"
   },
   "blockedDomainsDesc": {
     "message": "ଏହି ୱେବସାଇଟଗୁଡ଼ିକ ପାଇଁ ସ୍ୱତଃ ପୂରଣ ଏବଂ ଅନ୍ୟ ସମ୍ବନ୍ଧିତ ବୈଶିଷ୍ଟ୍ୟ ପ୍ରଦାନ କରାଯିବ ନାହିଁ। ପରିବର୍ତ୍ତନଗୁଡ଼ିକ କାର୍ଯ୍ୟକାରୀ ହେବା ପାଇଁ ଆପଣଙ୍କୁ ପୃଷ୍ଠା ରିଫ୍ରେସ୍ କରିବାକୁ ହେବ।"
@@ -3727,24 +3727,24 @@
     "message": "ବିପଦରେ ଥିବା ଲଗଇନଗୁଡ଼ିକର ଏକ ତାଲିକାର ଚିତ୍ର।"
   },
   "welcomeDialogGraphicAlt": {
-    "message": "Byteward ଭଣ୍ଡାର ପୃଷ୍ଠାର ଲେଆଉଟର ଚିତ୍ର।"
+    "message": "Bitwarden ଭଣ୍ଡାର ପୃଷ୍ଠାର ଲେଆଉଟର ଚିତ୍ର।"
   },
   "generatePasswordSlideDesc": {
-    "message": "ବିପଦରେ ଥିବା ସାଇଟରେ Byteward ସ୍ୱତଃ ପୂରଣ ମେନୁ ସହିତ ଶୀଘ୍ର ଏକ ଶକ୍ତିଶାଳୀ, ଅନନ୍ୟ ପାସୱାର୍ଡ ସୃଷ୍ଟି କରନ୍ତୁ।",
+    "message": "ବିପଦରେ ଥିବା ସାଇଟରେ Bitwarden ସ୍ୱତଃ ପୂରଣ ମେନୁ ସହିତ ଶୀଘ୍ର ଏକ ଶକ୍ତିଶାଳୀ, ଅନନ୍ୟ ପାସୱାର୍ଡ ସୃଷ୍ଟି କରନ୍ତୁ।",
     "description": "Description of the generate password slide on the at-risk password page carousel"
   },
   "generatePasswordSlideImgAltPeriod": {
-    "message": "ଏକ ସୃଷ୍ଟି କରାଯାଇଥିବା ପାସୱାର୍ଡ ପ୍ରଦର୍ଶନ କରୁଥିବା Byteward ସ୍ୱତଃ ପୂରଣ ମେନୁର ଚିତ୍ର।"
+    "message": "ଏକ ସୃଷ୍ଟି କରାଯାଇଥିବା ପାସୱାର୍ଡ ପ୍ରଦର୍ଶନ କରୁଥିବା Bitwarden ସ୍ୱତଃ ପୂରଣ ମେନୁର ଚିତ୍ର।"
   },
   "updateInBitwarden": {
-    "message": "Byteward ରେ ଅପଡେଟ୍ କରନ୍ତୁ"
+    "message": "Bitwarden ରେ ଅପଡେଟ୍ କରନ୍ତୁ"
   },
   "updateInBitwardenSlideDesc": {
-    "message": "Byteward ତାପରେ ଆପଣଙ୍କୁ ପାସୱାର୍ଡ ପରିଚାଳକରେ ପାସୱାର୍ଡ ଅପଡେଟ୍ କରିବାକୁ ପ୍ରମ୍ପ୍ଟ କରିବ।",
+    "message": "Bitwarden ତାପରେ ଆପଣଙ୍କୁ ପାସୱାର୍ଡ ପରିଚାଳକରେ ପାସୱାର୍ଡ ଅପଡେଟ୍ କରିବାକୁ ପ୍ରମ୍ପ୍ଟ କରିବ।",
     "description": "Description of the update in Bitwarden slide on the at-risk password page carousel"
   },
   "updateInBitwardenSlideImgAltPeriod": {
-    "message": "ଉପଭୋକ୍ତାକୁ ଲଗଇନ୍ ଅପଡେଟ୍ କରିବାକୁ ପ୍ରମ୍ପ୍ଟ କରୁଥିବା Byteward ର ଏକ ବିଜ୍ଞପ୍ତିର ଚିତ୍ର।"
+    "message": "ଉପଭୋକ୍ତାକୁ ଲଗଇନ୍ ଅପଡେଟ୍ କରିବାକୁ ପ୍ରମ୍ପ୍ଟ କରୁଥିବା Bitwarden ର ଏକ ବିଜ୍ଞପ୍ତିର ଚିତ୍ର।"
   },
   "turnOnAutofill": {
     "message": "ସ୍ୱତଃ ପୂରଣ ଚାଲୁ କରନ୍ତୁ"
@@ -4372,11 +4372,11 @@
     }
   },
   "forwarderGeneratedBy": {
-    "message": "Byteward ଦ୍ୱାରା ସୃଷ୍ଟି କରାଯାଇଛି।",
+    "message": "Bitwarden ଦ୍ୱାରା ସୃଷ୍ଟି କରାଯାଇଛି।",
     "description": "Displayed with the address on the forwarding service's configuration screen."
   },
   "forwarderGeneratedByWithWebsite": {
-    "message": "ୱେବସାଇଟ୍: $WEBSITE$। Byteward ଦ୍ୱାରା ସୃଷ୍ଟି କରାଯାଇଛି।",
+    "message": "ୱେବସାଇଟ୍: $WEBSITE$। Bitwarden ଦ୍ୱାରା ସୃଷ୍ଟି କରାଯାଇଛି।",
     "description": "Displayed with the address on the forwarding service's configuration screen.",
     "placeholders": {
       "WEBSITE": {
@@ -4598,7 +4598,7 @@
     "message": "ଆପଣଙ୍କର ଉପକରଣକୁ ଏକ ବିଜ୍ଞପ୍ତି ପଠାଯାଇଛି।"
   },
   "notificationSentDevicePart1": {
-    "message": "ଆପଣଙ୍କର ଉପକରଣରେ କିମ୍ବା ଏଥିରେ Byteward ଅନଲକ୍ କରନ୍ତୁ"
+    "message": "ଆପଣଙ୍କର ଉପକରଣରେ କିମ୍ବା ଏଥିରେ Bitwarden ଅନଲକ୍ କରନ୍ତୁ"
   },
   "notificationSentDeviceAnchor": {
     "message": "ୱେବ୍ ଆପ୍"
@@ -5098,15 +5098,15 @@
     "message": "ବିଷୟବସ୍ତୁକୁ ଯାଆନ୍ତୁ"
   },
   "bitwardenOverlayButton": {
-    "message": "Byteward ସ୍ୱତଃ ପୂରଣ ମେନୁ ବଟନ୍",
+    "message": "Bitwarden ସ୍ୱତଃ ପୂରଣ ମେନୁ ବଟନ୍",
     "description": "Page title for the iframe containing the overlay button"
   },
   "toggleBitwardenVaultOverlay": {
-    "message": "Byteward ସ୍ୱତଃ ପୂରଣ ମେନୁ ଟୋଗଲ୍ କରନ୍ତୁ",
+    "message": "Bitwarden ସ୍ୱତଃ ପୂରଣ ମେନୁ ଟୋଗଲ୍ କରନ୍ତୁ",
     "description": "Screen reader and tool tip label for the overlay button"
   },
   "bitwardenVault": {
-    "message": "Byteward ସ୍ୱତଃ ପୂରଣ ମେନୁ",
+    "message": "Bitwarden ସ୍ୱତଃ ପୂରଣ ମେନୁ",
     "description": "Page title in overlay"
   },
   "unlockYourAccountToViewMatchingLogins": {
@@ -5178,7 +5178,7 @@
     "description": "Screen reader text (aria-label) for new identity button within inline menu"
   },
   "bitwardenOverlayMenuAvailable": {
-    "message": "Byteward ସ୍ୱତଃ ପୂରଣ ମେନୁ ଉପଲବ୍ଧ। ଚୟନ କରିବାକୁ ତଳ ତୀର କୀ ଦବାନ୍ତୁ।",
+    "message": "Bitwarden ସ୍ୱତଃ ପୂରଣ ମେନୁ ଉପଲବ୍ଧ। ଚୟନ କରିବାକୁ ତଳ ତୀର କୀ ଦବାନ୍ତୁ।",
     "description": "Screen reader text for announcing when the overlay opens on the page"
   },
   "turnOn": {
@@ -6438,7 +6438,7 @@
     "description": "Label indicating the most common import formats"
   },
   "uriMatchDefaultStrategyHint": {
-    "message": "URI ମେଳ ଚିହ୍ନଟ ହେଉଛି Byteward କିପରି ସ୍ୱତଃ ପୂରଣ ସୂଚନା ଚିହ୍ନଟ କରେ।",
+    "message": "URI ମେଳ ଚିହ୍ନଟ ହେଉଛି Bitwarden କିପରି ସ୍ୱତଃ ପୂରଣ ସୂଚନା ଚିହ୍ନଟ କରେ।",
     "description": "Explains to the user that URI match detection determines how Bitwarden suggests autofill options, and clarifies that this default strategy applies when no specific match detection is set for a login item."
   },
   "regExAdvancedOptionWarning": {
@@ -6482,15 +6482,15 @@
     "description": "Body content for dialog which asks if the user wants to proceed to the browser's keyboard shortcut settings page"
   },
   "overrideDefaultBrowserAutofillTitle": {
-    "message": "Byteward କୁ ଆପଣଙ୍କର ଡିଫଲ୍ଟ ପାସୱାର୍ଡ ପରିଚାଳକ କରିବେ?",
+    "message": "Bitwarden କୁ ଆପଣଙ୍କର ଡିଫଲ୍ଟ ପାସୱାର୍ଡ ପରିଚାଳକ କରିବେ?",
     "description": "Dialog title facilitating the ability to override a chrome browser's default autofill behavior"
   },
   "overrideDefaultBrowserAutofillDescription": {
-    "message": "ଏହି ବିକଳ୍ପକୁ ଅଣଦେଖା କରିବା Byteward ସ୍ୱତଃ ପୂରଣ ସୂଚନା ଏବଂ ଆପଣଙ୍କର ବ୍ରାଉଜରର ସୂଚନା ମଧ୍ୟରେ ଦ୍ୱନ୍ଦ୍ୱ ସୃଷ୍ଟି କରିପାରେ।",
+    "message": "ଏହି ବିକଳ୍ପକୁ ଅଣଦେଖା କରିବା Bitwarden ସ୍ୱତଃ ପୂରଣ ସୂଚନା ଏବଂ ଆପଣଙ୍କର ବ୍ରାଉଜରର ସୂଚନା ମଧ୍ୟରେ ଦ୍ୱନ୍ଦ୍ୱ ସୃଷ୍ଟି କରିପାରେ।",
     "description": "Dialog message facilitating the ability to override a chrome browser's default autofill behavior"
   },
   "overrideDefaultBrowserAutoFillSettings": {
-    "message": "Byteward କୁ ଆପଣଙ୍କର ଡିଫଲ୍ଟ ପାସୱାର୍ଡ ପରିଚାଳକ କରନ୍ତୁ",
+    "message": "Bitwarden କୁ ଆପଣଙ୍କର ଡିଫଲ୍ଟ ପାସୱାର୍ଡ ପରିଚାଳକ କରନ୍ତୁ",
     "description": "Label for the setting that allows overriding the default browser autofill settings"
   },
   "defaultPasswordManagerCalloutTitle": {
@@ -6498,7 +6498,7 @@
     "description": "Title for the callout that prompts users to set Bitwarden as their default password manager"
   },
   "defaultPasswordManagerCalloutDesc": {
-    "message": "Byteward କୁ ଆପଣଙ୍କର ଡିଫଲ୍ଟ ପାସୱାର୍ଡ ପରିଚାଳକ କରିବାକୁ ଆପଣଙ୍କୁ ଏକ $BROWSER$ ବ୍ରାଉଜର ଅନୁମତି ପ୍ରଦାନ କରିବାକୁ କୁହାଯିବ।",
+    "message": "Bitwarden କୁ ଆପଣଙ୍କର ଡିଫଲ୍ଟ ପାସୱାର୍ଡ ପରିଚାଳକ କରିବାକୁ ଆପଣଙ୍କୁ ଏକ $BROWSER$ ବ୍ରାଉଜର ଅନୁମତି ପ୍ରଦାନ କରିବାକୁ କୁହାଯିବ।",
     "description": "Description for the callout that prompts users to set Bitwarden as their default password manager",
     "placeholders": {
       "browser": {
@@ -6508,11 +6508,11 @@
     }
   },
   "privacyPermissionAdditionNotGrantedTitle": {
-    "message": "Byteward କୁ ଡିଫଲ୍ଟ ପାସୱାର୍ଡ ପରିଚାଳକ ଭାବରେ ସେଟ୍ କରିବାରେ ଅସମର୍ଥ",
+    "message": "Bitwarden କୁ ଡିଫଲ୍ଟ ପାସୱାର୍ଡ ପରିଚାଳକ ଭାବରେ ସେଟ୍ କରିବାରେ ଅସମର୍ଥ",
     "description": "Title for the dialog that appears when the user has not granted the extension permission to set privacy settings"
   },
   "privacyPermissionAdditionNotGrantedDescription": {
-    "message": "Byteward କୁ ଡିଫଲ୍ଟ ପାସୱାର୍ଡ ପରିଚାଳକ ଭାବରେ ସେଟ୍ କରିବାକୁ ଆପଣଙ୍କୁ Byteward କୁ ବ୍ରାଉଜର ଗୋପନୀୟତା ଅନୁମତି ଦେବାକୁ ହେବ।",
+    "message": "Bitwarden କୁ ଡିଫଲ୍ଟ ପାସୱାର୍ଡ ପରିଚାଳକ ଭାବରେ ସେଟ୍ କରିବାକୁ ଆପଣଙ୍କୁ Bitwarden କୁ ବ୍ରାଉଜର ଗୋପନୀୟତା ଅନୁମତି ଦେବାକୁ ହେବ।",
     "description": "Description for the dialog that appears when the user has not granted the extension permission to set privacy settings"
   },
   "makeDefault": {
@@ -6520,10 +6520,10 @@
     "description": "Button text for the setting that allows overriding the default browser autofill settings"
   },
   "defaultPasswordManagerPromptTitle": {
-    "message": "Byteward କୁ ଆପଣଙ୍କର ବ୍ରାଉଜରର ଡିଫଲ୍ଟ ପାସୱାର୍ଡ ପରିଚାଳକ କରନ୍ତୁ"
+    "message": "Bitwarden କୁ ଆପଣଙ୍କର ବ୍ରାଉଜରର ଡିଫଲ୍ଟ ପାସୱାର୍ଡ ପରିଚାଳକ କରନ୍ତୁ"
   },
   "defaultPasswordManagerPromptTitleV2": {
-    "message": "Byteward କୁ ଆପଣଙ୍କର ଡିଫଲ୍ଟ ପାସୱାର୍ଡ ପରିଚାଳକ କରନ୍ତୁ",
+    "message": "Bitwarden କୁ ଆପଣଙ୍କର ଡିଫଲ୍ଟ ପାସୱାର୍ଡ ପରିଚାଳକ କରନ୍ତୁ",
     "description": "Label for the setting to make Bitwarden the default password manager"
   },
   "defaultPasswordManagerSettingHintV2": {
@@ -6535,13 +6535,13 @@
     "description": "Link text to browser autofill settings in the default password manager setting hint."
   },
   "defaultPasswordManagerPromptStep2AfterAllow": {
-    "message": "ଆପଣଙ୍କର ସେଟିଂସ୍ ପରିବର୍ତ୍ତନ କରିବାକୁ Byteward କୁ ଅନୁମତି ଦେବାକୁ ବ୍ରାଉଜର ପ୍ରମ୍ପ୍ଟରୁ।"
+    "message": "ଆପଣଙ୍କର ସେଟିଂସ୍ ପରିବର୍ତ୍ତନ କରିବାକୁ Bitwarden କୁ ଅନୁମତି ଦେବାକୁ ବ୍ରାଉଜର ପ୍ରମ୍ପ୍ଟରୁ।"
   },
   "defaultPasswordManagerPromptStep3": {
     "message": "ଆମେ ଆପଣଙ୍କର ବ୍ରାଉଜରର ଅନ୍ତର୍ନିହିତ ପାସୱାର୍ଡ ପରିଚାଳକ ବନ୍ଦ କରିବୁ ଯାହା ଦ୍ୱାରା ଆପଣ ଏକ ସୁରକ୍ଷିତ ଲଗଇନ୍ ଅନୁଭୂତି ଉପଭୋଗ କରିପାରିବେ।"
   },
   "defaultPasswordManagerSuccessToast": {
-    "message": "Byteward କୁ ଆପଣଙ୍କର ଡିଫଲ୍ଟ ବ୍ରାଉଜର ପାସୱାର୍ଡ ପରିଚାଳକ କରାଯାଇଛି"
+    "message": "Bitwarden କୁ ଆପଣଙ୍କର ଡିଫଲ୍ଟ ବ୍ରାଉଜର ପାସୱାର୍ଡ ପରିଚାଳକ କରାଯାଇଛି"
   },
   "allow": {
     "message": "ଅନୁମତି ଦିଅନ୍ତୁ",
@@ -7549,7 +7549,7 @@
     "description": "Notification message for when a password has been regenerated"
   },
   "saveToBitwarden": {
-    "message": "Byteward ରେ ସଞ୍ଚୟ କରନ୍ତୁ",
+    "message": "Bitwarden ରେ ସଞ୍ଚୟ କରନ୍ତୁ",
     "description": "Confirmation message for saving a login to Bitwarden"
   },
   "spaceCharacterDescriptor": {
@@ -7793,13 +7793,13 @@
     "message": "Use folders to organize vault items. They're just for you. No one else will see or use them."
   },
   "introCarouselLabel": {
-    "message": "Byteward କୁ ସ୍ୱାଗତ"
+    "message": "Bitwarden କୁ ସ୍ୱାଗତ"
   },
   "securityPrioritized": {
     "message": "ସୁରକ୍ଷା, ପ୍ରାଥମିକତା ଦିଆଯାଇଛି"
   },
   "securityPrioritizedBody": {
-    "message": "ଲଗଇନ୍, କାର୍ଡ, ଏବଂ ପରିଚୟଗୁଡ଼ିକୁ ଆପଣଙ୍କର ସୁରକ୍ଷିତ ଭଣ୍ଡାରରେ ସଞ୍ଚୟ କରନ୍ତୁ। Byteward ଆପଣଙ୍କ ପାଇଁ ଗୁରୁତ୍ୱପୂର୍ଣ୍ଣ ଜିନିଷକୁ ସୁରକ୍ଷା କରିବାକୁ ଶୂନ୍ୟ-ଜ୍ଞାନ, ଏଣ୍ଡ-ଟୁ-ଏଣ୍ଡ ଏନକ୍ରିପ୍ସନ୍ ବ୍ୟବହାର କରେ।"
+    "message": "ଲଗଇନ୍, କାର୍ଡ, ଏବଂ ପରିଚୟଗୁଡ଼ିକୁ ଆପଣଙ୍କର ସୁରକ୍ଷିତ ଭଣ୍ଡାରରେ ସଞ୍ଚୟ କରନ୍ତୁ। Bitwarden ଆପଣଙ୍କ ପାଇଁ ଗୁରୁତ୍ୱପୂର୍ଣ୍ଣ ଜିନିଷକୁ ସୁରକ୍ଷା କରିବାକୁ ଶୂନ୍ୟ-ଜ୍ଞାନ, ଏଣ୍ଡ-ଟୁ-ଏଣ୍ଡ ଏନକ୍ରିପ୍ସନ୍ ବ୍ୟବହାର କରେ।"
   },
   "quickLogin": {
     "message": "ଶୀଘ୍ର ଏବଂ ସହଜ ଲଗଇନ୍"
@@ -7945,7 +7945,7 @@
     "message": "ଏହି ସେଟିଂ ବିଷୟରେ"
   },
   "permitCipherDetailsDescription": {
-    "message": "ଆପଣଙ୍କର ଅନୁଭୂତି ଉନ୍ନତ କରିବାକୁ କେଉଁ ଆଇକନ୍ କିମ୍ବା ପାସୱାର୍ଡ URL ପରିବର୍ତ୍ତନ ବ୍ୟବହାର କରାଯିବା ଉଚିତ ଚିହ୍ନଟ କରିବାକୁ Byteward ସଞ୍ଚିତ ଲଗଇନ୍ URI ବ୍ୟବହାର କରିବ। ଆପଣ ଏହି ସେବା ବ୍ୟବହାର କରିବା ସମୟରେ କୌଣସି ସୂଚନା ସଂଗ୍ରହ କିମ୍ବା ସଞ୍ଚୟ କରାଯାଏ ନାହିଁ।"
+    "message": "ଆପଣଙ୍କର ଅନୁଭୂତି ଉନ୍ନତ କରିବାକୁ କେଉଁ ଆଇକନ୍ କିମ୍ବା ପାସୱାର୍ଡ URL ପରିବର୍ତ୍ତନ ବ୍ୟବହାର କରାଯିବା ଉଚିତ ଚିହ୍ନଟ କରିବାକୁ Bitwarden ସଞ୍ଚିତ ଲଗଇନ୍ URI ବ୍ୟବହାର କରିବ। ଆପଣ ଏହି ସେବା ବ୍ୟବହାର କରିବା ସମୟରେ କୌଣସି ସୂଚନା ସଂଗ୍ରହ କିମ୍ବା ସଞ୍ଚୟ କରାଯାଏ ନାହିଁ।"
   },
   "showQuickCopyActionsDetailsDescription": {
     "message": "ଆପଣଙ୍କର ଉପଭୋକ୍ତା ନାମ, ପାସୱାର୍ଡ, କିମ୍ବା ଯାଞ୍ଚ କୋଡ୍ କ୍ଲିପବୋର୍ଡକୁ କପି କରିବାକୁ ଆଇଟମଗୁଡ଼ିକ ପାଖରେ 3 ଶୀଘ୍ର କପି ବଟନ୍ ଯୋଡ଼ନ୍ତୁ।"
@@ -7954,7 +7954,7 @@
     "message": "ଏହି ପୃଷ୍ଠା ଦେଖିବାକୁ ଆପଣଙ୍କର ଅନୁମତି ନାହିଁ। ଏକ ଭିନ୍ନ ଖାତା ସହିତ ଲଗ୍ ଇନ୍ କରିବାକୁ ଚେଷ୍ଟା କରନ୍ତୁ।"
   },
   "wasmNotSupported": {
-    "message": "ଆପଣଙ୍କର ବ୍ରାଉଜରରେ WebAssembly ସମର୍ଥିତ ନୁହେଁ କିମ୍ବା ସକ୍ଷମ ନାହିଁ। Byteward ଆପ୍ ବ୍ୟବହାର କରିବାକୁ WebAssembly ଆବଶ୍ୟକ।",
+    "message": "ଆପଣଙ୍କର ବ୍ରାଉଜରରେ WebAssembly ସମର୍ଥିତ ନୁହେଁ କିମ୍ବା ସକ୍ଷମ ନାହିଁ। Bitwarden ଆପ୍ ବ୍ୟବହାର କରିବାକୁ WebAssembly ଆବଶ୍ୟକ।",
     "description": "'WebAssembly' is a technical term and should not be translated."
   },
   "showMore": {
@@ -8261,7 +8261,7 @@
     "message": "ସେୟାର କରାଯାଇଥିବା ଅନଲକ୍ ବ୍ୟବହାର କରିବାକୁ, Bitwarden କୁ ଡେସ୍କଟପ୍ ଆପ୍ ସହିତ ଯୋଗାଯୋଗ କରିବାକୁ ଅନୁମତି ଆବଶ୍ୟକ। ଆପଣ ଜାରି ରଖିଲେ, ଆପଣଙ୍କର ବ୍ରାଉଜର ଆପଣଙ୍କୁ ଏହା ଅନୁମୋଦନ କରିବାକୁ କହିବ।"
   },
   "sharedUnlockDesktopPermissionWarning": {
-    "message": "Byteward ଲକ୍ ଏବଂ ପୁନଃ ଲୋଡ୍ କରିବ। ଆପଣ ଅନୁମୋଦନ କରିବା ପରେ, ଏକ୍ସଟେନ୍ସନ୍ ପୁନଃ ଲୋଡ୍ ହେବ ଏବଂ ଆପଣଙ୍କର ଭଣ୍ଡାର ଲକ୍ କରିବ।"
+    "message": "Bitwarden ଲକ୍ ଏବଂ ପୁନଃ ଲୋଡ୍ କରିବ। ଆପଣ ଅନୁମୋଦନ କରିବା ପରେ, ଏକ୍ସଟେନ୍ସନ୍ ପୁନଃ ଲୋଡ୍ ହେବ ଏବଂ ଆପଣଙ୍କର ଭଣ୍ଡାର ଲକ୍ କରିବ।"
   },
   "biometricPermissionDesc": {
     "message": "ବାୟୋମେଟ୍ରିକ୍ ଅନଲକ୍ ବ୍ୟବହାର କରିବାକୁ, Bitwarden କୁ ଡେସ୍କଟପ୍ ଆପ୍ ସହିତ ଯୋଗାଯୋଗ କରିବାକୁ ଅନୁମତି ଆବଶ୍ୟକ। ଆପଣ ଜାରି ରଖିଲେ, ଆପଣଙ୍କର ବ୍ରାଉଜର ଆପଣଙ୍କୁ ଏହା ଅନୁମୋଦନ କରିବାକୁ କହିବ।"

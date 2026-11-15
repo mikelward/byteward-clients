@@ -1,20 +1,20 @@
 {
   "appName": {
-    "message": "Byteward"
+    "message": "Bitwarden"
   },
   "appLogoLabel": {
-    "message": "Byteward ロゴ"
+    "message": "Bitwarden ロゴ"
   },
   "extName": {
-    "message": "Byteward パスワードマネージャー",
+    "message": "Bitwarden パスワードマネージャー",
     "description": "Extension name, MUST be less than 40 characters (Safari restriction)"
   },
   "extNameBeta": {
-    "message": "Byteward パスワードマネージャー ベータ版",
+    "message": "Bitwarden パスワードマネージャー ベータ版",
     "description": "Extension name for the beta channel, MUST be less than 40 characters (Safari restriction)"
   },
   "extDesc": {
-    "message": "自宅、職場、または外出先でも、Byteward はすべてのパスワード、パスキー、機密情報を簡単に保護します。",
+    "message": "自宅、職場、または外出先でも、Bitwarden はすべてのパスワード、パスキー、機密情報を簡単に保護します。",
     "description": "Extension description, MUST be less than 112 characters (Safari restriction)"
   },
   "loginOrCreateNewAccount": {
@@ -336,7 +336,7 @@
     "message": "ブラウザの拡張機能ストアに進みますか？"
   },
   "continueToBrowserExtensionStoreDesc": {
-    "message": "Byteward を他のユーザーにもおすすめしましょう。ブラウザーの拡張機能ストアにアクセスして、レビューをしてください。"
+    "message": "Bitwarden を他のユーザーにもおすすめしましょう。ブラウザーの拡張機能ストアにアクセスして、レビューをしてください。"
   },
   "changeMasterPasswordOnWebConfirmation": {
     "message": "Bitwarden ウェブアプリでマスターパスワードを変更できます。"
@@ -356,7 +356,7 @@
     "message": "ログアウト"
   },
   "aboutBitwarden": {
-    "message": "Byteward について"
+    "message": "Bitwarden について"
   },
   "about": {
     "message": "アプリについて"
@@ -1081,10 +1081,10 @@
     "message": "2段階認証をシームレスにする"
   },
   "totpHelper": {
-    "message": "Byteward は2段階認証コードを保存・入力できます。この欄にキーをコピーして貼り付けてください。"
+    "message": "Bitwarden は2段階認証コードを保存・入力できます。この欄にキーをコピーして貼り付けてください。"
   },
   "totpHelperWithCapture": {
-    "message": "Byteward は2段階認証コードを保存・入力できます。 カメラアイコンを選択して、このウェブサイトの認証 QR コードのスクリーンショットを撮るか、キーをコピーしてこのフィールドに貼り付けてください。"
+    "message": "Bitwarden は2段階認証コードを保存・入力できます。 カメラアイコンを選択して、このウェブサイトの認証 QR コードのスクリーンショットを撮るか、キーをコピーしてこのフィールドに貼り付けてください。"
   },
   "learnMoreAboutAuthenticators": {
     "message": "認証方法の詳細"
@@ -1333,7 +1333,7 @@
     "message": "設定へ移動"
   },
   "notificationAddDesc": {
-    "message": "このパスワードを Byteward に保存しますか？"
+    "message": "このパスワードを Bitwarden に保存しますか？"
   },
   "notificationAddSave": {
     "message": "保存"
@@ -1369,11 +1369,11 @@
     }
   },
   "notificationLoginSaveConfirmation": {
-    "message": "Byteward に保存しました。",
+    "message": "Bitwarden に保存しました。",
     "description": "Shown to user after item is saved."
   },
   "notificationLoginUpdatedConfirmation": {
-    "message": "Byteward で更新しました。",
+    "message": "Bitwarden で更新しました。",
     "description": "Shown to user after item is updated."
   },
   "selectItemAriaLabel": {
@@ -1471,13 +1471,13 @@
     "message": "新しいパスキーを保存するか、保管庫に保存されているパスキーでログインするよう要求します。ログインしているすべてのアカウントに適用されます。"
   },
   "notificationChangeDesc": {
-    "message": "Byteward でこのパスワードを更新しますか？"
+    "message": "Bitwarden でこのパスワードを更新しますか？"
   },
   "notificationChangeSave": {
     "message": "今すぐ更新する"
   },
   "notificationUnlockDesc": {
-    "message": "Byteward 保管庫をロック解除して自動入力リクエストを完了してください。"
+    "message": "Bitwarden 保管庫をロック解除して自動入力リクエストを完了してください。"
   },
   "notificationUnlock": {
     "message": "ロック解除"
@@ -1786,7 +1786,7 @@
     "message": "このパスワードはこのファイルのエクスポートとインポート時に使用します"
   },
   "accountRestrictedOptionDescription": {
-    "message": "アカウントのユーザー名とマスターパスワードから得られる暗号化キーを使用してエクスポートするデータを暗号化し、現在の Byteward アカウントのみがインポートできるよう制限します。"
+    "message": "アカウントのユーザー名とマスターパスワードから得られる暗号化キーを使用してエクスポートするデータを暗号化し、現在の Bitwarden アカウントのみがインポートできるよう制限します。"
   },
   "passwordProtectedOptionDescription": {
     "message": "エクスポートを暗号化するためのファイルパスワードを設定します。そのパスワードを使用して、任意の Bitwarden アカウントにインポートします。"
@@ -2236,7 +2236,7 @@
     "message": "自動入力候補を簡単に見つける"
   },
   "autofillSpotlightDesc": {
-    "message": "ブラウザの自動入力設定をオフにして、Byteward と競合しないようにしてください。"
+    "message": "ブラウザの自動入力設定をオフにして、Bitwarden と競合しないようにしてください。"
   },
   "turnOffBrowserAutofill": {
     "message": "$BROWSER$ の自動入力を無効化",
@@ -2293,7 +2293,7 @@
     "message": "フォームフィールドに自動入力の候補を表示する"
   },
   "howDoesBitwardenProtectFromPhishing": {
-    "message": "Byteward はどのようにフィッシングからデータを保護しますか？"
+    "message": "Bitwarden はどのようにフィッシングからデータを保護しますか？"
   },
   "currentWebsite": {
     "message": "現在のウェブサイト"
@@ -3202,7 +3202,7 @@
     "message": "脆弱なマスターパスワード"
   },
   "weakMasterPasswordDesc": {
-    "message": "設定されたマスターパスワードの強度は脆弱です。Byteward アカウントを適切に保護するために、強力なマスターパスワード（またはパスフレーズ）を使用すべきです。本当にこのマスターパスワードを使用しますか？"
+    "message": "設定されたマスターパスワードの強度は脆弱です。Bitwarden アカウントを適切に保護するために、強力なマスターパスワード（またはパスフレーズ）を使用すべきです。本当にこのマスターパスワードを使用しますか？"
   },
   "rotateAccountEncKey": {
     "message": "アカウントの暗号化キーをローテーションする"
@@ -3242,10 +3242,10 @@
     "message": "PIN を設定"
   },
   "setYourPinCode": {
-    "message": "Byteward のロックを解除するための PIN コードを設定します。アプリから完全にログアウトすると、PIN 設定はリセットされます。"
+    "message": "Bitwarden のロックを解除するための PIN コードを設定します。アプリから完全にログアウトすると、PIN 設定はリセットされます。"
   },
   "setPinCode": {
-    "message": "Byteward のロックを解除するために PIN を使用使用することができます。アプリからログアウトすると PIN はリセットされます。"
+    "message": "Bitwarden のロックを解除するために PIN を使用使用することができます。アプリからログアウトすると PIN はリセットされます。"
   },
   "pinRequired": {
     "message": "PIN コードが必要です。"
@@ -3381,7 +3381,7 @@
     "message": "フォームは保存したログイン情報の URI とは異なるドメインによってホストされています。無視して自動入力するなら OK を選択し、中止したければキャンセルを選択してください。"
   },
   "autofillIframeWarningTip": {
-    "message": "この警告を将来的に防ぐためには、この URI と $HOSTNAME$ をこのサイトの Byteward ログインアイテムに保存してください。",
+    "message": "この警告を将来的に防ぐためには、この URI と $HOSTNAME$ をこのサイトの Bitwarden ログインアイテムに保存してください。",
     "placeholders": {
       "hostname": {
         "content": "$1",
@@ -3390,7 +3390,7 @@
     }
   },
   "topLayerHijackWarning": {
-    "message": "このページが Byteward の動作に干渉しています。安全対策として、Byteward のインラインメニューを一時的に無効化しました。"
+    "message": "このページが Bitwarden の動作に干渉しています。安全対策として、Bitwarden のインラインメニューを一時的に無効化しました。"
   },
   "setMasterPassword": {
     "message": "マスターパスワードを設定"
@@ -3552,7 +3552,7 @@
     "message": "生体認証に失敗しました"
   },
   "biometricsFailedDesc": {
-    "message": "生体認証を完了できません。マスターパスワードを使うかログアウトしてください。それでも直らない場合は、Byteward サポートまでお問い合わせください。"
+    "message": "生体認証を完了できません。マスターパスワードを使うかログアウトしてください。それでも直らない場合は、Bitwarden サポートまでお問い合わせください。"
   },
   "nativeMessagingPermissionErrorTitle": {
     "message": "権限が提供されていません"
@@ -3595,7 +3595,7 @@
     "message": "除外するドメイン"
   },
   "excludedDomainsDesc": {
-    "message": "Byteward はこれらのドメインのログイン情報を保存するよう尋ねません。変更を有効にするにはページを更新する必要があります。"
+    "message": "Bitwarden はこれらのドメインのログイン情報を保存するよう尋ねません。変更を有効にするにはページを更新する必要があります。"
   },
   "blockedDomainsDesc": {
     "message": "自動入力やその他の関連機能はこれらのウェブサイトには提供されません。変更を反映するにはページを更新する必要があります。"
@@ -3727,24 +3727,24 @@
     "message": "危険な状態にあるログイン情報の一覧表示の例"
   },
   "welcomeDialogGraphicAlt": {
-    "message": "Byteward 保管庫ページのレイアウト図。"
+    "message": "Bitwarden 保管庫ページのレイアウト図。"
   },
   "generatePasswordSlideDesc": {
-    "message": "Byteward の自動入力メニューで、強力で一意なパスワードをすぐに生成しましょう。",
+    "message": "Bitwarden の自動入力メニューで、強力で一意なパスワードをすぐに生成しましょう。",
     "description": "Description of the generate password slide on the at-risk password page carousel"
   },
   "generatePasswordSlideImgAltPeriod": {
-    "message": "Byteward の自動入力メニューで、生成されたパスワードが表示されている例"
+    "message": "Bitwarden の自動入力メニューで、生成されたパスワードが表示されている例"
   },
   "updateInBitwarden": {
-    "message": "Byteward 上のデータを更新"
+    "message": "Bitwarden 上のデータを更新"
   },
   "updateInBitwardenSlideDesc": {
-    "message": "続いて、 Byteward がパスワードマネージャーに保存されたパスワードを更新するよう促します。",
+    "message": "続いて、 Bitwarden がパスワードマネージャーに保存されたパスワードを更新するよう促します。",
     "description": "Description of the update in Bitwarden slide on the at-risk password page carousel"
   },
   "updateInBitwardenSlideImgAltPeriod": {
-    "message": "ユーザーにログイン情報を更新するよう促す Byteward の通知例"
+    "message": "ユーザーにログイン情報を更新するよう促す Bitwarden の通知例"
   },
   "turnOnAutofill": {
     "message": "自動入力をオンにする"
@@ -4372,11 +4372,11 @@
     }
   },
   "forwarderGeneratedBy": {
-    "message": "Byteward によって生成されました。",
+    "message": "Bitwarden によって生成されました。",
     "description": "Displayed with the address on the forwarding service's configuration screen."
   },
   "forwarderGeneratedByWithWebsite": {
-    "message": "ウェブサイト: $WEBSITE$ Byteward によって生成されました。",
+    "message": "ウェブサイト: $WEBSITE$ Bitwarden によって生成されました。",
     "description": "Displayed with the address on the forwarding service's configuration screen.",
     "placeholders": {
       "WEBSITE": {
@@ -4604,7 +4604,7 @@
     "message": "ウェブアプリ"
   },
   "notificationSentDevicePart2": {
-    "message": "上で、Byteward をロック解除してください。承認する前に、フィンガープリントフレーズが以下と一致していることを確認してください。"
+    "message": "上で、Bitwarden をロック解除してください。承認する前に、フィンガープリントフレーズが以下と一致していることを確認してください。"
   },
   "aNotificationWasSentToYourDevice": {
     "message": "お使いのデバイスに通知が送信されました"
@@ -5098,15 +5098,15 @@
     "message": "コンテンツへ移動"
   },
   "bitwardenOverlayButton": {
-    "message": "Byteward 自動入力メニューボタン",
+    "message": "Bitwarden 自動入力メニューボタン",
     "description": "Page title for the iframe containing the overlay button"
   },
   "toggleBitwardenVaultOverlay": {
-    "message": "Byteward 自動入力メニューの切り替え",
+    "message": "Bitwarden 自動入力メニューの切り替え",
     "description": "Screen reader and tool tip label for the overlay button"
   },
   "bitwardenVault": {
-    "message": "Byteward 自動入力メニュー",
+    "message": "Bitwarden 自動入力メニュー",
     "description": "Page title in overlay"
   },
   "unlockYourAccountToViewMatchingLogins": {
@@ -5178,7 +5178,7 @@
     "description": "Screen reader text (aria-label) for new identity button within inline menu"
   },
   "bitwardenOverlayMenuAvailable": {
-    "message": "Byteward 自動入力メニューがあります。下矢印キーを押すと選択できます。",
+    "message": "Bitwarden 自動入力メニューがあります。下矢印キーを押すと選択できます。",
     "description": "Screen reader text for announcing when the overlay opens on the page"
   },
   "turnOn": {
@@ -6438,7 +6438,7 @@
     "description": "Label indicating the most common import formats"
   },
   "uriMatchDefaultStrategyHint": {
-    "message": "URI の一致検出方法は、Byteward が自動入力候補をどのように判別するかを指定します。",
+    "message": "URI の一致検出方法は、Bitwarden が自動入力候補をどのように判別するかを指定します。",
     "description": "Explains to the user that URI match detection determines how Bitwarden suggests autofill options, and clarifies that this default strategy applies when no specific match detection is set for a login item."
   },
   "regExAdvancedOptionWarning": {
@@ -6482,15 +6482,15 @@
     "description": "Body content for dialog which asks if the user wants to proceed to the browser's keyboard shortcut settings page"
   },
   "overrideDefaultBrowserAutofillTitle": {
-    "message": "Byteward をデフォルトのパスワードマネージャーにしますか？",
+    "message": "Bitwarden をデフォルトのパスワードマネージャーにしますか？",
     "description": "Dialog title facilitating the ability to override a chrome browser's default autofill behavior"
   },
   "overrideDefaultBrowserAutofillDescription": {
-    "message": "このオプションを無視すると、Byteward の自動入力メニューとブラウザの自動入力メニューが競合する可能性があります。",
+    "message": "このオプションを無視すると、Bitwarden の自動入力メニューとブラウザの自動入力メニューが競合する可能性があります。",
     "description": "Dialog message facilitating the ability to override a chrome browser's default autofill behavior"
   },
   "overrideDefaultBrowserAutoFillSettings": {
-    "message": "Byteward をデフォルトのパスワードマネージャーにする",
+    "message": "Bitwarden をデフォルトのパスワードマネージャーにする",
     "description": "Label for the setting that allows overriding the default browser autofill settings"
   },
   "defaultPasswordManagerCalloutTitle": {
@@ -6498,7 +6498,7 @@
     "description": "Title for the callout that prompts users to set Bitwarden as their default password manager"
   },
   "defaultPasswordManagerCalloutDesc": {
-    "message": "Byteward を既定のパスワードマネージャーにするために、 $BROWSER$ ブラウザの権限を許可するよう求められます。",
+    "message": "Bitwarden を既定のパスワードマネージャーにするために、 $BROWSER$ ブラウザの権限を許可するよう求められます。",
     "description": "Description for the callout that prompts users to set Bitwarden as their default password manager",
     "placeholders": {
       "browser": {
@@ -6508,11 +6508,11 @@
     }
   },
   "privacyPermissionAdditionNotGrantedTitle": {
-    "message": "Byteward をデフォルトのパスワードマネージャーとして設定できません",
+    "message": "Bitwarden をデフォルトのパスワードマネージャーとして設定できません",
     "description": "Title for the dialog that appears when the user has not granted the extension permission to set privacy settings"
   },
   "privacyPermissionAdditionNotGrantedDescription": {
-    "message": "Byteward をデフォルトのパスワードマネージャーとして設定するには、ブラウザのプライバシー権限を付与する必要があります。",
+    "message": "Bitwarden をデフォルトのパスワードマネージャーとして設定するには、ブラウザのプライバシー権限を付与する必要があります。",
     "description": "Description for the dialog that appears when the user has not granted the extension permission to set privacy settings"
   },
   "makeDefault": {
@@ -6520,10 +6520,10 @@
     "description": "Button text for the setting that allows overriding the default browser autofill settings"
   },
   "defaultPasswordManagerPromptTitle": {
-    "message": "Byteward をブラウザのデフォルトパスワードマネージャーにする"
+    "message": "Bitwarden をブラウザのデフォルトパスワードマネージャーにする"
   },
   "defaultPasswordManagerPromptTitleV2": {
-    "message": "Byteward をデフォルトのパスワードマネージャーにする",
+    "message": "Bitwarden をデフォルトのパスワードマネージャーにする",
     "description": "Label for the setting to make Bitwarden the default password manager"
   },
   "defaultPasswordManagerSettingHintV2": {
@@ -6535,13 +6535,13 @@
     "description": "Link text to browser autofill settings in the default password manager setting hint."
   },
   "defaultPasswordManagerPromptStep2AfterAllow": {
-    "message": "ブラウザプロンプトから、Byteward に設定を変更する許可を与えてください。"
+    "message": "ブラウザプロンプトから、Bitwarden に設定を変更する許可を与えてください。"
   },
   "defaultPasswordManagerPromptStep3": {
     "message": "ブラウザの内蔵パスワードマネージャーをオフにして、安全なログイン体験ができるようにします。"
   },
   "defaultPasswordManagerSuccessToast": {
-    "message": "Byteward をブラウザのデフォルトパスワードマネージャーにしました"
+    "message": "Bitwarden をブラウザのデフォルトパスワードマネージャーにしました"
   },
   "allow": {
     "message": "許可",
@@ -7549,7 +7549,7 @@
     "description": "Notification message for when a password has been regenerated"
   },
   "saveToBitwarden": {
-    "message": "Byteward へ保存",
+    "message": "Bitwarden へ保存",
     "description": "Confirmation message for saving a login to Bitwarden"
   },
   "spaceCharacterDescriptor": {
@@ -7793,13 +7793,13 @@
     "message": "フォルダーを使用して保管庫アイテムを整理できます。フォルダーはあなた専用で、他の誰も表示したり使用したりしません。"
   },
   "introCarouselLabel": {
-    "message": "Byteward へようこそ"
+    "message": "Bitwarden へようこそ"
   },
   "securityPrioritized": {
     "message": "セキュリティが優先"
   },
   "securityPrioritizedBody": {
-    "message": "ログイン情報、カード、ID を安全な保管庫に保存します。 Byteward はゼロ知識、エンドツーエンドの暗号化を使用して、あなたにとって重要なものを保護します。"
+    "message": "ログイン情報、カード、ID を安全な保管庫に保存します。 Bitwarden はゼロ知識、エンドツーエンドの暗号化を使用して、あなたにとって重要なものを保護します。"
   },
   "quickLogin": {
     "message": "すばやく簡単にログイン"
@@ -7945,7 +7945,7 @@
     "message": "この設定について"
   },
   "permitCipherDetailsDescription": {
-    "message": "Byteward は、保存されたログイン URI を使用して、どのアイコンまたはパスワード変更 URL を使用するかを判断し、使いやすさを向上させます。このサービスの利用時に、情報が収集または保存されることはありません。"
+    "message": "Bitwarden は、保存されたログイン URI を使用して、どのアイコンまたはパスワード変更 URL を使用するかを判断し、使いやすさを向上させます。このサービスの利用時に、情報が収集または保存されることはありません。"
   },
   "showQuickCopyActionsDetailsDescription": {
     "message": "ユーザー名、パスワード、認証コードをクリップボードにコピーするクイックコピーボタンをアイテムの横に追加します。"
@@ -7954,7 +7954,7 @@
     "message": "このページを表示する権限がありません。別のアカウントでログインしてください。"
   },
   "wasmNotSupported": {
-    "message": "WebAssembly はお使いのブラウザでサポートされていないか、有効になっていません。WebAssembly は Byteward アプリを使用するために必要です。",
+    "message": "WebAssembly はお使いのブラウザでサポートされていないか、有効になっていません。WebAssembly は Bitwarden アプリを使用するために必要です。",
     "description": "'WebAssembly' is a technical term and should not be translated."
   },
   "showMore": {
@@ -8261,7 +8261,7 @@
     "message": "共有ロック解除を使用するには、Bitwarden はデスクトップアプリと通信する権限が必要です。続行するとブラウザが承認を求めます。"
   },
   "sharedUnlockDesktopPermissionWarning": {
-    "message": "Byteward はロックされ再読み込みされます。承認すると拡張機能が再読み込みされ、保管庫がロックされます。"
+    "message": "Bitwarden はロックされ再読み込みされます。承認すると拡張機能が再読み込みされ、保管庫がロックされます。"
   },
   "biometricPermissionDesc": {
     "message": "生体認証ロック解除を使用するには、Bitwarden はデスクトップアプリと通信する権限が必要です。続行するとブラウザが承認を求めます。"
