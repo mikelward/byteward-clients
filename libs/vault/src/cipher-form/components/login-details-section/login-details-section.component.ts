@@ -10,6 +10,7 @@ import { JslibModule } from "@bitwarden/angular/jslib.module";
 import { AuditService } from "@bitwarden/common/abstractions/audit.service";
 import { EventCollectionService, EventType } from "@bitwarden/common/dirt/event-logs";
 import { I18nService } from "@bitwarden/common/platform/abstractions/i18n.service";
+import { VaultSettingsService } from "@bitwarden/common/vault/abstractions/vault-settings/vault-settings.service";
 import { Fido2CredentialView } from "@bitwarden/common/vault/models/view/fido2-credential.view";
 import { LoginView } from "@bitwarden/common/vault/models/view/login.view";
 import {
@@ -122,6 +123,7 @@ export class LoginDetailsSectionComponent implements OnInit {
     private toastService: ToastService,
     private eventCollectionService: EventCollectionService,
     private dialogService: DialogService,
+    private vaultSettingsService: VaultSettingsService,
     @Optional() private totpCaptureService?: TotpCaptureService,
   ) {
     this.cipherFormContainer.registerChildForm("loginDetails", this.loginDetailsForm);
@@ -151,7 +153,7 @@ export class LoginDetailsSectionComponent implements OnInit {
     if (prefillCipher) {
       this.initFromExistingCipher(prefillCipher.login);
     } else {
-      this.initNewCipher();
+      void this.initNewCipher();
     }
 
     if (this.cipherFormContainer.config.mode === "partial-edit") {
@@ -189,11 +191,22 @@ export class LoginDetailsSectionComponent implements OnInit {
     }
   }
 
-  private initNewCipher() {
+  private async initNewCipher() {
     this.loginDetailsForm.patchValue({
       username: this.initialValues?.username || "",
       password: this.initialValues?.password || "",
     });
+
+    if (this.initialValues?.username) {
+      return;
+    }
+
+    const defaultUsername = await firstValueFrom(this.vaultSettingsService.defaultLoginUsername$);
+    const usernameControl = this.loginDetailsForm.controls.username;
+    // Don't overwrite anything the user typed while the setting was loading
+    if (defaultUsername && !usernameControl.value && !usernameControl.dirty) {
+      usernameControl.patchValue(defaultUsername);
+    }
   }
 
   /** Logs the giving event when in edit mode */

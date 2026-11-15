@@ -357,6 +357,21 @@
             <input formControlName="enableAutoTotpCopy" bitCheckbox id="totp" type="checkbox" />
             <bit-label for="totp">{{ "enableAutoTotpCopy" | i18n }}</bit-label>
           </bit-form-control>
+          <bit-form-field>
+            <bit-label for="defaultLoginUsername">{{ "defaultLoginUsername" | i18n }}</bit-label>
+            <input
+              bitInput
+              formControlName="defaultLoginUsername"
+              id="defaultLoginUsername"
+              type="text"
+              autocomplete="off"
+              [spellcheck]="false"
+              aria-describedby="defaultLoginUsernameHelp"
+            />
+            <bit-hint class="tw-text-sm" id="defaultLoginUsernameHelp">
+              {{ "defaultLoginUsernameDesc" | i18n }}
+            </bit-hint>
+          </bit-form-field>
           <bit-form-field
             id="clearClipboardField"
             [disableMargin]="isDefaultUriMatchDisabledByPolicy"

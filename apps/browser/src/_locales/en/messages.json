@@ -2079,6 +2079,12 @@
   "enableAutoTotpCopy": {
     "message": "Copy TOTP automatically"
   },
+  "defaultLoginUsername": {
+    "message": "Default username for new logins"
+  },
+  "defaultLoginUsernameDesc": {
+    "message": "Prefilled in the username field when you create a new login, for example your email address."
+  },
   "disableAutoTotpCopyDesc": {
     "message": "If a login has an authenticator key, copy the TOTP verification code to your clip-board when you autofill the login."
   },
