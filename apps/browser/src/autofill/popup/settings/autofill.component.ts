@@ -161,6 +161,7 @@ export class AutofillComponent implements OnInit {
     honorBitwardenAutofillAttribute: new FormControl(),
     enableContextMenuItem: new FormControl(),
     enableAutoTotpCopy: new FormControl(),
+    defaultLoginUsername: new FormControl<string>(""),
     enableBasicAuthResponse: new FormControl(),
     clearClipboard: new FormControl(),
     defaultUriMatch: new FormControl(),
@@ -433,6 +434,20 @@ export class AutofillComponent implements OnInit {
       .pipe(takeUntilDestroyed(this.destroyRef))
       .subscribe((value) => {
         void this.autofillSettingsService.setAutoCopyTotp(value);
+      });
+
+    const defaultLoginUsername = await firstValueFrom(
+      this.vaultSettingsService.defaultLoginUsername$,
+    );
+    this.additionalOptionsForm.controls.defaultLoginUsername.patchValue(
+      defaultLoginUsername ?? "",
+      { emitEvent: false },
+    );
+
+    this.additionalOptionsForm.controls.defaultLoginUsername.valueChanges
+      .pipe(takeUntilDestroyed(this.destroyRef))
+      .subscribe((value) => {
+        void this.vaultSettingsService.setDefaultLoginUsername(value);
       });
 
     this.additionalOptionsForm.controls.clearClipboard.valueChanges

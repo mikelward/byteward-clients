@@ -9,6 +9,7 @@ import { AuditService } from "@bitwarden/common/abstractions/audit.service";
 import { EventCollectionService, EventType } from "@bitwarden/common/dirt/event-logs";
 import { ConfigService } from "@bitwarden/common/platform/abstractions/config/config.service";
 import { I18nService } from "@bitwarden/common/platform/abstractions/i18n.service";
+import { VaultSettingsService } from "@bitwarden/common/vault/abstractions/vault-settings/vault-settings.service";
 import { Cipher } from "@bitwarden/common/vault/models/domain/cipher";
 import { CipherView } from "@bitwarden/common/vault/models/view/cipher.view";
 import { Fido2CredentialView } from "@bitwarden/common/vault/models/view/fido2-credential.view";
@@ -52,6 +53,7 @@ describe("LoginDetailsSectionComponent", () => {
   let i18nService: MockProxy<I18nService>;
   let configService: MockProxy<ConfigService>;
   let dialogService: MockProxy<DialogService>;
+  let defaultLoginUsername$: BehaviorSubject<string | null>;
 
   const collect = jest.fn().mockResolvedValue(null);
   const getInitialCipherView = jest.fn((): any => null);
@@ -71,6 +73,7 @@ describe("LoginDetailsSectionComponent", () => {
     i18nService = mock<I18nService>();
     configService = mock<ConfigService>();
     dialogService = mock<DialogService>();
+    defaultLoginUsername$ = new BehaviorSubject<string | null>(null);
     collect.mockClear();
 
     await TestBed.configureTestingModule({
@@ -84,6 +87,7 @@ describe("LoginDetailsSectionComponent", () => {
         { provide: I18nService, useValue: i18nService },
         { provide: ConfigService, useValue: configService },
         { provide: EventCollectionService, useValue: { collect } },
+        { provide: VaultSettingsService, useValue: { defaultLoginUsername$ } },
       ],
     })
       .overrideProvider(DialogService, { useValue: dialogService })
@@ -179,6 +183,51 @@ describe("LoginDetailsSectionComponent", () => {
       password: "new-password",
       totp: "original-totp",
     });
+  });
+
+  describe("default login username", () => {
+    beforeEach(() => {
+      component.loginDetailsForm.reset();
+      cipherFormContainer.config.initialValues = undefined;
+    });
+
+    it("prefills the username of a new login with the default username", fakeAsync(() => {
+      defaultLoginUsername$.next("me@example.com");
+
+      component.ngOnInit();
+      tick();
+
+      expect(component.loginDetailsForm.controls.username.value).toBe("me@example.com");
+    }));
+
+    it("leaves the username empty when no default username is set", fakeAsync(() => {
+      component.ngOnInit();
+      tick();
+
+      expect(component.loginDetailsForm.controls.username.value).toBe("");
+    }));
+
+    it("prefers an initial username over the default username", fakeAsync(() => {
+      defaultLoginUsername$.next("me@example.com");
+      cipherFormContainer.config.initialValues = { username: "from-page" };
+
+      component.ngOnInit();
+      tick();
+
+      expect(component.loginDetailsForm.controls.username.value).toBe("from-page");
+    }));
+
+    it("does not apply the default username when editing an existing login", fakeAsync(() => {
+      defaultLoginUsername$.next("me@example.com");
+      getInitialCipherView.mockReturnValueOnce({
+        login: Object.assign(new LoginView(), { username: "existing" }),
+      });
+
+      component.ngOnInit();
+      tick();
+
+      expect(component.loginDetailsForm.controls.username.value).toBe("existing");
+    }));
   });
 
   describe("viewHiddenFields", () => {

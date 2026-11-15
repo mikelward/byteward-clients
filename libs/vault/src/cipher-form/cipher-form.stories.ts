@@ -29,6 +29,7 @@ import { UriMatchStrategy } from "@bitwarden/common/models/domain/domain-service
 import { ConfigService } from "@bitwarden/common/platform/abstractions/config/config.service";
 import { PlatformUtilsService } from "@bitwarden/common/platform/abstractions/platform-utils.service";
 import { CipherArchiveService } from "@bitwarden/common/vault/abstractions/cipher-archive.service";
+import { VaultSettingsService } from "@bitwarden/common/vault/abstractions/vault-settings/vault-settings.service";
 import { CipherType } from "@bitwarden/common/vault/enums";
 import { SshKeyData } from "@bitwarden/common/vault/models/data/ssh-key.data";
 import { Cipher } from "@bitwarden/common/vault/models/domain/cipher";
@@ -233,6 +234,12 @@ export default {
           provide: EventCollectionService,
           useValue: {
             collect: () => Promise.resolve(),
+          },
+        },
+        {
+          provide: VaultSettingsService,
+          useValue: {
+            defaultLoginUsername$: new BehaviorSubject<string | null>(null),
           },
         },
         {

@@ -34,3 +34,12 @@ export const SHOW_AT_RISK_PASSWORD_NOTIFICATIONS = new UserKeyDefinition<boolean
     clearOn: [], // do not clear user settings
   },
 );
+
+export const DEFAULT_LOGIN_USERNAME = new UserKeyDefinition<string>(
+  VAULT_SETTINGS_DISK,
+  "defaultLoginUsername",
+  {
+    deserializer: (obj) => obj,
+    clearOn: [], // do not clear user settings
+  },
+);

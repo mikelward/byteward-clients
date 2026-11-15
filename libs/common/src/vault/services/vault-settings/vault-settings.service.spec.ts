@@ -45,4 +45,24 @@ describe("VaultSettingsService", () => {
       expect(result).toBe(true);
     });
   });
+
+  describe("defaultLoginUsername$", () => {
+    it("defaults to null when no value is stored", async () => {
+      const result = await firstValueFrom(service.defaultLoginUsername$);
+      expect(result).toBeNull();
+    });
+
+    it("emits the trimmed value after setDefaultLoginUsername", async () => {
+      await service.setDefaultLoginUsername("  me@example.com ");
+      const result = await firstValueFrom(service.defaultLoginUsername$);
+      expect(result).toBe("me@example.com");
+    });
+
+    it("clears the value when set to an empty string", async () => {
+      await service.setDefaultLoginUsername("me@example.com");
+      await service.setDefaultLoginUsername("   ");
+      const result = await firstValueFrom(service.defaultLoginUsername$);
+      expect(result).toBeNull();
+    });
+  });
 });

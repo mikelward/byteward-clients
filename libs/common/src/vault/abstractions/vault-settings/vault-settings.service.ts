@@ -25,6 +25,11 @@ export abstract class VaultSettingsService {
    * to users.
    */
   abstract showAtRiskPasswordNotifications$: Observable<boolean>;
+  /**
+   * An observable monitoring the username (typically an email address) that is
+   * prefilled when creating a new login item. Emits `null` when none is set.
+   */
+  abstract defaultLoginUsername$: Observable<string | null>;
 
   /**
    * Saves the enable passkeys setting to disk.
@@ -46,4 +51,9 @@ export abstract class VaultSettingsService {
    * @param value The new value for the visibility of at-risk password notifications.
    */
   abstract setShowAtRiskPasswordNotifications(value: boolean): Promise<void>;
+  /**
+   * Saves the username to prefill when creating a new login item.
+   * @param value The new default username. Empty or whitespace-only values clear the setting.
+   */
+  abstract setDefaultLoginUsername(value: string | null): Promise<void>;
 }
