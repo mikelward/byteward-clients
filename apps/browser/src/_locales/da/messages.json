@@ -1,20 +1,20 @@
 {
   "appName": {
-    "message": "Bitwarden"
+    "message": "Byteward"
   },
   "appLogoLabel": {
-    "message": "Bitwarden-logo"
+    "message": "Byteward-logo"
   },
   "extName": {
-    "message": "Bitwarden Adgangskodehåndtering",
+    "message": "Byteward Adgangskodehåndtering",
     "description": "Extension name, MUST be less than 40 characters (Safari restriction)"
   },
   "extNameBeta": {
-    "message": "Bitwarden Password Manager Beta",
+    "message": "Byteward Password Manager Beta",
     "description": "Extension name for the beta channel, MUST be less than 40 characters (Safari restriction)"
   },
   "extDesc": {
-    "message": "Hjemme, på arbejde eller på farten sikrer Bitwarden nemt alle adgangskoder, adgangskort og sensitive oplysninger",
+    "message": "Hjemme, på arbejde eller på farten sikrer Byteward nemt alle adgangskoder, adgangskort og sensitive oplysninger",
     "description": "Extension description, MUST be less than 112 characters (Safari restriction)"
   },
   "loginOrCreateNewAccount": {

@@ -1,20 +1,20 @@
 {
   "appName": {
-    "message": "Bitwarden"
+    "message": "Byteward"
   },
   "appLogoLabel": {
-    "message": "Bitwardeni logo"
+    "message": "Bytewardi logo"
   },
   "extName": {
-    "message": "Bitwardeni paroolihaldur",
+    "message": "Bytewardi paroolihaldur",
     "description": "Extension name, MUST be less than 40 characters (Safari restriction)"
   },
   "extNameBeta": {
-    "message": "Bitwardeni paroolihaldur beeta",
+    "message": "Bytewardi paroolihaldur beeta",
     "description": "Extension name for the beta channel, MUST be less than 40 characters (Safari restriction)"
   },
   "extDesc": {
-    "message": "Kodus, tööl ja teel - Bitwarden hoiustab imelihtsalt kõik su paroolid, pääsuvõtmed ja tundliku info",
+    "message": "Kodus, tööl ja teel - Byteward hoiustab imelihtsalt kõik su paroolid, pääsuvõtmed ja tundliku info",
     "description": "Extension description, MUST be less than 112 characters (Safari restriction)"
   },
   "loginOrCreateNewAccount": {
