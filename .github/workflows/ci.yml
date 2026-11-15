@@ -1,0 +1,104 @@
+name: ci
+
+# Byteward's own CI, alongside upstream's test.yml and lint.yml, which are kept
+# as they are so upstream merges stay clean.
+#
+# Builds the browser extension for Chrome, Edge and Firefox on every pull
+# request and push to main, and uploads the store-ready zips as artifacts so a
+# change can be loaded unpacked and tried.
+on:
+  push:
+    branches: [main]
+  pull_request:
+    # No paths filter, deliberately: the ruleset requires the `lanes` check,
+    # and a required check that never reports blocks the pull request forever.
+    # Documentation-only pull requests skip the build via `classify` instead,
+    # and `lanes` verifies the skip was justified.
+    #
+    # `edited` is load-bearing: a retarget changes what the diff is measured
+    # against while the head -- and any `lanes` check already on it -- stays
+    # put, so a base change must start a fresh run.
+    types: [opened, synchronize, reopened, edited]
+  workflow_dispatch:
+
+# Nothing here writes to the repository.
+permissions:
+  contents: read
+  pull-requests: read
+
+jobs:
+  # Decides whether the build may skip: true only when every changed file is
+  # documentation (see .github/lanes.conf; the engine is mikelward/lanes).
+  classify:
+    name: Classify the diff
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    outputs:
+      docs_only: ${{ steps.lane.outputs.docs_only }}
+      base_sha: ${{ steps.lane.outputs.base_sha }}
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          persist-credentials: false
+      - uses: mikelward/lanes@main
+        id: lane
+        with:
+          mode: classify
+          pr: ${{ github.event.pull_request.number }}
+
+  build:
+    name: Build ${{ matrix.browser }}
+    runs-on: ubuntu-24.04
+    timeout-minutes: 30
+    needs: classify
+    if: needs.classify.outputs.docs_only != 'true'
+    strategy:
+      fail-fast: false
+      matrix:
+        browser: [chrome, edge, firefox]
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          # This job runs npm scripts, so anything left in .git/config is
+          # readable by dependency code.
+          persist-credentials: false
+
+      - uses: actions/setup-node@v5
+        with:
+          node-version-file: .nvmrc
+
+      - run: npm ci
+
+      - name: Build
+        working-directory: apps/browser
+        env:
+          BROWSER: ${{ matrix.browser }}
+        run: npm run "dist:$BROWSER"
+
+      - uses: actions/upload-artifact@v7
+        with:
+          name: byteward-${{ matrix.browser }}
+          path: apps/browser/dist/dist-${{ matrix.browser }}.zip
+          if-no-files-found: error
+
+  # The check the ruleset requires from this workflow. Always runs, always
+  # reports: green only when every build succeeded, or when they were skipped
+  # and the skip is independently verified as justified.
+  lanes:
+    name: lanes
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    needs: [classify, build]
+    if: always()
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          persist-credentials: false
+      - uses: mikelward/lanes@main
+        with:
+          mode: gate
+          pr: ${{ github.event.pull_request.number }}
+          base-sha: ${{ needs.classify.outputs.base_sha }}
+          classify-result: ${{ needs.classify.result }}
+          results: >-
+            build=${{ needs.build.result }}
