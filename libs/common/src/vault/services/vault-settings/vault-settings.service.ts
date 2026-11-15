@@ -8,6 +8,7 @@ import {
   SHOW_IDENTITIES_CURRENT_TAB,
   USER_ENABLE_PASSKEYS,
   SHOW_AT_RISK_PASSWORD_NOTIFICATIONS,
+  DEFAULT_LOGIN_USERNAME,
 } from "../key-state/vault-settings.state";
 import { RestrictedItemTypesService } from "../restricted-item-types.service";
 
@@ -57,6 +58,14 @@ export class VaultSettingsService implements VaultSettingsServiceAbstraction {
   readonly showAtRiskPasswordNotifications$: Observable<boolean> =
     this.showAtRiskPasswordNotificationsState.state$.pipe(map((x) => x ?? true));
 
+  private defaultLoginUsernameState: ActiveUserState<string> =
+    this.stateProvider.getActive(DEFAULT_LOGIN_USERNAME);
+  /**
+   * {@link VaultSettingsServiceAbstraction.defaultLoginUsername$}
+   */
+  readonly defaultLoginUsername$: Observable<string | null> =
+    this.defaultLoginUsernameState.state$.pipe(map((x) => x || null));
+
   constructor(
     private stateProvider: StateProvider,
     private restrictedItemTypesService: RestrictedItemTypesService,
@@ -88,5 +97,13 @@ export class VaultSettingsService implements VaultSettingsServiceAbstraction {
    */
   async setShowAtRiskPasswordNotifications(value: boolean): Promise<void> {
     await this.showAtRiskPasswordNotificationsState.update(() => value);
+  }
+
+  /**
+   * {@link VaultSettingsServiceAbstraction.setDefaultLoginUsername}
+   */
+  async setDefaultLoginUsername(value: string | null): Promise<void> {
+    const trimmed = value?.trim();
+    await this.defaultLoginUsernameState.update(() => (trimmed ? trimmed : null));
   }
 }
