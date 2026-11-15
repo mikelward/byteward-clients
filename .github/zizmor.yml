@@ -1,0 +1,27 @@
+# Policy for zizmor; .github/workflows/zizmor.yml runs it.
+#
+# The fleet's exceptions (see mikelward/androidzoom's .github/zizmor.yml for
+# the reasoning behind each), plus a rule for upstream's own workflows.
+rules:
+  unpinned-uses:
+    config:
+      policies:
+        # `@main` IS the release for these sibling actions and workflows.
+        # Named one by one rather than `mikelward/*`, so each exemption is a
+        # decision somebody made.
+        "mikelward/lanes": ref-pin
+        "mikelward/codex-review": ref-pin
+        "mikelward/codex-review/.github/workflows/check-consumer.yml": ref-pin
+        # Official actions may pin to a tag, as the fleet's workflows do.
+        "actions/*": ref-pin
+        # Everything else must pin to a hash.
+        "*": hash-pin
+  dangerous-triggers:
+    # Both triggers are load-bearing and reasoned through in
+    # mikelward/codex-review's docs/CONSUMER.md.
+    ignore:
+      # The sweep: never checks out or executes pull request code at all.
+      - codex-review.yml
+      # The consumer-side check: takes its job definition from the default
+      # branch, and only reads the pull request's head as text.
+      - codex-review-check.yml
